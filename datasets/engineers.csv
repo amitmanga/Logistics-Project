@@ -1,0 +1,121 @@
+engineer_id,engineer_name,region,depot_id,skill_type,shift_start,shift_end,availability_status,van_id,current_location,utilization_rate,productivity_score
+E-0001,Engineer 001,Midlands,D-STH,Electrical,08:00,16:00,Available,V-0001,CV96 9JE,92,87
+E-0002,Engineer 002,North,D-SCO,Smart Meter,08:00,16:00,Sick,V-0002,LS66 8BA,62,69
+E-0003,Engineer 003,South,D-MID,Electrical,08:00,18:00,Available,V-0003,RG77 8JE,90,60
+E-0004,Engineer 004,South,D-STH,Gas Safe,08:00,18:00,Off Shift,V-0004,SO99 6BE,82,70
+E-0005,Engineer 005,Midlands,D-LON,Smart Meter,08:00,18:00,On Job,V-0005,NG14 5JK,67,69
+E-0006,Engineer 006,London,D-MID,EV Charger,08:00,18:00,Off Shift,V-0006,W42 8AB,78,79
+E-0007,Engineer 007,Wales,D-LON,Boiler,08:00,18:00,Off Shift,V-0007,CF94 8BJ,63,68
+E-0008,Engineer 008,South,D-SCO,EV Charger,08:00,16:00,Available,V-0008,OX55 4JD,74,85
+E-0009,Engineer 009,South,D-STH,Smart Meter,08:00,17:00,Off Shift,V-0009,RG16 4DB,76,61
+E-0010,Engineer 010,North,D-WAL,Boiler,08:00,18:00,Available,V-0010,M91 1DB,57,81
+E-0011,Engineer 011,Scotland,D-WAL,Boiler,08:00,17:00,On Job,V-0011,EH70 3KK,85,75
+E-0012,Engineer 012,Midlands,D-SCO,Boiler,08:00,16:00,Available,V-0012,LE46 7GH,58,66
+E-0013,Engineer 013,Scotland,D-SCO,Smart Meter,08:00,16:00,Available,V-0013,EH69 8CG,66,77
+E-0014,Engineer 014,Midlands,D-MID,Gas Safe,08:00,17:00,On Job,V-0014,NG13 1JA,60,75
+E-0015,Engineer 015,Wales,D-SCO,Electrical,08:00,17:00,Available,V-0015,NP8 3GA,79,76
+E-0016,Engineer 016,Midlands,D-NTH,Electrical,08:00,18:00,Off Shift,V-0016,NG85 8CD,73,73
+E-0017,Engineer 017,Scotland,D-WAL,EV Charger,08:00,16:00,On Job,V-0017,G7 8JJ,65,63
+E-0018,Engineer 018,North,D-LON,Boiler,08:00,16:00,On Job,V-0018,LS52 2KD,92,98
+E-0019,Engineer 019,Scotland,D-WAL,Gas Safe,08:00,17:00,On Job,V-0019,IV67 6ED,75,75
+E-0020,Engineer 020,London,D-SCO,Boiler,08:00,18:00,On Job,V-0020,SW41 2AH,94,96
+E-0021,Engineer 021,Scotland,D-LON,EV Charger,08:00,16:00,Available,V-0021,EH45 2DF,73,70
+E-0022,Engineer 022,Midlands,D-WAL,Smart Meter,08:00,18:00,Sick,V-0022,NG2 9EB,63,76
+E-0023,Engineer 023,Scotland,D-LON,EV Charger,08:00,16:00,Available,V-0023,IV27 6DE,87,91
+E-0024,Engineer 024,London,D-LON,Gas Safe,08:00,18:00,Available,V-0024,SE6 1FC,95,76
+E-0025,Engineer 025,Wales,D-STH,Electrical,08:00,18:00,On Job,V-0025,SY2 2BC,89,62
+E-0026,Engineer 026,London,D-WAL,EV Charger,08:00,16:00,Available,V-0026,E40 6AF,68,75
+E-0027,Engineer 027,South,D-LON,Smart Meter,08:00,18:00,Off Shift,V-0027,RG80 3DC,66,86
+E-0028,Engineer 028,Scotland,D-MID,Smart Meter,08:00,17:00,On Job,V-0028,EH35 3BG,57,90
+E-0029,Engineer 029,Wales,D-MID,Electrical,08:00,17:00,Available,V-0029,SA29 1DG,76,77
+E-0030,Engineer 030,Scotland,D-NTH,Smart Meter,08:00,18:00,Available,V-0030,IV43 1BE,66,97
+E-0031,Engineer 031,London,D-LON,Gas Safe,08:00,18:00,Available,V-0031,SE56 9BG,91,72
+E-0032,Engineer 032,London,D-LON,Electrical,08:00,16:00,Available,V-0032,W88 4FG,59,81
+E-0033,Engineer 033,North,D-NTH,Gas Safe,08:00,18:00,Off Shift,V-0033,YO40 7FG,73,95
+E-0034,Engineer 034,Wales,D-MID,Electrical,08:00,18:00,Off Shift,V-0034,SA79 5GJ,55,79
+E-0035,Engineer 035,London,D-MID,Electrical,08:00,18:00,On Job,V-0035,SE60 8HD,87,90
+E-0036,Engineer 036,South,D-MID,Gas Safe,08:00,17:00,Available,V-0036,OX43 2DE,69,72
+E-0037,Engineer 037,Wales,D-LON,Gas Safe,08:00,16:00,Sick,V-0037,SY99 2HG,95,96
+E-0038,Engineer 038,Wales,D-STH,Electrical,08:00,17:00,Available,V-0038,SA84 1BG,69,71
+E-0039,Engineer 039,South,D-WAL,Electrical,08:00,16:00,Available,V-0039,BN59 3HJ,90,98
+E-0040,Engineer 040,London,D-SCO,EV Charger,08:00,18:00,Off Shift,V-0040,SW71 8CH,83,76
+E-0041,Engineer 041,Wales,D-STH,Smart Meter,08:00,18:00,Available,V-0041,SA36 8BE,70,77
+E-0042,Engineer 042,London,D-NTH,EV Charger,08:00,16:00,Available,V-0042,N50 3DB,81,86
+E-0043,Engineer 043,London,D-WAL,Electrical,08:00,17:00,Available,V-0043,SW50 1KG,85,60
+E-0044,Engineer 044,London,D-NTH,Electrical,08:00,17:00,Available,V-0044,W78 4HD,72,87
+E-0045,Engineer 045,Midlands,D-LON,Electrical,08:00,17:00,On Job,V-0045,LE93 3HC,94,94
+E-0046,Engineer 046,Scotland,D-SCO,EV Charger,08:00,18:00,On Job,V-0046,G83 7CH,66,63
+E-0047,Engineer 047,London,D-SCO,Smart Meter,08:00,16:00,Available,V-0047,SE98 7EG,71,65
+E-0048,Engineer 048,Midlands,D-LON,EV Charger,08:00,16:00,Sick,V-0048,DE29 2AA,70,72
+E-0049,Engineer 049,Scotland,D-WAL,Boiler,08:00,16:00,Available,V-0049,G73 4HE,78,70
+E-0050,Engineer 050,North,D-WAL,Gas Safe,08:00,16:00,Sick,V-0050,M75 1EK,79,85
+E-0051,Engineer 051,South,D-MID,Gas Safe,08:00,18:00,On Job,V-0051,PO14 5KB,91,62
+E-0052,Engineer 052,London,D-WAL,Electrical,08:00,18:00,Available,V-0052,W83 6AG,86,66
+E-0053,Engineer 053,Midlands,D-NTH,Electrical,08:00,18:00,Available,V-0053,CV94 9EK,89,90
+E-0054,Engineer 054,Midlands,D-SCO,EV Charger,08:00,17:00,Available,V-0054,CV12 5HD,84,96
+E-0055,Engineer 055,North,D-STH,Electrical,08:00,17:00,Available,V-0055,NE24 8DF,71,81
+E-0056,Engineer 056,London,D-WAL,Smart Meter,08:00,18:00,Available,V-0056,N11 4GH,90,75
+E-0057,Engineer 057,South,D-SCO,Electrical,08:00,17:00,On Job,V-0057,BN38 4GD,74,97
+E-0058,Engineer 058,London,D-SCO,EV Charger,08:00,18:00,Available,V-0058,W43 6HE,74,76
+E-0059,Engineer 059,Wales,D-LON,Boiler,08:00,17:00,Available,V-0059,SY98 3DD,85,77
+E-0060,Engineer 060,South,D-WAL,EV Charger,08:00,18:00,Available,V-0060,BN25 5DF,66,79
+E-0061,Engineer 061,Scotland,D-STH,EV Charger,08:00,16:00,Available,V-0061,G71 5CH,61,60
+E-0062,Engineer 062,North,D-NTH,Electrical,08:00,17:00,Available,V-0062,LS7 5HB,59,85
+E-0063,Engineer 063,Midlands,D-LON,EV Charger,08:00,18:00,On Job,V-0063,CV20 5BD,62,95
+E-0064,Engineer 064,Midlands,D-WAL,EV Charger,08:00,18:00,Available,V-0064,NG49 8HE,92,87
+E-0065,Engineer 065,London,D-WAL,EV Charger,08:00,16:00,On Job,V-0065,E98 4DE,60,70
+E-0066,Engineer 066,Wales,D-MID,EV Charger,08:00,16:00,Available,V-0066,NP58 8EA,69,78
+E-0067,Engineer 067,South,D-NTH,Electrical,08:00,16:00,On Job,V-0067,SO81 4GB,89,74
+E-0068,Engineer 068,South,D-MID,Smart Meter,08:00,16:00,Available,V-0068,PO40 5HB,84,79
+E-0069,Engineer 069,South,D-SCO,Smart Meter,08:00,18:00,Available,V-0069,RG11 1GF,93,76
+E-0070,Engineer 070,Scotland,D-LON,Boiler,08:00,18:00,On Job,V-0070,IV76 1EK,57,71
+E-0071,Engineer 071,Midlands,D-WAL,Electrical,08:00,17:00,Available,V-0071,NG56 8BH,77,86
+E-0072,Engineer 072,London,D-NTH,Gas Safe,08:00,16:00,Available,V-0072,SW37 7JA,84,65
+E-0073,Engineer 073,London,D-NTH,Smart Meter,08:00,16:00,Sick,V-0073,SW66 1JH,81,63
+E-0074,Engineer 074,Wales,D-WAL,Smart Meter,08:00,18:00,On Job,V-0074,NP98 1DE,90,68
+E-0075,Engineer 075,London,D-SCO,Electrical,08:00,16:00,Available,V-0075,W31 3EJ,55,95
+E-0076,Engineer 076,Midlands,D-LON,Boiler,08:00,16:00,Available,V-0076,B83 3HE,87,77
+E-0077,Engineer 077,Midlands,D-SCO,Electrical,08:00,16:00,Available,V-0077,CV50 4KJ,63,64
+E-0078,Engineer 078,London,D-SCO,Smart Meter,08:00,18:00,Available,V-0078,E37 5KK,86,69
+E-0079,Engineer 079,Midlands,D-WAL,Electrical,08:00,17:00,Available,V-0079,NG49 8FD,70,96
+E-0080,Engineer 080,Midlands,D-MID,Electrical,08:00,16:00,Available,V-0080,LE91 7GC,86,62
+E-0081,Engineer 081,Wales,D-WAL,EV Charger,08:00,17:00,On Job,V-0081,NP13 9HA,64,86
+E-0082,Engineer 082,South,D-MID,Gas Safe,08:00,17:00,On Job,V-0082,SO44 7BF,89,84
+E-0083,Engineer 083,London,D-STH,Electrical,08:00,18:00,Available,V-0083,E31 5DB,82,66
+E-0084,Engineer 084,South,D-STH,Gas Safe,08:00,17:00,Available,V-0084,SO4 1FA,73,82
+E-0085,Engineer 085,London,D-SCO,Boiler,08:00,16:00,Available,V-0085,W88 3CC,60,84
+E-0086,Engineer 086,North,D-STH,Boiler,08:00,17:00,Off Shift,V-0086,LS30 8EH,71,60
+E-0087,Engineer 087,Midlands,D-NTH,EV Charger,08:00,16:00,Available,V-0087,DE76 5GE,84,79
+E-0088,Engineer 088,Wales,D-SCO,Electrical,08:00,16:00,Available,V-0088,SY46 5EA,80,77
+E-0089,Engineer 089,Scotland,D-WAL,Gas Safe,08:00,18:00,On Job,V-0089,AB30 6DD,94,76
+E-0090,Engineer 090,South,D-STH,Boiler,08:00,18:00,Available,V-0090,BN40 8AK,78,68
+E-0091,Engineer 091,Scotland,D-NTH,Smart Meter,08:00,18:00,Available,V-0091,EH17 9FJ,87,77
+E-0092,Engineer 092,Wales,D-NTH,Electrical,08:00,17:00,On Job,V-0092,LL15 8BC,69,85
+E-0093,Engineer 093,North,D-NTH,Gas Safe,08:00,17:00,Available,V-0093,YO16 8FE,92,84
+E-0094,Engineer 094,South,D-NTH,Gas Safe,08:00,18:00,Available,V-0094,BN80 9FK,69,64
+E-0095,Engineer 095,South,D-SCO,Smart Meter,08:00,18:00,Available,V-0095,PO6 1EH,62,66
+E-0096,Engineer 096,Wales,D-WAL,Boiler,08:00,17:00,Available,V-0096,SY54 3GB,86,86
+E-0097,Engineer 097,London,D-LON,Smart Meter,08:00,16:00,Available,V-0097,N47 2FJ,96,82
+E-0098,Engineer 098,Scotland,D-SCO,Smart Meter,08:00,16:00,Sick,V-0098,DD12 4KA,58,81
+E-0099,Engineer 099,Wales,D-MID,EV Charger,08:00,16:00,Available,V-0099,SY27 4DF,64,98
+E-0100,Engineer 100,Scotland,D-NTH,Boiler,08:00,16:00,Available,V-0100,EH15 1CA,77,75
+E-0101,Engineer 101,North,D-NTH,Gas Safe,08:00,16:00,Available,V-0101,LS95 7JB,59,90
+E-0102,Engineer 102,Midlands,D-NTH,EV Charger,08:00,18:00,Available,V-0102,NG29 1JE,84,61
+E-0103,Engineer 103,Scotland,D-SCO,Electrical,08:00,17:00,On Job,V-0103,DD92 8BB,75,98
+E-0104,Engineer 104,Wales,D-LON,Boiler,08:00,17:00,On Job,V-0104,SY71 6GK,88,78
+E-0105,Engineer 105,Midlands,D-WAL,EV Charger,08:00,17:00,Available,V-0105,B84 9DG,83,74
+E-0106,Engineer 106,Midlands,D-NTH,Electrical,08:00,17:00,Available,V-0106,B41 7FE,78,69
+E-0107,Engineer 107,South,D-SCO,Gas Safe,08:00,16:00,On Job,V-0107,BN56 2FC,90,63
+E-0108,Engineer 108,North,D-WAL,EV Charger,08:00,17:00,On Job,V-0108,L46 7AE,93,79
+E-0109,Engineer 109,London,D-LON,EV Charger,08:00,18:00,Available,V-0109,SW29 2FJ,78,67
+E-0110,Engineer 110,London,D-WAL,Boiler,08:00,17:00,On Job,V-0110,W79 9AK,72,61
+E-0111,Engineer 111,Wales,D-NTH,Smart Meter,08:00,17:00,Available,V-0111,SA19 7BC,95,61
+E-0112,Engineer 112,Scotland,D-STH,EV Charger,08:00,16:00,Available,V-0112,DD44 3FE,75,96
+E-0113,Engineer 113,North,D-LON,Gas Safe,08:00,16:00,Available,V-0113,YO7 2EH,82,91
+E-0114,Engineer 114,North,D-SCO,Electrical,08:00,17:00,Available,V-0114,YO15 6GB,73,97
+E-0115,Engineer 115,Midlands,D-WAL,Smart Meter,08:00,16:00,Available,V-0115,NG8 1DE,68,68
+E-0116,Engineer 116,London,D-NTH,Smart Meter,08:00,16:00,Available,V-0116,SW23 3GJ,69,92
+E-0117,Engineer 117,North,D-STH,Smart Meter,08:00,16:00,Available,V-0117,M56 1HB,75,96
+E-0118,Engineer 118,Midlands,D-WAL,Electrical,08:00,18:00,On Job,V-0118,DE15 7AF,65,89
+E-0119,Engineer 119,South,D-NTH,Gas Safe,08:00,17:00,On Job,V-0119,PO56 7JB,80,79
+E-0120,Engineer 120,South,D-NTH,Boiler,08:00,17:00,On Job,V-0120,BN66 2JJ,67,82

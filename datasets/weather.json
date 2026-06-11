@@ -1,0 +1,1136 @@
+[
+  {
+    "date": "2026-06-01",
+    "region": "Scotland",
+    "weather_condition": "Wind",
+    "temperature": 15,
+    "storm_risk": 55,
+    "snow_risk": 12,
+    "travel_disruption_score": 34
+  },
+  {
+    "date": "2026-06-01",
+    "region": "Wales",
+    "weather_condition": "Wind",
+    "temperature": 12,
+    "storm_risk": 45,
+    "snow_risk": 9,
+    "travel_disruption_score": 15
+  },
+  {
+    "date": "2026-06-01",
+    "region": "London",
+    "weather_condition": "Snow",
+    "temperature": -1,
+    "storm_risk": 10,
+    "snow_risk": 70,
+    "travel_disruption_score": 92
+  },
+  {
+    "date": "2026-06-01",
+    "region": "Midlands",
+    "weather_condition": "Snow",
+    "temperature": 4,
+    "storm_risk": 21,
+    "snow_risk": 17,
+    "travel_disruption_score": 14
+  },
+  {
+    "date": "2026-06-01",
+    "region": "North",
+    "weather_condition": "Rain",
+    "temperature": 20,
+    "storm_risk": 33,
+    "snow_risk": 17,
+    "travel_disruption_score": 53
+  },
+  {
+    "date": "2026-06-01",
+    "region": "South",
+    "weather_condition": "Storm",
+    "temperature": 17,
+    "storm_risk": 9,
+    "snow_risk": 10,
+    "travel_disruption_score": 83
+  },
+  {
+    "date": "2026-06-02",
+    "region": "Scotland",
+    "weather_condition": "Wind",
+    "temperature": 11,
+    "storm_risk": 79,
+    "snow_risk": 16,
+    "travel_disruption_score": 44
+  },
+  {
+    "date": "2026-06-02",
+    "region": "Wales",
+    "weather_condition": "Rain",
+    "temperature": 16,
+    "storm_risk": 32,
+    "snow_risk": 5,
+    "travel_disruption_score": 93
+  },
+  {
+    "date": "2026-06-02",
+    "region": "London",
+    "weather_condition": "Snow",
+    "temperature": 8,
+    "storm_risk": 28,
+    "snow_risk": 4,
+    "travel_disruption_score": 47
+  },
+  {
+    "date": "2026-06-02",
+    "region": "Midlands",
+    "weather_condition": "Rain",
+    "temperature": 0,
+    "storm_risk": 15,
+    "snow_risk": 2,
+    "travel_disruption_score": 90
+  },
+  {
+    "date": "2026-06-02",
+    "region": "North",
+    "weather_condition": "Rain",
+    "temperature": 20,
+    "storm_risk": 10,
+    "snow_risk": 17,
+    "travel_disruption_score": 76
+  },
+  {
+    "date": "2026-06-02",
+    "region": "South",
+    "weather_condition": "Storm",
+    "temperature": 1,
+    "storm_risk": 25,
+    "snow_risk": 6,
+    "travel_disruption_score": 25
+  },
+  {
+    "date": "2026-06-03",
+    "region": "Scotland",
+    "weather_condition": "Clear",
+    "temperature": 5,
+    "storm_risk": 27,
+    "snow_risk": 12,
+    "travel_disruption_score": 71
+  },
+  {
+    "date": "2026-06-03",
+    "region": "Wales",
+    "weather_condition": "Storm",
+    "temperature": 8,
+    "storm_risk": 20,
+    "snow_risk": 14,
+    "travel_disruption_score": 66
+  },
+  {
+    "date": "2026-06-03",
+    "region": "London",
+    "weather_condition": "Snow",
+    "temperature": 11,
+    "storm_risk": 8,
+    "snow_risk": 54,
+    "travel_disruption_score": 74
+  },
+  {
+    "date": "2026-06-03",
+    "region": "Midlands",
+    "weather_condition": "Fog",
+    "temperature": 20,
+    "storm_risk": 21,
+    "snow_risk": 5,
+    "travel_disruption_score": 65
+  },
+  {
+    "date": "2026-06-03",
+    "region": "North",
+    "weather_condition": "Rain",
+    "temperature": 15,
+    "storm_risk": 29,
+    "snow_risk": 12,
+    "travel_disruption_score": 8
+  },
+  {
+    "date": "2026-06-03",
+    "region": "South",
+    "weather_condition": "Fog",
+    "temperature": 6,
+    "storm_risk": 9,
+    "snow_risk": 0,
+    "travel_disruption_score": 69
+  },
+  {
+    "date": "2026-06-04",
+    "region": "Scotland",
+    "weather_condition": "Storm",
+    "temperature": 13,
+    "storm_risk": 75,
+    "snow_risk": 7,
+    "travel_disruption_score": 39
+  },
+  {
+    "date": "2026-06-04",
+    "region": "Wales",
+    "weather_condition": "Storm",
+    "temperature": 1,
+    "storm_risk": 4,
+    "snow_risk": 13,
+    "travel_disruption_score": 28
+  },
+  {
+    "date": "2026-06-04",
+    "region": "London",
+    "weather_condition": "Fog",
+    "temperature": 16,
+    "storm_risk": 14,
+    "snow_risk": 7,
+    "travel_disruption_score": 39
+  },
+  {
+    "date": "2026-06-04",
+    "region": "Midlands",
+    "weather_condition": "Fog",
+    "temperature": 19,
+    "storm_risk": 22,
+    "snow_risk": 11,
+    "travel_disruption_score": 66
+  },
+  {
+    "date": "2026-06-04",
+    "region": "North",
+    "weather_condition": "Rain",
+    "temperature": 9,
+    "storm_risk": 27,
+    "snow_risk": 5,
+    "travel_disruption_score": 29
+  },
+  {
+    "date": "2026-06-04",
+    "region": "South",
+    "weather_condition": "Fog",
+    "temperature": 3,
+    "storm_risk": 28,
+    "snow_risk": 15,
+    "travel_disruption_score": 87
+  },
+  {
+    "date": "2026-06-05",
+    "region": "Scotland",
+    "weather_condition": "Fog",
+    "temperature": 23,
+    "storm_risk": 2,
+    "snow_risk": 1,
+    "travel_disruption_score": 37
+  },
+  {
+    "date": "2026-06-05",
+    "region": "Wales",
+    "weather_condition": "Wind",
+    "temperature": 5,
+    "storm_risk": 47,
+    "snow_risk": 16,
+    "travel_disruption_score": 50
+  },
+  {
+    "date": "2026-06-05",
+    "region": "London",
+    "weather_condition": "Fog",
+    "temperature": 17,
+    "storm_risk": 30,
+    "snow_risk": 6,
+    "travel_disruption_score": 12
+  },
+  {
+    "date": "2026-06-05",
+    "region": "Midlands",
+    "weather_condition": "Rain",
+    "temperature": 23,
+    "storm_risk": 29,
+    "snow_risk": 7,
+    "travel_disruption_score": 86
+  },
+  {
+    "date": "2026-06-05",
+    "region": "North",
+    "weather_condition": "Fog",
+    "temperature": 3,
+    "storm_risk": 10,
+    "snow_risk": 17,
+    "travel_disruption_score": 49
+  },
+  {
+    "date": "2026-06-05",
+    "region": "South",
+    "weather_condition": "Storm",
+    "temperature": -1,
+    "storm_risk": 43,
+    "snow_risk": 5,
+    "travel_disruption_score": 37
+  },
+  {
+    "date": "2026-06-06",
+    "region": "Scotland",
+    "weather_condition": "Clear",
+    "temperature": 23,
+    "storm_risk": 9,
+    "snow_risk": 10,
+    "travel_disruption_score": 48
+  },
+  {
+    "date": "2026-06-06",
+    "region": "Wales",
+    "weather_condition": "Wind",
+    "temperature": 8,
+    "storm_risk": 56,
+    "snow_risk": 16,
+    "travel_disruption_score": 82
+  },
+  {
+    "date": "2026-06-06",
+    "region": "London",
+    "weather_condition": "Fog",
+    "temperature": 24,
+    "storm_risk": 14,
+    "snow_risk": 18,
+    "travel_disruption_score": 62
+  },
+  {
+    "date": "2026-06-06",
+    "region": "Midlands",
+    "weather_condition": "Storm",
+    "temperature": 19,
+    "storm_risk": 8,
+    "snow_risk": 9,
+    "travel_disruption_score": 18
+  },
+  {
+    "date": "2026-06-06",
+    "region": "North",
+    "weather_condition": "Clear",
+    "temperature": 12,
+    "storm_risk": 30,
+    "snow_risk": 17,
+    "travel_disruption_score": 73
+  },
+  {
+    "date": "2026-06-06",
+    "region": "South",
+    "weather_condition": "Clear",
+    "temperature": 10,
+    "storm_risk": 37,
+    "snow_risk": 13,
+    "travel_disruption_score": 86
+  },
+  {
+    "date": "2026-06-07",
+    "region": "Scotland",
+    "weather_condition": "Wind",
+    "temperature": 11,
+    "storm_risk": 86,
+    "snow_risk": 14,
+    "travel_disruption_score": 34
+  },
+  {
+    "date": "2026-06-07",
+    "region": "Wales",
+    "weather_condition": "Snow",
+    "temperature": 11,
+    "storm_risk": 21,
+    "snow_risk": 48,
+    "travel_disruption_score": 82
+  },
+  {
+    "date": "2026-06-07",
+    "region": "London",
+    "weather_condition": "Clear",
+    "temperature": 8,
+    "storm_risk": 17,
+    "snow_risk": 16,
+    "travel_disruption_score": 90
+  },
+  {
+    "date": "2026-06-07",
+    "region": "Midlands",
+    "weather_condition": "Wind",
+    "temperature": 22,
+    "storm_risk": 89,
+    "snow_risk": 13,
+    "travel_disruption_score": 68
+  },
+  {
+    "date": "2026-06-07",
+    "region": "North",
+    "weather_condition": "Fog",
+    "temperature": 6,
+    "storm_risk": 13,
+    "snow_risk": 5,
+    "travel_disruption_score": 27
+  },
+  {
+    "date": "2026-06-07",
+    "region": "South",
+    "weather_condition": "Snow",
+    "temperature": 1,
+    "storm_risk": 10,
+    "snow_risk": 36,
+    "travel_disruption_score": 74
+  },
+  {
+    "date": "2026-06-08",
+    "region": "Scotland",
+    "weather_condition": "Snow",
+    "temperature": 9,
+    "storm_risk": 22,
+    "snow_risk": 68,
+    "travel_disruption_score": 64
+  },
+  {
+    "date": "2026-06-08",
+    "region": "Wales",
+    "weather_condition": "Fog",
+    "temperature": 13,
+    "storm_risk": 1,
+    "snow_risk": 0,
+    "travel_disruption_score": 89
+  },
+  {
+    "date": "2026-06-08",
+    "region": "London",
+    "weather_condition": "Storm",
+    "temperature": 4,
+    "storm_risk": 34,
+    "snow_risk": 8,
+    "travel_disruption_score": 45
+  },
+  {
+    "date": "2026-06-08",
+    "region": "Midlands",
+    "weather_condition": "Snow",
+    "temperature": 17,
+    "storm_risk": 17,
+    "snow_risk": 20,
+    "travel_disruption_score": 58
+  },
+  {
+    "date": "2026-06-08",
+    "region": "North",
+    "weather_condition": "Wind",
+    "temperature": 0,
+    "storm_risk": 66,
+    "snow_risk": 13,
+    "travel_disruption_score": 8
+  },
+  {
+    "date": "2026-06-08",
+    "region": "South",
+    "weather_condition": "Fog",
+    "temperature": 16,
+    "storm_risk": 38,
+    "snow_risk": 10,
+    "travel_disruption_score": 31
+  },
+  {
+    "date": "2026-06-09",
+    "region": "Scotland",
+    "weather_condition": "Clear",
+    "temperature": 1,
+    "storm_risk": 8,
+    "snow_risk": 1,
+    "travel_disruption_score": 33
+  },
+  {
+    "date": "2026-06-09",
+    "region": "Wales",
+    "weather_condition": "Rain",
+    "temperature": 17,
+    "storm_risk": 32,
+    "snow_risk": 0,
+    "travel_disruption_score": 93
+  },
+  {
+    "date": "2026-06-09",
+    "region": "London",
+    "weather_condition": "Clear",
+    "temperature": 6,
+    "storm_risk": 32,
+    "snow_risk": 15,
+    "travel_disruption_score": 16
+  },
+  {
+    "date": "2026-06-09",
+    "region": "Midlands",
+    "weather_condition": "Storm",
+    "temperature": 3,
+    "storm_risk": 73,
+    "snow_risk": 7,
+    "travel_disruption_score": 36
+  },
+  {
+    "date": "2026-06-09",
+    "region": "North",
+    "weather_condition": "Wind",
+    "temperature": 12,
+    "storm_risk": 74,
+    "snow_risk": 1,
+    "travel_disruption_score": 46
+  },
+  {
+    "date": "2026-06-09",
+    "region": "South",
+    "weather_condition": "Snow",
+    "temperature": 23,
+    "storm_risk": 4,
+    "snow_risk": 4,
+    "travel_disruption_score": 74
+  },
+  {
+    "date": "2026-06-10",
+    "region": "Scotland",
+    "weather_condition": "Fog",
+    "temperature": -1,
+    "storm_risk": 7,
+    "snow_risk": 11,
+    "travel_disruption_score": 32
+  },
+  {
+    "date": "2026-06-10",
+    "region": "Wales",
+    "weather_condition": "Rain",
+    "temperature": 13,
+    "storm_risk": 17,
+    "snow_risk": 6,
+    "travel_disruption_score": 46
+  },
+  {
+    "date": "2026-06-10",
+    "region": "London",
+    "weather_condition": "Storm",
+    "temperature": 13,
+    "storm_risk": 6,
+    "snow_risk": 4,
+    "travel_disruption_score": 86
+  },
+  {
+    "date": "2026-06-10",
+    "region": "Midlands",
+    "weather_condition": "Fog",
+    "temperature": 13,
+    "storm_risk": 31,
+    "snow_risk": 5,
+    "travel_disruption_score": 70
+  },
+  {
+    "date": "2026-06-10",
+    "region": "North",
+    "weather_condition": "Storm",
+    "temperature": 1,
+    "storm_risk": 44,
+    "snow_risk": 12,
+    "travel_disruption_score": 51
+  },
+  {
+    "date": "2026-06-10",
+    "region": "South",
+    "weather_condition": "Snow",
+    "temperature": 12,
+    "storm_risk": 39,
+    "snow_risk": 47,
+    "travel_disruption_score": 64
+  },
+  {
+    "date": "2026-06-11",
+    "region": "Scotland",
+    "weather_condition": "Fog",
+    "temperature": 17,
+    "storm_risk": 18,
+    "snow_risk": 11,
+    "travel_disruption_score": 68
+  },
+  {
+    "date": "2026-06-11",
+    "region": "Wales",
+    "weather_condition": "Wind",
+    "temperature": 17,
+    "storm_risk": 47,
+    "snow_risk": 18,
+    "travel_disruption_score": 52
+  },
+  {
+    "date": "2026-06-11",
+    "region": "London",
+    "weather_condition": "Wind",
+    "temperature": -1,
+    "storm_risk": 47,
+    "snow_risk": 10,
+    "travel_disruption_score": 88
+  },
+  {
+    "date": "2026-06-11",
+    "region": "Midlands",
+    "weather_condition": "Rain",
+    "temperature": 21,
+    "storm_risk": 40,
+    "snow_risk": 12,
+    "travel_disruption_score": 22
+  },
+  {
+    "date": "2026-06-11",
+    "region": "North",
+    "weather_condition": "Snow",
+    "temperature": 21,
+    "storm_risk": 40,
+    "snow_risk": 10,
+    "travel_disruption_score": 61
+  },
+  {
+    "date": "2026-06-11",
+    "region": "South",
+    "weather_condition": "Clear",
+    "temperature": 8,
+    "storm_risk": 32,
+    "snow_risk": 11,
+    "travel_disruption_score": 41
+  },
+  {
+    "date": "2026-06-12",
+    "region": "Scotland",
+    "weather_condition": "Clear",
+    "temperature": 16,
+    "storm_risk": 14,
+    "snow_risk": 11,
+    "travel_disruption_score": 25
+  },
+  {
+    "date": "2026-06-12",
+    "region": "Wales",
+    "weather_condition": "Fog",
+    "temperature": 9,
+    "storm_risk": 8,
+    "snow_risk": 11,
+    "travel_disruption_score": 23
+  },
+  {
+    "date": "2026-06-12",
+    "region": "London",
+    "weather_condition": "Clear",
+    "temperature": 13,
+    "storm_risk": 33,
+    "snow_risk": 16,
+    "travel_disruption_score": 25
+  },
+  {
+    "date": "2026-06-12",
+    "region": "Midlands",
+    "weather_condition": "Clear",
+    "temperature": 11,
+    "storm_risk": 20,
+    "snow_risk": 3,
+    "travel_disruption_score": 13
+  },
+  {
+    "date": "2026-06-12",
+    "region": "North",
+    "weather_condition": "Snow",
+    "temperature": 19,
+    "storm_risk": 11,
+    "snow_risk": 11,
+    "travel_disruption_score": 43
+  },
+  {
+    "date": "2026-06-12",
+    "region": "South",
+    "weather_condition": "Wind",
+    "temperature": 14,
+    "storm_risk": 41,
+    "snow_risk": 9,
+    "travel_disruption_score": 45
+  },
+  {
+    "date": "2026-06-13",
+    "region": "Scotland",
+    "weather_condition": "Rain",
+    "temperature": 0,
+    "storm_risk": 13,
+    "snow_risk": 1,
+    "travel_disruption_score": 90
+  },
+  {
+    "date": "2026-06-13",
+    "region": "Wales",
+    "weather_condition": "Rain",
+    "temperature": 14,
+    "storm_risk": 40,
+    "snow_risk": 12,
+    "travel_disruption_score": 84
+  },
+  {
+    "date": "2026-06-13",
+    "region": "London",
+    "weather_condition": "Wind",
+    "temperature": 13,
+    "storm_risk": 29,
+    "snow_risk": 0,
+    "travel_disruption_score": 70
+  },
+  {
+    "date": "2026-06-13",
+    "region": "Midlands",
+    "weather_condition": "Fog",
+    "temperature": 23,
+    "storm_risk": 35,
+    "snow_risk": 4,
+    "travel_disruption_score": 43
+  },
+  {
+    "date": "2026-06-13",
+    "region": "North",
+    "weather_condition": "Clear",
+    "temperature": 5,
+    "storm_risk": 23,
+    "snow_risk": 7,
+    "travel_disruption_score": 27
+  },
+  {
+    "date": "2026-06-13",
+    "region": "South",
+    "weather_condition": "Fog",
+    "temperature": 1,
+    "storm_risk": 10,
+    "snow_risk": 9,
+    "travel_disruption_score": 41
+  },
+  {
+    "date": "2026-06-14",
+    "region": "Scotland",
+    "weather_condition": "Clear",
+    "temperature": 22,
+    "storm_risk": 11,
+    "snow_risk": 18,
+    "travel_disruption_score": 30
+  },
+  {
+    "date": "2026-06-14",
+    "region": "Wales",
+    "weather_condition": "Storm",
+    "temperature": 6,
+    "storm_risk": 41,
+    "snow_risk": 0,
+    "travel_disruption_score": 78
+  },
+  {
+    "date": "2026-06-14",
+    "region": "London",
+    "weather_condition": "Wind",
+    "temperature": 1,
+    "storm_risk": 26,
+    "snow_risk": 2,
+    "travel_disruption_score": 75
+  },
+  {
+    "date": "2026-06-14",
+    "region": "Midlands",
+    "weather_condition": "Clear",
+    "temperature": 10,
+    "storm_risk": 10,
+    "snow_risk": 11,
+    "travel_disruption_score": 66
+  },
+  {
+    "date": "2026-06-14",
+    "region": "North",
+    "weather_condition": "Snow",
+    "temperature": 9,
+    "storm_risk": 37,
+    "snow_risk": 72,
+    "travel_disruption_score": 12
+  },
+  {
+    "date": "2026-06-14",
+    "region": "South",
+    "weather_condition": "Fog",
+    "temperature": -1,
+    "storm_risk": 18,
+    "snow_risk": 15,
+    "travel_disruption_score": 82
+  },
+  {
+    "date": "2026-06-15",
+    "region": "Scotland",
+    "weather_condition": "Wind",
+    "temperature": 1,
+    "storm_risk": 21,
+    "snow_risk": 7,
+    "travel_disruption_score": 24
+  },
+  {
+    "date": "2026-06-15",
+    "region": "Wales",
+    "weather_condition": "Wind",
+    "temperature": 8,
+    "storm_risk": 56,
+    "snow_risk": 0,
+    "travel_disruption_score": 16
+  },
+  {
+    "date": "2026-06-15",
+    "region": "London",
+    "weather_condition": "Snow",
+    "temperature": 18,
+    "storm_risk": 5,
+    "snow_risk": 14,
+    "travel_disruption_score": 31
+  },
+  {
+    "date": "2026-06-15",
+    "region": "Midlands",
+    "weather_condition": "Wind",
+    "temperature": 22,
+    "storm_risk": 33,
+    "snow_risk": 8,
+    "travel_disruption_score": 69
+  },
+  {
+    "date": "2026-06-15",
+    "region": "North",
+    "weather_condition": "Fog",
+    "temperature": 10,
+    "storm_risk": 30,
+    "snow_risk": 2,
+    "travel_disruption_score": 30
+  },
+  {
+    "date": "2026-06-15",
+    "region": "South",
+    "weather_condition": "Rain",
+    "temperature": 18,
+    "storm_risk": 39,
+    "snow_risk": 13,
+    "travel_disruption_score": 93
+  },
+  {
+    "date": "2026-06-16",
+    "region": "Scotland",
+    "weather_condition": "Rain",
+    "temperature": 13,
+    "storm_risk": 27,
+    "snow_risk": 17,
+    "travel_disruption_score": 58
+  },
+  {
+    "date": "2026-06-16",
+    "region": "Wales",
+    "weather_condition": "Clear",
+    "temperature": 4,
+    "storm_risk": 31,
+    "snow_risk": 7,
+    "travel_disruption_score": 42
+  },
+  {
+    "date": "2026-06-16",
+    "region": "London",
+    "weather_condition": "Rain",
+    "temperature": 2,
+    "storm_risk": 7,
+    "snow_risk": 4,
+    "travel_disruption_score": 8
+  },
+  {
+    "date": "2026-06-16",
+    "region": "Midlands",
+    "weather_condition": "Rain",
+    "temperature": 18,
+    "storm_risk": 5,
+    "snow_risk": 6,
+    "travel_disruption_score": 69
+  },
+  {
+    "date": "2026-06-16",
+    "region": "North",
+    "weather_condition": "Clear",
+    "temperature": 6,
+    "storm_risk": 2,
+    "snow_risk": 2,
+    "travel_disruption_score": 42
+  },
+  {
+    "date": "2026-06-16",
+    "region": "South",
+    "weather_condition": "Snow",
+    "temperature": 8,
+    "storm_risk": 35,
+    "snow_risk": 4,
+    "travel_disruption_score": 25
+  },
+  {
+    "date": "2026-06-17",
+    "region": "Scotland",
+    "weather_condition": "Snow",
+    "temperature": 15,
+    "storm_risk": 38,
+    "snow_risk": 6,
+    "travel_disruption_score": 76
+  },
+  {
+    "date": "2026-06-17",
+    "region": "Wales",
+    "weather_condition": "Snow",
+    "temperature": 19,
+    "storm_risk": 33,
+    "snow_risk": 8,
+    "travel_disruption_score": 79
+  },
+  {
+    "date": "2026-06-17",
+    "region": "London",
+    "weather_condition": "Storm",
+    "temperature": 20,
+    "storm_risk": 56,
+    "snow_risk": 9,
+    "travel_disruption_score": 51
+  },
+  {
+    "date": "2026-06-17",
+    "region": "Midlands",
+    "weather_condition": "Rain",
+    "temperature": 5,
+    "storm_risk": 7,
+    "snow_risk": 18,
+    "travel_disruption_score": 18
+  },
+  {
+    "date": "2026-06-17",
+    "region": "North",
+    "weather_condition": "Fog",
+    "temperature": 17,
+    "storm_risk": 37,
+    "snow_risk": 1,
+    "travel_disruption_score": 70
+  },
+  {
+    "date": "2026-06-17",
+    "region": "South",
+    "weather_condition": "Rain",
+    "temperature": 1,
+    "storm_risk": 13,
+    "snow_risk": 6,
+    "travel_disruption_score": 46
+  },
+  {
+    "date": "2026-06-18",
+    "region": "Scotland",
+    "weather_condition": "Storm",
+    "temperature": 16,
+    "storm_risk": 93,
+    "snow_risk": 6,
+    "travel_disruption_score": 17
+  },
+  {
+    "date": "2026-06-18",
+    "region": "Wales",
+    "weather_condition": "Storm",
+    "temperature": 3,
+    "storm_risk": 33,
+    "snow_risk": 13,
+    "travel_disruption_score": 85
+  },
+  {
+    "date": "2026-06-18",
+    "region": "London",
+    "weather_condition": "Storm",
+    "temperature": 14,
+    "storm_risk": 10,
+    "snow_risk": 9,
+    "travel_disruption_score": 94
+  },
+  {
+    "date": "2026-06-18",
+    "region": "Midlands",
+    "weather_condition": "Clear",
+    "temperature": 14,
+    "storm_risk": 5,
+    "snow_risk": 0,
+    "travel_disruption_score": 88
+  },
+  {
+    "date": "2026-06-18",
+    "region": "North",
+    "weather_condition": "Rain",
+    "temperature": 21,
+    "storm_risk": 35,
+    "snow_risk": 18,
+    "travel_disruption_score": 16
+  },
+  {
+    "date": "2026-06-18",
+    "region": "South",
+    "weather_condition": "Snow",
+    "temperature": 2,
+    "storm_risk": 32,
+    "snow_risk": 61,
+    "travel_disruption_score": 42
+  },
+  {
+    "date": "2026-06-19",
+    "region": "Scotland",
+    "weather_condition": "Clear",
+    "temperature": 9,
+    "storm_risk": 1,
+    "snow_risk": 3,
+    "travel_disruption_score": 35
+  },
+  {
+    "date": "2026-06-19",
+    "region": "Wales",
+    "weather_condition": "Fog",
+    "temperature": 5,
+    "storm_risk": 10,
+    "snow_risk": 0,
+    "travel_disruption_score": 36
+  },
+  {
+    "date": "2026-06-19",
+    "region": "London",
+    "weather_condition": "Wind",
+    "temperature": 24,
+    "storm_risk": 37,
+    "snow_risk": 18,
+    "travel_disruption_score": 52
+  },
+  {
+    "date": "2026-06-19",
+    "region": "Midlands",
+    "weather_condition": "Storm",
+    "temperature": -1,
+    "storm_risk": 67,
+    "snow_risk": 2,
+    "travel_disruption_score": 37
+  },
+  {
+    "date": "2026-06-19",
+    "region": "North",
+    "weather_condition": "Snow",
+    "temperature": 14,
+    "storm_risk": 25,
+    "snow_risk": 44,
+    "travel_disruption_score": 12
+  },
+  {
+    "date": "2026-06-19",
+    "region": "South",
+    "weather_condition": "Fog",
+    "temperature": 14,
+    "storm_risk": 29,
+    "snow_risk": 11,
+    "travel_disruption_score": 95
+  },
+  {
+    "date": "2026-06-20",
+    "region": "Scotland",
+    "weather_condition": "Rain",
+    "temperature": 10,
+    "storm_risk": 29,
+    "snow_risk": 4,
+    "travel_disruption_score": 33
+  },
+  {
+    "date": "2026-06-20",
+    "region": "Wales",
+    "weather_condition": "Clear",
+    "temperature": 11,
+    "storm_risk": 13,
+    "snow_risk": 3,
+    "travel_disruption_score": 55
+  },
+  {
+    "date": "2026-06-20",
+    "region": "London",
+    "weather_condition": "Clear",
+    "temperature": 5,
+    "storm_risk": 31,
+    "snow_risk": 16,
+    "travel_disruption_score": 14
+  },
+  {
+    "date": "2026-06-20",
+    "region": "Midlands",
+    "weather_condition": "Clear",
+    "temperature": 19,
+    "storm_risk": 3,
+    "snow_risk": 10,
+    "travel_disruption_score": 93
+  },
+  {
+    "date": "2026-06-20",
+    "region": "North",
+    "weather_condition": "Storm",
+    "temperature": -1,
+    "storm_risk": 28,
+    "snow_risk": 18,
+    "travel_disruption_score": 83
+  },
+  {
+    "date": "2026-06-20",
+    "region": "South",
+    "weather_condition": "Storm",
+    "temperature": 23,
+    "storm_risk": 30,
+    "snow_risk": 1,
+    "travel_disruption_score": 59
+  },
+  {
+    "date": "2026-06-21",
+    "region": "Scotland",
+    "weather_condition": "Storm",
+    "temperature": 13,
+    "storm_risk": 6,
+    "snow_risk": 0,
+    "travel_disruption_score": 49
+  },
+  {
+    "date": "2026-06-21",
+    "region": "Wales",
+    "weather_condition": "Snow",
+    "temperature": 18,
+    "storm_risk": 17,
+    "snow_risk": 51,
+    "travel_disruption_score": 81
+  },
+  {
+    "date": "2026-06-21",
+    "region": "London",
+    "weather_condition": "Storm",
+    "temperature": 11,
+    "storm_risk": 91,
+    "snow_risk": 7,
+    "travel_disruption_score": 22
+  },
+  {
+    "date": "2026-06-21",
+    "region": "Midlands",
+    "weather_condition": "Rain",
+    "temperature": 5,
+    "storm_risk": 29,
+    "snow_risk": 1,
+    "travel_disruption_score": 8
+  },
+  {
+    "date": "2026-06-21",
+    "region": "North",
+    "weather_condition": "Storm",
+    "temperature": 2,
+    "storm_risk": 91,
+    "snow_risk": 10,
+    "travel_disruption_score": 71
+  },
+  {
+    "date": "2026-06-21",
+    "region": "South",
+    "weather_condition": "Clear",
+    "temperature": 24,
+    "storm_risk": 1,
+    "snow_risk": 18,
+    "travel_disruption_score": 68
+  }
+]

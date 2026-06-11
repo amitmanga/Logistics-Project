@@ -1,0 +1,46 @@
+[
+  {
+    "scenario_id": "SCN-001",
+    "scenario_name": "Baseline",
+    "demand_change_percent": 0,
+    "fuel_cost_change_percent": 0,
+    "carrier_capacity_change_percent": 0,
+    "weather_disruption_level": 10,
+    "expected_SLA": 92.2,
+    "expected_cost": 4.2,
+    "expected_OTIF": 93.3
+  },
+  {
+    "scenario_id": "SCN-002",
+    "scenario_name": "Optimized",
+    "demand_change_percent": -4,
+    "fuel_cost_change_percent": -8,
+    "carrier_capacity_change_percent": 8,
+    "weather_disruption_level": 10,
+    "expected_SLA": 93.3,
+    "expected_cost": 3.72,
+    "expected_OTIF": 94.2
+  },
+  {
+    "scenario_id": "SCN-003",
+    "scenario_name": "Peak Demand",
+    "demand_change_percent": 25,
+    "fuel_cost_change_percent": 4,
+    "carrier_capacity_change_percent": -8,
+    "weather_disruption_level": 18,
+    "expected_SLA": 86.7,
+    "expected_cost": 4.94,
+    "expected_OTIF": 88.7
+  },
+  {
+    "scenario_id": "SCN-004",
+    "scenario_name": "Weather Disruption",
+    "demand_change_percent": 12,
+    "fuel_cost_change_percent": 7,
+    "carrier_capacity_change_percent": -12,
+    "weather_disruption_level": 70,
+    "expected_SLA": 84.6,
+    "expected_cost": 4.84,
+    "expected_OTIF": 86.8
+  }
+]

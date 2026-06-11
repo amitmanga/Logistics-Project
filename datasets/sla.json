@@ -1,0 +1,5002 @@
+[
+  {
+    "sla_id": "SLA-00001",
+    "job_id": "J-00001",
+    "shipment_id": "SH-00001",
+    "SLA_target_time": "2026-06-08T09:00",
+    "current_eta": "2026-06-08T09:00",
+    "risk_level": "Low",
+    "breach_probability": 0.15,
+    "recommended_action": "Switch carrier"
+  },
+  {
+    "sla_id": "SLA-00002",
+    "job_id": "J-00002",
+    "shipment_id": "SH-00002",
+    "SLA_target_time": "2026-06-06T21:00",
+    "current_eta": "2026-06-06T21:00",
+    "risk_level": "Low",
+    "breach_probability": 0.04,
+    "recommended_action": "Pre-position part"
+  },
+  {
+    "sla_id": "SLA-00003",
+    "job_id": "J-00003",
+    "shipment_id": "SH-00003",
+    "SLA_target_time": "2026-06-14T19:00",
+    "current_eta": "2026-06-14T19:00",
+    "risk_level": "Low",
+    "breach_probability": 0.04,
+    "recommended_action": "Pre-position part"
+  },
+  {
+    "sla_id": "SLA-00004",
+    "job_id": "J-00004",
+    "shipment_id": "SH-00004",
+    "SLA_target_time": "2026-06-08T14:00",
+    "current_eta": "2026-06-08T14:33",
+    "risk_level": "Low",
+    "breach_probability": 0.13,
+    "recommended_action": "Pre-position part"
+  },
+  {
+    "sla_id": "SLA-00005",
+    "job_id": "J-00005",
+    "shipment_id": "SH-00005",
+    "SLA_target_time": "2026-06-18T02:00",
+    "current_eta": "2026-06-18T03:58",
+    "risk_level": "Medium",
+    "breach_probability": 0.45,
+    "recommended_action": "Pre-position part"
+  },
+  {
+    "sla_id": "SLA-00006",
+    "job_id": "J-00006",
+    "shipment_id": "SH-00006",
+    "SLA_target_time": "2026-06-17T12:00",
+    "current_eta": "2026-06-17T13:32",
+    "risk_level": "Medium",
+    "breach_probability": 0.35,
+    "recommended_action": "Switch carrier"
+  },
+  {
+    "sla_id": "SLA-00007",
+    "job_id": "J-00007",
+    "shipment_id": "SH-00007",
+    "SLA_target_time": "2026-06-14T08:00",
+    "current_eta": "2026-06-14T09:54",
+    "risk_level": "Medium",
+    "breach_probability": 0.44,
+    "recommended_action": "Reassign engineer"
+  },
+  {
+    "sla_id": "SLA-00008",
+    "job_id": "J-00008",
+    "shipment_id": "SH-00008",
+    "SLA_target_time": "2026-06-20T06:00",
+    "current_eta": "2026-06-20T06:00",
+    "risk_level": "Low",
+    "breach_probability": 0.15,
+    "recommended_action": "Switch carrier"
+  },
+  {
+    "sla_id": "SLA-00009",
+    "job_id": "J-00009",
+    "shipment_id": "SH-00009",
+    "SLA_target_time": "2026-06-07T05:00",
+    "current_eta": "2026-06-07T05:00",
+    "risk_level": "Low",
+    "breach_probability": 0.15,
+    "recommended_action": "Expedite shipment"
+  },
+  {
+    "sla_id": "SLA-00010",
+    "job_id": "J-00010",
+    "shipment_id": "SH-00010",
+    "SLA_target_time": "2026-06-15T22:00",
+    "current_eta": "2026-06-15T23:27",
+    "risk_level": "Medium",
+    "breach_probability": 0.33,
+    "recommended_action": "Expedite shipment"
+  },
+  {
+    "sla_id": "SLA-00011",
+    "job_id": "J-00011",
+    "shipment_id": "SH-00011",
+    "SLA_target_time": "2026-06-14T03:00",
+    "current_eta": "2026-06-14T04:50",
+    "risk_level": "Medium",
+    "breach_probability": 0.42,
+    "recommended_action": "Expedite shipment"
+  },
+  {
+    "sla_id": "SLA-00012",
+    "job_id": "J-00012",
+    "shipment_id": "SH-00012",
+    "SLA_target_time": "2026-06-05T02:00",
+    "current_eta": "2026-06-05T02:43",
+    "risk_level": "Low",
+    "breach_probability": 0.17,
+    "recommended_action": "Pre-position part"
+  },
+  {
+    "sla_id": "SLA-00013",
+    "job_id": "J-00013",
+    "shipment_id": "SH-00013",
+    "SLA_target_time": "2026-06-18T01:00",
+    "current_eta": "2026-06-18T01:10",
+    "risk_level": "Low",
+    "breach_probability": 0.04,
+    "recommended_action": "Pre-position part"
+  },
+  {
+    "sla_id": "SLA-00014",
+    "job_id": "J-00014",
+    "shipment_id": "SH-00014",
+    "SLA_target_time": "2026-06-11T13:00",
+    "current_eta": "2026-06-11T13:24",
+    "risk_level": "Low",
+    "breach_probability": 0.09,
+    "recommended_action": "Expedite shipment"
+  },
+  {
+    "sla_id": "SLA-00015",
+    "job_id": "J-00015",
+    "shipment_id": "SH-00015",
+    "SLA_target_time": "2026-06-03T09:00",
+    "current_eta": "2026-06-03T10:34",
+    "risk_level": "Medium",
+    "breach_probability": 0.36,
+    "recommended_action": "Pre-position part"
+  },
+  {
+    "sla_id": "SLA-00016",
+    "job_id": "J-00016",
+    "shipment_id": "SH-00016",
+    "SLA_target_time": "2026-06-05T18:00",
+    "current_eta": "2026-06-05T18:00",
+    "risk_level": "Low",
+    "breach_probability": 0.04,
+    "recommended_action": "Switch carrier"
+  },
+  {
+    "sla_id": "SLA-00017",
+    "job_id": "J-00017",
+    "shipment_id": "SH-00017",
+    "SLA_target_time": "2026-06-22T00:00",
+    "current_eta": "2026-06-22T00:35",
+    "risk_level": "Medium",
+    "breach_probability": 0.28,
+    "recommended_action": "Expedite shipment"
+  },
+  {
+    "sla_id": "SLA-00018",
+    "job_id": "J-00018",
+    "shipment_id": "SH-00018",
+    "SLA_target_time": "2026-06-12T14:00",
+    "current_eta": "2026-06-12T14:25",
+    "risk_level": "Low",
+    "breach_probability": 0.1,
+    "recommended_action": "Reassign engineer"
+  },
+  {
+    "sla_id": "SLA-00019",
+    "job_id": "J-00019",
+    "shipment_id": "SH-00019",
+    "SLA_target_time": "2026-06-18T13:00",
+    "current_eta": "2026-06-18T13:00",
+    "risk_level": "Low",
+    "breach_probability": 0.04,
+    "recommended_action": "Expedite shipment"
+  },
+  {
+    "sla_id": "SLA-00020",
+    "job_id": "J-00020",
+    "shipment_id": "SH-00020",
+    "SLA_target_time": "2026-06-08T22:00",
+    "current_eta": "2026-06-08T23:47",
+    "risk_level": "Medium",
+    "breach_probability": 0.41,
+    "recommended_action": "Switch carrier"
+  },
+  {
+    "sla_id": "SLA-00021",
+    "job_id": "J-00021",
+    "shipment_id": "SH-00021",
+    "SLA_target_time": "2026-06-05T16:00",
+    "current_eta": "2026-06-05T16:45",
+    "risk_level": "Low",
+    "breach_probability": 0.17,
+    "recommended_action": "Switch carrier"
+  },
+  {
+    "sla_id": "SLA-00022",
+    "job_id": "J-00022",
+    "shipment_id": "SH-00022",
+    "SLA_target_time": "2026-06-20T01:00",
+    "current_eta": "2026-06-20T01:31",
+    "risk_level": "Low",
+    "breach_probability": 0.27,
+    "recommended_action": "Pre-position part"
+  },
+  {
+    "sla_id": "SLA-00023",
+    "job_id": "J-00023",
+    "shipment_id": "SH-00023",
+    "SLA_target_time": "2026-06-19T09:00",
+    "current_eta": "2026-06-19T09:00",
+    "risk_level": "Low",
+    "breach_probability": 0.04,
+    "recommended_action": "Switch carrier"
+  },
+  {
+    "sla_id": "SLA-00024",
+    "job_id": "J-00024",
+    "shipment_id": "SH-00024",
+    "SLA_target_time": "2026-06-12T10:00",
+    "current_eta": "2026-06-12T12:23",
+    "risk_level": "High",
+    "breach_probability": 0.7,
+    "recommended_action": "Expedite shipment"
+  },
+  {
+    "sla_id": "SLA-00025",
+    "job_id": "J-00025",
+    "shipment_id": "SH-00025",
+    "SLA_target_time": "2026-06-21T13:00",
+    "current_eta": "2026-06-21T13:44",
+    "risk_level": "Low",
+    "breach_probability": 0.17,
+    "recommended_action": "Pre-position part"
+  },
+  {
+    "sla_id": "SLA-00026",
+    "job_id": "J-00026",
+    "shipment_id": "SH-00026",
+    "SLA_target_time": "2026-06-05T05:00",
+    "current_eta": "2026-06-05T06:07",
+    "risk_level": "Low",
+    "breach_probability": 0.26,
+    "recommended_action": "Reassign engineer"
+  },
+  {
+    "sla_id": "SLA-00027",
+    "job_id": "J-00027",
+    "shipment_id": "SH-00027",
+    "SLA_target_time": "2026-06-18T08:00",
+    "current_eta": "2026-06-18T09:28",
+    "risk_level": "Medium",
+    "breach_probability": 0.34,
+    "recommended_action": "Expedite shipment"
+  },
+  {
+    "sla_id": "SLA-00028",
+    "job_id": "J-00028",
+    "shipment_id": "SH-00028",
+    "SLA_target_time": "2026-06-17T22:00",
+    "current_eta": "2026-06-17T23:14",
+    "risk_level": "Medium",
+    "breach_probability": 0.28,
+    "recommended_action": "Reassign engineer"
+  },
+  {
+    "sla_id": "SLA-00029",
+    "job_id": "J-00029",
+    "shipment_id": "SH-00029",
+    "SLA_target_time": "2026-06-16T13:00",
+    "current_eta": "2026-06-16T13:59",
+    "risk_level": "Low",
+    "breach_probability": 0.23,
+    "recommended_action": "Reassign engineer"
+  },
+  {
+    "sla_id": "SLA-00030",
+    "job_id": "J-00030",
+    "shipment_id": "SH-00030",
+    "SLA_target_time": "2026-06-02T23:00",
+    "current_eta": "2026-06-03T04:44",
+    "risk_level": "High",
+    "breach_probability": 0.96,
+    "recommended_action": "Pre-position part"
+  },
+  {
+    "sla_id": "SLA-00031",
+    "job_id": "J-00031",
+    "shipment_id": "SH-00031",
+    "SLA_target_time": "2026-06-11T20:00",
+    "current_eta": "2026-06-11T20:11",
+    "risk_level": "Low",
+    "breach_probability": 0.04,
+    "recommended_action": "Switch carrier"
+  },
+  {
+    "sla_id": "SLA-00032",
+    "job_id": "J-00032",
+    "shipment_id": "SH-00032",
+    "SLA_target_time": "2026-06-16T00:00",
+    "current_eta": "2026-06-16T00:07",
+    "risk_level": "Low",
+    "breach_probability": 0.04,
+    "recommended_action": "Switch carrier"
+  },
+  {
+    "sla_id": "SLA-00033",
+    "job_id": "J-00033",
+    "shipment_id": "SH-00033",
+    "SLA_target_time": "2026-06-05T05:00",
+    "current_eta": "2026-06-05T05:37",
+    "risk_level": "Low",
+    "breach_probability": 0.14,
+    "recommended_action": "Switch carrier"
+  },
+  {
+    "sla_id": "SLA-00034",
+    "job_id": "J-00034",
+    "shipment_id": "SH-00034",
+    "SLA_target_time": "2026-06-09T18:00",
+    "current_eta": "2026-06-09T18:00",
+    "risk_level": "Low",
+    "breach_probability": 0.04,
+    "recommended_action": "Switch carrier"
+  },
+  {
+    "sla_id": "SLA-00035",
+    "job_id": "J-00035",
+    "shipment_id": "SH-00035",
+    "SLA_target_time": "2026-06-03T09:00",
+    "current_eta": "2026-06-03T09:49",
+    "risk_level": "Low",
+    "breach_probability": 0.19,
+    "recommended_action": "Expedite shipment"
+  },
+  {
+    "sla_id": "SLA-00036",
+    "job_id": "J-00036",
+    "shipment_id": "SH-00036",
+    "SLA_target_time": "2026-06-06T01:00",
+    "current_eta": "2026-06-06T02:07",
+    "risk_level": "Low",
+    "breach_probability": 0.26,
+    "recommended_action": "Expedite shipment"
+  },
+  {
+    "sla_id": "SLA-00037",
+    "job_id": "J-00037",
+    "shipment_id": "SH-00037",
+    "SLA_target_time": "2026-06-13T19:00",
+    "current_eta": "2026-06-13T19:00",
+    "risk_level": "Low",
+    "breach_probability": 0.04,
+    "recommended_action": "Switch carrier"
+  },
+  {
+    "sla_id": "SLA-00038",
+    "job_id": "J-00038",
+    "shipment_id": "SH-00038",
+    "SLA_target_time": "2026-06-05T19:00",
+    "current_eta": "2026-06-05T19:33",
+    "risk_level": "Low",
+    "breach_probability": 0.13,
+    "recommended_action": "Switch carrier"
+  },
+  {
+    "sla_id": "SLA-00039",
+    "job_id": "J-00039",
+    "shipment_id": "SH-00039",
+    "SLA_target_time": "2026-06-17T00:00",
+    "current_eta": "2026-06-17T00:22",
+    "risk_level": "Low",
+    "breach_probability": 0.08,
+    "recommended_action": "Reassign engineer"
+  },
+  {
+    "sla_id": "SLA-00040",
+    "job_id": "J-00040",
+    "shipment_id": "SH-00040",
+    "SLA_target_time": "2026-06-21T21:00",
+    "current_eta": "2026-06-21T21:24",
+    "risk_level": "Low",
+    "breach_probability": 0.09,
+    "recommended_action": "Reassign engineer"
+  },
+  {
+    "sla_id": "SLA-00041",
+    "job_id": "J-00041",
+    "shipment_id": "SH-00041",
+    "SLA_target_time": "2026-06-12T01:00",
+    "current_eta": "2026-06-12T02:23",
+    "risk_level": "Medium",
+    "breach_probability": 0.47,
+    "recommended_action": "Pre-position part"
+  },
+  {
+    "sla_id": "SLA-00042",
+    "job_id": "J-00042",
+    "shipment_id": "SH-00042",
+    "SLA_target_time": "2026-06-08T21:00",
+    "current_eta": "2026-06-08T21:00",
+    "risk_level": "Low",
+    "breach_probability": 0.04,
+    "recommended_action": "Switch carrier"
+  },
+  {
+    "sla_id": "SLA-00043",
+    "job_id": "J-00043",
+    "shipment_id": "SH-00043",
+    "SLA_target_time": "2026-06-06T07:00",
+    "current_eta": "2026-06-06T08:22",
+    "risk_level": "Medium",
+    "breach_probability": 0.47,
+    "recommended_action": "Reassign engineer"
+  },
+  {
+    "sla_id": "SLA-00044",
+    "job_id": "J-00044",
+    "shipment_id": "SH-00044",
+    "SLA_target_time": "2026-06-13T01:00",
+    "current_eta": "2026-06-13T03:49",
+    "risk_level": "High",
+    "breach_probability": 0.65,
+    "recommended_action": "Expedite shipment"
+  },
+  {
+    "sla_id": "SLA-00045",
+    "job_id": "J-00045",
+    "shipment_id": "SH-00045",
+    "SLA_target_time": "2026-06-08T18:00",
+    "current_eta": "2026-06-08T21:45",
+    "risk_level": "High",
+    "breach_probability": 0.87,
+    "recommended_action": "Expedite shipment"
+  },
+  {
+    "sla_id": "SLA-00046",
+    "job_id": "J-00046",
+    "shipment_id": "SH-00046",
+    "SLA_target_time": "2026-06-22T01:00",
+    "current_eta": "2026-06-22T01:00",
+    "risk_level": "Low",
+    "breach_probability": 0.04,
+    "recommended_action": "Reassign engineer"
+  },
+  {
+    "sla_id": "SLA-00047",
+    "job_id": "J-00047",
+    "shipment_id": "SH-00047",
+    "SLA_target_time": "2026-06-21T05:00",
+    "current_eta": "2026-06-21T05:22",
+    "risk_level": "Low",
+    "breach_probability": 0.08,
+    "recommended_action": "Pre-position part"
+  },
+  {
+    "sla_id": "SLA-00048",
+    "job_id": "J-00048",
+    "shipment_id": "SH-00048",
+    "SLA_target_time": "2026-06-17T19:00",
+    "current_eta": "2026-06-17T19:50",
+    "risk_level": "Low",
+    "breach_probability": 0.19,
+    "recommended_action": "Switch carrier"
+  },
+  {
+    "sla_id": "SLA-00049",
+    "job_id": "J-00049",
+    "shipment_id": "SH-00049",
+    "SLA_target_time": "2026-06-03T04:00",
+    "current_eta": "2026-06-03T07:28",
+    "risk_level": "High",
+    "breach_probability": 0.8,
+    "recommended_action": "Expedite shipment"
+  },
+  {
+    "sla_id": "SLA-00050",
+    "job_id": "J-00050",
+    "shipment_id": "SH-00050",
+    "SLA_target_time": "2026-06-11T02:00",
+    "current_eta": "2026-06-11T02:00",
+    "risk_level": "Low",
+    "breach_probability": 0.04,
+    "recommended_action": "Expedite shipment"
+  },
+  {
+    "sla_id": "SLA-00051",
+    "job_id": "J-00051",
+    "shipment_id": "SH-00051",
+    "SLA_target_time": "2026-06-18T21:00",
+    "current_eta": "2026-06-18T21:37",
+    "risk_level": "Low",
+    "breach_probability": 0.14,
+    "recommended_action": "Switch carrier"
+  },
+  {
+    "sla_id": "SLA-00052",
+    "job_id": "J-00052",
+    "shipment_id": "SH-00052",
+    "SLA_target_time": "2026-06-15T23:00",
+    "current_eta": "2026-06-15T23:25",
+    "risk_level": "Low",
+    "breach_probability": 0.1,
+    "recommended_action": "Switch carrier"
+  },
+  {
+    "sla_id": "SLA-00053",
+    "job_id": "J-00053",
+    "shipment_id": "SH-00053",
+    "SLA_target_time": "2026-06-12T00:00",
+    "current_eta": "2026-06-12T00:59",
+    "risk_level": "Low",
+    "breach_probability": 0.23,
+    "recommended_action": "Expedite shipment"
+  },
+  {
+    "sla_id": "SLA-00054",
+    "job_id": "J-00054",
+    "shipment_id": "SH-00054",
+    "SLA_target_time": "2026-06-16T16:00",
+    "current_eta": "2026-06-16T16:00",
+    "risk_level": "Low",
+    "breach_probability": 0.04,
+    "recommended_action": "Switch carrier"
+  },
+  {
+    "sla_id": "SLA-00055",
+    "job_id": "J-00055",
+    "shipment_id": "SH-00055",
+    "SLA_target_time": "2026-06-16T18:00",
+    "current_eta": "2026-06-16T18:43",
+    "risk_level": "Low",
+    "breach_probability": 0.17,
+    "recommended_action": "Switch carrier"
+  },
+  {
+    "sla_id": "SLA-00056",
+    "job_id": "J-00056",
+    "shipment_id": "SH-00056",
+    "SLA_target_time": "2026-06-20T21:00",
+    "current_eta": "2026-06-20T21:00",
+    "risk_level": "Low",
+    "breach_probability": 0.04,
+    "recommended_action": "Pre-position part"
+  },
+  {
+    "sla_id": "SLA-00057",
+    "job_id": "J-00057",
+    "shipment_id": "SH-00057",
+    "SLA_target_time": "2026-06-20T23:00",
+    "current_eta": "2026-06-21T03:03",
+    "risk_level": "High",
+    "breach_probability": 0.93,
+    "recommended_action": "Pre-position part"
+  },
+  {
+    "sla_id": "SLA-00058",
+    "job_id": "J-00058",
+    "shipment_id": "SH-00058",
+    "SLA_target_time": "2026-06-20T13:00",
+    "current_eta": "2026-06-20T13:00",
+    "risk_level": "Low",
+    "breach_probability": 0.04,
+    "recommended_action": "Pre-position part"
+  },
+  {
+    "sla_id": "SLA-00059",
+    "job_id": "J-00059",
+    "shipment_id": "SH-00059",
+    "SLA_target_time": "2026-06-15T02:00",
+    "current_eta": "2026-06-15T02:00",
+    "risk_level": "Low",
+    "breach_probability": 0.15,
+    "recommended_action": "Pre-position part"
+  },
+  {
+    "sla_id": "SLA-00060",
+    "job_id": "J-00060",
+    "shipment_id": "SH-00060",
+    "SLA_target_time": "2026-06-09T12:00",
+    "current_eta": "2026-06-09T12:00",
+    "risk_level": "Low",
+    "breach_probability": 0.04,
+    "recommended_action": "Reassign engineer"
+  },
+  {
+    "sla_id": "SLA-00061",
+    "job_id": "J-00061",
+    "shipment_id": "SH-00061",
+    "SLA_target_time": "2026-06-02T08:00",
+    "current_eta": "2026-06-02T08:46",
+    "risk_level": "Low",
+    "breach_probability": 0.18,
+    "recommended_action": "Expedite shipment"
+  },
+  {
+    "sla_id": "SLA-00062",
+    "job_id": "J-00062",
+    "shipment_id": "SH-00062",
+    "SLA_target_time": "2026-06-08T01:00",
+    "current_eta": "2026-06-08T05:47",
+    "risk_level": "High",
+    "breach_probability": 0.96,
+    "recommended_action": "Pre-position part"
+  },
+  {
+    "sla_id": "SLA-00063",
+    "job_id": "J-00063",
+    "shipment_id": "SH-00063",
+    "SLA_target_time": "2026-06-08T20:00",
+    "current_eta": "2026-06-08T21:00",
+    "risk_level": "Medium",
+    "breach_probability": 0.38,
+    "recommended_action": "Pre-position part"
+  },
+  {
+    "sla_id": "SLA-00064",
+    "job_id": "J-00064",
+    "shipment_id": "SH-00064",
+    "SLA_target_time": "2026-06-07T19:00",
+    "current_eta": "2026-06-07T21:08",
+    "risk_level": "Medium",
+    "breach_probability": 0.49,
+    "recommended_action": "Pre-position part"
+  },
+  {
+    "sla_id": "SLA-00065",
+    "job_id": "J-00065",
+    "shipment_id": "SH-00065",
+    "SLA_target_time": "2026-06-19T21:00",
+    "current_eta": "2026-06-19T22:03",
+    "risk_level": "Low",
+    "breach_probability": 0.24,
+    "recommended_action": "Reassign engineer"
+  },
+  {
+    "sla_id": "SLA-00066",
+    "job_id": "J-00066",
+    "shipment_id": "SH-00066",
+    "SLA_target_time": "2026-06-12T23:00",
+    "current_eta": "2026-06-12T23:02",
+    "risk_level": "Low",
+    "breach_probability": 0.04,
+    "recommended_action": "Pre-position part"
+  },
+  {
+    "sla_id": "SLA-00067",
+    "job_id": "J-00067",
+    "shipment_id": "SH-00067",
+    "SLA_target_time": "2026-06-01T18:00",
+    "current_eta": "2026-06-01T22:07",
+    "risk_level": "High",
+    "breach_probability": 0.95,
+    "recommended_action": "Reassign engineer"
+  },
+  {
+    "sla_id": "SLA-00068",
+    "job_id": "J-00068",
+    "shipment_id": "SH-00068",
+    "SLA_target_time": "2026-06-09T15:00",
+    "current_eta": "2026-06-09T17:04",
+    "risk_level": "Medium",
+    "breach_probability": 0.48,
+    "recommended_action": "Pre-position part"
+  },
+  {
+    "sla_id": "SLA-00069",
+    "job_id": "J-00069",
+    "shipment_id": "SH-00069",
+    "SLA_target_time": "2026-06-13T08:00",
+    "current_eta": "2026-06-13T08:00",
+    "risk_level": "Low",
+    "breach_probability": 0.04,
+    "recommended_action": "Reassign engineer"
+  },
+  {
+    "sla_id": "SLA-00070",
+    "job_id": "J-00070",
+    "shipment_id": "SH-00070",
+    "SLA_target_time": "2026-06-13T02:00",
+    "current_eta": "2026-06-13T02:40",
+    "risk_level": "Low",
+    "breach_probability": 0.15,
+    "recommended_action": "Expedite shipment"
+  },
+  {
+    "sla_id": "SLA-00071",
+    "job_id": "J-00071",
+    "shipment_id": "SH-00071",
+    "SLA_target_time": "2026-06-18T02:00",
+    "current_eta": "2026-06-18T02:00",
+    "risk_level": "Low",
+    "breach_probability": 0.15,
+    "recommended_action": "Expedite shipment"
+  },
+  {
+    "sla_id": "SLA-00072",
+    "job_id": "J-00072",
+    "shipment_id": "SH-00072",
+    "SLA_target_time": "2026-06-22T02:00",
+    "current_eta": "2026-06-22T02:40",
+    "risk_level": "Low",
+    "breach_probability": 0.15,
+    "recommended_action": "Expedite shipment"
+  },
+  {
+    "sla_id": "SLA-00073",
+    "job_id": "J-00073",
+    "shipment_id": "SH-00073",
+    "SLA_target_time": "2026-06-17T07:00",
+    "current_eta": "2026-06-17T07:41",
+    "risk_level": "Low",
+    "breach_probability": 0.16,
+    "recommended_action": "Switch carrier"
+  },
+  {
+    "sla_id": "SLA-00074",
+    "job_id": "J-00074",
+    "shipment_id": "SH-00074",
+    "SLA_target_time": "2026-06-13T04:00",
+    "current_eta": "2026-06-13T05:50",
+    "risk_level": "Medium",
+    "breach_probability": 0.42,
+    "recommended_action": "Expedite shipment"
+  },
+  {
+    "sla_id": "SLA-00075",
+    "job_id": "J-00075",
+    "shipment_id": "SH-00075",
+    "SLA_target_time": "2026-06-12T19:00",
+    "current_eta": "2026-06-12T20:53",
+    "risk_level": "Medium",
+    "breach_probability": 0.43,
+    "recommended_action": "Pre-position part"
+  },
+  {
+    "sla_id": "SLA-00076",
+    "job_id": "J-00076",
+    "shipment_id": "SH-00076",
+    "SLA_target_time": "2026-06-06T21:00",
+    "current_eta": "2026-06-06T22:32",
+    "risk_level": "Medium",
+    "breach_probability": 0.5,
+    "recommended_action": "Switch carrier"
+  },
+  {
+    "sla_id": "SLA-00077",
+    "job_id": "J-00077",
+    "shipment_id": "SH-00077",
+    "SLA_target_time": "2026-06-09T21:00",
+    "current_eta": "2026-06-09T21:00",
+    "risk_level": "Low",
+    "breach_probability": 0.04,
+    "recommended_action": "Expedite shipment"
+  },
+  {
+    "sla_id": "SLA-00078",
+    "job_id": "J-00078",
+    "shipment_id": "SH-00078",
+    "SLA_target_time": "2026-06-03T04:00",
+    "current_eta": "2026-06-03T05:22",
+    "risk_level": "Medium",
+    "breach_probability": 0.32,
+    "recommended_action": "Switch carrier"
+  },
+  {
+    "sla_id": "SLA-00079",
+    "job_id": "J-00079",
+    "shipment_id": "SH-00079",
+    "SLA_target_time": "2026-06-15T15:00",
+    "current_eta": "2026-06-15T15:00",
+    "risk_level": "Low",
+    "breach_probability": 0.15,
+    "recommended_action": "Switch carrier"
+  },
+  {
+    "sla_id": "SLA-00080",
+    "job_id": "J-00080",
+    "shipment_id": "SH-00080",
+    "SLA_target_time": "2026-06-01T15:00",
+    "current_eta": "2026-06-01T15:36",
+    "risk_level": "Low",
+    "breach_probability": 0.14,
+    "recommended_action": "Pre-position part"
+  },
+  {
+    "sla_id": "SLA-00081",
+    "job_id": "J-00081",
+    "shipment_id": "SH-00081",
+    "SLA_target_time": "2026-06-14T08:00",
+    "current_eta": "2026-06-14T10:13",
+    "risk_level": "Medium",
+    "breach_probability": 0.51,
+    "recommended_action": "Switch carrier"
+  },
+  {
+    "sla_id": "SLA-00082",
+    "job_id": "J-00082",
+    "shipment_id": "SH-00082",
+    "SLA_target_time": "2026-06-04T09:00",
+    "current_eta": "2026-06-04T09:58",
+    "risk_level": "Medium",
+    "breach_probability": 0.37,
+    "recommended_action": "Reassign engineer"
+  },
+  {
+    "sla_id": "SLA-00083",
+    "job_id": "J-00083",
+    "shipment_id": "SH-00083",
+    "SLA_target_time": "2026-06-21T12:00",
+    "current_eta": "2026-06-21T13:14",
+    "risk_level": "Medium",
+    "breach_probability": 0.28,
+    "recommended_action": "Pre-position part"
+  },
+  {
+    "sla_id": "SLA-00084",
+    "job_id": "J-00084",
+    "shipment_id": "SH-00084",
+    "SLA_target_time": "2026-06-11T09:00",
+    "current_eta": "2026-06-11T09:15",
+    "risk_level": "Low",
+    "breach_probability": 0.06,
+    "recommended_action": "Reassign engineer"
+  },
+  {
+    "sla_id": "SLA-00085",
+    "job_id": "J-00085",
+    "shipment_id": "SH-00085",
+    "SLA_target_time": "2026-06-07T20:00",
+    "current_eta": "2026-06-07T20:00",
+    "risk_level": "Low",
+    "breach_probability": 0.04,
+    "recommended_action": "Switch carrier"
+  },
+  {
+    "sla_id": "SLA-00086",
+    "job_id": "J-00086",
+    "shipment_id": "SH-00086",
+    "SLA_target_time": "2026-06-11T23:00",
+    "current_eta": "2026-06-12T00:39",
+    "risk_level": "Medium",
+    "breach_probability": 0.38,
+    "recommended_action": "Expedite shipment"
+  },
+  {
+    "sla_id": "SLA-00087",
+    "job_id": "J-00087",
+    "shipment_id": "SH-00087",
+    "SLA_target_time": "2026-06-12T12:00",
+    "current_eta": "2026-06-12T15:18",
+    "risk_level": "High",
+    "breach_probability": 0.76,
+    "recommended_action": "Switch carrier"
+  },
+  {
+    "sla_id": "SLA-00088",
+    "job_id": "J-00088",
+    "shipment_id": "SH-00088",
+    "SLA_target_time": "2026-06-01T15:00",
+    "current_eta": "2026-06-01T15:00",
+    "risk_level": "Low",
+    "breach_probability": 0.04,
+    "recommended_action": "Expedite shipment"
+  },
+  {
+    "sla_id": "SLA-00089",
+    "job_id": "J-00089",
+    "shipment_id": "SH-00089",
+    "SLA_target_time": "2026-06-19T08:00",
+    "current_eta": "2026-06-19T08:14",
+    "risk_level": "Low",
+    "breach_probability": 0.05,
+    "recommended_action": "Reassign engineer"
+  },
+  {
+    "sla_id": "SLA-00090",
+    "job_id": "J-00090",
+    "shipment_id": "SH-00090",
+    "SLA_target_time": "2026-06-03T17:00",
+    "current_eta": "2026-06-03T17:00",
+    "risk_level": "Low",
+    "breach_probability": 0.04,
+    "recommended_action": "Reassign engineer"
+  },
+  {
+    "sla_id": "SLA-00091",
+    "job_id": "J-00091",
+    "shipment_id": "SH-00091",
+    "SLA_target_time": "2026-06-11T02:00",
+    "current_eta": "2026-06-11T02:00",
+    "risk_level": "Low",
+    "breach_probability": 0.04,
+    "recommended_action": "Expedite shipment"
+  },
+  {
+    "sla_id": "SLA-00092",
+    "job_id": "J-00092",
+    "shipment_id": "SH-00092",
+    "SLA_target_time": "2026-06-07T09:00",
+    "current_eta": "2026-06-07T11:04",
+    "risk_level": "Medium",
+    "breach_probability": 0.48,
+    "recommended_action": "Switch carrier"
+  },
+  {
+    "sla_id": "SLA-00093",
+    "job_id": "J-00093",
+    "shipment_id": "SH-00093",
+    "SLA_target_time": "2026-06-14T09:00",
+    "current_eta": "2026-06-14T09:25",
+    "risk_level": "Low",
+    "breach_probability": 0.1,
+    "recommended_action": "Expedite shipment"
+  },
+  {
+    "sla_id": "SLA-00094",
+    "job_id": "J-00094",
+    "shipment_id": "SH-00094",
+    "SLA_target_time": "2026-06-06T20:00",
+    "current_eta": "2026-06-06T20:00",
+    "risk_level": "Low",
+    "breach_probability": 0.15,
+    "recommended_action": "Reassign engineer"
+  },
+  {
+    "sla_id": "SLA-00095",
+    "job_id": "J-00095",
+    "shipment_id": "SH-00095",
+    "SLA_target_time": "2026-06-04T07:00",
+    "current_eta": "2026-06-04T09:28",
+    "risk_level": "High",
+    "breach_probability": 0.57,
+    "recommended_action": "Expedite shipment"
+  },
+  {
+    "sla_id": "SLA-00096",
+    "job_id": "J-00096",
+    "shipment_id": "SH-00096",
+    "SLA_target_time": "2026-06-08T06:00",
+    "current_eta": "2026-06-08T06:41",
+    "risk_level": "Low",
+    "breach_probability": 0.16,
+    "recommended_action": "Reassign engineer"
+  },
+  {
+    "sla_id": "SLA-00097",
+    "job_id": "J-00097",
+    "shipment_id": "SH-00097",
+    "SLA_target_time": "2026-06-16T07:00",
+    "current_eta": "2026-06-16T08:20",
+    "risk_level": "Medium",
+    "breach_probability": 0.31,
+    "recommended_action": "Expedite shipment"
+  },
+  {
+    "sla_id": "SLA-00098",
+    "job_id": "J-00098",
+    "shipment_id": "SH-00098",
+    "SLA_target_time": "2026-06-18T15:00",
+    "current_eta": "2026-06-18T17:40",
+    "risk_level": "High",
+    "breach_probability": 0.77,
+    "recommended_action": "Expedite shipment"
+  },
+  {
+    "sla_id": "SLA-00099",
+    "job_id": "J-00099",
+    "shipment_id": "SH-00099",
+    "SLA_target_time": "2026-06-02T00:00",
+    "current_eta": "2026-06-02T00:34",
+    "risk_level": "Low",
+    "breach_probability": 0.13,
+    "recommended_action": "Reassign engineer"
+  },
+  {
+    "sla_id": "SLA-00100",
+    "job_id": "J-00100",
+    "shipment_id": "SH-00100",
+    "SLA_target_time": "2026-06-05T03:00",
+    "current_eta": "2026-06-05T04:31",
+    "risk_level": "Medium",
+    "breach_probability": 0.5,
+    "recommended_action": "Pre-position part"
+  },
+  {
+    "sla_id": "SLA-00101",
+    "job_id": "J-00101",
+    "shipment_id": "SH-00101",
+    "SLA_target_time": "2026-06-04T21:00",
+    "current_eta": "2026-06-05T00:12",
+    "risk_level": "High",
+    "breach_probability": 0.74,
+    "recommended_action": "Reassign engineer"
+  },
+  {
+    "sla_id": "SLA-00102",
+    "job_id": "J-00102",
+    "shipment_id": "SH-00102",
+    "SLA_target_time": "2026-06-20T07:00",
+    "current_eta": "2026-06-20T08:47",
+    "risk_level": "Medium",
+    "breach_probability": 0.41,
+    "recommended_action": "Pre-position part"
+  },
+  {
+    "sla_id": "SLA-00103",
+    "job_id": "J-00103",
+    "shipment_id": "SH-00103",
+    "SLA_target_time": "2026-06-22T15:00",
+    "current_eta": "2026-06-22T19:11",
+    "risk_level": "High",
+    "breach_probability": 0.96,
+    "recommended_action": "Switch carrier"
+  },
+  {
+    "sla_id": "SLA-00104",
+    "job_id": "J-00104",
+    "shipment_id": "SH-00104",
+    "SLA_target_time": "2026-06-15T00:00",
+    "current_eta": "2026-06-15T00:06",
+    "risk_level": "Low",
+    "breach_probability": 0.04,
+    "recommended_action": "Pre-position part"
+  },
+  {
+    "sla_id": "SLA-00105",
+    "job_id": "J-00105",
+    "shipment_id": "SH-00105",
+    "SLA_target_time": "2026-06-20T15:00",
+    "current_eta": "2026-06-20T17:36",
+    "risk_level": "High",
+    "breach_probability": 0.75,
+    "recommended_action": "Pre-position part"
+  },
+  {
+    "sla_id": "SLA-00106",
+    "job_id": "J-00106",
+    "shipment_id": "SH-00106",
+    "SLA_target_time": "2026-06-21T22:00",
+    "current_eta": "2026-06-21T22:43",
+    "risk_level": "Low",
+    "breach_probability": 0.17,
+    "recommended_action": "Expedite shipment"
+  },
+  {
+    "sla_id": "SLA-00107",
+    "job_id": "J-00107",
+    "shipment_id": "SH-00107",
+    "SLA_target_time": "2026-06-04T17:00",
+    "current_eta": "2026-06-04T20:36",
+    "risk_level": "High",
+    "breach_probability": 0.83,
+    "recommended_action": "Expedite shipment"
+  },
+  {
+    "sla_id": "SLA-00108",
+    "job_id": "J-00108",
+    "shipment_id": "SH-00108",
+    "SLA_target_time": "2026-06-16T17:00",
+    "current_eta": "2026-06-16T17:00",
+    "risk_level": "Low",
+    "breach_probability": 0.04,
+    "recommended_action": "Pre-position part"
+  },
+  {
+    "sla_id": "SLA-00109",
+    "job_id": "J-00109",
+    "shipment_id": "SH-00109",
+    "SLA_target_time": "2026-06-18T11:00",
+    "current_eta": "2026-06-18T16:07",
+    "risk_level": "High",
+    "breach_probability": 0.96,
+    "recommended_action": "Reassign engineer"
+  },
+  {
+    "sla_id": "SLA-00110",
+    "job_id": "J-00110",
+    "shipment_id": "SH-00110",
+    "SLA_target_time": "2026-06-12T17:00",
+    "current_eta": "2026-06-12T20:04",
+    "risk_level": "High",
+    "breach_probability": 0.86,
+    "recommended_action": "Expedite shipment"
+  },
+  {
+    "sla_id": "SLA-00111",
+    "job_id": "J-00111",
+    "shipment_id": "SH-00111",
+    "SLA_target_time": "2026-06-18T06:00",
+    "current_eta": "2026-06-18T06:00",
+    "risk_level": "Low",
+    "breach_probability": 0.04,
+    "recommended_action": "Expedite shipment"
+  },
+  {
+    "sla_id": "SLA-00112",
+    "job_id": "J-00112",
+    "shipment_id": "SH-00112",
+    "SLA_target_time": "2026-06-22T05:00",
+    "current_eta": "2026-06-22T05:14",
+    "risk_level": "Low",
+    "breach_probability": 0.05,
+    "recommended_action": "Reassign engineer"
+  },
+  {
+    "sla_id": "SLA-00113",
+    "job_id": "J-00113",
+    "shipment_id": "SH-00113",
+    "SLA_target_time": "2026-06-09T20:00",
+    "current_eta": "2026-06-09T21:36",
+    "risk_level": "Medium",
+    "breach_probability": 0.37,
+    "recommended_action": "Expedite shipment"
+  },
+  {
+    "sla_id": "SLA-00114",
+    "job_id": "J-00114",
+    "shipment_id": "SH-00114",
+    "SLA_target_time": "2026-06-18T02:00",
+    "current_eta": "2026-06-18T05:38",
+    "risk_level": "High",
+    "breach_probability": 0.84,
+    "recommended_action": "Pre-position part"
+  },
+  {
+    "sla_id": "SLA-00115",
+    "job_id": "J-00115",
+    "shipment_id": "SH-00115",
+    "SLA_target_time": "2026-06-18T12:00",
+    "current_eta": "2026-06-18T12:44",
+    "risk_level": "Medium",
+    "breach_probability": 0.32,
+    "recommended_action": "Switch carrier"
+  },
+  {
+    "sla_id": "SLA-00116",
+    "job_id": "J-00116",
+    "shipment_id": "SH-00116",
+    "SLA_target_time": "2026-06-03T09:00",
+    "current_eta": "2026-06-03T09:00",
+    "risk_level": "Low",
+    "breach_probability": 0.04,
+    "recommended_action": "Pre-position part"
+  },
+  {
+    "sla_id": "SLA-00117",
+    "job_id": "J-00117",
+    "shipment_id": "SH-00117",
+    "SLA_target_time": "2026-06-02T18:00",
+    "current_eta": "2026-06-02T18:29",
+    "risk_level": "Low",
+    "breach_probability": 0.11,
+    "recommended_action": "Expedite shipment"
+  },
+  {
+    "sla_id": "SLA-00118",
+    "job_id": "J-00118",
+    "shipment_id": "SH-00118",
+    "SLA_target_time": "2026-06-05T05:00",
+    "current_eta": "2026-06-05T05:00",
+    "risk_level": "Low",
+    "breach_probability": 0.15,
+    "recommended_action": "Switch carrier"
+  },
+  {
+    "sla_id": "SLA-00119",
+    "job_id": "J-00119",
+    "shipment_id": "SH-00119",
+    "SLA_target_time": "2026-06-08T04:00",
+    "current_eta": "2026-06-08T05:13",
+    "risk_level": "Medium",
+    "breach_probability": 0.28,
+    "recommended_action": "Switch carrier"
+  },
+  {
+    "sla_id": "SLA-00120",
+    "job_id": "J-00120",
+    "shipment_id": "SH-00120",
+    "SLA_target_time": "2026-06-11T21:00",
+    "current_eta": "2026-06-11T22:07",
+    "risk_level": "Medium",
+    "breach_probability": 0.41,
+    "recommended_action": "Pre-position part"
+  },
+  {
+    "sla_id": "SLA-00121",
+    "job_id": "J-00121",
+    "shipment_id": "SH-00121",
+    "SLA_target_time": "2026-06-20T14:00",
+    "current_eta": "2026-06-20T16:07",
+    "risk_level": "Medium",
+    "breach_probability": 0.49,
+    "recommended_action": "Pre-position part"
+  },
+  {
+    "sla_id": "SLA-00122",
+    "job_id": "J-00122",
+    "shipment_id": "SH-00122",
+    "SLA_target_time": "2026-06-03T21:00",
+    "current_eta": "2026-06-03T21:25",
+    "risk_level": "Low",
+    "breach_probability": 0.1,
+    "recommended_action": "Reassign engineer"
+  },
+  {
+    "sla_id": "SLA-00123",
+    "job_id": "J-00123",
+    "shipment_id": "SH-00123",
+    "SLA_target_time": "2026-06-09T19:00",
+    "current_eta": "2026-06-09T23:51",
+    "risk_level": "High",
+    "breach_probability": 0.96,
+    "recommended_action": "Pre-position part"
+  },
+  {
+    "sla_id": "SLA-00124",
+    "job_id": "J-00124",
+    "shipment_id": "SH-00124",
+    "SLA_target_time": "2026-06-09T06:00",
+    "current_eta": "2026-06-09T06:00",
+    "risk_level": "Low",
+    "breach_probability": 0.15,
+    "recommended_action": "Reassign engineer"
+  },
+  {
+    "sla_id": "SLA-00125",
+    "job_id": "J-00125",
+    "shipment_id": "SH-00125",
+    "SLA_target_time": "2026-06-06T06:00",
+    "current_eta": "2026-06-06T07:02",
+    "risk_level": "Low",
+    "breach_probability": 0.24,
+    "recommended_action": "Switch carrier"
+  },
+  {
+    "sla_id": "SLA-00126",
+    "job_id": "J-00126",
+    "shipment_id": "SH-00126",
+    "SLA_target_time": "2026-06-11T17:00",
+    "current_eta": "2026-06-11T18:01",
+    "risk_level": "Medium",
+    "breach_probability": 0.38,
+    "recommended_action": "Switch carrier"
+  },
+  {
+    "sla_id": "SLA-00127",
+    "job_id": "J-00127",
+    "shipment_id": "SH-00127",
+    "SLA_target_time": "2026-06-23T02:00",
+    "current_eta": "2026-06-23T02:00",
+    "risk_level": "Low",
+    "breach_probability": 0.04,
+    "recommended_action": "Reassign engineer"
+  },
+  {
+    "sla_id": "SLA-00128",
+    "job_id": "J-00128",
+    "shipment_id": "SH-00128",
+    "SLA_target_time": "2026-06-19T06:00",
+    "current_eta": "2026-06-19T06:00",
+    "risk_level": "Low",
+    "breach_probability": 0.04,
+    "recommended_action": "Expedite shipment"
+  },
+  {
+    "sla_id": "SLA-00129",
+    "job_id": "J-00129",
+    "shipment_id": "SH-00129",
+    "SLA_target_time": "2026-06-05T01:00",
+    "current_eta": "2026-06-05T01:16",
+    "risk_level": "Low",
+    "breach_probability": 0.21,
+    "recommended_action": "Switch carrier"
+  },
+  {
+    "sla_id": "SLA-00130",
+    "job_id": "J-00130",
+    "shipment_id": "SH-00130",
+    "SLA_target_time": "2026-06-10T15:00",
+    "current_eta": "2026-06-10T15:00",
+    "risk_level": "Low",
+    "breach_probability": 0.04,
+    "recommended_action": "Reassign engineer"
+  },
+  {
+    "sla_id": "SLA-00131",
+    "job_id": "J-00131",
+    "shipment_id": "SH-00131",
+    "SLA_target_time": "2026-06-11T15:00",
+    "current_eta": "2026-06-11T15:00",
+    "risk_level": "Low",
+    "breach_probability": 0.04,
+    "recommended_action": "Pre-position part"
+  },
+  {
+    "sla_id": "SLA-00132",
+    "job_id": "J-00132",
+    "shipment_id": "SH-00132",
+    "SLA_target_time": "2026-06-15T01:00",
+    "current_eta": "2026-06-15T01:16",
+    "risk_level": "Low",
+    "breach_probability": 0.06,
+    "recommended_action": "Pre-position part"
+  },
+  {
+    "sla_id": "SLA-00133",
+    "job_id": "J-00133",
+    "shipment_id": "SH-00133",
+    "SLA_target_time": "2026-06-12T10:00",
+    "current_eta": "2026-06-12T10:00",
+    "risk_level": "Low",
+    "breach_probability": 0.04,
+    "recommended_action": "Reassign engineer"
+  },
+  {
+    "sla_id": "SLA-00134",
+    "job_id": "J-00134",
+    "shipment_id": "SH-00134",
+    "SLA_target_time": "2026-06-19T09:00",
+    "current_eta": "2026-06-19T09:33",
+    "risk_level": "Low",
+    "breach_probability": 0.13,
+    "recommended_action": "Expedite shipment"
+  },
+  {
+    "sla_id": "SLA-00135",
+    "job_id": "J-00135",
+    "shipment_id": "SH-00135",
+    "SLA_target_time": "2026-06-21T09:00",
+    "current_eta": "2026-06-21T09:38",
+    "risk_level": "Low",
+    "breach_probability": 0.15,
+    "recommended_action": "Pre-position part"
+  },
+  {
+    "sla_id": "SLA-00136",
+    "job_id": "J-00136",
+    "shipment_id": "SH-00136",
+    "SLA_target_time": "2026-06-07T19:00",
+    "current_eta": "2026-06-07T22:26",
+    "risk_level": "High",
+    "breach_probability": 0.79,
+    "recommended_action": "Pre-position part"
+  },
+  {
+    "sla_id": "SLA-00137",
+    "job_id": "J-00137",
+    "shipment_id": "SH-00137",
+    "SLA_target_time": "2026-06-19T00:00",
+    "current_eta": "2026-06-19T02:35",
+    "risk_level": "High",
+    "breach_probability": 0.6,
+    "recommended_action": "Pre-position part"
+  },
+  {
+    "sla_id": "SLA-00138",
+    "job_id": "J-00138",
+    "shipment_id": "SH-00138",
+    "SLA_target_time": "2026-06-05T09:00",
+    "current_eta": "2026-06-05T12:53",
+    "risk_level": "High",
+    "breach_probability": 0.9,
+    "recommended_action": "Switch carrier"
+  },
+  {
+    "sla_id": "SLA-00139",
+    "job_id": "J-00139",
+    "shipment_id": "SH-00139",
+    "SLA_target_time": "2026-06-13T19:00",
+    "current_eta": "2026-06-13T20:07",
+    "risk_level": "Medium",
+    "breach_probability": 0.41,
+    "recommended_action": "Pre-position part"
+  },
+  {
+    "sla_id": "SLA-00140",
+    "job_id": "J-00140",
+    "shipment_id": "SH-00140",
+    "SLA_target_time": "2026-06-14T03:00",
+    "current_eta": "2026-06-14T03:36",
+    "risk_level": "Low",
+    "breach_probability": 0.14,
+    "recommended_action": "Expedite shipment"
+  },
+  {
+    "sla_id": "SLA-00141",
+    "job_id": "J-00141",
+    "shipment_id": "SH-00141",
+    "SLA_target_time": "2026-06-16T13:00",
+    "current_eta": "2026-06-16T13:00",
+    "risk_level": "Low",
+    "breach_probability": 0.04,
+    "recommended_action": "Pre-position part"
+  },
+  {
+    "sla_id": "SLA-00142",
+    "job_id": "J-00142",
+    "shipment_id": "SH-00142",
+    "SLA_target_time": "2026-06-08T03:00",
+    "current_eta": "2026-06-08T04:31",
+    "risk_level": "Medium",
+    "breach_probability": 0.35,
+    "recommended_action": "Reassign engineer"
+  },
+  {
+    "sla_id": "SLA-00143",
+    "job_id": "J-00143",
+    "shipment_id": "SH-00143",
+    "SLA_target_time": "2026-06-12T05:00",
+    "current_eta": "2026-06-12T05:19",
+    "risk_level": "Low",
+    "breach_probability": 0.07,
+    "recommended_action": "Pre-position part"
+  },
+  {
+    "sla_id": "SLA-00144",
+    "job_id": "J-00144",
+    "shipment_id": "SH-00144",
+    "SLA_target_time": "2026-06-18T03:00",
+    "current_eta": "2026-06-18T03:48",
+    "risk_level": "Low",
+    "breach_probability": 0.18,
+    "recommended_action": "Reassign engineer"
+  },
+  {
+    "sla_id": "SLA-00145",
+    "job_id": "J-00145",
+    "shipment_id": "SH-00145",
+    "SLA_target_time": "2026-06-17T16:00",
+    "current_eta": "2026-06-17T16:00",
+    "risk_level": "Low",
+    "breach_probability": 0.04,
+    "recommended_action": "Switch carrier"
+  },
+  {
+    "sla_id": "SLA-00146",
+    "job_id": "J-00146",
+    "shipment_id": "SH-00146",
+    "SLA_target_time": "2026-06-10T12:00",
+    "current_eta": "2026-06-10T13:00",
+    "risk_level": "Low",
+    "breach_probability": 0.23,
+    "recommended_action": "Reassign engineer"
+  },
+  {
+    "sla_id": "SLA-00147",
+    "job_id": "J-00147",
+    "shipment_id": "SH-00147",
+    "SLA_target_time": "2026-06-14T22:00",
+    "current_eta": "2026-06-14T22:00",
+    "risk_level": "Low",
+    "breach_probability": 0.04,
+    "recommended_action": "Switch carrier"
+  },
+  {
+    "sla_id": "SLA-00148",
+    "job_id": "J-00148",
+    "shipment_id": "SH-00148",
+    "SLA_target_time": "2026-06-14T15:00",
+    "current_eta": "2026-06-14T15:13",
+    "risk_level": "Low",
+    "breach_probability": 0.2,
+    "recommended_action": "Expedite shipment"
+  },
+  {
+    "sla_id": "SLA-00149",
+    "job_id": "J-00149",
+    "shipment_id": "SH-00149",
+    "SLA_target_time": "2026-06-23T02:00",
+    "current_eta": "2026-06-23T02:55",
+    "risk_level": "Medium",
+    "breach_probability": 0.36,
+    "recommended_action": "Reassign engineer"
+  },
+  {
+    "sla_id": "SLA-00150",
+    "job_id": "J-00150",
+    "shipment_id": "SH-00150",
+    "SLA_target_time": "2026-06-21T07:00",
+    "current_eta": "2026-06-21T07:46",
+    "risk_level": "Low",
+    "breach_probability": 0.18,
+    "recommended_action": "Expedite shipment"
+  },
+  {
+    "sla_id": "SLA-00151",
+    "job_id": "J-00151",
+    "shipment_id": "SH-00151",
+    "SLA_target_time": "2026-06-10T02:00",
+    "current_eta": "2026-06-10T02:00",
+    "risk_level": "Low",
+    "breach_probability": 0.04,
+    "recommended_action": "Reassign engineer"
+  },
+  {
+    "sla_id": "SLA-00152",
+    "job_id": "J-00152",
+    "shipment_id": "SH-00152",
+    "SLA_target_time": "2026-06-17T19:00",
+    "current_eta": "2026-06-17T19:07",
+    "risk_level": "Low",
+    "breach_probability": 0.18,
+    "recommended_action": "Pre-position part"
+  },
+  {
+    "sla_id": "SLA-00153",
+    "job_id": "J-00153",
+    "shipment_id": "SH-00153",
+    "SLA_target_time": "2026-06-10T11:00",
+    "current_eta": "2026-06-10T11:00",
+    "risk_level": "Low",
+    "breach_probability": 0.15,
+    "recommended_action": "Pre-position part"
+  },
+  {
+    "sla_id": "SLA-00154",
+    "job_id": "J-00154",
+    "shipment_id": "SH-00154",
+    "SLA_target_time": "2026-06-06T10:00",
+    "current_eta": "2026-06-06T10:00",
+    "risk_level": "Low",
+    "breach_probability": 0.04,
+    "recommended_action": "Pre-position part"
+  },
+  {
+    "sla_id": "SLA-00155",
+    "job_id": "J-00155",
+    "shipment_id": "SH-00155",
+    "SLA_target_time": "2026-06-05T21:00",
+    "current_eta": "2026-06-05T21:00",
+    "risk_level": "Low",
+    "breach_probability": 0.15,
+    "recommended_action": "Reassign engineer"
+  },
+  {
+    "sla_id": "SLA-00156",
+    "job_id": "J-00156",
+    "shipment_id": "SH-00156",
+    "SLA_target_time": "2026-06-11T15:00",
+    "current_eta": "2026-06-11T15:00",
+    "risk_level": "Low",
+    "breach_probability": 0.04,
+    "recommended_action": "Expedite shipment"
+  },
+  {
+    "sla_id": "SLA-00157",
+    "job_id": "J-00157",
+    "shipment_id": "SH-00157",
+    "SLA_target_time": "2026-06-05T01:00",
+    "current_eta": "2026-06-05T01:36",
+    "risk_level": "Medium",
+    "breach_probability": 0.29,
+    "recommended_action": "Reassign engineer"
+  },
+  {
+    "sla_id": "SLA-00158",
+    "job_id": "J-00158",
+    "shipment_id": "SH-00158",
+    "SLA_target_time": "2026-06-09T01:00",
+    "current_eta": "2026-06-09T02:32",
+    "risk_level": "Medium",
+    "breach_probability": 0.35,
+    "recommended_action": "Switch carrier"
+  },
+  {
+    "sla_id": "SLA-00159",
+    "job_id": "J-00159",
+    "shipment_id": "SH-00159",
+    "SLA_target_time": "2026-06-14T23:00",
+    "current_eta": "2026-06-15T01:41",
+    "risk_level": "High",
+    "breach_probability": 0.77,
+    "recommended_action": "Expedite shipment"
+  },
+  {
+    "sla_id": "SLA-00160",
+    "job_id": "J-00160",
+    "shipment_id": "SH-00160",
+    "SLA_target_time": "2026-06-17T16:00",
+    "current_eta": "2026-06-17T16:46",
+    "risk_level": "Low",
+    "breach_probability": 0.18,
+    "recommended_action": "Pre-position part"
+  },
+  {
+    "sla_id": "SLA-00161",
+    "job_id": "J-00161",
+    "shipment_id": "SH-00161",
+    "SLA_target_time": "2026-06-22T21:00",
+    "current_eta": "2026-06-23T00:27",
+    "risk_level": "High",
+    "breach_probability": 0.8,
+    "recommended_action": "Pre-position part"
+  },
+  {
+    "sla_id": "SLA-00162",
+    "job_id": "J-00162",
+    "shipment_id": "SH-00162",
+    "SLA_target_time": "2026-06-16T06:00",
+    "current_eta": "2026-06-16T06:00",
+    "risk_level": "Low",
+    "breach_probability": 0.04,
+    "recommended_action": "Reassign engineer"
+  },
+  {
+    "sla_id": "SLA-00163",
+    "job_id": "J-00163",
+    "shipment_id": "SH-00163",
+    "SLA_target_time": "2026-06-17T01:00",
+    "current_eta": "2026-06-17T01:00",
+    "risk_level": "Low",
+    "breach_probability": 0.15,
+    "recommended_action": "Reassign engineer"
+  },
+  {
+    "sla_id": "SLA-00164",
+    "job_id": "J-00164",
+    "shipment_id": "SH-00164",
+    "SLA_target_time": "2026-06-23T03:00",
+    "current_eta": "2026-06-23T03:00",
+    "risk_level": "Low",
+    "breach_probability": 0.04,
+    "recommended_action": "Pre-position part"
+  },
+  {
+    "sla_id": "SLA-00165",
+    "job_id": "J-00165",
+    "shipment_id": "SH-00165",
+    "SLA_target_time": "2026-06-12T10:00",
+    "current_eta": "2026-06-12T11:24",
+    "risk_level": "Medium",
+    "breach_probability": 0.32,
+    "recommended_action": "Expedite shipment"
+  },
+  {
+    "sla_id": "SLA-00166",
+    "job_id": "J-00166",
+    "shipment_id": "SH-00166",
+    "SLA_target_time": "2026-06-22T10:00",
+    "current_eta": "2026-06-22T10:55",
+    "risk_level": "Low",
+    "breach_probability": 0.21,
+    "recommended_action": "Pre-position part"
+  },
+  {
+    "sla_id": "SLA-00167",
+    "job_id": "J-00167",
+    "shipment_id": "SH-00167",
+    "SLA_target_time": "2026-06-12T04:00",
+    "current_eta": "2026-06-12T05:25",
+    "risk_level": "Medium",
+    "breach_probability": 0.33,
+    "recommended_action": "Pre-position part"
+  },
+  {
+    "sla_id": "SLA-00168",
+    "job_id": "J-00168",
+    "shipment_id": "SH-00168",
+    "SLA_target_time": "2026-06-16T07:00",
+    "current_eta": "2026-06-16T07:36",
+    "risk_level": "Low",
+    "breach_probability": 0.14,
+    "recommended_action": "Reassign engineer"
+  },
+  {
+    "sla_id": "SLA-00169",
+    "job_id": "J-00169",
+    "shipment_id": "SH-00169",
+    "SLA_target_time": "2026-06-07T08:00",
+    "current_eta": "2026-06-07T08:41",
+    "risk_level": "Low",
+    "breach_probability": 0.16,
+    "recommended_action": "Pre-position part"
+  },
+  {
+    "sla_id": "SLA-00170",
+    "job_id": "J-00170",
+    "shipment_id": "SH-00170",
+    "SLA_target_time": "2026-06-08T23:00",
+    "current_eta": "2026-06-08T23:08",
+    "risk_level": "Low",
+    "breach_probability": 0.04,
+    "recommended_action": "Pre-position part"
+  },
+  {
+    "sla_id": "SLA-00171",
+    "job_id": "J-00171",
+    "shipment_id": "SH-00171",
+    "SLA_target_time": "2026-06-06T21:00",
+    "current_eta": "2026-06-06T21:31",
+    "risk_level": "Low",
+    "breach_probability": 0.12,
+    "recommended_action": "Reassign engineer"
+  },
+  {
+    "sla_id": "SLA-00172",
+    "job_id": "J-00172",
+    "shipment_id": "SH-00172",
+    "SLA_target_time": "2026-06-04T23:00",
+    "current_eta": "2026-06-05T02:17",
+    "risk_level": "High",
+    "breach_probability": 0.76,
+    "recommended_action": "Pre-position part"
+  },
+  {
+    "sla_id": "SLA-00173",
+    "job_id": "J-00173",
+    "shipment_id": "SH-00173",
+    "SLA_target_time": "2026-06-09T12:00",
+    "current_eta": "2026-06-09T12:21",
+    "risk_level": "Low",
+    "breach_probability": 0.08,
+    "recommended_action": "Expedite shipment"
+  },
+  {
+    "sla_id": "SLA-00174",
+    "job_id": "J-00174",
+    "shipment_id": "SH-00174",
+    "SLA_target_time": "2026-06-21T06:00",
+    "current_eta": "2026-06-21T06:33",
+    "risk_level": "Low",
+    "breach_probability": 0.28,
+    "recommended_action": "Pre-position part"
+  },
+  {
+    "sla_id": "SLA-00175",
+    "job_id": "J-00175",
+    "shipment_id": "SH-00175",
+    "SLA_target_time": "2026-06-07T07:00",
+    "current_eta": "2026-06-07T10:18",
+    "risk_level": "High",
+    "breach_probability": 0.76,
+    "recommended_action": "Reassign engineer"
+  },
+  {
+    "sla_id": "SLA-00176",
+    "job_id": "J-00176",
+    "shipment_id": "SH-00176",
+    "SLA_target_time": "2026-06-21T20:00",
+    "current_eta": "2026-06-21T21:16",
+    "risk_level": "Medium",
+    "breach_probability": 0.29,
+    "recommended_action": "Pre-position part"
+  },
+  {
+    "sla_id": "SLA-00177",
+    "job_id": "J-00177",
+    "shipment_id": "SH-00177",
+    "SLA_target_time": "2026-06-22T12:00",
+    "current_eta": "2026-06-22T15:36",
+    "risk_level": "High",
+    "breach_probability": 0.83,
+    "recommended_action": "Switch carrier"
+  },
+  {
+    "sla_id": "SLA-00178",
+    "job_id": "J-00178",
+    "shipment_id": "SH-00178",
+    "SLA_target_time": "2026-06-21T07:00",
+    "current_eta": "2026-06-21T07:00",
+    "risk_level": "Low",
+    "breach_probability": 0.04,
+    "recommended_action": "Reassign engineer"
+  },
+  {
+    "sla_id": "SLA-00179",
+    "job_id": "J-00179",
+    "shipment_id": "SH-00179",
+    "SLA_target_time": "2026-06-21T05:00",
+    "current_eta": "2026-06-21T08:17",
+    "risk_level": "High",
+    "breach_probability": 0.76,
+    "recommended_action": "Pre-position part"
+  },
+  {
+    "sla_id": "SLA-00180",
+    "job_id": "J-00180",
+    "shipment_id": "SH-00180",
+    "SLA_target_time": "2026-06-08T02:00",
+    "current_eta": "2026-06-08T05:59",
+    "risk_level": "High",
+    "breach_probability": 0.96,
+    "recommended_action": "Switch carrier"
+  },
+  {
+    "sla_id": "SLA-00181",
+    "job_id": "J-00181",
+    "shipment_id": "SH-00181",
+    "SLA_target_time": "2026-06-04T12:00",
+    "current_eta": "2026-06-04T12:56",
+    "risk_level": "Low",
+    "breach_probability": 0.22,
+    "recommended_action": "Reassign engineer"
+  },
+  {
+    "sla_id": "SLA-00182",
+    "job_id": "J-00182",
+    "shipment_id": "SH-00182",
+    "SLA_target_time": "2026-06-20T22:00",
+    "current_eta": "2026-06-20T23:38",
+    "risk_level": "Medium",
+    "breach_probability": 0.38,
+    "recommended_action": "Pre-position part"
+  },
+  {
+    "sla_id": "SLA-00183",
+    "job_id": "J-00183",
+    "shipment_id": "SH-00183",
+    "SLA_target_time": "2026-06-08T10:00",
+    "current_eta": "2026-06-08T10:32",
+    "risk_level": "Low",
+    "breach_probability": 0.12,
+    "recommended_action": "Reassign engineer"
+  },
+  {
+    "sla_id": "SLA-00184",
+    "job_id": "J-00184",
+    "shipment_id": "SH-00184",
+    "SLA_target_time": "2026-06-10T23:00",
+    "current_eta": "2026-06-10T23:25",
+    "risk_level": "Low",
+    "breach_probability": 0.1,
+    "recommended_action": "Expedite shipment"
+  },
+  {
+    "sla_id": "SLA-00185",
+    "job_id": "J-00185",
+    "shipment_id": "SH-00185",
+    "SLA_target_time": "2026-06-16T06:00",
+    "current_eta": "2026-06-16T06:42",
+    "risk_level": "Medium",
+    "breach_probability": 0.31,
+    "recommended_action": "Reassign engineer"
+  },
+  {
+    "sla_id": "SLA-00186",
+    "job_id": "J-00186",
+    "shipment_id": "SH-00186",
+    "SLA_target_time": "2026-06-15T04:00",
+    "current_eta": "2026-06-15T04:12",
+    "risk_level": "Low",
+    "breach_probability": 0.2,
+    "recommended_action": "Expedite shipment"
+  },
+  {
+    "sla_id": "SLA-00187",
+    "job_id": "J-00187",
+    "shipment_id": "SH-00187",
+    "SLA_target_time": "2026-06-22T23:00",
+    "current_eta": "2026-06-22T23:00",
+    "risk_level": "Low",
+    "breach_probability": 0.04,
+    "recommended_action": "Switch carrier"
+  },
+  {
+    "sla_id": "SLA-00188",
+    "job_id": "J-00188",
+    "shipment_id": "SH-00188",
+    "SLA_target_time": "2026-06-17T04:00",
+    "current_eta": "2026-06-17T06:39",
+    "risk_level": "High",
+    "breach_probability": 0.61,
+    "recommended_action": "Switch carrier"
+  },
+  {
+    "sla_id": "SLA-00189",
+    "job_id": "J-00189",
+    "shipment_id": "SH-00189",
+    "SLA_target_time": "2026-06-14T08:00",
+    "current_eta": "2026-06-14T09:12",
+    "risk_level": "Low",
+    "breach_probability": 0.28,
+    "recommended_action": "Switch carrier"
+  },
+  {
+    "sla_id": "SLA-00190",
+    "job_id": "J-00190",
+    "shipment_id": "SH-00190",
+    "SLA_target_time": "2026-06-06T02:00",
+    "current_eta": "2026-06-06T02:00",
+    "risk_level": "Low",
+    "breach_probability": 0.04,
+    "recommended_action": "Expedite shipment"
+  },
+  {
+    "sla_id": "SLA-00191",
+    "job_id": "J-00191",
+    "shipment_id": "SH-00191",
+    "SLA_target_time": "2026-06-04T23:00",
+    "current_eta": "2026-06-05T01:35",
+    "risk_level": "High",
+    "breach_probability": 0.6,
+    "recommended_action": "Reassign engineer"
+  },
+  {
+    "sla_id": "SLA-00192",
+    "job_id": "J-00192",
+    "shipment_id": "SH-00192",
+    "SLA_target_time": "2026-06-07T22:00",
+    "current_eta": "2026-06-07T23:42",
+    "risk_level": "Medium",
+    "breach_probability": 0.39,
+    "recommended_action": "Reassign engineer"
+  },
+  {
+    "sla_id": "SLA-00193",
+    "job_id": "J-00193",
+    "shipment_id": "SH-00193",
+    "SLA_target_time": "2026-06-06T19:00",
+    "current_eta": "2026-06-06T19:00",
+    "risk_level": "Low",
+    "breach_probability": 0.04,
+    "recommended_action": "Reassign engineer"
+  },
+  {
+    "sla_id": "SLA-00194",
+    "job_id": "J-00194",
+    "shipment_id": "SH-00194",
+    "SLA_target_time": "2026-06-09T12:00",
+    "current_eta": "2026-06-09T12:03",
+    "risk_level": "Low",
+    "breach_probability": 0.16,
+    "recommended_action": "Reassign engineer"
+  },
+  {
+    "sla_id": "SLA-00195",
+    "job_id": "J-00195",
+    "shipment_id": "SH-00195",
+    "SLA_target_time": "2026-06-21T19:00",
+    "current_eta": "2026-06-21T19:00",
+    "risk_level": "Low",
+    "breach_probability": 0.15,
+    "recommended_action": "Switch carrier"
+  },
+  {
+    "sla_id": "SLA-00196",
+    "job_id": "J-00196",
+    "shipment_id": "SH-00196",
+    "SLA_target_time": "2026-06-01T21:00",
+    "current_eta": "2026-06-01T22:50",
+    "risk_level": "Medium",
+    "breach_probability": 0.42,
+    "recommended_action": "Pre-position part"
+  },
+  {
+    "sla_id": "SLA-00197",
+    "job_id": "J-00197",
+    "shipment_id": "SH-00197",
+    "SLA_target_time": "2026-06-08T11:00",
+    "current_eta": "2026-06-08T11:49",
+    "risk_level": "Low",
+    "breach_probability": 0.19,
+    "recommended_action": "Switch carrier"
+  },
+  {
+    "sla_id": "SLA-00198",
+    "job_id": "J-00198",
+    "shipment_id": "SH-00198",
+    "SLA_target_time": "2026-06-12T14:00",
+    "current_eta": "2026-06-12T14:00",
+    "risk_level": "Low",
+    "breach_probability": 0.04,
+    "recommended_action": "Reassign engineer"
+  },
+  {
+    "sla_id": "SLA-00199",
+    "job_id": "J-00199",
+    "shipment_id": "SH-00199",
+    "SLA_target_time": "2026-06-09T18:00",
+    "current_eta": "2026-06-09T18:22",
+    "risk_level": "Low",
+    "breach_probability": 0.08,
+    "recommended_action": "Expedite shipment"
+  },
+  {
+    "sla_id": "SLA-00200",
+    "job_id": "J-00200",
+    "shipment_id": "SH-00200",
+    "SLA_target_time": "2026-06-15T22:00",
+    "current_eta": "2026-06-16T01:55",
+    "risk_level": "High",
+    "breach_probability": 0.96,
+    "recommended_action": "Reassign engineer"
+  },
+  {
+    "sla_id": "SLA-00201",
+    "job_id": "J-00201",
+    "shipment_id": "SH-00201",
+    "SLA_target_time": "2026-06-13T07:00",
+    "current_eta": "2026-06-13T09:47",
+    "risk_level": "High",
+    "breach_probability": 0.64,
+    "recommended_action": "Reassign engineer"
+  },
+  {
+    "sla_id": "SLA-00202",
+    "job_id": "J-00202",
+    "shipment_id": "SH-00202",
+    "SLA_target_time": "2026-06-16T06:00",
+    "current_eta": "2026-06-16T07:01",
+    "risk_level": "Low",
+    "breach_probability": 0.23,
+    "recommended_action": "Expedite shipment"
+  },
+  {
+    "sla_id": "SLA-00203",
+    "job_id": "J-00203",
+    "shipment_id": "SH-00203",
+    "SLA_target_time": "2026-06-14T18:00",
+    "current_eta": "2026-06-14T18:00",
+    "risk_level": "Low",
+    "breach_probability": 0.15,
+    "recommended_action": "Switch carrier"
+  },
+  {
+    "sla_id": "SLA-00204",
+    "job_id": "J-00204",
+    "shipment_id": "SH-00204",
+    "SLA_target_time": "2026-06-17T21:00",
+    "current_eta": "2026-06-17T21:00",
+    "risk_level": "Low",
+    "breach_probability": 0.04,
+    "recommended_action": "Reassign engineer"
+  },
+  {
+    "sla_id": "SLA-00205",
+    "job_id": "J-00205",
+    "shipment_id": "SH-00205",
+    "SLA_target_time": "2026-06-12T04:00",
+    "current_eta": "2026-06-12T04:00",
+    "risk_level": "Low",
+    "breach_probability": 0.04,
+    "recommended_action": "Expedite shipment"
+  },
+  {
+    "sla_id": "SLA-00206",
+    "job_id": "J-00206",
+    "shipment_id": "SH-00206",
+    "SLA_target_time": "2026-06-18T21:00",
+    "current_eta": "2026-06-18T21:00",
+    "risk_level": "Low",
+    "breach_probability": 0.04,
+    "recommended_action": "Switch carrier"
+  },
+  {
+    "sla_id": "SLA-00207",
+    "job_id": "J-00207",
+    "shipment_id": "SH-00207",
+    "SLA_target_time": "2026-06-13T11:00",
+    "current_eta": "2026-06-13T11:19",
+    "risk_level": "Low",
+    "breach_probability": 0.07,
+    "recommended_action": "Pre-position part"
+  },
+  {
+    "sla_id": "SLA-00208",
+    "job_id": "J-00208",
+    "shipment_id": "SH-00208",
+    "SLA_target_time": "2026-06-16T14:00",
+    "current_eta": "2026-06-16T14:00",
+    "risk_level": "Low",
+    "breach_probability": 0.15,
+    "recommended_action": "Reassign engineer"
+  },
+  {
+    "sla_id": "SLA-00209",
+    "job_id": "J-00209",
+    "shipment_id": "SH-00209",
+    "SLA_target_time": "2026-06-15T19:00",
+    "current_eta": "2026-06-15T19:00",
+    "risk_level": "Low",
+    "breach_probability": 0.04,
+    "recommended_action": "Expedite shipment"
+  },
+  {
+    "sla_id": "SLA-00210",
+    "job_id": "J-00210",
+    "shipment_id": "SH-00210",
+    "SLA_target_time": "2026-06-10T19:00",
+    "current_eta": "2026-06-10T19:47",
+    "risk_level": "Low",
+    "breach_probability": 0.18,
+    "recommended_action": "Switch carrier"
+  },
+  {
+    "sla_id": "SLA-00211",
+    "job_id": "J-00211",
+    "shipment_id": "SH-00211",
+    "SLA_target_time": "2026-06-21T17:00",
+    "current_eta": "2026-06-21T17:42",
+    "risk_level": "Low",
+    "breach_probability": 0.16,
+    "recommended_action": "Reassign engineer"
+  },
+  {
+    "sla_id": "SLA-00212",
+    "job_id": "J-00212",
+    "shipment_id": "SH-00212",
+    "SLA_target_time": "2026-06-14T02:00",
+    "current_eta": "2026-06-14T03:00",
+    "risk_level": "Medium",
+    "breach_probability": 0.38,
+    "recommended_action": "Switch carrier"
+  },
+  {
+    "sla_id": "SLA-00213",
+    "job_id": "J-00213",
+    "shipment_id": "SH-00213",
+    "SLA_target_time": "2026-06-06T22:00",
+    "current_eta": "2026-06-06T22:21",
+    "risk_level": "Low",
+    "breach_probability": 0.08,
+    "recommended_action": "Reassign engineer"
+  },
+  {
+    "sla_id": "SLA-00214",
+    "job_id": "J-00214",
+    "shipment_id": "SH-00214",
+    "SLA_target_time": "2026-06-15T13:00",
+    "current_eta": "2026-06-15T14:30",
+    "risk_level": "Medium",
+    "breach_probability": 0.35,
+    "recommended_action": "Expedite shipment"
+  },
+  {
+    "sla_id": "SLA-00215",
+    "job_id": "J-00215",
+    "shipment_id": "SH-00215",
+    "SLA_target_time": "2026-06-02T19:00",
+    "current_eta": "2026-06-02T20:06",
+    "risk_level": "Medium",
+    "breach_probability": 0.4,
+    "recommended_action": "Pre-position part"
+  },
+  {
+    "sla_id": "SLA-00216",
+    "job_id": "J-00216",
+    "shipment_id": "SH-00216",
+    "SLA_target_time": "2026-06-18T05:00",
+    "current_eta": "2026-06-18T05:00",
+    "risk_level": "Low",
+    "breach_probability": 0.04,
+    "recommended_action": "Switch carrier"
+  },
+  {
+    "sla_id": "SLA-00217",
+    "job_id": "J-00217",
+    "shipment_id": "SH-00217",
+    "SLA_target_time": "2026-06-07T02:00",
+    "current_eta": "2026-06-07T02:00",
+    "risk_level": "Low",
+    "breach_probability": 0.04,
+    "recommended_action": "Pre-position part"
+  },
+  {
+    "sla_id": "SLA-00218",
+    "job_id": "J-00218",
+    "shipment_id": "SH-00218",
+    "SLA_target_time": "2026-06-21T19:00",
+    "current_eta": "2026-06-21T19:00",
+    "risk_level": "Low",
+    "breach_probability": 0.15,
+    "recommended_action": "Expedite shipment"
+  },
+  {
+    "sla_id": "SLA-00219",
+    "job_id": "J-00219",
+    "shipment_id": "SH-00219",
+    "SLA_target_time": "2026-06-05T03:00",
+    "current_eta": "2026-06-05T03:40",
+    "risk_level": "Low",
+    "breach_probability": 0.15,
+    "recommended_action": "Expedite shipment"
+  },
+  {
+    "sla_id": "SLA-00220",
+    "job_id": "J-00220",
+    "shipment_id": "SH-00220",
+    "SLA_target_time": "2026-06-05T17:00",
+    "current_eta": "2026-06-05T17:00",
+    "risk_level": "Low",
+    "breach_probability": 0.04,
+    "recommended_action": "Switch carrier"
+  },
+  {
+    "sla_id": "SLA-00221",
+    "job_id": "J-00221",
+    "shipment_id": "SH-00221",
+    "SLA_target_time": "2026-06-19T17:00",
+    "current_eta": "2026-06-19T17:00",
+    "risk_level": "Low",
+    "breach_probability": 0.04,
+    "recommended_action": "Switch carrier"
+  },
+  {
+    "sla_id": "SLA-00222",
+    "job_id": "J-00222",
+    "shipment_id": "SH-00222",
+    "SLA_target_time": "2026-06-13T16:00",
+    "current_eta": "2026-06-13T18:19",
+    "risk_level": "Medium",
+    "breach_probability": 0.53,
+    "recommended_action": "Switch carrier"
+  },
+  {
+    "sla_id": "SLA-00223",
+    "job_id": "J-00223",
+    "shipment_id": "SH-00223",
+    "SLA_target_time": "2026-06-14T15:00",
+    "current_eta": "2026-06-14T15:27",
+    "risk_level": "Low",
+    "breach_probability": 0.1,
+    "recommended_action": "Expedite shipment"
+  },
+  {
+    "sla_id": "SLA-00224",
+    "job_id": "J-00224",
+    "shipment_id": "SH-00224",
+    "SLA_target_time": "2026-06-19T06:00",
+    "current_eta": "2026-06-19T08:11",
+    "risk_level": "Medium",
+    "breach_probability": 0.5,
+    "recommended_action": "Expedite shipment"
+  },
+  {
+    "sla_id": "SLA-00225",
+    "job_id": "J-00225",
+    "shipment_id": "SH-00225",
+    "SLA_target_time": "2026-06-06T01:00",
+    "current_eta": "2026-06-06T01:23",
+    "risk_level": "Low",
+    "breach_probability": 0.24,
+    "recommended_action": "Reassign engineer"
+  },
+  {
+    "sla_id": "SLA-00226",
+    "job_id": "J-00226",
+    "shipment_id": "SH-00226",
+    "SLA_target_time": "2026-06-15T00:00",
+    "current_eta": "2026-06-15T02:30",
+    "risk_level": "High",
+    "breach_probability": 0.73,
+    "recommended_action": "Reassign engineer"
+  },
+  {
+    "sla_id": "SLA-00227",
+    "job_id": "J-00227",
+    "shipment_id": "SH-00227",
+    "SLA_target_time": "2026-06-10T09:00",
+    "current_eta": "2026-06-10T09:53",
+    "risk_level": "Low",
+    "breach_probability": 0.2,
+    "recommended_action": "Switch carrier"
+  },
+  {
+    "sla_id": "SLA-00228",
+    "job_id": "J-00228",
+    "shipment_id": "SH-00228",
+    "SLA_target_time": "2026-06-09T05:00",
+    "current_eta": "2026-06-09T06:29",
+    "risk_level": "Medium",
+    "breach_probability": 0.49,
+    "recommended_action": "Reassign engineer"
+  },
+  {
+    "sla_id": "SLA-00229",
+    "job_id": "J-00229",
+    "shipment_id": "SH-00229",
+    "SLA_target_time": "2026-06-10T05:00",
+    "current_eta": "2026-06-10T05:59",
+    "risk_level": "Low",
+    "breach_probability": 0.23,
+    "recommended_action": "Pre-position part"
+  },
+  {
+    "sla_id": "SLA-00230",
+    "job_id": "J-00230",
+    "shipment_id": "SH-00230",
+    "SLA_target_time": "2026-06-17T03:00",
+    "current_eta": "2026-06-17T04:11",
+    "risk_level": "Low",
+    "breach_probability": 0.27,
+    "recommended_action": "Reassign engineer"
+  },
+  {
+    "sla_id": "SLA-00231",
+    "job_id": "J-00231",
+    "shipment_id": "SH-00231",
+    "SLA_target_time": "2026-06-18T23:00",
+    "current_eta": "2026-06-18T23:41",
+    "risk_level": "Low",
+    "breach_probability": 0.16,
+    "recommended_action": "Expedite shipment"
+  },
+  {
+    "sla_id": "SLA-00232",
+    "job_id": "J-00232",
+    "shipment_id": "SH-00232",
+    "SLA_target_time": "2026-06-05T11:00",
+    "current_eta": "2026-06-05T12:01",
+    "risk_level": "Low",
+    "breach_probability": 0.23,
+    "recommended_action": "Switch carrier"
+  },
+  {
+    "sla_id": "SLA-00233",
+    "job_id": "J-00233",
+    "shipment_id": "SH-00233",
+    "SLA_target_time": "2026-06-14T11:00",
+    "current_eta": "2026-06-14T11:35",
+    "risk_level": "Medium",
+    "breach_probability": 0.28,
+    "recommended_action": "Switch carrier"
+  },
+  {
+    "sla_id": "SLA-00234",
+    "job_id": "J-00234",
+    "shipment_id": "SH-00234",
+    "SLA_target_time": "2026-06-04T15:00",
+    "current_eta": "2026-06-04T15:00",
+    "risk_level": "Low",
+    "breach_probability": 0.04,
+    "recommended_action": "Reassign engineer"
+  },
+  {
+    "sla_id": "SLA-00235",
+    "job_id": "J-00235",
+    "shipment_id": "SH-00235",
+    "SLA_target_time": "2026-06-02T21:00",
+    "current_eta": "2026-06-02T21:33",
+    "risk_level": "Low",
+    "breach_probability": 0.13,
+    "recommended_action": "Reassign engineer"
+  },
+  {
+    "sla_id": "SLA-00236",
+    "job_id": "J-00236",
+    "shipment_id": "SH-00236",
+    "SLA_target_time": "2026-06-15T01:00",
+    "current_eta": "2026-06-15T03:49",
+    "risk_level": "High",
+    "breach_probability": 0.65,
+    "recommended_action": "Expedite shipment"
+  },
+  {
+    "sla_id": "SLA-00237",
+    "job_id": "J-00237",
+    "shipment_id": "SH-00237",
+    "SLA_target_time": "2026-06-19T07:00",
+    "current_eta": "2026-06-19T07:33",
+    "risk_level": "Low",
+    "breach_probability": 0.28,
+    "recommended_action": "Pre-position part"
+  },
+  {
+    "sla_id": "SLA-00238",
+    "job_id": "J-00238",
+    "shipment_id": "SH-00238",
+    "SLA_target_time": "2026-06-22T04:00",
+    "current_eta": "2026-06-22T06:05",
+    "risk_level": "Medium",
+    "breach_probability": 0.48,
+    "recommended_action": "Switch carrier"
+  },
+  {
+    "sla_id": "SLA-00239",
+    "job_id": "J-00239",
+    "shipment_id": "SH-00239",
+    "SLA_target_time": "2026-06-02T14:00",
+    "current_eta": "2026-06-02T15:37",
+    "risk_level": "Medium",
+    "breach_probability": 0.52,
+    "recommended_action": "Pre-position part"
+  },
+  {
+    "sla_id": "SLA-00240",
+    "job_id": "J-00240",
+    "shipment_id": "SH-00240",
+    "SLA_target_time": "2026-06-23T02:00",
+    "current_eta": "2026-06-23T03:27",
+    "risk_level": "Medium",
+    "breach_probability": 0.33,
+    "recommended_action": "Reassign engineer"
+  },
+  {
+    "sla_id": "SLA-00241",
+    "job_id": "J-00241",
+    "shipment_id": "SH-00241",
+    "SLA_target_time": "2026-06-15T02:00",
+    "current_eta": "2026-06-15T03:04",
+    "risk_level": "Low",
+    "breach_probability": 0.25,
+    "recommended_action": "Expedite shipment"
+  },
+  {
+    "sla_id": "SLA-00242",
+    "job_id": "J-00242",
+    "shipment_id": "SH-00242",
+    "SLA_target_time": "2026-06-20T02:00",
+    "current_eta": "2026-06-20T02:00",
+    "risk_level": "Low",
+    "breach_probability": 0.04,
+    "recommended_action": "Switch carrier"
+  },
+  {
+    "sla_id": "SLA-00243",
+    "job_id": "J-00243",
+    "shipment_id": "SH-00243",
+    "SLA_target_time": "2026-06-08T10:00",
+    "current_eta": "2026-06-08T10:30",
+    "risk_level": "Low",
+    "breach_probability": 0.12,
+    "recommended_action": "Expedite shipment"
+  },
+  {
+    "sla_id": "SLA-00244",
+    "job_id": "J-00244",
+    "shipment_id": "SH-00244",
+    "SLA_target_time": "2026-06-05T07:00",
+    "current_eta": "2026-06-05T11:10",
+    "risk_level": "High",
+    "breach_probability": 0.96,
+    "recommended_action": "Switch carrier"
+  },
+  {
+    "sla_id": "SLA-00245",
+    "job_id": "J-00245",
+    "shipment_id": "SH-00245",
+    "SLA_target_time": "2026-06-16T20:00",
+    "current_eta": "2026-06-16T21:51",
+    "risk_level": "Medium",
+    "breach_probability": 0.43,
+    "recommended_action": "Pre-position part"
+  },
+  {
+    "sla_id": "SLA-00246",
+    "job_id": "J-00246",
+    "shipment_id": "SH-00246",
+    "SLA_target_time": "2026-06-03T22:00",
+    "current_eta": "2026-06-03T23:00",
+    "risk_level": "Low",
+    "breach_probability": 0.23,
+    "recommended_action": "Pre-position part"
+  },
+  {
+    "sla_id": "SLA-00247",
+    "job_id": "J-00247",
+    "shipment_id": "SH-00247",
+    "SLA_target_time": "2026-06-05T07:00",
+    "current_eta": "2026-06-05T07:29",
+    "risk_level": "Low",
+    "breach_probability": 0.11,
+    "recommended_action": "Expedite shipment"
+  },
+  {
+    "sla_id": "SLA-00248",
+    "job_id": "J-00248",
+    "shipment_id": "SH-00248",
+    "SLA_target_time": "2026-06-22T01:00",
+    "current_eta": "2026-06-22T02:10",
+    "risk_level": "Medium",
+    "breach_probability": 0.42,
+    "recommended_action": "Reassign engineer"
+  },
+  {
+    "sla_id": "SLA-00249",
+    "job_id": "J-00249",
+    "shipment_id": "SH-00249",
+    "SLA_target_time": "2026-06-09T04:00",
+    "current_eta": "2026-06-09T04:01",
+    "risk_level": "Low",
+    "breach_probability": 0.04,
+    "recommended_action": "Reassign engineer"
+  },
+  {
+    "sla_id": "SLA-00250",
+    "job_id": "J-00250",
+    "shipment_id": "SH-00250",
+    "SLA_target_time": "2026-06-12T19:00",
+    "current_eta": "2026-06-12T22:51",
+    "risk_level": "High",
+    "breach_probability": 0.89,
+    "recommended_action": "Expedite shipment"
+  },
+  {
+    "sla_id": "SLA-00251",
+    "job_id": "J-00251",
+    "shipment_id": "SH-00251",
+    "SLA_target_time": "2026-06-03T22:00",
+    "current_eta": "2026-06-03T22:17",
+    "risk_level": "Low",
+    "breach_probability": 0.07,
+    "recommended_action": "Switch carrier"
+  },
+  {
+    "sla_id": "SLA-00252",
+    "job_id": "J-00252",
+    "shipment_id": "SH-00252",
+    "SLA_target_time": "2026-06-11T02:00",
+    "current_eta": "2026-06-11T02:18",
+    "risk_level": "Low",
+    "breach_probability": 0.22,
+    "recommended_action": "Expedite shipment"
+  },
+  {
+    "sla_id": "SLA-00253",
+    "job_id": "J-00253",
+    "shipment_id": "SH-00253",
+    "SLA_target_time": "2026-06-06T00:00",
+    "current_eta": "2026-06-06T00:00",
+    "risk_level": "Low",
+    "breach_probability": 0.04,
+    "recommended_action": "Expedite shipment"
+  },
+  {
+    "sla_id": "SLA-00254",
+    "job_id": "J-00254",
+    "shipment_id": "SH-00254",
+    "SLA_target_time": "2026-06-05T07:00",
+    "current_eta": "2026-06-05T07:00",
+    "risk_level": "Low",
+    "breach_probability": 0.04,
+    "recommended_action": "Reassign engineer"
+  },
+  {
+    "sla_id": "SLA-00255",
+    "job_id": "J-00255",
+    "shipment_id": "SH-00255",
+    "SLA_target_time": "2026-06-21T21:00",
+    "current_eta": "2026-06-21T22:23",
+    "risk_level": "Medium",
+    "breach_probability": 0.32,
+    "recommended_action": "Pre-position part"
+  },
+  {
+    "sla_id": "SLA-00256",
+    "job_id": "J-00256",
+    "shipment_id": "SH-00256",
+    "SLA_target_time": "2026-06-13T04:00",
+    "current_eta": "2026-06-13T05:51",
+    "risk_level": "High",
+    "breach_probability": 0.58,
+    "recommended_action": "Pre-position part"
+  },
+  {
+    "sla_id": "SLA-00257",
+    "job_id": "J-00257",
+    "shipment_id": "SH-00257",
+    "SLA_target_time": "2026-06-05T22:00",
+    "current_eta": "2026-06-05T22:31",
+    "risk_level": "Low",
+    "breach_probability": 0.12,
+    "recommended_action": "Reassign engineer"
+  },
+  {
+    "sla_id": "SLA-00258",
+    "job_id": "J-00258",
+    "shipment_id": "SH-00258",
+    "SLA_target_time": "2026-06-12T07:00",
+    "current_eta": "2026-06-12T09:16",
+    "risk_level": "Medium",
+    "breach_probability": 0.52,
+    "recommended_action": "Reassign engineer"
+  },
+  {
+    "sla_id": "SLA-00259",
+    "job_id": "J-00259",
+    "shipment_id": "SH-00259",
+    "SLA_target_time": "2026-06-07T10:00",
+    "current_eta": "2026-06-07T10:00",
+    "risk_level": "Low",
+    "breach_probability": 0.15,
+    "recommended_action": "Reassign engineer"
+  },
+  {
+    "sla_id": "SLA-00260",
+    "job_id": "J-00260",
+    "shipment_id": "SH-00260",
+    "SLA_target_time": "2026-06-05T17:00",
+    "current_eta": "2026-06-05T17:00",
+    "risk_level": "Low",
+    "breach_probability": 0.04,
+    "recommended_action": "Switch carrier"
+  },
+  {
+    "sla_id": "SLA-00261",
+    "job_id": "J-00261",
+    "shipment_id": "SH-00261",
+    "SLA_target_time": "2026-06-15T08:00",
+    "current_eta": "2026-06-15T08:00",
+    "risk_level": "Low",
+    "breach_probability": 0.04,
+    "recommended_action": "Switch carrier"
+  },
+  {
+    "sla_id": "SLA-00262",
+    "job_id": "J-00262",
+    "shipment_id": "SH-00262",
+    "SLA_target_time": "2026-06-06T08:00",
+    "current_eta": "2026-06-06T08:58",
+    "risk_level": "Medium",
+    "breach_probability": 0.37,
+    "recommended_action": "Expedite shipment"
+  },
+  {
+    "sla_id": "SLA-00263",
+    "job_id": "J-00263",
+    "shipment_id": "SH-00263",
+    "SLA_target_time": "2026-06-08T23:00",
+    "current_eta": "2026-06-09T01:35",
+    "risk_level": "High",
+    "breach_probability": 0.6,
+    "recommended_action": "Reassign engineer"
+  },
+  {
+    "sla_id": "SLA-00264",
+    "job_id": "J-00264",
+    "shipment_id": "SH-00264",
+    "SLA_target_time": "2026-06-18T22:00",
+    "current_eta": "2026-06-18T22:35",
+    "risk_level": "Low",
+    "breach_probability": 0.13,
+    "recommended_action": "Reassign engineer"
+  },
+  {
+    "sla_id": "SLA-00265",
+    "job_id": "J-00265",
+    "shipment_id": "SH-00265",
+    "SLA_target_time": "2026-06-23T09:00",
+    "current_eta": "2026-06-23T09:13",
+    "risk_level": "Low",
+    "breach_probability": 0.05,
+    "recommended_action": "Switch carrier"
+  },
+  {
+    "sla_id": "SLA-00266",
+    "job_id": "J-00266",
+    "shipment_id": "SH-00266",
+    "SLA_target_time": "2026-06-19T09:00",
+    "current_eta": "2026-06-19T09:00",
+    "risk_level": "Low",
+    "breach_probability": 0.04,
+    "recommended_action": "Expedite shipment"
+  },
+  {
+    "sla_id": "SLA-00267",
+    "job_id": "J-00267",
+    "shipment_id": "SH-00267",
+    "SLA_target_time": "2026-06-08T07:00",
+    "current_eta": "2026-06-08T07:34",
+    "risk_level": "Medium",
+    "breach_probability": 0.28,
+    "recommended_action": "Switch carrier"
+  },
+  {
+    "sla_id": "SLA-00268",
+    "job_id": "J-00268",
+    "shipment_id": "SH-00268",
+    "SLA_target_time": "2026-06-09T06:00",
+    "current_eta": "2026-06-09T07:38",
+    "risk_level": "Medium",
+    "breach_probability": 0.38,
+    "recommended_action": "Pre-position part"
+  },
+  {
+    "sla_id": "SLA-00269",
+    "job_id": "J-00269",
+    "shipment_id": "SH-00269",
+    "SLA_target_time": "2026-06-03T22:00",
+    "current_eta": "2026-06-03T23:34",
+    "risk_level": "Medium",
+    "breach_probability": 0.36,
+    "recommended_action": "Pre-position part"
+  },
+  {
+    "sla_id": "SLA-00270",
+    "job_id": "J-00270",
+    "shipment_id": "SH-00270",
+    "SLA_target_time": "2026-06-06T10:00",
+    "current_eta": "2026-06-06T10:00",
+    "risk_level": "Low",
+    "breach_probability": 0.15,
+    "recommended_action": "Switch carrier"
+  },
+  {
+    "sla_id": "SLA-00271",
+    "job_id": "J-00271",
+    "shipment_id": "SH-00271",
+    "SLA_target_time": "2026-06-09T01:00",
+    "current_eta": "2026-06-09T01:00",
+    "risk_level": "Low",
+    "breach_probability": 0.04,
+    "recommended_action": "Switch carrier"
+  },
+  {
+    "sla_id": "SLA-00272",
+    "job_id": "J-00272",
+    "shipment_id": "SH-00272",
+    "SLA_target_time": "2026-06-11T16:00",
+    "current_eta": "2026-06-11T17:40",
+    "risk_level": "Medium",
+    "breach_probability": 0.38,
+    "recommended_action": "Pre-position part"
+  },
+  {
+    "sla_id": "SLA-00273",
+    "job_id": "J-00273",
+    "shipment_id": "SH-00273",
+    "SLA_target_time": "2026-06-06T04:00",
+    "current_eta": "2026-06-06T04:40",
+    "risk_level": "Low",
+    "breach_probability": 0.15,
+    "recommended_action": "Pre-position part"
+  },
+  {
+    "sla_id": "SLA-00274",
+    "job_id": "J-00274",
+    "shipment_id": "SH-00274",
+    "SLA_target_time": "2026-06-16T20:00",
+    "current_eta": "2026-06-16T20:00",
+    "risk_level": "Low",
+    "breach_probability": 0.04,
+    "recommended_action": "Reassign engineer"
+  },
+  {
+    "sla_id": "SLA-00275",
+    "job_id": "J-00275",
+    "shipment_id": "SH-00275",
+    "SLA_target_time": "2026-06-05T10:00",
+    "current_eta": "2026-06-05T11:06",
+    "risk_level": "Low",
+    "breach_probability": 0.25,
+    "recommended_action": "Switch carrier"
+  },
+  {
+    "sla_id": "SLA-00276",
+    "job_id": "J-00276",
+    "shipment_id": "SH-00276",
+    "SLA_target_time": "2026-06-03T09:00",
+    "current_eta": "2026-06-03T10:12",
+    "risk_level": "Low",
+    "breach_probability": 0.28,
+    "recommended_action": "Reassign engineer"
+  },
+  {
+    "sla_id": "SLA-00277",
+    "job_id": "J-00277",
+    "shipment_id": "SH-00277",
+    "SLA_target_time": "2026-06-02T04:00",
+    "current_eta": "2026-06-02T04:55",
+    "risk_level": "Low",
+    "breach_probability": 0.21,
+    "recommended_action": "Switch carrier"
+  },
+  {
+    "sla_id": "SLA-00278",
+    "job_id": "J-00278",
+    "shipment_id": "SH-00278",
+    "SLA_target_time": "2026-06-07T17:00",
+    "current_eta": "2026-06-07T18:11",
+    "risk_level": "Medium",
+    "breach_probability": 0.42,
+    "recommended_action": "Switch carrier"
+  },
+  {
+    "sla_id": "SLA-00279",
+    "job_id": "J-00279",
+    "shipment_id": "SH-00279",
+    "SLA_target_time": "2026-06-05T02:00",
+    "current_eta": "2026-06-05T03:42",
+    "risk_level": "Medium",
+    "breach_probability": 0.39,
+    "recommended_action": "Switch carrier"
+  },
+  {
+    "sla_id": "SLA-00280",
+    "job_id": "J-00280",
+    "shipment_id": "SH-00280",
+    "SLA_target_time": "2026-06-03T01:00",
+    "current_eta": "2026-06-03T01:18",
+    "risk_level": "Low",
+    "breach_probability": 0.07,
+    "recommended_action": "Reassign engineer"
+  },
+  {
+    "sla_id": "SLA-00281",
+    "job_id": "J-00281",
+    "shipment_id": "SH-00281",
+    "SLA_target_time": "2026-06-01T20:00",
+    "current_eta": "2026-06-01T20:29",
+    "risk_level": "Low",
+    "breach_probability": 0.11,
+    "recommended_action": "Pre-position part"
+  },
+  {
+    "sla_id": "SLA-00282",
+    "job_id": "J-00282",
+    "shipment_id": "SH-00282",
+    "SLA_target_time": "2026-06-05T21:00",
+    "current_eta": "2026-06-05T23:50",
+    "risk_level": "High",
+    "breach_probability": 0.65,
+    "recommended_action": "Expedite shipment"
+  },
+  {
+    "sla_id": "SLA-00283",
+    "job_id": "J-00283",
+    "shipment_id": "SH-00283",
+    "SLA_target_time": "2026-06-04T10:00",
+    "current_eta": "2026-06-04T11:07",
+    "risk_level": "Low",
+    "breach_probability": 0.26,
+    "recommended_action": "Pre-position part"
+  },
+  {
+    "sla_id": "SLA-00284",
+    "job_id": "J-00284",
+    "shipment_id": "SH-00284",
+    "SLA_target_time": "2026-06-12T21:00",
+    "current_eta": "2026-06-12T23:26",
+    "risk_level": "High",
+    "breach_probability": 0.71,
+    "recommended_action": "Reassign engineer"
+  },
+  {
+    "sla_id": "SLA-00285",
+    "job_id": "J-00285",
+    "shipment_id": "SH-00285",
+    "SLA_target_time": "2026-06-19T09:00",
+    "current_eta": "2026-06-19T09:12",
+    "risk_level": "Low",
+    "breach_probability": 0.05,
+    "recommended_action": "Expedite shipment"
+  },
+  {
+    "sla_id": "SLA-00286",
+    "job_id": "J-00286",
+    "shipment_id": "SH-00286",
+    "SLA_target_time": "2026-06-07T05:00",
+    "current_eta": "2026-06-07T06:02",
+    "risk_level": "Low",
+    "breach_probability": 0.24,
+    "recommended_action": "Reassign engineer"
+  },
+  {
+    "sla_id": "SLA-00287",
+    "job_id": "J-00287",
+    "shipment_id": "SH-00287",
+    "SLA_target_time": "2026-06-18T11:00",
+    "current_eta": "2026-06-18T11:25",
+    "risk_level": "Low",
+    "breach_probability": 0.25,
+    "recommended_action": "Switch carrier"
+  },
+  {
+    "sla_id": "SLA-00288",
+    "job_id": "J-00288",
+    "shipment_id": "SH-00288",
+    "SLA_target_time": "2026-06-05T15:00",
+    "current_eta": "2026-06-05T19:13",
+    "risk_level": "High",
+    "breach_probability": 0.96,
+    "recommended_action": "Reassign engineer"
+  },
+  {
+    "sla_id": "SLA-00289",
+    "job_id": "J-00289",
+    "shipment_id": "SH-00289",
+    "SLA_target_time": "2026-06-14T09:00",
+    "current_eta": "2026-06-14T09:10",
+    "risk_level": "Low",
+    "breach_probability": 0.04,
+    "recommended_action": "Switch carrier"
+  },
+  {
+    "sla_id": "SLA-00290",
+    "job_id": "J-00290",
+    "shipment_id": "SH-00290",
+    "SLA_target_time": "2026-06-21T23:00",
+    "current_eta": "2026-06-22T00:08",
+    "risk_level": "Low",
+    "breach_probability": 0.26,
+    "recommended_action": "Switch carrier"
+  },
+  {
+    "sla_id": "SLA-00291",
+    "job_id": "J-00291",
+    "shipment_id": "SH-00291",
+    "SLA_target_time": "2026-06-03T00:00",
+    "current_eta": "2026-06-03T00:00",
+    "risk_level": "Low",
+    "breach_probability": 0.04,
+    "recommended_action": "Reassign engineer"
+  },
+  {
+    "sla_id": "SLA-00292",
+    "job_id": "J-00292",
+    "shipment_id": "SH-00292",
+    "SLA_target_time": "2026-06-08T14:00",
+    "current_eta": "2026-06-08T15:01",
+    "risk_level": "Low",
+    "breach_probability": 0.23,
+    "recommended_action": "Pre-position part"
+  },
+  {
+    "sla_id": "SLA-00293",
+    "job_id": "J-00293",
+    "shipment_id": "SH-00293",
+    "SLA_target_time": "2026-06-20T20:00",
+    "current_eta": "2026-06-21T00:53",
+    "risk_level": "High",
+    "breach_probability": 0.96,
+    "recommended_action": "Expedite shipment"
+  },
+  {
+    "sla_id": "SLA-00294",
+    "job_id": "J-00294",
+    "shipment_id": "SH-00294",
+    "SLA_target_time": "2026-06-09T22:00",
+    "current_eta": "2026-06-09T22:46",
+    "risk_level": "Low",
+    "breach_probability": 0.18,
+    "recommended_action": "Pre-position part"
+  },
+  {
+    "sla_id": "SLA-00295",
+    "job_id": "J-00295",
+    "shipment_id": "SH-00295",
+    "SLA_target_time": "2026-06-07T23:00",
+    "current_eta": "2026-06-08T03:09",
+    "risk_level": "High",
+    "breach_probability": 0.96,
+    "recommended_action": "Pre-position part"
+  },
+  {
+    "sla_id": "SLA-00296",
+    "job_id": "J-00296",
+    "shipment_id": "SH-00296",
+    "SLA_target_time": "2026-06-04T03:00",
+    "current_eta": "2026-06-04T05:38",
+    "risk_level": "High",
+    "breach_probability": 0.61,
+    "recommended_action": "Switch carrier"
+  },
+  {
+    "sla_id": "SLA-00297",
+    "job_id": "J-00297",
+    "shipment_id": "SH-00297",
+    "SLA_target_time": "2026-06-07T18:00",
+    "current_eta": "2026-06-07T18:43",
+    "risk_level": "Low",
+    "breach_probability": 0.17,
+    "recommended_action": "Pre-position part"
+  },
+  {
+    "sla_id": "SLA-00298",
+    "job_id": "J-00298",
+    "shipment_id": "SH-00298",
+    "SLA_target_time": "2026-06-19T09:00",
+    "current_eta": "2026-06-19T09:44",
+    "risk_level": "Medium",
+    "breach_probability": 0.32,
+    "recommended_action": "Expedite shipment"
+  },
+  {
+    "sla_id": "SLA-00299",
+    "job_id": "J-00299",
+    "shipment_id": "SH-00299",
+    "SLA_target_time": "2026-06-20T01:00",
+    "current_eta": "2026-06-20T02:15",
+    "risk_level": "Medium",
+    "breach_probability": 0.29,
+    "recommended_action": "Pre-position part"
+  },
+  {
+    "sla_id": "SLA-00300",
+    "job_id": "J-00300",
+    "shipment_id": "SH-00300",
+    "SLA_target_time": "2026-06-14T06:00",
+    "current_eta": "2026-06-14T07:26",
+    "risk_level": "Medium",
+    "breach_probability": 0.33,
+    "recommended_action": "Reassign engineer"
+  },
+  {
+    "sla_id": "SLA-00301",
+    "job_id": "J-00301",
+    "shipment_id": "SH-00301",
+    "SLA_target_time": "2026-06-05T08:00",
+    "current_eta": "2026-06-05T09:06",
+    "risk_level": "Low",
+    "breach_probability": 0.25,
+    "recommended_action": "Switch carrier"
+  },
+  {
+    "sla_id": "SLA-00302",
+    "job_id": "J-00302",
+    "shipment_id": "SH-00302",
+    "SLA_target_time": "2026-06-19T21:00",
+    "current_eta": "2026-06-19T21:00",
+    "risk_level": "Low",
+    "breach_probability": 0.04,
+    "recommended_action": "Expedite shipment"
+  },
+  {
+    "sla_id": "SLA-00303",
+    "job_id": "J-00303",
+    "shipment_id": "SH-00303",
+    "SLA_target_time": "2026-06-17T18:00",
+    "current_eta": "2026-06-17T18:00",
+    "risk_level": "Low",
+    "breach_probability": 0.04,
+    "recommended_action": "Switch carrier"
+  },
+  {
+    "sla_id": "SLA-00304",
+    "job_id": "J-00304",
+    "shipment_id": "SH-00304",
+    "SLA_target_time": "2026-06-16T18:00",
+    "current_eta": "2026-06-16T20:41",
+    "risk_level": "High",
+    "breach_probability": 0.62,
+    "recommended_action": "Reassign engineer"
+  },
+  {
+    "sla_id": "SLA-00305",
+    "job_id": "J-00305",
+    "shipment_id": "SH-00305",
+    "SLA_target_time": "2026-06-15T04:00",
+    "current_eta": "2026-06-15T04:43",
+    "risk_level": "Medium",
+    "breach_probability": 0.32,
+    "recommended_action": "Reassign engineer"
+  },
+  {
+    "sla_id": "SLA-00306",
+    "job_id": "J-00306",
+    "shipment_id": "SH-00306",
+    "SLA_target_time": "2026-06-20T09:00",
+    "current_eta": "2026-06-20T09:24",
+    "risk_level": "Low",
+    "breach_probability": 0.09,
+    "recommended_action": "Pre-position part"
+  },
+  {
+    "sla_id": "SLA-00307",
+    "job_id": "J-00307",
+    "shipment_id": "SH-00307",
+    "SLA_target_time": "2026-06-09T05:00",
+    "current_eta": "2026-06-09T05:00",
+    "risk_level": "Low",
+    "breach_probability": 0.04,
+    "recommended_action": "Expedite shipment"
+  },
+  {
+    "sla_id": "SLA-00308",
+    "job_id": "J-00308",
+    "shipment_id": "SH-00308",
+    "SLA_target_time": "2026-06-09T17:00",
+    "current_eta": "2026-06-09T17:00",
+    "risk_level": "Low",
+    "breach_probability": 0.04,
+    "recommended_action": "Pre-position part"
+  },
+  {
+    "sla_id": "SLA-00309",
+    "job_id": "J-00309",
+    "shipment_id": "SH-00309",
+    "SLA_target_time": "2026-06-09T08:00",
+    "current_eta": "2026-06-09T08:14",
+    "risk_level": "Low",
+    "breach_probability": 0.05,
+    "recommended_action": "Switch carrier"
+  },
+  {
+    "sla_id": "SLA-00310",
+    "job_id": "J-00310",
+    "shipment_id": "SH-00310",
+    "SLA_target_time": "2026-06-16T19:00",
+    "current_eta": "2026-06-16T19:27",
+    "risk_level": "Low",
+    "breach_probability": 0.1,
+    "recommended_action": "Switch carrier"
+  },
+  {
+    "sla_id": "SLA-00311",
+    "job_id": "J-00311",
+    "shipment_id": "SH-00311",
+    "SLA_target_time": "2026-06-08T04:00",
+    "current_eta": "2026-06-08T05:49",
+    "risk_level": "Medium",
+    "breach_probability": 0.42,
+    "recommended_action": "Pre-position part"
+  },
+  {
+    "sla_id": "SLA-00312",
+    "job_id": "J-00312",
+    "shipment_id": "SH-00312",
+    "SLA_target_time": "2026-06-15T20:00",
+    "current_eta": "2026-06-15T21:07",
+    "risk_level": "Low",
+    "breach_probability": 0.26,
+    "recommended_action": "Reassign engineer"
+  },
+  {
+    "sla_id": "SLA-00313",
+    "job_id": "J-00313",
+    "shipment_id": "SH-00313",
+    "SLA_target_time": "2026-06-17T00:00",
+    "current_eta": "2026-06-17T00:00",
+    "risk_level": "Low",
+    "breach_probability": 0.04,
+    "recommended_action": "Expedite shipment"
+  },
+  {
+    "sla_id": "SLA-00314",
+    "job_id": "J-00314",
+    "shipment_id": "SH-00314",
+    "SLA_target_time": "2026-06-11T06:00",
+    "current_eta": "2026-06-11T07:37",
+    "risk_level": "Medium",
+    "breach_probability": 0.37,
+    "recommended_action": "Expedite shipment"
+  },
+  {
+    "sla_id": "SLA-00315",
+    "job_id": "J-00315",
+    "shipment_id": "SH-00315",
+    "SLA_target_time": "2026-06-20T22:00",
+    "current_eta": "2026-06-20T22:59",
+    "risk_level": "Medium",
+    "breach_probability": 0.38,
+    "recommended_action": "Reassign engineer"
+  },
+  {
+    "sla_id": "SLA-00316",
+    "job_id": "J-00316",
+    "shipment_id": "SH-00316",
+    "SLA_target_time": "2026-06-21T00:00",
+    "current_eta": "2026-06-21T02:41",
+    "risk_level": "High",
+    "breach_probability": 0.62,
+    "recommended_action": "Pre-position part"
+  },
+  {
+    "sla_id": "SLA-00317",
+    "job_id": "J-00317",
+    "shipment_id": "SH-00317",
+    "SLA_target_time": "2026-06-23T01:00",
+    "current_eta": "2026-06-23T02:47",
+    "risk_level": "Medium",
+    "breach_probability": 0.41,
+    "recommended_action": "Reassign engineer"
+  },
+  {
+    "sla_id": "SLA-00318",
+    "job_id": "J-00318",
+    "shipment_id": "SH-00318",
+    "SLA_target_time": "2026-06-05T07:00",
+    "current_eta": "2026-06-05T08:02",
+    "risk_level": "Medium",
+    "breach_probability": 0.39,
+    "recommended_action": "Switch carrier"
+  },
+  {
+    "sla_id": "SLA-00319",
+    "job_id": "J-00319",
+    "shipment_id": "SH-00319",
+    "SLA_target_time": "2026-06-07T02:00",
+    "current_eta": "2026-06-07T02:22",
+    "risk_level": "Low",
+    "breach_probability": 0.08,
+    "recommended_action": "Expedite shipment"
+  },
+  {
+    "sla_id": "SLA-00320",
+    "job_id": "J-00320",
+    "shipment_id": "SH-00320",
+    "SLA_target_time": "2026-06-16T00:00",
+    "current_eta": "2026-06-16T00:20",
+    "risk_level": "Low",
+    "breach_probability": 0.08,
+    "recommended_action": "Expedite shipment"
+  },
+  {
+    "sla_id": "SLA-00321",
+    "job_id": "J-00321",
+    "shipment_id": "SH-00321",
+    "SLA_target_time": "2026-06-07T02:00",
+    "current_eta": "2026-06-07T02:26",
+    "risk_level": "Low",
+    "breach_probability": 0.1,
+    "recommended_action": "Switch carrier"
+  },
+  {
+    "sla_id": "SLA-00322",
+    "job_id": "J-00322",
+    "shipment_id": "SH-00322",
+    "SLA_target_time": "2026-06-21T09:00",
+    "current_eta": "2026-06-21T09:20",
+    "risk_level": "Low",
+    "breach_probability": 0.08,
+    "recommended_action": "Pre-position part"
+  },
+  {
+    "sla_id": "SLA-00323",
+    "job_id": "J-00323",
+    "shipment_id": "SH-00323",
+    "SLA_target_time": "2026-06-20T22:00",
+    "current_eta": "2026-06-20T22:00",
+    "risk_level": "Low",
+    "breach_probability": 0.04,
+    "recommended_action": "Pre-position part"
+  },
+  {
+    "sla_id": "SLA-00324",
+    "job_id": "J-00324",
+    "shipment_id": "SH-00324",
+    "SLA_target_time": "2026-06-11T05:00",
+    "current_eta": "2026-06-11T05:02",
+    "risk_level": "Low",
+    "breach_probability": 0.16,
+    "recommended_action": "Reassign engineer"
+  },
+  {
+    "sla_id": "SLA-00325",
+    "job_id": "J-00325",
+    "shipment_id": "SH-00325",
+    "SLA_target_time": "2026-06-17T16:00",
+    "current_eta": "2026-06-17T17:30",
+    "risk_level": "Medium",
+    "breach_probability": 0.35,
+    "recommended_action": "Reassign engineer"
+  },
+  {
+    "sla_id": "SLA-00326",
+    "job_id": "J-00326",
+    "shipment_id": "SH-00326",
+    "SLA_target_time": "2026-06-11T07:00",
+    "current_eta": "2026-06-11T08:18",
+    "risk_level": "Medium",
+    "breach_probability": 0.3,
+    "recommended_action": "Reassign engineer"
+  },
+  {
+    "sla_id": "SLA-00327",
+    "job_id": "J-00327",
+    "shipment_id": "SH-00327",
+    "SLA_target_time": "2026-06-09T22:00",
+    "current_eta": "2026-06-10T01:17",
+    "risk_level": "High",
+    "breach_probability": 0.76,
+    "recommended_action": "Switch carrier"
+  },
+  {
+    "sla_id": "SLA-00328",
+    "job_id": "J-00328",
+    "shipment_id": "SH-00328",
+    "SLA_target_time": "2026-06-18T00:00",
+    "current_eta": "2026-06-18T02:44",
+    "risk_level": "High",
+    "breach_probability": 0.63,
+    "recommended_action": "Expedite shipment"
+  },
+  {
+    "sla_id": "SLA-00329",
+    "job_id": "J-00329",
+    "shipment_id": "SH-00329",
+    "SLA_target_time": "2026-06-10T09:00",
+    "current_eta": "2026-06-10T09:00",
+    "risk_level": "Low",
+    "breach_probability": 0.15,
+    "recommended_action": "Reassign engineer"
+  },
+  {
+    "sla_id": "SLA-00330",
+    "job_id": "J-00330",
+    "shipment_id": "SH-00330",
+    "SLA_target_time": "2026-06-16T14:00",
+    "current_eta": "2026-06-16T14:29",
+    "risk_level": "Low",
+    "breach_probability": 0.26,
+    "recommended_action": "Reassign engineer"
+  },
+  {
+    "sla_id": "SLA-00331",
+    "job_id": "J-00331",
+    "shipment_id": "SH-00331",
+    "SLA_target_time": "2026-06-20T03:00",
+    "current_eta": "2026-06-20T03:00",
+    "risk_level": "Low",
+    "breach_probability": 0.15,
+    "recommended_action": "Reassign engineer"
+  },
+  {
+    "sla_id": "SLA-00332",
+    "job_id": "J-00332",
+    "shipment_id": "SH-00332",
+    "SLA_target_time": "2026-06-17T04:00",
+    "current_eta": "2026-06-17T05:52",
+    "risk_level": "High",
+    "breach_probability": 0.58,
+    "recommended_action": "Reassign engineer"
+  },
+  {
+    "sla_id": "SLA-00333",
+    "job_id": "J-00333",
+    "shipment_id": "SH-00333",
+    "SLA_target_time": "2026-06-17T13:00",
+    "current_eta": "2026-06-17T15:18",
+    "risk_level": "Medium",
+    "breach_probability": 0.53,
+    "recommended_action": "Switch carrier"
+  },
+  {
+    "sla_id": "SLA-00334",
+    "job_id": "J-00334",
+    "shipment_id": "SH-00334",
+    "SLA_target_time": "2026-06-05T18:00",
+    "current_eta": "2026-06-05T19:05",
+    "risk_level": "Low",
+    "breach_probability": 0.25,
+    "recommended_action": "Expedite shipment"
+  },
+  {
+    "sla_id": "SLA-00335",
+    "job_id": "J-00335",
+    "shipment_id": "SH-00335",
+    "SLA_target_time": "2026-06-16T18:00",
+    "current_eta": "2026-06-16T19:39",
+    "risk_level": "Medium",
+    "breach_probability": 0.53,
+    "recommended_action": "Switch carrier"
+  },
+  {
+    "sla_id": "SLA-00336",
+    "job_id": "J-00336",
+    "shipment_id": "SH-00336",
+    "SLA_target_time": "2026-06-20T11:00",
+    "current_eta": "2026-06-20T12:12",
+    "risk_level": "Low",
+    "breach_probability": 0.28,
+    "recommended_action": "Switch carrier"
+  },
+  {
+    "sla_id": "SLA-00337",
+    "job_id": "J-00337",
+    "shipment_id": "SH-00337",
+    "SLA_target_time": "2026-06-04T23:00",
+    "current_eta": "2026-06-04T23:57",
+    "risk_level": "Low",
+    "breach_probability": 0.22,
+    "recommended_action": "Switch carrier"
+  },
+  {
+    "sla_id": "SLA-00338",
+    "job_id": "J-00338",
+    "shipment_id": "SH-00338",
+    "SLA_target_time": "2026-06-19T17:00",
+    "current_eta": "2026-06-19T17:01",
+    "risk_level": "Low",
+    "breach_probability": 0.04,
+    "recommended_action": "Switch carrier"
+  },
+  {
+    "sla_id": "SLA-00339",
+    "job_id": "J-00339",
+    "shipment_id": "SH-00339",
+    "SLA_target_time": "2026-06-03T23:00",
+    "current_eta": "2026-06-03T23:00",
+    "risk_level": "Low",
+    "breach_probability": 0.15,
+    "recommended_action": "Expedite shipment"
+  },
+  {
+    "sla_id": "SLA-00340",
+    "job_id": "J-00340",
+    "shipment_id": "SH-00340",
+    "SLA_target_time": "2026-06-19T17:00",
+    "current_eta": "2026-06-19T19:07",
+    "risk_level": "Medium",
+    "breach_probability": 0.49,
+    "recommended_action": "Reassign engineer"
+  },
+  {
+    "sla_id": "SLA-00341",
+    "job_id": "J-00341",
+    "shipment_id": "SH-00341",
+    "SLA_target_time": "2026-06-21T16:00",
+    "current_eta": "2026-06-21T19:10",
+    "risk_level": "High",
+    "breach_probability": 0.88,
+    "recommended_action": "Switch carrier"
+  },
+  {
+    "sla_id": "SLA-00342",
+    "job_id": "J-00342",
+    "shipment_id": "SH-00342",
+    "SLA_target_time": "2026-06-14T15:00",
+    "current_eta": "2026-06-14T15:00",
+    "risk_level": "Low",
+    "breach_probability": 0.15,
+    "recommended_action": "Switch carrier"
+  },
+  {
+    "sla_id": "SLA-00343",
+    "job_id": "J-00343",
+    "shipment_id": "SH-00343",
+    "SLA_target_time": "2026-06-07T01:00",
+    "current_eta": "2026-06-07T03:08",
+    "risk_level": "Medium",
+    "breach_probability": 0.49,
+    "recommended_action": "Pre-position part"
+  },
+  {
+    "sla_id": "SLA-00344",
+    "job_id": "J-00344",
+    "shipment_id": "SH-00344",
+    "SLA_target_time": "2026-06-07T08:00",
+    "current_eta": "2026-06-07T08:11",
+    "risk_level": "Low",
+    "breach_probability": 0.04,
+    "recommended_action": "Switch carrier"
+  },
+  {
+    "sla_id": "SLA-00345",
+    "job_id": "J-00345",
+    "shipment_id": "SH-00345",
+    "SLA_target_time": "2026-06-09T13:00",
+    "current_eta": "2026-06-09T14:02",
+    "risk_level": "Low",
+    "breach_probability": 0.24,
+    "recommended_action": "Switch carrier"
+  },
+  {
+    "sla_id": "SLA-00346",
+    "job_id": "J-00346",
+    "shipment_id": "SH-00346",
+    "SLA_target_time": "2026-06-07T20:00",
+    "current_eta": "2026-06-07T20:00",
+    "risk_level": "Low",
+    "breach_probability": 0.04,
+    "recommended_action": "Expedite shipment"
+  },
+  {
+    "sla_id": "SLA-00347",
+    "job_id": "J-00347",
+    "shipment_id": "SH-00347",
+    "SLA_target_time": "2026-06-14T20:00",
+    "current_eta": "2026-06-14T20:00",
+    "risk_level": "Low",
+    "breach_probability": 0.04,
+    "recommended_action": "Expedite shipment"
+  },
+  {
+    "sla_id": "SLA-00348",
+    "job_id": "J-00348",
+    "shipment_id": "SH-00348",
+    "SLA_target_time": "2026-06-19T11:00",
+    "current_eta": "2026-06-19T11:00",
+    "risk_level": "Low",
+    "breach_probability": 0.04,
+    "recommended_action": "Reassign engineer"
+  },
+  {
+    "sla_id": "SLA-00349",
+    "job_id": "J-00349",
+    "shipment_id": "SH-00349",
+    "SLA_target_time": "2026-06-16T01:00",
+    "current_eta": "2026-06-16T03:31",
+    "risk_level": "High",
+    "breach_probability": 0.58,
+    "recommended_action": "Expedite shipment"
+  },
+  {
+    "sla_id": "SLA-00350",
+    "job_id": "J-00350",
+    "shipment_id": "SH-00350",
+    "SLA_target_time": "2026-06-10T15:00",
+    "current_eta": "2026-06-10T16:06",
+    "risk_level": "Low",
+    "breach_probability": 0.25,
+    "recommended_action": "Reassign engineer"
+  },
+  {
+    "sla_id": "SLA-00351",
+    "job_id": "J-00351",
+    "shipment_id": "SH-00351",
+    "SLA_target_time": "2026-06-10T04:00",
+    "current_eta": "2026-06-10T04:48",
+    "risk_level": "Low",
+    "breach_probability": 0.18,
+    "recommended_action": "Switch carrier"
+  },
+  {
+    "sla_id": "SLA-00352",
+    "job_id": "J-00352",
+    "shipment_id": "SH-00352",
+    "SLA_target_time": "2026-06-21T08:00",
+    "current_eta": "2026-06-21T08:00",
+    "risk_level": "Low",
+    "breach_probability": 0.15,
+    "recommended_action": "Switch carrier"
+  },
+  {
+    "sla_id": "SLA-00353",
+    "job_id": "J-00353",
+    "shipment_id": "SH-00353",
+    "SLA_target_time": "2026-06-02T17:00",
+    "current_eta": "2026-06-02T17:19",
+    "risk_level": "Low",
+    "breach_probability": 0.07,
+    "recommended_action": "Switch carrier"
+  },
+  {
+    "sla_id": "SLA-00354",
+    "job_id": "J-00354",
+    "shipment_id": "SH-00354",
+    "SLA_target_time": "2026-06-21T22:00",
+    "current_eta": "2026-06-21T23:59",
+    "risk_level": "High",
+    "breach_probability": 0.61,
+    "recommended_action": "Expedite shipment"
+  },
+  {
+    "sla_id": "SLA-00355",
+    "job_id": "J-00355",
+    "shipment_id": "SH-00355",
+    "SLA_target_time": "2026-06-12T15:00",
+    "current_eta": "2026-06-12T17:09",
+    "risk_level": "High",
+    "breach_probability": 0.65,
+    "recommended_action": "Reassign engineer"
+  },
+  {
+    "sla_id": "SLA-00356",
+    "job_id": "J-00356",
+    "shipment_id": "SH-00356",
+    "SLA_target_time": "2026-06-11T17:00",
+    "current_eta": "2026-06-11T17:00",
+    "risk_level": "Low",
+    "breach_probability": 0.15,
+    "recommended_action": "Expedite shipment"
+  },
+  {
+    "sla_id": "SLA-00357",
+    "job_id": "J-00357",
+    "shipment_id": "SH-00357",
+    "SLA_target_time": "2026-06-03T02:00",
+    "current_eta": "2026-06-03T03:43",
+    "risk_level": "Medium",
+    "breach_probability": 0.4,
+    "recommended_action": "Reassign engineer"
+  },
+  {
+    "sla_id": "SLA-00358",
+    "job_id": "J-00358",
+    "shipment_id": "SH-00358",
+    "SLA_target_time": "2026-06-09T17:00",
+    "current_eta": "2026-06-09T19:41",
+    "risk_level": "High",
+    "breach_probability": 0.77,
+    "recommended_action": "Expedite shipment"
+  },
+  {
+    "sla_id": "SLA-00359",
+    "job_id": "J-00359",
+    "shipment_id": "SH-00359",
+    "SLA_target_time": "2026-06-09T23:00",
+    "current_eta": "2026-06-09T23:55",
+    "risk_level": "Low",
+    "breach_probability": 0.21,
+    "recommended_action": "Pre-position part"
+  },
+  {
+    "sla_id": "SLA-00360",
+    "job_id": "J-00360",
+    "shipment_id": "SH-00360",
+    "SLA_target_time": "2026-06-15T21:00",
+    "current_eta": "2026-06-15T21:00",
+    "risk_level": "Low",
+    "breach_probability": 0.15,
+    "recommended_action": "Pre-position part"
+  },
+  {
+    "sla_id": "SLA-00361",
+    "job_id": "J-00361",
+    "shipment_id": "SH-00361",
+    "SLA_target_time": "2026-06-12T00:00",
+    "current_eta": "2026-06-12T00:00",
+    "risk_level": "Low",
+    "breach_probability": 0.04,
+    "recommended_action": "Switch carrier"
+  },
+  {
+    "sla_id": "SLA-00362",
+    "job_id": "J-00362",
+    "shipment_id": "SH-00362",
+    "SLA_target_time": "2026-06-12T16:00",
+    "current_eta": "2026-06-12T16:03",
+    "risk_level": "Low",
+    "breach_probability": 0.04,
+    "recommended_action": "Expedite shipment"
+  },
+  {
+    "sla_id": "SLA-00363",
+    "job_id": "J-00363",
+    "shipment_id": "SH-00363",
+    "SLA_target_time": "2026-06-16T07:00",
+    "current_eta": "2026-06-16T08:36",
+    "risk_level": "Medium",
+    "breach_probability": 0.37,
+    "recommended_action": "Pre-position part"
+  },
+  {
+    "sla_id": "SLA-00364",
+    "job_id": "J-00364",
+    "shipment_id": "SH-00364",
+    "SLA_target_time": "2026-06-11T05:00",
+    "current_eta": "2026-06-11T06:00",
+    "risk_level": "Low",
+    "breach_probability": 0.23,
+    "recommended_action": "Reassign engineer"
+  },
+  {
+    "sla_id": "SLA-00365",
+    "job_id": "J-00365",
+    "shipment_id": "SH-00365",
+    "SLA_target_time": "2026-06-10T08:00",
+    "current_eta": "2026-06-10T08:25",
+    "risk_level": "Low",
+    "breach_probability": 0.1,
+    "recommended_action": "Expedite shipment"
+  },
+  {
+    "sla_id": "SLA-00366",
+    "job_id": "J-00366",
+    "shipment_id": "SH-00366",
+    "SLA_target_time": "2026-06-21T03:00",
+    "current_eta": "2026-06-21T04:21",
+    "risk_level": "Medium",
+    "breach_probability": 0.31,
+    "recommended_action": "Switch carrier"
+  },
+  {
+    "sla_id": "SLA-00367",
+    "job_id": "J-00367",
+    "shipment_id": "SH-00367",
+    "SLA_target_time": "2026-06-13T22:00",
+    "current_eta": "2026-06-13T22:00",
+    "risk_level": "Low",
+    "breach_probability": 0.04,
+    "recommended_action": "Switch carrier"
+  },
+  {
+    "sla_id": "SLA-00368",
+    "job_id": "J-00368",
+    "shipment_id": "SH-00368",
+    "SLA_target_time": "2026-06-10T16:00",
+    "current_eta": "2026-06-10T18:43",
+    "risk_level": "High",
+    "breach_probability": 0.78,
+    "recommended_action": "Expedite shipment"
+  },
+  {
+    "sla_id": "SLA-00369",
+    "job_id": "J-00369",
+    "shipment_id": "SH-00369",
+    "SLA_target_time": "2026-06-13T00:00",
+    "current_eta": "2026-06-13T01:12",
+    "risk_level": "Low",
+    "breach_probability": 0.28,
+    "recommended_action": "Pre-position part"
+  },
+  {
+    "sla_id": "SLA-00370",
+    "job_id": "J-00370",
+    "shipment_id": "SH-00370",
+    "SLA_target_time": "2026-06-10T03:00",
+    "current_eta": "2026-06-10T04:25",
+    "risk_level": "Medium",
+    "breach_probability": 0.33,
+    "recommended_action": "Expedite shipment"
+  },
+  {
+    "sla_id": "SLA-00371",
+    "job_id": "J-00371",
+    "shipment_id": "SH-00371",
+    "SLA_target_time": "2026-06-21T00:00",
+    "current_eta": "2026-06-21T02:21",
+    "risk_level": "High",
+    "breach_probability": 0.69,
+    "recommended_action": "Switch carrier"
+  },
+  {
+    "sla_id": "SLA-00372",
+    "job_id": "J-00372",
+    "shipment_id": "SH-00372",
+    "SLA_target_time": "2026-06-14T14:00",
+    "current_eta": "2026-06-14T14:14",
+    "risk_level": "Low",
+    "breach_probability": 0.05,
+    "recommended_action": "Reassign engineer"
+  },
+  {
+    "sla_id": "SLA-00373",
+    "job_id": "J-00373",
+    "shipment_id": "SH-00373",
+    "SLA_target_time": "2026-06-17T07:00",
+    "current_eta": "2026-06-17T07:00",
+    "risk_level": "Low",
+    "breach_probability": 0.15,
+    "recommended_action": "Pre-position part"
+  },
+  {
+    "sla_id": "SLA-00374",
+    "job_id": "J-00374",
+    "shipment_id": "SH-00374",
+    "SLA_target_time": "2026-06-21T02:00",
+    "current_eta": "2026-06-21T02:46",
+    "risk_level": "Low",
+    "breach_probability": 0.18,
+    "recommended_action": "Expedite shipment"
+  },
+  {
+    "sla_id": "SLA-00375",
+    "job_id": "J-00375",
+    "shipment_id": "SH-00375",
+    "SLA_target_time": "2026-06-03T09:00",
+    "current_eta": "2026-06-03T12:51",
+    "risk_level": "High",
+    "breach_probability": 0.89,
+    "recommended_action": "Pre-position part"
+  },
+  {
+    "sla_id": "SLA-00376",
+    "job_id": "J-00376",
+    "shipment_id": "SH-00376",
+    "SLA_target_time": "2026-06-14T23:00",
+    "current_eta": "2026-06-14T23:18",
+    "risk_level": "Low",
+    "breach_probability": 0.07,
+    "recommended_action": "Switch carrier"
+  },
+  {
+    "sla_id": "SLA-00377",
+    "job_id": "J-00377",
+    "shipment_id": "SH-00377",
+    "SLA_target_time": "2026-06-15T23:00",
+    "current_eta": "2026-06-15T23:00",
+    "risk_level": "Low",
+    "breach_probability": 0.15,
+    "recommended_action": "Switch carrier"
+  },
+  {
+    "sla_id": "SLA-00378",
+    "job_id": "J-00378",
+    "shipment_id": "SH-00378",
+    "SLA_target_time": "2026-06-11T03:00",
+    "current_eta": "2026-06-11T04:38",
+    "risk_level": "Medium",
+    "breach_probability": 0.38,
+    "recommended_action": "Reassign engineer"
+  },
+  {
+    "sla_id": "SLA-00379",
+    "job_id": "J-00379",
+    "shipment_id": "SH-00379",
+    "SLA_target_time": "2026-06-09T00:00",
+    "current_eta": "2026-06-09T00:48",
+    "risk_level": "Low",
+    "breach_probability": 0.18,
+    "recommended_action": "Expedite shipment"
+  },
+  {
+    "sla_id": "SLA-00380",
+    "job_id": "J-00380",
+    "shipment_id": "SH-00380",
+    "SLA_target_time": "2026-06-12T22:00",
+    "current_eta": "2026-06-12T23:29",
+    "risk_level": "Medium",
+    "breach_probability": 0.49,
+    "recommended_action": "Switch carrier"
+  },
+  {
+    "sla_id": "SLA-00381",
+    "job_id": "J-00381",
+    "shipment_id": "SH-00381",
+    "SLA_target_time": "2026-06-11T18:00",
+    "current_eta": "2026-06-11T18:00",
+    "risk_level": "Low",
+    "breach_probability": 0.04,
+    "recommended_action": "Expedite shipment"
+  },
+  {
+    "sla_id": "SLA-00382",
+    "job_id": "J-00382",
+    "shipment_id": "SH-00382",
+    "SLA_target_time": "2026-06-11T20:00",
+    "current_eta": "2026-06-11T20:27",
+    "risk_level": "Low",
+    "breach_probability": 0.1,
+    "recommended_action": "Reassign engineer"
+  },
+  {
+    "sla_id": "SLA-00383",
+    "job_id": "J-00383",
+    "shipment_id": "SH-00383",
+    "SLA_target_time": "2026-06-19T23:00",
+    "current_eta": "2026-06-20T02:59",
+    "risk_level": "High",
+    "breach_probability": 0.92,
+    "recommended_action": "Switch carrier"
+  },
+  {
+    "sla_id": "SLA-00384",
+    "job_id": "J-00384",
+    "shipment_id": "SH-00384",
+    "SLA_target_time": "2026-06-22T02:00",
+    "current_eta": "2026-06-22T02:06",
+    "risk_level": "Low",
+    "breach_probability": 0.04,
+    "recommended_action": "Expedite shipment"
+  },
+  {
+    "sla_id": "SLA-00385",
+    "job_id": "J-00385",
+    "shipment_id": "SH-00385",
+    "SLA_target_time": "2026-06-19T05:00",
+    "current_eta": "2026-06-19T05:07",
+    "risk_level": "Low",
+    "breach_probability": 0.04,
+    "recommended_action": "Pre-position part"
+  },
+  {
+    "sla_id": "SLA-00386",
+    "job_id": "J-00386",
+    "shipment_id": "SH-00386",
+    "SLA_target_time": "2026-06-17T21:00",
+    "current_eta": "2026-06-17T23:08",
+    "risk_level": "Medium",
+    "breach_probability": 0.49,
+    "recommended_action": "Pre-position part"
+  },
+  {
+    "sla_id": "SLA-00387",
+    "job_id": "J-00387",
+    "shipment_id": "SH-00387",
+    "SLA_target_time": "2026-06-12T09:00",
+    "current_eta": "2026-06-12T10:47",
+    "risk_level": "Medium",
+    "breach_probability": 0.41,
+    "recommended_action": "Pre-position part"
+  },
+  {
+    "sla_id": "SLA-00388",
+    "job_id": "J-00388",
+    "shipment_id": "SH-00388",
+    "SLA_target_time": "2026-06-18T11:00",
+    "current_eta": "2026-06-18T11:13",
+    "risk_level": "Low",
+    "breach_probability": 0.2,
+    "recommended_action": "Switch carrier"
+  },
+  {
+    "sla_id": "SLA-00389",
+    "job_id": "J-00389",
+    "shipment_id": "SH-00389",
+    "SLA_target_time": "2026-06-16T23:00",
+    "current_eta": "2026-06-17T02:01",
+    "risk_level": "High",
+    "breach_probability": 0.7,
+    "recommended_action": "Expedite shipment"
+  },
+  {
+    "sla_id": "SLA-00390",
+    "job_id": "J-00390",
+    "shipment_id": "SH-00390",
+    "SLA_target_time": "2026-06-13T04:00",
+    "current_eta": "2026-06-13T04:24",
+    "risk_level": "Low",
+    "breach_probability": 0.24,
+    "recommended_action": "Pre-position part"
+  },
+  {
+    "sla_id": "SLA-00391",
+    "job_id": "J-00391",
+    "shipment_id": "SH-00391",
+    "SLA_target_time": "2026-06-17T00:00",
+    "current_eta": "2026-06-17T00:04",
+    "risk_level": "Low",
+    "breach_probability": 0.04,
+    "recommended_action": "Reassign engineer"
+  },
+  {
+    "sla_id": "SLA-00392",
+    "job_id": "J-00392",
+    "shipment_id": "SH-00392",
+    "SLA_target_time": "2026-06-13T22:00",
+    "current_eta": "2026-06-13T22:14",
+    "risk_level": "Low",
+    "breach_probability": 0.05,
+    "recommended_action": "Expedite shipment"
+  },
+  {
+    "sla_id": "SLA-00393",
+    "job_id": "J-00393",
+    "shipment_id": "SH-00393",
+    "SLA_target_time": "2026-06-12T06:00",
+    "current_eta": "2026-06-12T06:00",
+    "risk_level": "Low",
+    "breach_probability": 0.04,
+    "recommended_action": "Expedite shipment"
+  },
+  {
+    "sla_id": "SLA-00394",
+    "job_id": "J-00394",
+    "shipment_id": "SH-00394",
+    "SLA_target_time": "2026-06-09T16:00",
+    "current_eta": "2026-06-09T18:43",
+    "risk_level": "High",
+    "breach_probability": 0.63,
+    "recommended_action": "Expedite shipment"
+  },
+  {
+    "sla_id": "SLA-00395",
+    "job_id": "J-00395",
+    "shipment_id": "SH-00395",
+    "SLA_target_time": "2026-06-03T22:00",
+    "current_eta": "2026-06-03T22:00",
+    "risk_level": "Low",
+    "breach_probability": 0.04,
+    "recommended_action": "Expedite shipment"
+  },
+  {
+    "sla_id": "SLA-00396",
+    "job_id": "J-00396",
+    "shipment_id": "SH-00396",
+    "SLA_target_time": "2026-06-09T19:00",
+    "current_eta": "2026-06-09T19:00",
+    "risk_level": "Low",
+    "breach_probability": 0.04,
+    "recommended_action": "Switch carrier"
+  },
+  {
+    "sla_id": "SLA-00397",
+    "job_id": "J-00397",
+    "shipment_id": "SH-00397",
+    "SLA_target_time": "2026-06-10T18:00",
+    "current_eta": "2026-06-10T18:00",
+    "risk_level": "Low",
+    "breach_probability": 0.04,
+    "recommended_action": "Expedite shipment"
+  },
+  {
+    "sla_id": "SLA-00398",
+    "job_id": "J-00398",
+    "shipment_id": "SH-00398",
+    "SLA_target_time": "2026-06-11T14:00",
+    "current_eta": "2026-06-11T15:34",
+    "risk_level": "Medium",
+    "breach_probability": 0.36,
+    "recommended_action": "Reassign engineer"
+  },
+  {
+    "sla_id": "SLA-00399",
+    "job_id": "J-00399",
+    "shipment_id": "SH-00399",
+    "SLA_target_time": "2026-06-13T02:00",
+    "current_eta": "2026-06-13T05:39",
+    "risk_level": "High",
+    "breach_probability": 0.84,
+    "recommended_action": "Switch carrier"
+  },
+  {
+    "sla_id": "SLA-00400",
+    "job_id": "J-00400",
+    "shipment_id": "SH-00400",
+    "SLA_target_time": "2026-06-09T03:00",
+    "current_eta": "2026-06-09T03:00",
+    "risk_level": "Low",
+    "breach_probability": 0.04,
+    "recommended_action": "Expedite shipment"
+  },
+  {
+    "sla_id": "SLA-00401",
+    "job_id": "J-00401",
+    "shipment_id": "SH-00401",
+    "SLA_target_time": "2026-06-09T19:00",
+    "current_eta": "2026-06-09T20:19",
+    "risk_level": "Medium",
+    "breach_probability": 0.45,
+    "recommended_action": "Switch carrier"
+  },
+  {
+    "sla_id": "SLA-00402",
+    "job_id": "J-00402",
+    "shipment_id": "SH-00402",
+    "SLA_target_time": "2026-06-15T19:00",
+    "current_eta": "2026-06-15T19:49",
+    "risk_level": "Low",
+    "breach_probability": 0.19,
+    "recommended_action": "Pre-position part"
+  },
+  {
+    "sla_id": "SLA-00403",
+    "job_id": "J-00403",
+    "shipment_id": "SH-00403",
+    "SLA_target_time": "2026-06-13T10:00",
+    "current_eta": "2026-06-13T11:17",
+    "risk_level": "Medium",
+    "breach_probability": 0.3,
+    "recommended_action": "Reassign engineer"
+  },
+  {
+    "sla_id": "SLA-00404",
+    "job_id": "J-00404",
+    "shipment_id": "SH-00404",
+    "SLA_target_time": "2026-06-11T20:00",
+    "current_eta": "2026-06-11T20:00",
+    "risk_level": "Low",
+    "breach_probability": 0.04,
+    "recommended_action": "Reassign engineer"
+  },
+  {
+    "sla_id": "SLA-00405",
+    "job_id": "J-00405",
+    "shipment_id": "SH-00405",
+    "SLA_target_time": "2026-06-14T09:00",
+    "current_eta": "2026-06-14T09:19",
+    "risk_level": "Low",
+    "breach_probability": 0.07,
+    "recommended_action": "Switch carrier"
+  },
+  {
+    "sla_id": "SLA-00406",
+    "job_id": "J-00406",
+    "shipment_id": "SH-00406",
+    "SLA_target_time": "2026-06-13T06:00",
+    "current_eta": "2026-06-13T06:00",
+    "risk_level": "Low",
+    "breach_probability": 0.04,
+    "recommended_action": "Expedite shipment"
+  },
+  {
+    "sla_id": "SLA-00407",
+    "job_id": "J-00407",
+    "shipment_id": "SH-00407",
+    "SLA_target_time": "2026-06-22T04:00",
+    "current_eta": "2026-06-22T05:16",
+    "risk_level": "Medium",
+    "breach_probability": 0.44,
+    "recommended_action": "Switch carrier"
+  },
+  {
+    "sla_id": "SLA-00408",
+    "job_id": "J-00408",
+    "shipment_id": "SH-00408",
+    "SLA_target_time": "2026-06-01T21:00",
+    "current_eta": "2026-06-01T21:24",
+    "risk_level": "Low",
+    "breach_probability": 0.09,
+    "recommended_action": "Reassign engineer"
+  },
+  {
+    "sla_id": "SLA-00409",
+    "job_id": "J-00409",
+    "shipment_id": "SH-00409",
+    "SLA_target_time": "2026-06-15T06:00",
+    "current_eta": "2026-06-15T06:00",
+    "risk_level": "Low",
+    "breach_probability": 0.04,
+    "recommended_action": "Pre-position part"
+  },
+  {
+    "sla_id": "SLA-00410",
+    "job_id": "J-00410",
+    "shipment_id": "SH-00410",
+    "SLA_target_time": "2026-06-20T11:00",
+    "current_eta": "2026-06-20T13:23",
+    "risk_level": "Medium",
+    "breach_probability": 0.55,
+    "recommended_action": "Expedite shipment"
+  },
+  {
+    "sla_id": "SLA-00411",
+    "job_id": "J-00411",
+    "shipment_id": "SH-00411",
+    "SLA_target_time": "2026-06-14T10:00",
+    "current_eta": "2026-06-14T11:26",
+    "risk_level": "Medium",
+    "breach_probability": 0.33,
+    "recommended_action": "Reassign engineer"
+  },
+  {
+    "sla_id": "SLA-00412",
+    "job_id": "J-00412",
+    "shipment_id": "SH-00412",
+    "SLA_target_time": "2026-06-11T18:00",
+    "current_eta": "2026-06-11T18:00",
+    "risk_level": "Low",
+    "breach_probability": 0.04,
+    "recommended_action": "Pre-position part"
+  },
+  {
+    "sla_id": "SLA-00413",
+    "job_id": "J-00413",
+    "shipment_id": "SH-00413",
+    "SLA_target_time": "2026-06-03T02:00",
+    "current_eta": "2026-06-03T02:00",
+    "risk_level": "Low",
+    "breach_probability": 0.04,
+    "recommended_action": "Pre-position part"
+  },
+  {
+    "sla_id": "SLA-00414",
+    "job_id": "J-00414",
+    "shipment_id": "SH-00414",
+    "SLA_target_time": "2026-06-09T07:00",
+    "current_eta": "2026-06-09T11:38",
+    "risk_level": "High",
+    "breach_probability": 0.96,
+    "recommended_action": "Pre-position part"
+  },
+  {
+    "sla_id": "SLA-00415",
+    "job_id": "J-00415",
+    "shipment_id": "SH-00415",
+    "SLA_target_time": "2026-06-09T06:00",
+    "current_eta": "2026-06-09T06:00",
+    "risk_level": "Low",
+    "breach_probability": 0.04,
+    "recommended_action": "Switch carrier"
+  },
+  {
+    "sla_id": "SLA-00416",
+    "job_id": "J-00416",
+    "shipment_id": "SH-00416",
+    "SLA_target_time": "2026-06-05T04:00",
+    "current_eta": "2026-06-05T05:40",
+    "risk_level": "Medium",
+    "breach_probability": 0.38,
+    "recommended_action": "Switch carrier"
+  },
+  {
+    "sla_id": "SLA-00417",
+    "job_id": "J-00417",
+    "shipment_id": "SH-00417",
+    "SLA_target_time": "2026-06-21T03:00",
+    "current_eta": "2026-06-21T03:43",
+    "risk_level": "Low",
+    "breach_probability": 0.17,
+    "recommended_action": "Switch carrier"
+  },
+  {
+    "sla_id": "SLA-00418",
+    "job_id": "J-00418",
+    "shipment_id": "SH-00418",
+    "SLA_target_time": "2026-06-02T14:00",
+    "current_eta": "2026-06-02T16:04",
+    "risk_level": "Medium",
+    "breach_probability": 0.48,
+    "recommended_action": "Switch carrier"
+  },
+  {
+    "sla_id": "SLA-00419",
+    "job_id": "J-00419",
+    "shipment_id": "SH-00419",
+    "SLA_target_time": "2026-06-12T19:00",
+    "current_eta": "2026-06-12T20:11",
+    "risk_level": "Low",
+    "breach_probability": 0.27,
+    "recommended_action": "Expedite shipment"
+  },
+  {
+    "sla_id": "SLA-00420",
+    "job_id": "J-00420",
+    "shipment_id": "SH-00420",
+    "SLA_target_time": "2026-06-21T22:00",
+    "current_eta": "2026-06-21T23:51",
+    "risk_level": "Medium",
+    "breach_probability": 0.43,
+    "recommended_action": "Switch carrier"
+  },
+  {
+    "sla_id": "SLA-00421",
+    "job_id": "J-00421",
+    "shipment_id": "SH-00421",
+    "SLA_target_time": "2026-06-14T20:00",
+    "current_eta": "2026-06-14T20:00",
+    "risk_level": "Low",
+    "breach_probability": 0.15,
+    "recommended_action": "Reassign engineer"
+  },
+  {
+    "sla_id": "SLA-00422",
+    "job_id": "J-00422",
+    "shipment_id": "SH-00422",
+    "SLA_target_time": "2026-06-17T02:00",
+    "current_eta": "2026-06-17T03:59",
+    "risk_level": "High",
+    "breach_probability": 0.61,
+    "recommended_action": "Reassign engineer"
+  },
+  {
+    "sla_id": "SLA-00423",
+    "job_id": "J-00423",
+    "shipment_id": "SH-00423",
+    "SLA_target_time": "2026-06-02T14:00",
+    "current_eta": "2026-06-02T15:01",
+    "risk_level": "Low",
+    "breach_probability": 0.23,
+    "recommended_action": "Expedite shipment"
+  },
+  {
+    "sla_id": "SLA-00424",
+    "job_id": "J-00424",
+    "shipment_id": "SH-00424",
+    "SLA_target_time": "2026-06-22T02:00",
+    "current_eta": "2026-06-22T02:45",
+    "risk_level": "Low",
+    "breach_probability": 0.17,
+    "recommended_action": "Expedite shipment"
+  },
+  {
+    "sla_id": "SLA-00425",
+    "job_id": "J-00425",
+    "shipment_id": "SH-00425",
+    "SLA_target_time": "2026-06-07T23:00",
+    "current_eta": "2026-06-07T23:27",
+    "risk_level": "Low",
+    "breach_probability": 0.1,
+    "recommended_action": "Switch carrier"
+  },
+  {
+    "sla_id": "SLA-00426",
+    "job_id": "J-00426",
+    "shipment_id": "SH-00426",
+    "SLA_target_time": "2026-06-11T07:00",
+    "current_eta": "2026-06-11T08:08",
+    "risk_level": "Low",
+    "breach_probability": 0.26,
+    "recommended_action": "Switch carrier"
+  },
+  {
+    "sla_id": "SLA-00427",
+    "job_id": "J-00427",
+    "shipment_id": "SH-00427",
+    "SLA_target_time": "2026-06-04T20:00",
+    "current_eta": "2026-06-04T20:00",
+    "risk_level": "Low",
+    "breach_probability": 0.04,
+    "recommended_action": "Reassign engineer"
+  },
+  {
+    "sla_id": "SLA-00428",
+    "job_id": "J-00428",
+    "shipment_id": "SH-00428",
+    "SLA_target_time": "2026-06-07T22:00",
+    "current_eta": "2026-06-07T22:29",
+    "risk_level": "Low",
+    "breach_probability": 0.11,
+    "recommended_action": "Expedite shipment"
+  },
+  {
+    "sla_id": "SLA-00429",
+    "job_id": "J-00429",
+    "shipment_id": "SH-00429",
+    "SLA_target_time": "2026-06-17T02:00",
+    "current_eta": "2026-06-17T02:49",
+    "risk_level": "Low",
+    "breach_probability": 0.19,
+    "recommended_action": "Switch carrier"
+  },
+  {
+    "sla_id": "SLA-00430",
+    "job_id": "J-00430",
+    "shipment_id": "SH-00430",
+    "SLA_target_time": "2026-06-12T18:00",
+    "current_eta": "2026-06-12T18:00",
+    "risk_level": "Low",
+    "breach_probability": 0.04,
+    "recommended_action": "Expedite shipment"
+  },
+  {
+    "sla_id": "SLA-00431",
+    "job_id": "J-00431",
+    "shipment_id": "SH-00431",
+    "SLA_target_time": "2026-06-14T18:00",
+    "current_eta": "2026-06-14T18:31",
+    "risk_level": "Low",
+    "breach_probability": 0.12,
+    "recommended_action": "Reassign engineer"
+  },
+  {
+    "sla_id": "SLA-00432",
+    "job_id": "J-00432",
+    "shipment_id": "SH-00432",
+    "SLA_target_time": "2026-06-09T00:00",
+    "current_eta": "2026-06-09T00:00",
+    "risk_level": "Low",
+    "breach_probability": 0.04,
+    "recommended_action": "Pre-position part"
+  },
+  {
+    "sla_id": "SLA-00433",
+    "job_id": "J-00433",
+    "shipment_id": "SH-00433",
+    "SLA_target_time": "2026-06-09T19:00",
+    "current_eta": "2026-06-09T21:17",
+    "risk_level": "Medium",
+    "breach_probability": 0.53,
+    "recommended_action": "Reassign engineer"
+  },
+  {
+    "sla_id": "SLA-00434",
+    "job_id": "J-00434",
+    "shipment_id": "SH-00434",
+    "SLA_target_time": "2026-06-16T03:00",
+    "current_eta": "2026-06-16T03:43",
+    "risk_level": "Low",
+    "breach_probability": 0.17,
+    "recommended_action": "Reassign engineer"
+  },
+  {
+    "sla_id": "SLA-00435",
+    "job_id": "J-00435",
+    "shipment_id": "SH-00435",
+    "SLA_target_time": "2026-06-12T01:00",
+    "current_eta": "2026-06-12T04:44",
+    "risk_level": "High",
+    "breach_probability": 0.86,
+    "recommended_action": "Switch carrier"
+  },
+  {
+    "sla_id": "SLA-00436",
+    "job_id": "J-00436",
+    "shipment_id": "SH-00436",
+    "SLA_target_time": "2026-06-17T00:00",
+    "current_eta": "2026-06-17T00:00",
+    "risk_level": "Low",
+    "breach_probability": 0.15,
+    "recommended_action": "Switch carrier"
+  },
+  {
+    "sla_id": "SLA-00437",
+    "job_id": "J-00437",
+    "shipment_id": "SH-00437",
+    "SLA_target_time": "2026-06-03T03:00",
+    "current_eta": "2026-06-03T03:47",
+    "risk_level": "Medium",
+    "breach_probability": 0.33,
+    "recommended_action": "Expedite shipment"
+  },
+  {
+    "sla_id": "SLA-00438",
+    "job_id": "J-00438",
+    "shipment_id": "SH-00438",
+    "SLA_target_time": "2026-06-03T20:00",
+    "current_eta": "2026-06-04T00:17",
+    "risk_level": "High",
+    "breach_probability": 0.96,
+    "recommended_action": "Reassign engineer"
+  },
+  {
+    "sla_id": "SLA-00439",
+    "job_id": "J-00439",
+    "shipment_id": "SH-00439",
+    "SLA_target_time": "2026-06-17T20:00",
+    "current_eta": "2026-06-17T20:00",
+    "risk_level": "Low",
+    "breach_probability": 0.15,
+    "recommended_action": "Pre-position part"
+  },
+  {
+    "sla_id": "SLA-00440",
+    "job_id": "J-00440",
+    "shipment_id": "SH-00440",
+    "SLA_target_time": "2026-06-03T03:00",
+    "current_eta": "2026-06-03T04:29",
+    "risk_level": "Medium",
+    "breach_probability": 0.34,
+    "recommended_action": "Expedite shipment"
+  },
+  {
+    "sla_id": "SLA-00441",
+    "job_id": "J-00441",
+    "shipment_id": "SH-00441",
+    "SLA_target_time": "2026-06-18T09:00",
+    "current_eta": "2026-06-18T09:12",
+    "risk_level": "Low",
+    "breach_probability": 0.05,
+    "recommended_action": "Expedite shipment"
+  },
+  {
+    "sla_id": "SLA-00442",
+    "job_id": "J-00442",
+    "shipment_id": "SH-00442",
+    "SLA_target_time": "2026-06-07T07:00",
+    "current_eta": "2026-06-07T08:58",
+    "risk_level": "Medium",
+    "breach_probability": 0.45,
+    "recommended_action": "Pre-position part"
+  },
+  {
+    "sla_id": "SLA-00443",
+    "job_id": "J-00443",
+    "shipment_id": "SH-00443",
+    "SLA_target_time": "2026-06-14T05:00",
+    "current_eta": "2026-06-14T07:03",
+    "risk_level": "Medium",
+    "breach_probability": 0.47,
+    "recommended_action": "Switch carrier"
+  },
+  {
+    "sla_id": "SLA-00444",
+    "job_id": "J-00444",
+    "shipment_id": "SH-00444",
+    "SLA_target_time": "2026-06-11T02:00",
+    "current_eta": "2026-06-11T02:57",
+    "risk_level": "Low",
+    "breach_probability": 0.22,
+    "recommended_action": "Switch carrier"
+  },
+  {
+    "sla_id": "SLA-00445",
+    "job_id": "J-00445",
+    "shipment_id": "SH-00445",
+    "SLA_target_time": "2026-06-13T08:00",
+    "current_eta": "2026-06-13T08:39",
+    "risk_level": "Low",
+    "breach_probability": 0.15,
+    "recommended_action": "Switch carrier"
+  },
+  {
+    "sla_id": "SLA-00446",
+    "job_id": "J-00446",
+    "shipment_id": "SH-00446",
+    "SLA_target_time": "2026-06-12T20:00",
+    "current_eta": "2026-06-12T20:48",
+    "risk_level": "Low",
+    "breach_probability": 0.18,
+    "recommended_action": "Pre-position part"
+  },
+  {
+    "sla_id": "SLA-00447",
+    "job_id": "J-00447",
+    "shipment_id": "SH-00447",
+    "SLA_target_time": "2026-06-12T17:00",
+    "current_eta": "2026-06-12T17:00",
+    "risk_level": "Low",
+    "breach_probability": 0.04,
+    "recommended_action": "Switch carrier"
+  },
+  {
+    "sla_id": "SLA-00448",
+    "job_id": "J-00448",
+    "shipment_id": "SH-00448",
+    "SLA_target_time": "2026-06-20T10:00",
+    "current_eta": "2026-06-20T10:00",
+    "risk_level": "Low",
+    "breach_probability": 0.15,
+    "recommended_action": "Pre-position part"
+  },
+  {
+    "sla_id": "SLA-00449",
+    "job_id": "J-00449",
+    "shipment_id": "SH-00449",
+    "SLA_target_time": "2026-06-19T07:00",
+    "current_eta": "2026-06-19T07:00",
+    "risk_level": "Low",
+    "breach_probability": 0.04,
+    "recommended_action": "Switch carrier"
+  },
+  {
+    "sla_id": "SLA-00450",
+    "job_id": "J-00450",
+    "shipment_id": "SH-00450",
+    "SLA_target_time": "2026-06-08T23:00",
+    "current_eta": "2026-06-09T00:02",
+    "risk_level": "Low",
+    "breach_probability": 0.24,
+    "recommended_action": "Pre-position part"
+  },
+  {
+    "sla_id": "SLA-00451",
+    "job_id": "J-00451",
+    "shipment_id": "SH-00451",
+    "SLA_target_time": "2026-06-09T20:00",
+    "current_eta": "2026-06-09T21:07",
+    "risk_level": "Low",
+    "breach_probability": 0.26,
+    "recommended_action": "Expedite shipment"
+  },
+  {
+    "sla_id": "SLA-00452",
+    "job_id": "J-00452",
+    "shipment_id": "SH-00452",
+    "SLA_target_time": "2026-06-20T01:00",
+    "current_eta": "2026-06-20T01:12",
+    "risk_level": "Low",
+    "breach_probability": 0.05,
+    "recommended_action": "Reassign engineer"
+  },
+  {
+    "sla_id": "SLA-00453",
+    "job_id": "J-00453",
+    "shipment_id": "SH-00453",
+    "SLA_target_time": "2026-06-20T10:00",
+    "current_eta": "2026-06-20T10:00",
+    "risk_level": "Low",
+    "breach_probability": 0.04,
+    "recommended_action": "Switch carrier"
+  },
+  {
+    "sla_id": "SLA-00454",
+    "job_id": "J-00454",
+    "shipment_id": "SH-00454",
+    "SLA_target_time": "2026-06-17T14:00",
+    "current_eta": "2026-06-17T14:54",
+    "risk_level": "Low",
+    "breach_probability": 0.21,
+    "recommended_action": "Reassign engineer"
+  },
+  {
+    "sla_id": "SLA-00455",
+    "job_id": "J-00455",
+    "shipment_id": "SH-00455",
+    "SLA_target_time": "2026-06-11T19:00",
+    "current_eta": "2026-06-11T20:02",
+    "risk_level": "Medium",
+    "breach_probability": 0.39,
+    "recommended_action": "Pre-position part"
+  },
+  {
+    "sla_id": "SLA-00456",
+    "job_id": "J-00456",
+    "shipment_id": "SH-00456",
+    "SLA_target_time": "2026-06-10T20:00",
+    "current_eta": "2026-06-10T20:01",
+    "risk_level": "Low",
+    "breach_probability": 0.04,
+    "recommended_action": "Reassign engineer"
+  },
+  {
+    "sla_id": "SLA-00457",
+    "job_id": "J-00457",
+    "shipment_id": "SH-00457",
+    "SLA_target_time": "2026-06-10T18:00",
+    "current_eta": "2026-06-10T18:46",
+    "risk_level": "Low",
+    "breach_probability": 0.18,
+    "recommended_action": "Pre-position part"
+  },
+  {
+    "sla_id": "SLA-00458",
+    "job_id": "J-00458",
+    "shipment_id": "SH-00458",
+    "SLA_target_time": "2026-06-19T10:00",
+    "current_eta": "2026-06-19T10:58",
+    "risk_level": "Low",
+    "breach_probability": 0.22,
+    "recommended_action": "Switch carrier"
+  },
+  {
+    "sla_id": "SLA-00459",
+    "job_id": "J-00459",
+    "shipment_id": "SH-00459",
+    "SLA_target_time": "2026-06-17T10:00",
+    "current_eta": "2026-06-17T11:07",
+    "risk_level": "Low",
+    "breach_probability": 0.26,
+    "recommended_action": "Expedite shipment"
+  },
+  {
+    "sla_id": "SLA-00460",
+    "job_id": "J-00460",
+    "shipment_id": "SH-00460",
+    "SLA_target_time": "2026-06-10T06:00",
+    "current_eta": "2026-06-10T06:00",
+    "risk_level": "Low",
+    "breach_probability": 0.04,
+    "recommended_action": "Expedite shipment"
+  },
+  {
+    "sla_id": "SLA-00461",
+    "job_id": "J-00461",
+    "shipment_id": "SH-00461",
+    "SLA_target_time": "2026-06-02T21:00",
+    "current_eta": "2026-06-02T21:46",
+    "risk_level": "Low",
+    "breach_probability": 0.18,
+    "recommended_action": "Pre-position part"
+  },
+  {
+    "sla_id": "SLA-00462",
+    "job_id": "J-00462",
+    "shipment_id": "SH-00462",
+    "SLA_target_time": "2026-06-08T17:00",
+    "current_eta": "2026-06-08T17:02",
+    "risk_level": "Low",
+    "breach_probability": 0.04,
+    "recommended_action": "Switch carrier"
+  },
+  {
+    "sla_id": "SLA-00463",
+    "job_id": "J-00463",
+    "shipment_id": "SH-00463",
+    "SLA_target_time": "2026-06-21T18:00",
+    "current_eta": "2026-06-21T19:38",
+    "risk_level": "Medium",
+    "breach_probability": 0.53,
+    "recommended_action": "Pre-position part"
+  },
+  {
+    "sla_id": "SLA-00464",
+    "job_id": "J-00464",
+    "shipment_id": "SH-00464",
+    "SLA_target_time": "2026-06-14T20:00",
+    "current_eta": "2026-06-14T20:00",
+    "risk_level": "Low",
+    "breach_probability": 0.15,
+    "recommended_action": "Reassign engineer"
+  },
+  {
+    "sla_id": "SLA-00465",
+    "job_id": "J-00465",
+    "shipment_id": "SH-00465",
+    "SLA_target_time": "2026-06-07T21:00",
+    "current_eta": "2026-06-07T21:05",
+    "risk_level": "Low",
+    "breach_probability": 0.17,
+    "recommended_action": "Switch carrier"
+  },
+  {
+    "sla_id": "SLA-00466",
+    "job_id": "J-00466",
+    "shipment_id": "SH-00466",
+    "SLA_target_time": "2026-06-20T11:00",
+    "current_eta": "2026-06-20T11:39",
+    "risk_level": "Low",
+    "breach_probability": 0.15,
+    "recommended_action": "Reassign engineer"
+  },
+  {
+    "sla_id": "SLA-00467",
+    "job_id": "J-00467",
+    "shipment_id": "SH-00467",
+    "SLA_target_time": "2026-06-03T19:00",
+    "current_eta": "2026-06-03T19:00",
+    "risk_level": "Low",
+    "breach_probability": 0.15,
+    "recommended_action": "Pre-position part"
+  },
+  {
+    "sla_id": "SLA-00468",
+    "job_id": "J-00468",
+    "shipment_id": "SH-00468",
+    "SLA_target_time": "2026-06-07T05:00",
+    "current_eta": "2026-06-07T05:00",
+    "risk_level": "Low",
+    "breach_probability": 0.04,
+    "recommended_action": "Reassign engineer"
+  },
+  {
+    "sla_id": "SLA-00469",
+    "job_id": "J-00469",
+    "shipment_id": "SH-00469",
+    "SLA_target_time": "2026-06-04T17:00",
+    "current_eta": "2026-06-04T17:08",
+    "risk_level": "Low",
+    "breach_probability": 0.04,
+    "recommended_action": "Expedite shipment"
+  },
+  {
+    "sla_id": "SLA-00470",
+    "job_id": "J-00470",
+    "shipment_id": "SH-00470",
+    "SLA_target_time": "2026-06-20T10:00",
+    "current_eta": "2026-06-20T11:23",
+    "risk_level": "Medium",
+    "breach_probability": 0.32,
+    "recommended_action": "Reassign engineer"
+  },
+  {
+    "sla_id": "SLA-00471",
+    "job_id": "J-00471",
+    "shipment_id": "SH-00471",
+    "SLA_target_time": "2026-06-08T22:00",
+    "current_eta": "2026-06-08T23:20",
+    "risk_level": "Medium",
+    "breach_probability": 0.31,
+    "recommended_action": "Reassign engineer"
+  },
+  {
+    "sla_id": "SLA-00472",
+    "job_id": "J-00472",
+    "shipment_id": "SH-00472",
+    "SLA_target_time": "2026-06-10T08:00",
+    "current_eta": "2026-06-10T08:41",
+    "risk_level": "Low",
+    "breach_probability": 0.16,
+    "recommended_action": "Expedite shipment"
+  },
+  {
+    "sla_id": "SLA-00473",
+    "job_id": "J-00473",
+    "shipment_id": "SH-00473",
+    "SLA_target_time": "2026-06-07T12:00",
+    "current_eta": "2026-06-07T12:45",
+    "risk_level": "Medium",
+    "breach_probability": 0.32,
+    "recommended_action": "Pre-position part"
+  },
+  {
+    "sla_id": "SLA-00474",
+    "job_id": "J-00474",
+    "shipment_id": "SH-00474",
+    "SLA_target_time": "2026-06-14T22:00",
+    "current_eta": "2026-06-14T22:00",
+    "risk_level": "Low",
+    "breach_probability": 0.04,
+    "recommended_action": "Expedite shipment"
+  },
+  {
+    "sla_id": "SLA-00475",
+    "job_id": "J-00475",
+    "shipment_id": "SH-00475",
+    "SLA_target_time": "2026-06-03T09:00",
+    "current_eta": "2026-06-03T09:29",
+    "risk_level": "Low",
+    "breach_probability": 0.11,
+    "recommended_action": "Pre-position part"
+  },
+  {
+    "sla_id": "SLA-00476",
+    "job_id": "J-00476",
+    "shipment_id": "SH-00476",
+    "SLA_target_time": "2026-06-08T20:00",
+    "current_eta": "2026-06-08T20:23",
+    "risk_level": "Low",
+    "breach_probability": 0.09,
+    "recommended_action": "Expedite shipment"
+  },
+  {
+    "sla_id": "SLA-00477",
+    "job_id": "J-00477",
+    "shipment_id": "SH-00477",
+    "SLA_target_time": "2026-06-12T03:00",
+    "current_eta": "2026-06-12T03:06",
+    "risk_level": "Low",
+    "breach_probability": 0.17,
+    "recommended_action": "Expedite shipment"
+  },
+  {
+    "sla_id": "SLA-00478",
+    "job_id": "J-00478",
+    "shipment_id": "SH-00478",
+    "SLA_target_time": "2026-06-09T04:00",
+    "current_eta": "2026-06-09T04:10",
+    "risk_level": "Low",
+    "breach_probability": 0.04,
+    "recommended_action": "Expedite shipment"
+  },
+  {
+    "sla_id": "SLA-00479",
+    "job_id": "J-00479",
+    "shipment_id": "SH-00479",
+    "SLA_target_time": "2026-06-23T07:00",
+    "current_eta": "2026-06-23T07:00",
+    "risk_level": "Low",
+    "breach_probability": 0.15,
+    "recommended_action": "Expedite shipment"
+  },
+  {
+    "sla_id": "SLA-00480",
+    "job_id": "J-00480",
+    "shipment_id": "SH-00480",
+    "SLA_target_time": "2026-06-04T03:00",
+    "current_eta": "2026-06-04T03:00",
+    "risk_level": "Low",
+    "breach_probability": 0.04,
+    "recommended_action": "Reassign engineer"
+  },
+  {
+    "sla_id": "SLA-00481",
+    "job_id": "J-00481",
+    "shipment_id": "SH-00481",
+    "SLA_target_time": "2026-06-17T05:00",
+    "current_eta": "2026-06-17T05:02",
+    "risk_level": "Low",
+    "breach_probability": 0.16,
+    "recommended_action": "Expedite shipment"
+  },
+  {
+    "sla_id": "SLA-00482",
+    "job_id": "J-00482",
+    "shipment_id": "SH-00482",
+    "SLA_target_time": "2026-06-18T05:00",
+    "current_eta": "2026-06-18T05:00",
+    "risk_level": "Low",
+    "breach_probability": 0.04,
+    "recommended_action": "Switch carrier"
+  },
+  {
+    "sla_id": "SLA-00483",
+    "job_id": "J-00483",
+    "shipment_id": "SH-00483",
+    "SLA_target_time": "2026-06-06T03:00",
+    "current_eta": "2026-06-06T03:00",
+    "risk_level": "Low",
+    "breach_probability": 0.04,
+    "recommended_action": "Reassign engineer"
+  },
+  {
+    "sla_id": "SLA-00484",
+    "job_id": "J-00484",
+    "shipment_id": "SH-00484",
+    "SLA_target_time": "2026-06-05T23:00",
+    "current_eta": "2026-06-05T23:42",
+    "risk_level": "Low",
+    "breach_probability": 0.16,
+    "recommended_action": "Expedite shipment"
+  },
+  {
+    "sla_id": "SLA-00485",
+    "job_id": "J-00485",
+    "shipment_id": "SH-00485",
+    "SLA_target_time": "2026-06-18T11:00",
+    "current_eta": "2026-06-18T11:49",
+    "risk_level": "Medium",
+    "breach_probability": 0.34,
+    "recommended_action": "Switch carrier"
+  },
+  {
+    "sla_id": "SLA-00486",
+    "job_id": "J-00486",
+    "shipment_id": "SH-00486",
+    "SLA_target_time": "2026-06-13T17:00",
+    "current_eta": "2026-06-13T18:24",
+    "risk_level": "Medium",
+    "breach_probability": 0.47,
+    "recommended_action": "Reassign engineer"
+  },
+  {
+    "sla_id": "SLA-00487",
+    "job_id": "J-00487",
+    "shipment_id": "SH-00487",
+    "SLA_target_time": "2026-06-18T23:00",
+    "current_eta": "2026-06-18T23:19",
+    "risk_level": "Low",
+    "breach_probability": 0.07,
+    "recommended_action": "Reassign engineer"
+  },
+  {
+    "sla_id": "SLA-00488",
+    "job_id": "J-00488",
+    "shipment_id": "SH-00488",
+    "SLA_target_time": "2026-06-03T05:00",
+    "current_eta": "2026-06-03T06:25",
+    "risk_level": "Medium",
+    "breach_probability": 0.33,
+    "recommended_action": "Reassign engineer"
+  },
+  {
+    "sla_id": "SLA-00489",
+    "job_id": "J-00489",
+    "shipment_id": "SH-00489",
+    "SLA_target_time": "2026-06-13T14:00",
+    "current_eta": "2026-06-13T15:29",
+    "risk_level": "Medium",
+    "breach_probability": 0.49,
+    "recommended_action": "Expedite shipment"
+  },
+  {
+    "sla_id": "SLA-00490",
+    "job_id": "J-00490",
+    "shipment_id": "SH-00490",
+    "SLA_target_time": "2026-06-13T21:00",
+    "current_eta": "2026-06-13T21:00",
+    "risk_level": "Low",
+    "breach_probability": 0.04,
+    "recommended_action": "Reassign engineer"
+  },
+  {
+    "sla_id": "SLA-00491",
+    "job_id": "J-00491",
+    "shipment_id": "SH-00491",
+    "SLA_target_time": "2026-06-15T07:00",
+    "current_eta": "2026-06-15T07:00",
+    "risk_level": "Low",
+    "breach_probability": 0.04,
+    "recommended_action": "Reassign engineer"
+  },
+  {
+    "sla_id": "SLA-00492",
+    "job_id": "J-00492",
+    "shipment_id": "SH-00492",
+    "SLA_target_time": "2026-06-21T18:00",
+    "current_eta": "2026-06-21T18:28",
+    "risk_level": "Low",
+    "breach_probability": 0.26,
+    "recommended_action": "Expedite shipment"
+  },
+  {
+    "sla_id": "SLA-00493",
+    "job_id": "J-00493",
+    "shipment_id": "SH-00493",
+    "SLA_target_time": "2026-06-02T19:00",
+    "current_eta": "2026-06-02T23:21",
+    "risk_level": "High",
+    "breach_probability": 0.96,
+    "recommended_action": "Reassign engineer"
+  },
+  {
+    "sla_id": "SLA-00494",
+    "job_id": "J-00494",
+    "shipment_id": "SH-00494",
+    "SLA_target_time": "2026-06-21T19:00",
+    "current_eta": "2026-06-21T19:58",
+    "risk_level": "Low",
+    "breach_probability": 0.22,
+    "recommended_action": "Expedite shipment"
+  },
+  {
+    "sla_id": "SLA-00495",
+    "job_id": "J-00495",
+    "shipment_id": "SH-00495",
+    "SLA_target_time": "2026-06-22T07:00",
+    "current_eta": "2026-06-22T07:25",
+    "risk_level": "Low",
+    "breach_probability": 0.1,
+    "recommended_action": "Switch carrier"
+  },
+  {
+    "sla_id": "SLA-00496",
+    "job_id": "J-00496",
+    "shipment_id": "SH-00496",
+    "SLA_target_time": "2026-06-13T14:00",
+    "current_eta": "2026-06-13T14:09",
+    "risk_level": "Low",
+    "breach_probability": 0.04,
+    "recommended_action": "Switch carrier"
+  },
+  {
+    "sla_id": "SLA-00497",
+    "job_id": "J-00497",
+    "shipment_id": "SH-00497",
+    "SLA_target_time": "2026-06-18T09:00",
+    "current_eta": "2026-06-18T13:02",
+    "risk_level": "High",
+    "breach_probability": 0.93,
+    "recommended_action": "Switch carrier"
+  },
+  {
+    "sla_id": "SLA-00498",
+    "job_id": "J-00498",
+    "shipment_id": "SH-00498",
+    "SLA_target_time": "2026-06-06T01:00",
+    "current_eta": "2026-06-06T04:39",
+    "risk_level": "High",
+    "breach_probability": 0.84,
+    "recommended_action": "Switch carrier"
+  },
+  {
+    "sla_id": "SLA-00499",
+    "job_id": "J-00499",
+    "shipment_id": "SH-00499",
+    "SLA_target_time": "2026-06-20T17:00",
+    "current_eta": "2026-06-20T17:00",
+    "risk_level": "Low",
+    "breach_probability": 0.04,
+    "recommended_action": "Expedite shipment"
+  },
+  {
+    "sla_id": "SLA-00500",
+    "job_id": "J-00500",
+    "shipment_id": "SH-00500",
+    "SLA_target_time": "2026-06-15T13:00",
+    "current_eta": "2026-06-15T16:04",
+    "risk_level": "High",
+    "breach_probability": 0.71,
+    "recommended_action": "Switch carrier"
+  }
+]

@@ -1,0 +1,7 @@
+carrier_id,carrier_name,region,on_time_rate,cost_per_mile,damage_rate,capacity_score,service_score,reliability_score
+C-001,Carrier Network 001,Scotland,90.6,4.17,3.6,72,68,84
+C-002,Carrier Network 002,London,86.6,4.37,0.8,80,75,77
+C-003,Carrier Network 003,South,95.8,3.77,2.3,68,96,75
+C-004,Carrier Network 004,Wales,86.8,2.56,3.4,93,76,80
+C-005,Carrier Network 005,UK,92.6,1.88,3.1,78,87,77
+C-006,Carrier Network 006,Scotland,82.0,4.72,3.3,78,75,91

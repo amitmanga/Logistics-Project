@@ -1,0 +1,5 @@
+scenario_id,scenario_name,demand_change_percent,fuel_cost_change_percent,carrier_capacity_change_percent,weather_disruption_level,expected_SLA,expected_cost,expected_OTIF
+SCN-001,Baseline,0,0,0,10,92.2,4.2,93.3
+SCN-002,Optimized,-4,-8,8,10,93.3,3.72,94.2
+SCN-003,Peak Demand,25,4,-8,18,86.7,4.94,88.7
+SCN-004,Weather Disruption,12,7,-12,70,84.6,4.84,86.8

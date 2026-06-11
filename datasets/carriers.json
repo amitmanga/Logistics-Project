@@ -1,0 +1,68 @@
+[
+  {
+    "carrier_id": "C-001",
+    "carrier_name": "Carrier Network 001",
+    "region": "Scotland",
+    "on_time_rate": 90.6,
+    "cost_per_mile": 4.17,
+    "damage_rate": 3.6,
+    "capacity_score": 72,
+    "service_score": 68,
+    "reliability_score": 84
+  },
+  {
+    "carrier_id": "C-002",
+    "carrier_name": "Carrier Network 002",
+    "region": "London",
+    "on_time_rate": 86.6,
+    "cost_per_mile": 4.37,
+    "damage_rate": 0.8,
+    "capacity_score": 80,
+    "service_score": 75,
+    "reliability_score": 77
+  },
+  {
+    "carrier_id": "C-003",
+    "carrier_name": "Carrier Network 003",
+    "region": "South",
+    "on_time_rate": 95.8,
+    "cost_per_mile": 3.77,
+    "damage_rate": 2.3,
+    "capacity_score": 68,
+    "service_score": 96,
+    "reliability_score": 75
+  },
+  {
+    "carrier_id": "C-004",
+    "carrier_name": "Carrier Network 004",
+    "region": "Wales",
+    "on_time_rate": 86.8,
+    "cost_per_mile": 2.56,
+    "damage_rate": 3.4,
+    "capacity_score": 93,
+    "service_score": 76,
+    "reliability_score": 80
+  },
+  {
+    "carrier_id": "C-005",
+    "carrier_name": "Carrier Network 005",
+    "region": "UK",
+    "on_time_rate": 92.6,
+    "cost_per_mile": 1.88,
+    "damage_rate": 3.1,
+    "capacity_score": 78,
+    "service_score": 87,
+    "reliability_score": 77
+  },
+  {
+    "carrier_id": "C-006",
+    "carrier_name": "Carrier Network 006",
+    "region": "Scotland",
+    "on_time_rate": 82.0,
+    "cost_per_mile": 4.72,
+    "damage_rate": 3.3,
+    "capacity_score": 78,
+    "service_score": 75,
+    "reliability_score": 91
+  }
+]
