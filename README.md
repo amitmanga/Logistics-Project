@@ -6,7 +6,7 @@ React + Flask logistics planning control tower for UK utility field operations.
 
 - React enterprise dashboard with left navigation, top filters, KPI cards, charts, map, alerts, AI recommendations, scenario simulation, and agent workflows.
 - Flask backend with Python calculation logic and REST APIs.
-- Simulated datasets in `datasets/` as both JSON and CSV.
+- Simulated datasets in `data/inputs/` as both JSON and CSV.
 - Recharts for dashboard visuals.
 - React Leaflet for the UK logistics network map.
 - Rule-based and ML-style simulated AI agents for SLA risk, route optimization, inventory risk, supplier risk, carrier allocation, cost optimization, shipment visibility, and engineer parts availability.
@@ -14,21 +14,29 @@ React + Flask logistics planning control tower for UK utility field operations.
 ## Project Structure
 
 ```text
-backend/
+api/
+app.py
+data/
+  inputs/
+    *.csv
+    *.json
+deployment/
+engine/
   agents.py
-  app.py
   data_generator.py
   data_service.py
   planner.py
-datasets/
-  *.csv
-  *.json
-frontend/
+scripts/
+static/
+  assets/
   src/
     main.jsx
     styles.css
-  package.json
-  vite.config.js
+templates/
+  index.html
+tests/
+package.json
+vite.config.js
 requirements.txt
 ```
 
@@ -64,14 +72,13 @@ python3 -m pip install -r requirements.txt
 Install frontend dependencies:
 
 ```bash
-cd frontend
 npm install
 ```
 
 Regenerate simulated datasets if needed:
 
 ```bash
-python3 backend/data_generator.py
+python3 engine/data_generator.py
 ```
 
 ## Run In Development
@@ -79,13 +86,12 @@ python3 backend/data_generator.py
 Start Flask:
 
 ```bash
-flask --app backend.app run --host 127.0.0.1 --port 5001
+flask --app app run --host 127.0.0.1 --port 5001
 ```
 
 Start React:
 
 ```bash
-cd frontend
 npm run dev
 ```
 
@@ -96,14 +102,14 @@ Open `http://127.0.0.1:5173`.
 Build React:
 
 ```bash
-cd frontend
+npm run build
 npm run build
 ```
 
 Serve built React app through Flask:
 
 ```bash
-flask --app backend.app run --host 127.0.0.1 --port 5001
+flask --app app run --host 127.0.0.1 --port 5001
 ```
 
 Open `http://127.0.0.1:5001`.
