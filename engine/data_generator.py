@@ -125,7 +125,7 @@ def generate():
         category = random.choice(PART_CATEGORIES)
         parts.append(
             {
-                "part_id": f"BG-{category.upper()[:5]}-{index:03d}",
+                "part_id": f"UT-{category.upper()[:5]}-{index:03d}",
                 "part_name": f"{category} component {index:03d}",
                 "category": category,
                 "supplier_id": random.choice(SUPPLIERS),

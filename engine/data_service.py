@@ -165,7 +165,7 @@ def alerts():
 def recommendations():
     return [
         "12 shipments are at high risk of SLA breach. Recommend switching to express carrier.",
-        "Part BG-VALVE-002 has only 2 days of cover. Replenish 450 units.",
+        "Part UT-VALVE-002 has only 2 days of cover. Replenish 450 units.",
         "Route R-102 can be optimized to save 18 miles and 42 minutes.",
         "Supplier S-014 has declining reliability. Shift demand to alternate supplier.",
         "Carrier C-006 has high cost per mile. Recommend reallocating 22% volume.",

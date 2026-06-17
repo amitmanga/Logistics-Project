@@ -1,501 +1,501 @@
 job_id,customer_id,region,postcode,job_type,priority,SLA_window,requested_date,scheduled_date,engineer_id,required_part_id,job_status,completion_status,first_time_fix_flag,delay_reason
-J-00001,CU-6213,South,OX29 2HC,Install,Critical,Same Day,2026-06-12T08:00,2026-06-11T11:00,E-0082,BG-EV-063,Scheduled,Failed Visit,False,Weather
-J-00002,CU-8066,Scotland,EH78 7CA,Repair,Medium,Same Day,2026-06-07T08:00,2026-06-14T17:00,E-0093,BG-VALVE-062,Rescheduled,Failed Visit,True,Engineer absence
-J-00003,CU-2404,Scotland,AB70 7KD,Smart Meter Exchange,Critical,48h,2026-06-17T08:00,2026-06-14T17:00,E-0088,BG-SENSO-061,At Risk,Open,True,Weather
-J-00004,CU-7874,Scotland,G54 3CK,Smart Meter Exchange,Critical,4h,2026-06-19T08:00,2026-06-04T13:00,E-0112,BG-METER-055,Rescheduled,Failed Visit,True,Weather
-J-00005,CU-9442,London,N9 5JG,Service,Critical,Same Day,2026-06-07T08:00,2026-06-07T09:00,E-0032,BG-METER-039,Scheduled,Customer Cancelled,True,None
-J-00006,CU-8520,Wales,LL28 8EJ,Smart Meter Exchange,Low,4h,2026-06-01T08:00,2026-06-17T14:00,E-0072,BG-EV-035,Rescheduled,Failed Visit,True,Traffic
-J-00007,CU-3999,Midlands,DE84 2DF,Service,Medium,48h,2026-06-11T08:00,2026-06-12T13:00,E-0075,BG-SENSO-038,Completed,Customer Cancelled,True,None
-J-00008,CU-8105,Wales,NP52 7HG,Repair,Critical,Same Day,2026-06-12T08:00,2026-06-01T14:00,E-0097,BG-BOILE-026,Rescheduled,Open,False,None
-J-00009,CU-1152,Wales,LL54 2JE,Smart Meter Exchange,High,48h,2026-06-04T08:00,2026-06-17T10:00,E-0037,BG-EV-003,Scheduled,Complete,False,Weather
-J-00010,CU-8171,Scotland,IV35 2FF,Service,Critical,48h,2026-06-13T08:00,2026-06-15T13:00,E-0107,BG-PIPEW-013,At Risk,Customer Cancelled,True,Weather
-J-00011,CU-6542,Midlands,NG67 2GD,Emergency,Medium,48h,2026-06-05T08:00,2026-06-18T09:00,E-0002,BG-PUMP-024,In Progress,Customer Cancelled,True,Weather
-J-00012,CU-8474,Midlands,DE47 1DH,Install,Low,Next Day,2026-06-15T08:00,2026-06-04T10:00,E-0098,BG-BOILE-057,In Progress,Complete,True,Traffic
-J-00013,CU-6617,South,SO58 3CG,Smart Meter Exchange,Medium,Next Day,2026-06-18T08:00,2026-06-21T12:00,E-0026,BG-PIPEW-076,In Progress,Failed Visit,True,Engineer absence
-J-00014,CU-6122,South,OX7 1ED,Smart Meter Exchange,Low,Same Day,2026-06-12T08:00,2026-06-19T17:00,E-0095,BG-VALVE-033,Rescheduled,Open,True,Engineer absence
-J-00015,CU-4495,London,SE43 6ED,Smart Meter Exchange,Low,4h,2026-06-04T08:00,2026-06-12T16:00,E-0031,BG-SENSO-060,Rescheduled,Open,True,None
-J-00016,CU-7678,South,RG58 7GF,Repair,Low,4h,2026-06-18T08:00,2026-06-01T10:00,E-0097,BG-PUMP-081,Rescheduled,Complete,True,Engineer absence
-J-00017,CU-4014,London,N79 5DB,Service,Critical,48h,2026-06-18T08:00,2026-06-03T13:00,E-0086,BG-EV-082,Scheduled,Failed Visit,False,None
-J-00018,CU-7637,Midlands,NG28 1JE,Smart Meter Exchange,Low,Same Day,2026-06-12T08:00,2026-06-13T12:00,E-0115,BG-BOILE-036,Rescheduled,Failed Visit,True,Parts unavailable
-J-00019,CU-4651,Wales,SY52 6FH,Emergency,Critical,Same Day,2026-06-15T08:00,2026-06-06T12:00,E-0010,BG-EV-006,Rescheduled,Failed Visit,True,Parts unavailable
-J-00020,CU-4548,Wales,NP78 8HC,Service,Low,Same Day,2026-06-19T08:00,2026-06-06T17:00,E-0034,BG-PIPEW-083,In Progress,Failed Visit,True,Weather
-J-00021,CU-7971,North,LS33 8DB,Install,Low,Next Day,2026-06-07T08:00,2026-06-01T09:00,E-0074,BG-BOILE-005,Rescheduled,Complete,True,Carrier delay
-J-00022,CU-1086,North,M19 8KG,Repair,Critical,Next Day,2026-06-08T08:00,2026-06-12T10:00,E-0078,BG-VALVE-062,Scheduled,Customer Cancelled,False,Weather
-J-00023,CU-5222,Scotland,IV74 5HG,Smart Meter Exchange,Low,Same Day,2026-06-11T08:00,2026-06-15T16:00,E-0115,BG-PIPEW-009,Rescheduled,Complete,True,Weather
-J-00024,CU-2747,Scotland,G11 8KA,Smart Meter Exchange,Critical,48h,2026-06-12T08:00,2026-06-20T14:00,E-0064,BG-PUMP-071,Rescheduled,Failed Visit,False,Weather
-J-00025,CU-5422,North,LS72 7GD,Service,High,48h,2026-06-01T08:00,2026-06-06T15:00,E-0064,BG-PIPEW-013,In Progress,Failed Visit,True,Weather
-J-00026,CU-6527,London,SW81 7BB,Service,Medium,Same Day,2026-06-11T08:00,2026-06-11T13:00,E-0091,BG-PUMP-045,Completed,Customer Cancelled,True,Traffic
-J-00027,CU-9856,North,NE71 8CJ,Service,Low,48h,2026-06-17T08:00,2026-06-21T17:00,E-0040,BG-PIPEW-007,Completed,Customer Cancelled,True,Carrier delay
-J-00028,CU-2297,London,SW81 4JK,Install,Medium,Next Day,2026-06-14T08:00,2026-06-07T10:00,E-0024,BG-SENSO-061,In Progress,Failed Visit,True,None
-J-00029,CU-4263,Midlands,LE95 2JD,Emergency,Low,Next Day,2026-06-11T08:00,2026-06-06T09:00,E-0096,BG-BOILE-040,Rescheduled,Complete,True,Traffic
-J-00030,CU-5828,North,YO90 8DK,Service,Medium,Next Day,2026-06-15T08:00,2026-06-09T17:00,E-0021,BG-METER-044,Scheduled,Open,True,Weather
-J-00031,CU-5193,Midlands,B47 4KB,Repair,High,48h,2026-06-03T08:00,2026-06-15T09:00,E-0047,BG-PUMP-071,Rescheduled,Customer Cancelled,True,Traffic
-J-00032,CU-4943,North,YO70 4GJ,Install,Medium,48h,2026-06-15T08:00,2026-06-13T09:00,E-0093,BG-PUMP-046,Scheduled,Failed Visit,True,Carrier delay
-J-00033,CU-2974,North,LS96 1GA,Install,Critical,Next Day,2026-06-18T08:00,2026-06-19T11:00,E-0042,BG-SENSO-052,Rescheduled,Open,True,Parts unavailable
-J-00034,CU-8245,North,YO19 8AD,Service,Medium,Same Day,2026-06-03T08:00,2026-06-04T09:00,E-0032,BG-BOILE-026,Rescheduled,Open,True,Traffic
-J-00035,CU-8940,Scotland,IV69 2CD,Smart Meter Exchange,Low,4h,2026-06-02T08:00,2026-06-08T17:00,E-0040,BG-VALVE-049,Completed,Customer Cancelled,True,Weather
-J-00036,CU-9869,Scotland,EH18 5JC,Emergency,High,Same Day,2026-06-11T08:00,2026-06-03T17:00,E-0069,BG-SENSO-072,Scheduled,Open,True,Traffic
-J-00037,CU-8005,Midlands,LE6 7FG,Smart Meter Exchange,Critical,4h,2026-06-15T08:00,2026-06-15T09:00,E-0113,BG-BOILE-084,In Progress,Customer Cancelled,True,Engineer absence
-J-00038,CU-7292,Wales,SY79 3GJ,Emergency,Critical,Same Day,2026-06-11T08:00,2026-06-19T11:00,E-0021,BG-PIPEW-075,In Progress,Open,True,Engineer absence
-J-00039,CU-1803,South,BN54 3CE,Smart Meter Exchange,High,48h,2026-06-19T08:00,2026-06-12T09:00,E-0012,BG-SENSO-061,Completed,Failed Visit,True,Traffic
-J-00040,CU-9514,North,L64 3KD,Install,High,4h,2026-06-04T08:00,2026-06-01T16:00,E-0081,BG-EV-027,Scheduled,Open,True,Carrier delay
-J-00041,CU-6434,North,NE9 3EA,Install,Low,Same Day,2026-06-19T08:00,2026-06-20T15:00,E-0024,BG-BOILE-004,Rescheduled,Complete,False,Traffic
-J-00042,CU-4438,Scotland,AB26 4EE,Smart Meter Exchange,Medium,48h,2026-06-04T08:00,2026-06-09T11:00,E-0021,BG-BOILE-067,Completed,Complete,True,None
-J-00043,CU-8672,Wales,CF59 5HH,Service,High,Same Day,2026-06-09T08:00,2026-06-12T15:00,E-0024,BG-BOILE-004,Completed,Failed Visit,False,Weather
-J-00044,CU-6606,North,YO89 4CB,Smart Meter Exchange,Low,4h,2026-06-19T08:00,2026-06-20T16:00,E-0042,BG-PIPEW-014,Rescheduled,Complete,True,Weather
-J-00045,CU-6885,Midlands,B37 1DG,Smart Meter Exchange,Low,Next Day,2026-06-13T08:00,2026-06-13T15:00,E-0056,BG-SENSO-079,Rescheduled,Open,True,Engineer absence
-J-00046,CU-1620,South,OX62 6BK,Emergency,Critical,Same Day,2026-06-17T08:00,2026-06-09T16:00,E-0067,BG-METER-054,Scheduled,Complete,True,Parts unavailable
-J-00047,CU-4869,Wales,NP24 9AF,Repair,High,Same Day,2026-06-16T08:00,2026-06-14T15:00,E-0031,BG-PUMP-074,At Risk,Open,True,Parts unavailable
-J-00048,CU-5429,Wales,LL13 5KG,Emergency,High,Same Day,2026-06-17T08:00,2026-06-11T11:00,E-0041,BG-VALVE-049,Rescheduled,Complete,True,Engineer absence
-J-00049,CU-6298,Wales,LL21 2EA,Emergency,Low,Next Day,2026-06-02T08:00,2026-06-09T13:00,E-0023,BG-BOILE-005,At Risk,Complete,True,Weather
-J-00050,CU-7563,Scotland,G81 2FJ,Install,Critical,48h,2026-06-10T08:00,2026-06-21T12:00,E-0023,BG-BOILE-005,Rescheduled,Complete,True,Weather
-J-00051,CU-1750,North,LS90 3AC,Repair,Medium,4h,2026-06-15T08:00,2026-06-20T11:00,E-0107,BG-PIPEW-083,Rescheduled,Complete,True,None
-J-00052,CU-8798,South,PO27 3EJ,Emergency,Low,Same Day,2026-06-06T08:00,2026-06-20T09:00,E-0077,BG-PIPEW-048,In Progress,Customer Cancelled,True,Carrier delay
-J-00053,CU-4769,London,E42 4BD,Emergency,High,48h,2026-06-08T08:00,2026-06-03T16:00,E-0075,BG-EV-027,At Risk,Complete,True,Weather
-J-00054,CU-8581,Scotland,AB2 7DD,Install,Low,Same Day,2026-06-19T08:00,2026-06-05T09:00,E-0054,BG-BOILE-036,Scheduled,Complete,True,Weather
-J-00055,CU-2326,South,OX43 1JF,Repair,Critical,48h,2026-06-12T08:00,2026-06-15T09:00,E-0047,BG-BOILE-059,Completed,Open,True,Engineer absence
-J-00056,CU-1371,South,SO54 9CH,Install,Low,48h,2026-06-01T08:00,2026-06-10T12:00,E-0009,BG-PUMP-069,Scheduled,Open,True,Carrier delay
-J-00057,CU-9845,London,N69 5BA,Emergency,Low,Same Day,2026-06-15T08:00,2026-06-11T11:00,E-0001,BG-PUMP-037,Rescheduled,Failed Visit,True,Engineer absence
-J-00058,CU-8006,London,SE50 6AE,Install,Medium,Next Day,2026-06-15T08:00,2026-06-18T10:00,E-0028,BG-EV-008,At Risk,Customer Cancelled,True,Weather
-J-00059,CU-5303,Scotland,AB82 8BE,Emergency,High,48h,2026-06-08T08:00,2026-06-01T10:00,E-0098,BG-METER-001,Completed,Customer Cancelled,False,None
-J-00060,CU-7750,North,NE21 2DC,Smart Meter Exchange,High,Same Day,2026-06-18T08:00,2026-06-20T17:00,E-0109,BG-EV-082,Rescheduled,Complete,True,Weather
-J-00061,CU-8685,North,M33 1BE,Repair,Critical,4h,2026-06-07T08:00,2026-06-19T12:00,E-0024,BG-METER-044,Completed,Complete,True,None
-J-00062,CU-2895,Wales,NP37 8KE,Emergency,High,48h,2026-06-10T08:00,2026-06-14T12:00,E-0110,BG-BOILE-057,Scheduled,Customer Cancelled,True,Engineer absence
-J-00063,CU-5107,South,RG64 4CA,Repair,Critical,4h,2026-06-16T08:00,2026-06-01T11:00,E-0049,BG-BOILE-022,Rescheduled,Failed Visit,False,Parts unavailable
-J-00064,CU-7189,Scotland,IV87 6EF,Repair,Critical,4h,2026-06-05T08:00,2026-06-12T14:00,E-0104,BG-EV-023,Rescheduled,Complete,True,Engineer absence
-J-00065,CU-6563,London,N79 5FG,Service,Low,4h,2026-06-18T08:00,2026-06-07T13:00,E-0034,BG-BOILE-005,Scheduled,Failed Visit,True,Carrier delay
-J-00066,CU-1981,London,W26 6HC,Service,High,Next Day,2026-06-14T08:00,2026-06-14T14:00,E-0111,BG-SENSO-056,Scheduled,Open,True,Weather
-J-00067,CU-3302,Wales,SA15 9BJ,Smart Meter Exchange,Medium,48h,2026-06-03T08:00,2026-06-08T10:00,E-0099,BG-BOILE-021,Completed,Failed Visit,True,Carrier delay
-J-00068,CU-3625,South,RG81 6GA,Install,Critical,48h,2026-06-16T08:00,2026-06-14T14:00,E-0092,BG-VALVE-078,At Risk,Complete,True,Parts unavailable
-J-00069,CU-8576,South,PO34 3AG,Smart Meter Exchange,Low,Next Day,2026-06-05T08:00,2026-06-03T14:00,E-0022,BG-BOILE-084,Rescheduled,Complete,True,None
-J-00070,CU-4847,Wales,NP46 1AE,Smart Meter Exchange,Low,Next Day,2026-06-13T08:00,2026-06-12T11:00,E-0115,BG-SENSO-080,Rescheduled,Complete,True,Carrier delay
-J-00071,CU-6841,London,W63 8HB,Service,Critical,Next Day,2026-06-03T08:00,2026-06-07T13:00,E-0024,BG-BOILE-034,In Progress,Failed Visit,False,Carrier delay
-J-00072,CU-7535,South,BN3 4CG,Emergency,Medium,Same Day,2026-06-04T08:00,2026-06-10T16:00,E-0103,BG-VALVE-062,At Risk,Failed Visit,True,Engineer absence
-J-00073,CU-1781,Scotland,IV10 1JB,Smart Meter Exchange,Low,48h,2026-06-04T08:00,2026-06-15T13:00,E-0046,BG-EV-006,Completed,Complete,True,Carrier delay
-J-00074,CU-8974,Midlands,DE80 6GE,Repair,High,Same Day,2026-06-01T08:00,2026-06-07T10:00,E-0105,BG-SENSO-086,Scheduled,Open,True,None
-J-00075,CU-6174,London,W9 5GH,Repair,Low,Next Day,2026-06-15T08:00,2026-06-14T09:00,E-0021,BG-EV-073,Completed,Open,True,Weather
-J-00076,CU-2043,Scotland,AB56 2KD,Repair,High,48h,2026-06-09T08:00,2026-06-11T14:00,E-0099,BG-SENSO-086,Scheduled,Failed Visit,False,Parts unavailable
-J-00077,CU-1487,Wales,NP19 1JB,Repair,Medium,Next Day,2026-06-13T08:00,2026-06-06T15:00,E-0008,BG-BOILE-057,At Risk,Complete,True,Engineer absence
-J-00078,CU-4954,Midlands,DE93 7JB,Repair,Medium,Next Day,2026-06-17T08:00,2026-06-12T10:00,E-0007,BG-BOILE-026,Scheduled,Customer Cancelled,True,Traffic
-J-00079,CU-8499,Midlands,CV91 9JB,Service,Low,48h,2026-06-02T08:00,2026-06-06T17:00,E-0048,BG-BOILE-011,Scheduled,Customer Cancelled,False,None
-J-00080,CU-8357,Wales,SA94 6BK,Smart Meter Exchange,Low,48h,2026-06-08T08:00,2026-06-13T14:00,E-0070,BG-PUMP-024,Scheduled,Customer Cancelled,True,Engineer absence
-J-00081,CU-3772,Midlands,B79 6CA,Repair,Medium,48h,2026-06-04T08:00,2026-06-11T11:00,E-0053,BG-BOILE-011,Completed,Failed Visit,True,Weather
-J-00082,CU-3332,London,SE70 3DJ,Emergency,Low,4h,2026-06-01T08:00,2026-06-15T13:00,E-0084,BG-SENSO-060,In Progress,Complete,False,None
-J-00083,CU-1156,North,LS53 9HG,Smart Meter Exchange,Critical,4h,2026-06-18T08:00,2026-06-01T16:00,E-0087,BG-BOILE-036,Scheduled,Failed Visit,True,Weather
-J-00084,CU-2070,Wales,SY17 2CE,Smart Meter Exchange,High,Next Day,2026-06-07T08:00,2026-06-01T17:00,E-0079,BG-PUMP-064,Completed,Customer Cancelled,True,None
-J-00085,CU-8184,Midlands,B81 8KB,Repair,Critical,4h,2026-06-13T08:00,2026-06-11T10:00,E-0101,BG-EV-010,In Progress,Complete,True,Weather
-J-00086,CU-8887,Midlands,NG57 3DC,Repair,Critical,Same Day,2026-06-10T08:00,2026-06-19T15:00,E-0066,BG-SENSO-080,Completed,Failed Visit,True,Carrier delay
-J-00087,CU-8643,Wales,SY28 4HF,Emergency,High,48h,2026-06-06T08:00,2026-06-01T14:00,E-0002,BG-EV-082,Scheduled,Failed Visit,True,None
-J-00088,CU-2071,North,M19 3DD,Smart Meter Exchange,Low,Next Day,2026-06-11T08:00,2026-06-20T15:00,E-0082,BG-BOILE-032,In Progress,Complete,True,Carrier delay
-J-00089,CU-3200,Wales,CF38 8JF,Service,Critical,48h,2026-06-17T08:00,2026-06-20T14:00,E-0055,BG-BOILE-042,At Risk,Customer Cancelled,True,Weather
-J-00090,CU-9399,Scotland,EH51 4DD,Emergency,High,48h,2026-06-15T08:00,2026-06-11T10:00,E-0041,BG-VALVE-016,In Progress,Customer Cancelled,True,Engineer absence
-J-00091,CU-5991,Midlands,B22 2JC,Repair,Low,4h,2026-06-06T08:00,2026-06-07T10:00,E-0117,BG-PUMP-088,At Risk,Failed Visit,True,Parts unavailable
-J-00092,CU-1640,Wales,CF37 8FE,Emergency,High,48h,2026-06-08T08:00,2026-06-06T15:00,E-0059,BG-BOILE-040,At Risk,Open,True,Engineer absence
-J-00093,CU-3643,Midlands,CV3 2CE,Repair,Low,Same Day,2026-06-03T08:00,2026-06-01T13:00,E-0020,BG-BOILE-004,At Risk,Failed Visit,True,Parts unavailable
-J-00094,CU-7588,South,SO2 7DH,Service,Critical,Next Day,2026-06-12T08:00,2026-06-02T10:00,E-0114,BG-PIPEW-009,In Progress,Customer Cancelled,False,Traffic
-J-00095,CU-3484,South,RG27 1DK,Emergency,Medium,Same Day,2026-06-09T08:00,2026-06-11T09:00,E-0067,BG-PIPEW-041,At Risk,Failed Visit,True,None
-J-00096,CU-8897,Midlands,B98 7GB,Install,High,Same Day,2026-06-09T08:00,2026-06-13T16:00,E-0040,BG-SENSO-060,At Risk,Failed Visit,True,Weather
-J-00097,CU-7313,South,RG95 4DH,Repair,Medium,4h,2026-06-05T08:00,2026-06-09T16:00,E-0088,BG-PIPEW-048,In Progress,Failed Visit,True,Parts unavailable
-J-00098,CU-2144,Wales,NP68 7EG,Service,High,Next Day,2026-06-06T08:00,2026-06-05T12:00,E-0063,BG-METER-055,In Progress,Complete,False,Weather
-J-00099,CU-8036,Scotland,AB48 6FD,Install,Low,48h,2026-06-02T08:00,2026-06-12T14:00,E-0104,BG-BOILE-036,Scheduled,Complete,True,Weather
-J-00100,CU-2465,Scotland,G56 1CF,Emergency,Medium,Same Day,2026-06-09T08:00,2026-06-16T10:00,E-0086,BG-PUMP-045,In Progress,Customer Cancelled,False,None
-J-00101,CU-5863,Scotland,EH64 8CK,Install,High,4h,2026-06-11T08:00,2026-06-10T17:00,E-0089,BG-SENSO-012,Scheduled,Failed Visit,True,Engineer absence
-J-00102,CU-1149,South,SO93 2CG,Emergency,High,4h,2026-06-04T08:00,2026-06-12T16:00,E-0023,BG-PUMP-037,Scheduled,Complete,True,Carrier delay
-J-00103,CU-1323,Scotland,DD72 9JH,Repair,Critical,Same Day,2026-06-04T08:00,2026-06-06T11:00,E-0001,BG-BOILE-011,Rescheduled,Customer Cancelled,False,Traffic
-J-00104,CU-1732,London,N5 4CE,Service,High,Same Day,2026-06-19T08:00,2026-06-12T13:00,E-0017,BG-EV-047,Rescheduled,Customer Cancelled,True,None
-J-00105,CU-4698,Wales,LL2 2GD,Emergency,Critical,4h,2026-06-06T08:00,2026-06-17T13:00,E-0076,BG-PIPEW-048,At Risk,Complete,False,Carrier delay
-J-00106,CU-2476,Scotland,G10 4BC,Smart Meter Exchange,Critical,4h,2026-06-10T08:00,2026-06-18T16:00,E-0104,BG-EV-082,Scheduled,Customer Cancelled,True,Engineer absence
-J-00107,CU-5994,South,OX5 8KH,Repair,Medium,4h,2026-06-15T08:00,2026-06-11T13:00,E-0046,BG-SENSO-068,Scheduled,Complete,True,Traffic
-J-00108,CU-2946,North,L63 9HC,Install,Low,48h,2026-06-05T08:00,2026-06-04T10:00,E-0102,BG-EV-035,Scheduled,Open,True,Parts unavailable
-J-00109,CU-4791,Midlands,CV44 7HA,Smart Meter Exchange,Low,4h,2026-06-10T08:00,2026-06-04T13:00,E-0047,BG-BOILE-026,Completed,Failed Visit,True,Engineer absence
-J-00110,CU-2971,Midlands,B76 4DH,Repair,Critical,Next Day,2026-06-10T08:00,2026-06-16T12:00,E-0069,BG-PUMP-024,In Progress,Complete,False,Parts unavailable
-J-00111,CU-9602,Scotland,AB39 4EE,Smart Meter Exchange,Critical,Same Day,2026-06-08T08:00,2026-06-02T17:00,E-0031,BG-EV-089,Completed,Complete,True,Engineer absence
-J-00112,CU-7479,North,LS58 4GF,Service,Low,4h,2026-06-16T08:00,2026-06-06T16:00,E-0024,BG-SENSO-038,In Progress,Open,True,Carrier delay
-J-00113,CU-9906,Scotland,G3 1BJ,Install,Critical,48h,2026-06-05T08:00,2026-06-01T12:00,E-0004,BG-METER-017,In Progress,Customer Cancelled,True,Weather
-J-00114,CU-3401,North,NE19 7HH,Repair,Critical,48h,2026-06-09T08:00,2026-06-05T10:00,E-0042,BG-EV-020,In Progress,Open,True,Weather
-J-00115,CU-8543,Midlands,CV71 7DD,Service,Critical,Same Day,2026-06-04T08:00,2026-06-05T15:00,E-0094,BG-BOILE-011,Scheduled,Customer Cancelled,False,Traffic
-J-00116,CU-3050,Scotland,EH52 1DG,Service,Critical,48h,2026-06-16T08:00,2026-06-11T15:00,E-0106,BG-PUMP-037,At Risk,Open,True,None
-J-00117,CU-1612,Scotland,AB21 3HB,Repair,High,Same Day,2026-06-05T08:00,2026-06-06T17:00,E-0067,BG-PIPEW-041,Rescheduled,Failed Visit,True,Weather
-J-00118,CU-5696,London,SW53 3HF,Smart Meter Exchange,Medium,Next Day,2026-06-03T08:00,2026-06-14T17:00,E-0058,BG-PUMP-071,Completed,Complete,False,Carrier delay
-J-00119,CU-3885,London,E19 2EG,Repair,Medium,48h,2026-06-14T08:00,2026-06-17T12:00,E-0086,BG-METER-044,Completed,Open,True,None
-J-00120,CU-4074,North,L90 9CK,Emergency,High,Next Day,2026-06-07T08:00,2026-06-07T09:00,E-0048,BG-SENSO-079,Completed,Complete,False,Traffic
-J-00121,CU-7243,South,BN26 8BF,Emergency,Low,48h,2026-06-01T08:00,2026-06-12T12:00,E-0065,BG-SENSO-056,Completed,Failed Visit,True,Engineer absence
-J-00122,CU-5263,Wales,SY21 6DB,Repair,Critical,48h,2026-06-01T08:00,2026-06-21T11:00,E-0004,BG-SENSO-079,Rescheduled,Complete,True,Carrier delay
-J-00123,CU-8971,Wales,CF27 7GF,Emergency,High,Same Day,2026-06-10T08:00,2026-06-01T11:00,E-0085,BG-VALVE-049,Rescheduled,Complete,True,None
-J-00124,CU-5605,Wales,NP14 5CD,Emergency,Low,48h,2026-06-14T08:00,2026-06-20T13:00,E-0105,BG-BOILE-004,Completed,Complete,False,Carrier delay
-J-00125,CU-2225,Wales,SY83 7GF,Install,High,Same Day,2026-06-02T08:00,2026-06-16T16:00,E-0006,BG-VALVE-085,Completed,Customer Cancelled,True,None
-J-00126,CU-1783,Scotland,G18 2FG,Service,High,4h,2026-06-07T08:00,2026-06-12T17:00,E-0001,BG-SENSO-061,Scheduled,Failed Visit,False,None
-J-00127,CU-2231,Wales,NP8 4AD,Emergency,Low,Same Day,2026-06-16T08:00,2026-06-04T14:00,E-0027,BG-PIPEW-041,Rescheduled,Failed Visit,True,Traffic
-J-00128,CU-7923,Wales,SA38 4GC,Smart Meter Exchange,Medium,48h,2026-06-17T08:00,2026-06-14T10:00,E-0088,BG-EV-035,Scheduled,Open,True,None
-J-00129,CU-2137,South,PO24 6HC,Repair,Low,48h,2026-06-11T08:00,2026-06-01T11:00,E-0034,BG-SENSO-052,Scheduled,Open,False,Engineer absence
-J-00130,CU-3320,North,NE64 1DK,Emergency,Medium,Same Day,2026-06-03T08:00,2026-06-07T15:00,E-0082,BG-VALVE-033,Scheduled,Failed Visit,True,Engineer absence
-J-00131,CU-5641,Midlands,NG86 9CB,Install,High,Same Day,2026-06-14T08:00,2026-06-19T10:00,E-0038,BG-PUMP-088,In Progress,Complete,True,Weather
-J-00132,CU-8006,South,RG54 7HA,Smart Meter Exchange,Critical,48h,2026-06-03T08:00,2026-06-05T13:00,E-0101,BG-BOILE-026,In Progress,Failed Visit,True,Parts unavailable
-J-00133,CU-1105,South,RG80 4BB,Repair,High,4h,2026-06-17T08:00,2026-06-04T12:00,E-0027,BG-PIPEW-014,Scheduled,Customer Cancelled,True,None
-J-00134,CU-7380,South,BN75 5AK,Emergency,Critical,Next Day,2026-06-05T08:00,2026-06-15T16:00,E-0036,BG-METER-031,Scheduled,Open,True,Traffic
-J-00135,CU-4793,Midlands,CV14 3GG,Repair,Critical,Next Day,2026-06-04T08:00,2026-06-02T10:00,E-0057,BG-SENSO-061,Completed,Complete,True,Parts unavailable
-J-00136,CU-4399,Wales,SY61 9FF,Smart Meter Exchange,High,4h,2026-06-15T08:00,2026-06-14T15:00,E-0112,BG-BOILE-021,Scheduled,Complete,True,Parts unavailable
-J-00137,CU-6400,Scotland,G31 8BK,Smart Meter Exchange,Critical,Next Day,2026-06-03T08:00,2026-06-14T10:00,E-0114,BG-BOILE-021,Rescheduled,Customer Cancelled,True,Parts unavailable
-J-00138,CU-1931,North,M8 3HC,Install,Critical,Next Day,2026-06-12T08:00,2026-06-20T12:00,E-0038,BG-PUMP-018,In Progress,Customer Cancelled,True,Weather
-J-00139,CU-7268,London,SW57 1DD,Emergency,High,48h,2026-06-18T08:00,2026-06-02T13:00,E-0005,BG-PUMP-071,Rescheduled,Failed Visit,False,None
-J-00140,CU-1202,North,M40 6EC,Emergency,Low,4h,2026-06-15T08:00,2026-06-01T16:00,E-0005,BG-BOILE-067,Completed,Customer Cancelled,True,Engineer absence
-J-00141,CU-7084,Scotland,DD10 7EC,Repair,Medium,Next Day,2026-06-11T08:00,2026-06-14T14:00,E-0061,BG-PUMP-024,Completed,Complete,True,Parts unavailable
-J-00142,CU-6192,North,NE25 5DF,Service,Medium,Same Day,2026-06-15T08:00,2026-06-11T10:00,E-0089,BG-PIPEW-075,In Progress,Customer Cancelled,True,Engineer absence
-J-00143,CU-1392,North,LS10 3JJ,Emergency,Low,Next Day,2026-06-05T08:00,2026-06-13T17:00,E-0031,BG-SENSO-086,Completed,Complete,True,Traffic
-J-00144,CU-1687,Midlands,CV56 9EK,Smart Meter Exchange,Medium,4h,2026-06-12T08:00,2026-06-10T11:00,E-0016,BG-BOILE-042,Completed,Failed Visit,True,Weather
-J-00145,CU-4644,North,M42 3JF,Install,Low,4h,2026-06-11T08:00,2026-06-02T15:00,E-0013,BG-PUMP-069,Rescheduled,Failed Visit,True,Parts unavailable
-J-00146,CU-4586,South,BN97 5GH,Install,High,48h,2026-06-04T08:00,2026-06-06T16:00,E-0041,BG-EV-023,Scheduled,Failed Visit,True,Engineer absence
-J-00147,CU-6932,South,OX26 3JG,Service,Medium,Same Day,2026-06-12T08:00,2026-06-11T15:00,E-0028,BG-EV-006,Rescheduled,Open,True,None
-J-00148,CU-6114,Wales,LL55 9AE,Install,Low,Same Day,2026-06-04T08:00,2026-06-09T16:00,E-0049,BG-BOILE-005,Completed,Customer Cancelled,False,None
-J-00149,CU-7660,South,BN35 4JH,Smart Meter Exchange,Low,Next Day,2026-06-08T08:00,2026-06-11T16:00,E-0091,BG-BOILE-040,At Risk,Complete,False,None
-J-00150,CU-3936,London,N61 2AE,Service,High,4h,2026-06-18T08:00,2026-06-15T14:00,E-0013,BG-BOILE-067,Scheduled,Customer Cancelled,True,Carrier delay
-J-00151,CU-8756,South,PO22 1DD,Repair,High,Same Day,2026-06-06T08:00,2026-06-16T09:00,E-0042,BG-BOILE-040,Scheduled,Complete,True,Parts unavailable
-J-00152,CU-6914,South,OX25 1KE,Install,Critical,Next Day,2026-06-09T08:00,2026-06-17T09:00,E-0078,BG-SENSO-019,Completed,Complete,False,Engineer absence
-J-00153,CU-5368,Scotland,G23 8AE,Smart Meter Exchange,High,48h,2026-06-06T08:00,2026-06-21T09:00,E-0040,BG-PIPEW-041,Completed,Failed Visit,False,None
-J-00154,CU-6957,London,SE99 9HC,Repair,Low,Same Day,2026-06-18T08:00,2026-06-19T12:00,E-0090,BG-PUMP-088,At Risk,Failed Visit,True,Engineer absence
-J-00155,CU-1356,South,RG79 8KK,Emergency,Low,48h,2026-06-08T08:00,2026-06-09T14:00,E-0077,BG-PUMP-081,Completed,Customer Cancelled,False,Engineer absence
-J-00156,CU-7131,South,BN62 3FB,Emergency,Low,Same Day,2026-06-16T08:00,2026-06-13T16:00,E-0091,BG-PUMP-043,In Progress,Complete,True,Weather
-J-00157,CU-9476,North,M60 2FB,Emergency,Critical,Same Day,2026-06-11T08:00,2026-06-05T17:00,E-0050,BG-METER-001,At Risk,Complete,False,Weather
-J-00158,CU-1385,Wales,SY35 3EF,Emergency,Critical,48h,2026-06-11T08:00,2026-06-10T09:00,E-0077,BG-METER-001,Scheduled,Failed Visit,True,Engineer absence
-J-00159,CU-8158,Scotland,AB96 3EJ,Repair,Low,Same Day,2026-06-10T08:00,2026-06-09T09:00,E-0053,BG-METER-044,In Progress,Complete,False,Weather
-J-00160,CU-8971,North,YO45 2DJ,Install,Medium,Next Day,2026-06-11T08:00,2026-06-15T16:00,E-0004,BG-PUMP-043,In Progress,Open,True,Carrier delay
-J-00161,CU-3822,North,M50 7GG,Service,Critical,Same Day,2026-06-05T08:00,2026-06-20T17:00,E-0011,BG-BOILE-036,Rescheduled,Customer Cancelled,True,None
-J-00162,CU-7657,Scotland,IV61 7BG,Install,Critical,4h,2026-06-15T08:00,2026-06-16T09:00,E-0038,BG-BOILE-004,At Risk,Complete,True,Traffic
-J-00163,CU-3106,London,N78 5GE,Service,Critical,Same Day,2026-06-19T08:00,2026-06-10T11:00,E-0075,BG-EV-089,Scheduled,Failed Visit,False,Traffic
-J-00164,CU-2301,Wales,CF58 9DD,Install,High,Same Day,2026-06-08T08:00,2026-06-15T11:00,E-0006,BG-BOILE-036,Rescheduled,Failed Visit,True,Carrier delay
-J-00165,CU-8475,Midlands,B33 7KE,Emergency,High,Next Day,2026-06-17T08:00,2026-06-16T17:00,E-0037,BG-PIPEW-013,Completed,Failed Visit,True,Carrier delay
-J-00166,CU-4144,London,SW22 3KC,Install,Low,48h,2026-06-09T08:00,2026-06-08T13:00,E-0061,BG-PIPEW-013,Completed,Failed Visit,True,Parts unavailable
-J-00167,CU-1753,South,RG89 8DE,Smart Meter Exchange,Low,4h,2026-06-04T08:00,2026-06-02T14:00,E-0036,BG-BOILE-026,Rescheduled,Failed Visit,True,Weather
-J-00168,CU-5243,London,SE78 1CB,Emergency,Low,48h,2026-06-16T08:00,2026-06-02T17:00,E-0008,BG-PUMP-074,Rescheduled,Failed Visit,True,None
-J-00169,CU-8084,Scotland,G52 5AK,Emergency,Critical,4h,2026-06-08T08:00,2026-06-11T15:00,E-0020,BG-SENSO-072,Completed,Open,True,Carrier delay
-J-00170,CU-2521,London,N65 9BC,Service,Critical,48h,2026-06-12T08:00,2026-06-11T15:00,E-0025,BG-BOILE-021,In Progress,Complete,True,Carrier delay
-J-00171,CU-3975,London,SE15 3AH,Service,Medium,48h,2026-06-12T08:00,2026-06-09T14:00,E-0004,BG-PIPEW-083,Scheduled,Failed Visit,True,None
-J-00172,CU-4215,London,N29 9CC,Service,Critical,4h,2026-06-13T08:00,2026-06-10T10:00,E-0032,BG-PUMP-029,In Progress,Failed Visit,True,Parts unavailable
-J-00173,CU-4052,Scotland,AB44 8JH,Repair,Medium,Next Day,2026-06-03T08:00,2026-06-12T15:00,E-0083,BG-SENSO-019,Scheduled,Open,True,None
-J-00174,CU-7947,London,N36 1GE,Emergency,Low,48h,2026-06-15T08:00,2026-06-11T11:00,E-0093,BG-SENSO-068,Completed,Complete,False,None
-J-00175,CU-5458,South,BN49 5BH,Emergency,High,48h,2026-06-10T08:00,2026-06-08T17:00,E-0014,BG-EV-020,Scheduled,Failed Visit,True,Parts unavailable
-J-00176,CU-1653,North,NE83 8HK,Smart Meter Exchange,Critical,48h,2026-06-14T08:00,2026-06-01T12:00,E-0073,BG-VALVE-078,In Progress,Complete,True,Engineer absence
-J-00177,CU-6126,Midlands,NG64 3GD,Install,Low,Next Day,2026-06-11T08:00,2026-06-15T14:00,E-0097,BG-PIPEW-007,In Progress,Open,True,Traffic
-J-00178,CU-5485,Scotland,G64 4DD,Service,Low,Same Day,2026-06-05T08:00,2026-06-01T13:00,E-0032,BG-BOILE-026,Scheduled,Customer Cancelled,True,Weather
-J-00179,CU-8809,Midlands,CV9 6BE,Smart Meter Exchange,Medium,4h,2026-06-16T08:00,2026-06-14T11:00,E-0051,BG-PUMP-069,In Progress,Customer Cancelled,True,Traffic
-J-00180,CU-6624,Scotland,EH13 5FC,Emergency,Medium,48h,2026-06-03T08:00,2026-06-06T13:00,E-0052,BG-SENSO-068,In Progress,Open,False,Traffic
-J-00181,CU-6106,Scotland,AB14 6CK,Smart Meter Exchange,High,4h,2026-06-16T08:00,2026-06-07T11:00,E-0079,BG-EV-073,Completed,Customer Cancelled,True,Engineer absence
-J-00182,CU-6267,South,OX62 7EH,Install,Critical,4h,2026-06-07T08:00,2026-06-03T13:00,E-0115,BG-BOILE-084,Rescheduled,Open,True,Engineer absence
-J-00183,CU-6074,North,LS84 5GA,Emergency,Low,48h,2026-06-09T08:00,2026-06-07T16:00,E-0033,BG-VALVE-002,Rescheduled,Complete,True,Engineer absence
-J-00184,CU-1584,Wales,NP62 2BD,Repair,Low,Same Day,2026-06-03T08:00,2026-06-03T12:00,E-0056,BG-PUMP-069,Rescheduled,Failed Visit,True,Weather
-J-00185,CU-2700,Wales,SA1 7AK,Repair,Low,4h,2026-06-08T08:00,2026-06-21T09:00,E-0073,BG-PUMP-081,Rescheduled,Complete,False,None
-J-00186,CU-9682,London,N32 4DK,Service,Medium,48h,2026-06-18T08:00,2026-06-14T14:00,E-0083,BG-SENSO-019,Completed,Open,False,Weather
-J-00187,CU-6844,Wales,SA96 3DE,Repair,Medium,Next Day,2026-06-19T08:00,2026-06-15T16:00,E-0044,BG-EV-035,In Progress,Failed Visit,True,Traffic
-J-00188,CU-6254,Wales,LL92 2FK,Emergency,Critical,48h,2026-06-06T08:00,2026-06-12T13:00,E-0025,BG-EV-003,Rescheduled,Failed Visit,True,Carrier delay
-J-00189,CU-2389,South,SO66 2AC,Repair,High,4h,2026-06-06T08:00,2026-06-12T10:00,E-0020,BG-PUMP-074,Rescheduled,Open,True,None
-J-00190,CU-9115,Scotland,IV91 3HE,Smart Meter Exchange,Critical,48h,2026-06-06T08:00,2026-06-17T09:00,E-0011,BG-SENSO-079,In Progress,Open,True,Traffic
-J-00191,CU-9013,London,SE70 4DK,Service,Critical,Next Day,2026-06-14T08:00,2026-06-15T16:00,E-0042,BG-BOILE-021,At Risk,Customer Cancelled,True,Weather
-J-00192,CU-3618,South,RG86 1FB,Repair,Medium,48h,2026-06-10T08:00,2026-06-05T12:00,E-0067,BG-EV-023,At Risk,Open,True,Weather
-J-00193,CU-4750,London,W79 4DH,Smart Meter Exchange,Low,4h,2026-06-11T08:00,2026-06-17T10:00,E-0050,BG-METER-044,In Progress,Failed Visit,True,None
-J-00194,CU-7904,Midlands,B48 8CH,Emergency,High,48h,2026-06-11T08:00,2026-06-04T13:00,E-0059,BG-PIPEW-041,Completed,Open,False,Engineer absence
-J-00195,CU-6629,Wales,CF64 7JA,Smart Meter Exchange,Low,48h,2026-06-05T08:00,2026-06-18T10:00,E-0105,BG-BOILE-042,In Progress,Customer Cancelled,False,Parts unavailable
-J-00196,CU-9341,Midlands,CV51 4CJ,Repair,Medium,Next Day,2026-06-18T08:00,2026-06-12T17:00,E-0050,BG-EV-082,In Progress,Open,True,Carrier delay
-J-00197,CU-7402,Wales,SY97 3HH,Smart Meter Exchange,Medium,Same Day,2026-06-03T08:00,2026-06-20T10:00,E-0114,BG-BOILE-026,Scheduled,Complete,True,Carrier delay
-J-00198,CU-8807,Wales,SA2 2BD,Emergency,Medium,Next Day,2026-06-01T08:00,2026-06-19T16:00,E-0009,BG-PIPEW-083,In Progress,Open,True,None
-J-00199,CU-5791,Midlands,CV87 8JG,Install,Low,4h,2026-06-09T08:00,2026-06-05T14:00,E-0119,BG-SENSO-072,Completed,Customer Cancelled,True,Weather
-J-00200,CU-6752,Wales,NP89 2DH,Service,High,4h,2026-06-17T08:00,2026-06-04T16:00,E-0019,BG-EV-089,Scheduled,Failed Visit,False,Parts unavailable
-J-00201,CU-9033,Midlands,B49 1HB,Emergency,Medium,4h,2026-06-03T08:00,2026-06-08T10:00,E-0059,BG-VALVE-002,At Risk,Failed Visit,True,Parts unavailable
-J-00202,CU-6429,North,L15 3BD,Emergency,Low,Same Day,2026-06-01T08:00,2026-06-13T11:00,E-0099,BG-METER-087,At Risk,Complete,True,Traffic
-J-00203,CU-3654,Scotland,G74 3DH,Smart Meter Exchange,Medium,Next Day,2026-06-16T08:00,2026-06-03T11:00,E-0075,BG-BOILE-057,At Risk,Complete,False,Carrier delay
-J-00204,CU-5047,London,SW81 6DE,Emergency,Critical,48h,2026-06-02T08:00,2026-06-11T15:00,E-0004,BG-PUMP-018,In Progress,Failed Visit,True,Weather
-J-00205,CU-4732,London,SE42 4KD,Install,Medium,Same Day,2026-06-11T08:00,2026-06-17T15:00,E-0036,BG-SENSO-060,Completed,Customer Cancelled,True,Engineer absence
-J-00206,CU-4263,South,SO7 7HK,Repair,Low,48h,2026-06-13T08:00,2026-06-11T10:00,E-0018,BG-EV-035,In Progress,Complete,True,Traffic
-J-00207,CU-1285,North,LS12 5HB,Repair,High,48h,2026-06-08T08:00,2026-06-08T16:00,E-0079,BG-EV-008,In Progress,Open,True,Parts unavailable
-J-00208,CU-3367,Scotland,G77 7CG,Service,High,Next Day,2026-06-12T08:00,2026-06-13T13:00,E-0032,BG-SENSO-053,Completed,Open,False,Weather
-J-00209,CU-3601,Midlands,B79 9AE,Repair,Medium,48h,2026-06-05T08:00,2026-06-10T11:00,E-0110,BG-SENSO-056,At Risk,Failed Visit,True,Parts unavailable
-J-00210,CU-7452,South,PO22 1HC,Service,High,Next Day,2026-06-19T08:00,2026-06-09T16:00,E-0032,BG-EV-010,At Risk,Open,True,Engineer absence
-J-00211,CU-5947,Wales,NP32 3AD,Emergency,Medium,48h,2026-06-13T08:00,2026-06-15T16:00,E-0048,BG-BOILE-005,In Progress,Customer Cancelled,True,Parts unavailable
-J-00212,CU-7609,Midlands,DE79 8FK,Install,Medium,Next Day,2026-06-02T08:00,2026-06-17T10:00,E-0114,BG-EV-010,At Risk,Customer Cancelled,False,Weather
-J-00213,CU-6349,London,W20 9EK,Service,High,4h,2026-06-14T08:00,2026-06-16T13:00,E-0043,BG-EV-027,Rescheduled,Failed Visit,True,Weather
-J-00214,CU-2937,South,SO31 8HG,Smart Meter Exchange,High,48h,2026-06-14T08:00,2026-06-08T13:00,E-0032,BG-SENSO-070,Rescheduled,Open,True,Traffic
-J-00215,CU-5259,London,N83 9BH,Smart Meter Exchange,High,Next Day,2026-06-02T08:00,2026-06-13T14:00,E-0086,BG-SENSO-086,In Progress,Customer Cancelled,False,Weather
-J-00216,CU-9152,London,SW85 7FH,Service,Medium,48h,2026-06-11T08:00,2026-06-19T11:00,E-0001,BG-EV-089,In Progress,Failed Visit,True,Weather
-J-00217,CU-7836,Midlands,LE78 4FK,Service,Low,Next Day,2026-06-10T08:00,2026-06-21T09:00,E-0105,BG-VALVE-065,In Progress,Failed Visit,True,Weather
-J-00218,CU-8036,North,M43 4HA,Repair,High,Next Day,2026-06-06T08:00,2026-06-10T13:00,E-0054,BG-METER-054,In Progress,Customer Cancelled,False,Parts unavailable
-J-00219,CU-6573,North,L97 7BJ,Emergency,High,Same Day,2026-06-07T08:00,2026-06-20T16:00,E-0100,BG-VALVE-016,Rescheduled,Complete,True,Engineer absence
-J-00220,CU-7750,Midlands,B68 6BH,Install,Medium,48h,2026-06-01T08:00,2026-06-01T13:00,E-0042,BG-PUMP-071,In Progress,Complete,True,Parts unavailable
-J-00221,CU-7651,North,YO14 5CK,Smart Meter Exchange,High,4h,2026-06-11T08:00,2026-06-06T11:00,E-0084,BG-EV-089,Rescheduled,Complete,True,Engineer absence
-J-00222,CU-4020,Midlands,NG16 4CA,Service,High,4h,2026-06-03T08:00,2026-06-13T11:00,E-0028,BG-BOILE-025,Completed,Complete,True,Carrier delay
-J-00223,CU-6699,Wales,LL83 4HD,Install,Low,48h,2026-06-09T08:00,2026-06-06T16:00,E-0029,BG-EV-063,At Risk,Open,True,None
-J-00224,CU-5012,Scotland,AB6 6FH,Service,Medium,48h,2026-06-08T08:00,2026-06-14T17:00,E-0003,BG-EV-020,Scheduled,Complete,True,Carrier delay
-J-00225,CU-5539,South,OX22 1HD,Emergency,Medium,4h,2026-06-03T08:00,2026-06-17T12:00,E-0119,BG-BOILE-028,Rescheduled,Failed Visit,False,None
-J-00226,CU-2776,Scotland,DD30 3EJ,Smart Meter Exchange,Medium,48h,2026-06-06T08:00,2026-06-20T17:00,E-0085,BG-EV-027,Rescheduled,Open,False,Weather
-J-00227,CU-2369,Scotland,AB68 9BE,Install,Medium,Same Day,2026-06-06T08:00,2026-06-02T15:00,E-0063,BG-EV-089,In Progress,Open,True,Parts unavailable
-J-00228,CU-3423,South,OX86 9HE,Emergency,Critical,Same Day,2026-06-06T08:00,2026-06-10T17:00,E-0080,BG-PIPEW-075,Scheduled,Failed Visit,False,Weather
-J-00229,CU-1868,London,SW27 4GK,Smart Meter Exchange,Low,Next Day,2026-06-01T08:00,2026-06-20T17:00,E-0024,BG-SENSO-012,In Progress,Complete,True,None
-J-00230,CU-6038,London,SW39 3AD,Emergency,High,Next Day,2026-06-17T08:00,2026-06-14T12:00,E-0014,BG-PIPEW-083,Completed,Failed Visit,True,None
-J-00231,CU-9207,South,OX23 5FC,Emergency,Critical,Next Day,2026-06-02T08:00,2026-06-10T09:00,E-0110,BG-METER-087,Completed,Open,True,Parts unavailable
-J-00232,CU-9272,North,L98 6GB,Emergency,Low,4h,2026-06-01T08:00,2026-06-06T12:00,E-0106,BG-BOILE-059,Scheduled,Complete,True,Carrier delay
-J-00233,CU-7672,North,LS22 3DK,Smart Meter Exchange,High,4h,2026-06-08T08:00,2026-06-15T13:00,E-0043,BG-PUMP-088,Completed,Customer Cancelled,False,None
-J-00234,CU-4487,Midlands,B23 4EF,Install,Critical,48h,2026-06-17T08:00,2026-06-18T11:00,E-0056,BG-EV-006,Rescheduled,Complete,True,Weather
-J-00235,CU-3713,South,RG97 7KK,Emergency,Medium,48h,2026-06-03T08:00,2026-06-17T13:00,E-0019,BG-SENSO-068,Rescheduled,Failed Visit,True,Carrier delay
-J-00236,CU-5664,Midlands,B45 7BC,Smart Meter Exchange,Low,Next Day,2026-06-01T08:00,2026-06-18T11:00,E-0052,BG-EV-082,Rescheduled,Failed Visit,True,Carrier delay
-J-00237,CU-1903,London,E98 7JD,Repair,Critical,Same Day,2026-06-11T08:00,2026-06-01T09:00,E-0009,BG-BOILE-025,At Risk,Complete,False,Carrier delay
-J-00238,CU-7744,Wales,SA77 3FA,Smart Meter Exchange,Critical,48h,2026-06-16T08:00,2026-06-13T09:00,E-0021,BG-PIPEW-075,Rescheduled,Complete,True,Traffic
-J-00239,CU-3763,South,OX42 1CG,Install,Critical,4h,2026-06-14T08:00,2026-06-09T13:00,E-0007,BG-PIPEW-014,In Progress,Customer Cancelled,False,Parts unavailable
-J-00240,CU-8175,Wales,SA98 7DJ,Service,Critical,Same Day,2026-06-18T08:00,2026-06-11T15:00,E-0004,BG-EV-010,Completed,Open,True,Carrier delay
-J-00241,CU-1646,London,W76 9ED,Emergency,Medium,4h,2026-06-06T08:00,2026-06-05T09:00,E-0109,BG-METER-087,Completed,Complete,True,Carrier delay
-J-00242,CU-3521,Midlands,CV41 9KD,Emergency,Critical,Next Day,2026-06-17T08:00,2026-06-01T15:00,E-0083,BG-VALVE-050,In Progress,Open,True,Traffic
-J-00243,CU-6535,Wales,NP23 6GC,Smart Meter Exchange,High,48h,2026-06-19T08:00,2026-06-08T12:00,E-0044,BG-PUMP-046,Rescheduled,Failed Visit,True,None
-J-00244,CU-6370,South,PO14 4CF,Smart Meter Exchange,High,48h,2026-06-16T08:00,2026-06-17T10:00,E-0031,BG-BOILE-066,At Risk,Customer Cancelled,True,Traffic
-J-00245,CU-6315,North,YO65 7HJ,Emergency,Medium,Next Day,2026-06-06T08:00,2026-06-05T16:00,E-0091,BG-SENSO-068,Completed,Failed Visit,True,Engineer absence
-J-00246,CU-5651,South,SO37 9JK,Emergency,Low,48h,2026-06-05T08:00,2026-06-16T12:00,E-0055,BG-METER-030,At Risk,Customer Cancelled,True,Engineer absence
-J-00247,CU-5265,Scotland,AB72 5HC,Emergency,High,4h,2026-06-11T08:00,2026-06-05T10:00,E-0066,BG-EV-008,At Risk,Customer Cancelled,True,Engineer absence
-J-00248,CU-8586,Scotland,DD29 3GE,Service,Critical,Next Day,2026-06-09T08:00,2026-06-09T16:00,E-0079,BG-METER-055,Scheduled,Open,False,Weather
-J-00249,CU-9010,North,YO88 8JJ,Smart Meter Exchange,Low,Next Day,2026-06-07T08:00,2026-06-12T17:00,E-0046,BG-PUMP-064,In Progress,Open,True,Engineer absence
-J-00250,CU-1080,London,W54 8BD,Smart Meter Exchange,Low,4h,2026-06-04T08:00,2026-06-05T15:00,E-0007,BG-METER-015,In Progress,Open,True,None
-J-00251,CU-5939,Midlands,NG14 3EC,Repair,Critical,Next Day,2026-06-01T08:00,2026-06-18T15:00,E-0081,BG-PIPEW-014,Rescheduled,Open,True,Traffic
-J-00252,CU-3653,Wales,NP30 9HE,Repair,High,4h,2026-06-15T08:00,2026-06-03T15:00,E-0055,BG-BOILE-059,Rescheduled,Complete,False,Weather
-J-00253,CU-5116,London,SW14 3EH,Emergency,Critical,4h,2026-06-02T08:00,2026-06-18T09:00,E-0099,BG-BOILE-005,Scheduled,Complete,True,None
-J-00254,CU-2305,Scotland,G37 6JE,Emergency,Medium,Same Day,2026-06-13T08:00,2026-06-06T10:00,E-0091,BG-SENSO-070,In Progress,Complete,True,None
-J-00255,CU-7602,Scotland,DD55 2EF,Smart Meter Exchange,Critical,4h,2026-06-04T08:00,2026-06-02T16:00,E-0076,BG-PUMP-043,At Risk,Customer Cancelled,True,None
-J-00256,CU-7792,Wales,NP78 9EB,Emergency,Low,4h,2026-06-05T08:00,2026-06-07T16:00,E-0037,BG-SENSO-086,Scheduled,Customer Cancelled,False,Weather
-J-00257,CU-9404,South,OX65 8CB,Repair,Low,4h,2026-06-18T08:00,2026-06-17T13:00,E-0119,BG-BOILE-034,Rescheduled,Complete,True,None
-J-00258,CU-7938,North,YO65 3HG,Smart Meter Exchange,Low,4h,2026-06-09T08:00,2026-06-02T14:00,E-0030,BG-EV-006,Scheduled,Failed Visit,True,None
-J-00259,CU-6538,London,E50 3CF,Smart Meter Exchange,High,48h,2026-06-09T08:00,2026-06-18T17:00,E-0017,BG-PIPEW-014,Scheduled,Open,False,Traffic
-J-00260,CU-5561,South,SO64 3EB,Smart Meter Exchange,Critical,48h,2026-06-11T08:00,2026-06-21T09:00,E-0112,BG-BOILE-021,In Progress,Failed Visit,True,Traffic
-J-00261,CU-1807,Scotland,G16 3KC,Repair,Low,Next Day,2026-06-08T08:00,2026-06-13T09:00,E-0045,BG-PUMP-029,Scheduled,Complete,True,Weather
-J-00262,CU-6091,Scotland,AB55 6HH,Install,Critical,48h,2026-06-10T08:00,2026-06-11T12:00,E-0025,BG-BOILE-004,Rescheduled,Complete,False,Weather
-J-00263,CU-2698,London,E23 5BB,Install,Medium,48h,2026-06-02T08:00,2026-06-01T17:00,E-0002,BG-VALVE-078,Scheduled,Customer Cancelled,True,Carrier delay
-J-00264,CU-3021,Scotland,IV89 4JF,Install,Medium,Next Day,2026-06-02T08:00,2026-06-02T15:00,E-0033,BG-BOILE-022,Completed,Failed Visit,True,Traffic
-J-00265,CU-4184,Wales,CF50 4FJ,Smart Meter Exchange,High,Next Day,2026-06-08T08:00,2026-06-11T12:00,E-0113,BG-BOILE-032,Completed,Complete,True,None
-J-00266,CU-9645,North,YO20 1EF,Emergency,High,48h,2026-06-04T08:00,2026-06-09T16:00,E-0088,BG-SENSO-080,In Progress,Failed Visit,True,Weather
-J-00267,CU-1733,South,BN2 3DC,Repair,Critical,4h,2026-06-17T08:00,2026-06-13T16:00,E-0056,BG-PUMP-029,At Risk,Complete,False,None
-J-00268,CU-7212,Midlands,LE10 6AA,Emergency,Low,48h,2026-06-14T08:00,2026-06-09T10:00,E-0010,BG-PUMP-071,Scheduled,Customer Cancelled,True,Traffic
-J-00269,CU-8101,North,YO72 9KB,Emergency,Low,4h,2026-06-12T08:00,2026-06-01T14:00,E-0103,BG-EV-035,Rescheduled,Customer Cancelled,True,Parts unavailable
-J-00270,CU-3370,Scotland,AB12 7CG,Install,High,Same Day,2026-06-05T08:00,2026-06-20T16:00,E-0043,BG-PUMP-071,Rescheduled,Complete,False,Weather
-J-00271,CU-9465,South,PO21 5HD,Repair,High,48h,2026-06-03T08:00,2026-06-13T17:00,E-0119,BG-PIPEW-007,Completed,Complete,True,Weather
-J-00272,CU-2419,Midlands,NG74 5JF,Install,High,Same Day,2026-06-19T08:00,2026-06-17T16:00,E-0053,BG-PIPEW-014,Rescheduled,Open,True,Weather
-J-00273,CU-9940,Scotland,DD5 7HD,Smart Meter Exchange,High,Next Day,2026-06-10T08:00,2026-06-18T17:00,E-0025,BG-BOILE-034,Rescheduled,Failed Visit,True,Parts unavailable
-J-00274,CU-2666,South,PO13 2BH,Smart Meter Exchange,Low,4h,2026-06-01T08:00,2026-06-05T14:00,E-0104,BG-PIPEW-007,Completed,Customer Cancelled,True,Engineer absence
-J-00275,CU-5253,Scotland,DD82 6AH,Install,Critical,48h,2026-06-04T08:00,2026-06-15T12:00,E-0109,BG-PUMP-088,In Progress,Customer Cancelled,True,Carrier delay
-J-00276,CU-6578,Scotland,EH6 6GB,Repair,Critical,48h,2026-06-16T08:00,2026-06-19T09:00,E-0083,BG-BOILE-036,Scheduled,Customer Cancelled,True,Carrier delay
-J-00277,CU-3448,Midlands,CV29 5FB,Repair,Critical,4h,2026-06-19T08:00,2026-06-02T15:00,E-0108,BG-BOILE-021,Scheduled,Failed Visit,True,Parts unavailable
-J-00278,CU-1100,Scotland,EH25 7CB,Smart Meter Exchange,High,4h,2026-06-12T08:00,2026-06-17T10:00,E-0067,BG-METER-030,Rescheduled,Customer Cancelled,False,Engineer absence
-J-00279,CU-9792,Wales,SA81 4CC,Repair,Medium,4h,2026-06-09T08:00,2026-06-09T16:00,E-0036,BG-VALVE-062,In Progress,Open,True,Engineer absence
-J-00280,CU-3140,Scotland,IV12 7FA,Emergency,Medium,48h,2026-06-07T08:00,2026-06-01T09:00,E-0045,BG-METER-017,Rescheduled,Open,True,Weather
-J-00281,CU-7843,South,RG59 1GD,Emergency,High,4h,2026-06-19T08:00,2026-06-17T15:00,E-0047,BG-SENSO-068,Completed,Complete,True,Traffic
-J-00282,CU-1643,Midlands,NG95 8KK,Repair,Low,Same Day,2026-06-08T08:00,2026-06-10T10:00,E-0085,BG-BOILE-022,Rescheduled,Customer Cancelled,True,Traffic
-J-00283,CU-6496,Scotland,EH47 4GF,Smart Meter Exchange,Low,Next Day,2026-06-13T08:00,2026-06-13T17:00,E-0049,BG-EV-089,Scheduled,Customer Cancelled,True,Parts unavailable
-J-00284,CU-5338,Wales,SY75 4DC,Emergency,Critical,Next Day,2026-06-11T08:00,2026-06-10T12:00,E-0092,BG-SENSO-052,Scheduled,Customer Cancelled,False,Carrier delay
-J-00285,CU-1414,London,W53 6CD,Emergency,Low,48h,2026-06-05T08:00,2026-06-19T15:00,E-0052,BG-PUMP-071,Completed,Customer Cancelled,True,Parts unavailable
-J-00286,CU-1574,South,PO16 4GK,Install,Medium,Same Day,2026-06-17T08:00,2026-06-13T11:00,E-0117,BG-METER-017,Scheduled,Open,True,Carrier delay
-J-00287,CU-4070,Midlands,LE78 8BJ,Service,High,48h,2026-06-02T08:00,2026-06-04T09:00,E-0063,BG-METER-030,Scheduled,Open,False,Weather
-J-00288,CU-7177,Wales,SA80 6DF,Repair,Low,Same Day,2026-06-16T08:00,2026-06-08T10:00,E-0110,BG-SENSO-019,Scheduled,Complete,True,Traffic
-J-00289,CU-5450,North,M73 2KG,Smart Meter Exchange,High,Next Day,2026-06-15T08:00,2026-06-18T16:00,E-0046,BG-SENSO-061,In Progress,Complete,True,Weather
-J-00290,CU-8542,Wales,LL90 9JK,Emergency,Low,Next Day,2026-06-08T08:00,2026-06-21T12:00,E-0081,BG-PUMP-074,Rescheduled,Failed Visit,True,Parts unavailable
-J-00291,CU-1553,London,SE43 1AG,Service,Medium,Next Day,2026-06-08T08:00,2026-06-16T12:00,E-0005,BG-VALVE-062,Rescheduled,Customer Cancelled,True,Traffic
-J-00292,CU-5217,North,M40 2GK,Smart Meter Exchange,High,Same Day,2026-06-09T08:00,2026-06-09T16:00,E-0037,BG-BOILE-021,In Progress,Failed Visit,True,Weather
-J-00293,CU-6516,South,RG75 3CA,Service,Critical,4h,2026-06-10T08:00,2026-06-09T15:00,E-0109,BG-PUMP-069,Completed,Customer Cancelled,True,None
-J-00294,CU-5796,London,N34 7DB,Repair,Medium,Same Day,2026-06-15T08:00,2026-06-19T15:00,E-0065,BG-PUMP-071,At Risk,Complete,True,None
-J-00295,CU-3012,Wales,NP59 6AH,Emergency,High,48h,2026-06-12T08:00,2026-06-11T12:00,E-0116,BG-PIPEW-058,Scheduled,Open,True,Traffic
-J-00296,CU-7781,London,E80 3EA,Emergency,Medium,Same Day,2026-06-18T08:00,2026-06-15T11:00,E-0101,BG-BOILE-059,At Risk,Open,True,Traffic
-J-00297,CU-8941,South,SO89 1DK,Service,Medium,4h,2026-06-19T08:00,2026-06-20T13:00,E-0089,BG-BOILE-025,Completed,Open,True,Carrier delay
-J-00298,CU-7130,Wales,SY88 7JF,Repair,Medium,Same Day,2026-06-15T08:00,2026-06-16T13:00,E-0080,BG-BOILE-025,In Progress,Customer Cancelled,False,Weather
-J-00299,CU-7590,Midlands,CV56 4HC,Emergency,High,Next Day,2026-06-06T08:00,2026-06-02T15:00,E-0049,BG-BOILE-011,Scheduled,Failed Visit,True,Engineer absence
-J-00300,CU-1015,South,BN50 3KJ,Emergency,Low,48h,2026-06-08T08:00,2026-06-11T17:00,E-0042,BG-SENSO-038,At Risk,Customer Cancelled,True,Traffic
-J-00301,CU-1343,London,N91 1AA,Install,High,Same Day,2026-06-18T08:00,2026-06-11T12:00,E-0070,BG-EV-063,At Risk,Open,True,None
-J-00302,CU-2868,Scotland,IV97 7CG,Emergency,Critical,Same Day,2026-06-14T08:00,2026-06-18T13:00,E-0100,BG-EV-008,Scheduled,Complete,True,None
-J-00303,CU-7713,South,BN59 9BF,Smart Meter Exchange,Low,Same Day,2026-06-18T08:00,2026-06-10T14:00,E-0085,BG-PUMP-090,At Risk,Open,True,Engineer absence
-J-00304,CU-9159,London,SE72 6KK,Install,Low,Next Day,2026-06-03T08:00,2026-06-17T12:00,E-0103,BG-PUMP-018,Rescheduled,Failed Visit,True,None
-J-00305,CU-1674,Wales,LL62 5JJ,Service,Low,Next Day,2026-06-04T08:00,2026-06-18T14:00,E-0054,BG-VALVE-016,In Progress,Complete,False,Parts unavailable
-J-00306,CU-8007,London,SE89 2AD,Install,Medium,Next Day,2026-06-09T08:00,2026-06-05T09:00,E-0051,BG-PIPEW-013,At Risk,Failed Visit,True,Engineer absence
-J-00307,CU-6120,North,M63 2CE,Install,Medium,Same Day,2026-06-04T08:00,2026-06-06T09:00,E-0001,BG-VALVE-002,In Progress,Customer Cancelled,True,Parts unavailable
-J-00308,CU-2376,London,SW9 1FA,Smart Meter Exchange,Critical,Next Day,2026-06-10T08:00,2026-06-20T10:00,E-0034,BG-PUMP-069,At Risk,Customer Cancelled,True,Traffic
-J-00309,CU-2119,North,NE23 8JH,Service,Critical,Next Day,2026-06-18T08:00,2026-06-14T11:00,E-0041,BG-EV-027,Scheduled,Failed Visit,True,Parts unavailable
-J-00310,CU-1862,Midlands,NG76 1AB,Repair,Medium,48h,2026-06-08T08:00,2026-06-19T09:00,E-0069,BG-SENSO-012,In Progress,Failed Visit,True,Parts unavailable
-J-00311,CU-5303,North,NE13 5DG,Emergency,High,48h,2026-06-17T08:00,2026-06-04T10:00,E-0024,BG-METER-015,In Progress,Complete,True,Parts unavailable
-J-00312,CU-2996,London,W31 2AD,Smart Meter Exchange,High,48h,2026-06-10T08:00,2026-06-05T14:00,E-0045,BG-SENSO-019,Scheduled,Open,True,Engineer absence
-J-00313,CU-1988,Scotland,G81 6JF,Emergency,Critical,Next Day,2026-06-10T08:00,2026-06-15T12:00,E-0012,BG-PUMP-018,Completed,Customer Cancelled,True,Weather
-J-00314,CU-5351,Midlands,B48 2AD,Smart Meter Exchange,Critical,Same Day,2026-06-16T08:00,2026-06-07T09:00,E-0034,BG-METER-001,In Progress,Customer Cancelled,True,Weather
-J-00315,CU-5356,London,N3 7JJ,Repair,Critical,48h,2026-06-09T08:00,2026-06-02T12:00,E-0040,BG-EV-089,In Progress,Complete,False,Carrier delay
-J-00316,CU-4811,Scotland,G79 1FH,Emergency,High,4h,2026-06-09T08:00,2026-06-09T10:00,E-0003,BG-METER-030,Scheduled,Customer Cancelled,True,Engineer absence
-J-00317,CU-4505,South,PO54 2BJ,Smart Meter Exchange,Critical,4h,2026-06-07T08:00,2026-06-10T15:00,E-0068,BG-SENSO-079,At Risk,Complete,True,Engineer absence
-J-00318,CU-8559,Midlands,CV79 8BD,Repair,Low,Same Day,2026-06-06T08:00,2026-06-03T10:00,E-0027,BG-METER-054,Rescheduled,Customer Cancelled,False,Carrier delay
-J-00319,CU-7892,London,SE41 2DC,Emergency,Low,4h,2026-06-15T08:00,2026-06-20T13:00,E-0093,BG-METER-017,Rescheduled,Complete,True,Engineer absence
-J-00320,CU-2451,Midlands,NG15 1HE,Smart Meter Exchange,High,4h,2026-06-14T08:00,2026-06-10T09:00,E-0007,BG-PUMP-090,At Risk,Open,True,Weather
-J-00321,CU-5779,Midlands,LE59 4KB,Smart Meter Exchange,Critical,4h,2026-06-17T08:00,2026-06-17T10:00,E-0016,BG-PIPEW-041,Completed,Complete,True,Weather
-J-00322,CU-4590,North,LS56 2BD,Emergency,Critical,4h,2026-06-17T08:00,2026-06-03T14:00,E-0012,BG-METER-087,Rescheduled,Failed Visit,True,Engineer absence
-J-00323,CU-3257,Scotland,EH66 8KE,Repair,High,48h,2026-06-05T08:00,2026-06-02T17:00,E-0045,BG-PIPEW-058,Rescheduled,Complete,True,Weather
-J-00324,CU-2419,South,BN12 3DC,Smart Meter Exchange,Low,4h,2026-06-12T08:00,2026-06-03T11:00,E-0004,BG-BOILE-042,Completed,Failed Visit,False,None
-J-00325,CU-7347,South,SO90 7CC,Install,Critical,48h,2026-06-14T08:00,2026-06-18T16:00,E-0066,BG-EV-027,Completed,Failed Visit,True,Weather
-J-00326,CU-6837,London,N46 5KC,Repair,Low,Next Day,2026-06-10T08:00,2026-06-21T10:00,E-0099,BG-VALVE-065,Scheduled,Complete,True,Engineer absence
-J-00327,CU-5049,South,BN16 7AE,Smart Meter Exchange,Low,4h,2026-06-08T08:00,2026-06-16T11:00,E-0013,BG-PIPEW-009,Rescheduled,Customer Cancelled,True,None
-J-00328,CU-6384,Midlands,DE2 2BD,Emergency,Medium,Same Day,2026-06-11T08:00,2026-06-17T11:00,E-0091,BG-METER-015,Scheduled,Complete,True,Weather
-J-00329,CU-3780,North,NE86 5DC,Service,Low,Same Day,2026-06-06T08:00,2026-06-04T15:00,E-0075,BG-PIPEW-076,Scheduled,Customer Cancelled,False,Carrier delay
-J-00330,CU-1386,Wales,CF39 2GK,Repair,Critical,Next Day,2026-06-08T08:00,2026-06-02T11:00,E-0013,BG-VALVE-050,Completed,Complete,False,Weather
-J-00331,CU-1747,Scotland,IV60 3DG,Repair,High,Next Day,2026-06-10T08:00,2026-06-14T14:00,E-0099,BG-PIPEW-041,Completed,Customer Cancelled,False,Weather
-J-00332,CU-1816,South,PO73 3FE,Emergency,Low,Same Day,2026-06-15T08:00,2026-06-06T17:00,E-0067,BG-VALVE-062,Completed,Complete,False,Weather
-J-00333,CU-3372,Wales,NP26 7BF,Smart Meter Exchange,Low,48h,2026-06-09T08:00,2026-06-01T14:00,E-0025,BG-SENSO-068,Completed,Customer Cancelled,True,Weather
-J-00334,CU-7621,Wales,SY71 4AF,Service,Critical,48h,2026-06-19T08:00,2026-06-01T12:00,E-0075,BG-PIPEW-083,In Progress,Open,True,None
-J-00335,CU-6731,Wales,SY94 9FB,Smart Meter Exchange,High,Same Day,2026-06-05T08:00,2026-06-15T11:00,E-0098,BG-EV-027,At Risk,Open,False,Carrier delay
-J-00336,CU-1355,London,N6 9AB,Smart Meter Exchange,High,4h,2026-06-06T08:00,2026-06-06T10:00,E-0116,BG-BOILE-022,Completed,Failed Visit,True,Parts unavailable
-J-00337,CU-5035,South,RG21 7CA,Smart Meter Exchange,Critical,Next Day,2026-06-19T08:00,2026-06-18T12:00,E-0016,BG-PUMP-043,In Progress,Failed Visit,True,Traffic
-J-00338,CU-2636,Scotland,DD48 4GC,Emergency,Medium,48h,2026-06-11T08:00,2026-06-05T17:00,E-0081,BG-VALVE-062,At Risk,Failed Visit,True,Weather
-J-00339,CU-8637,Scotland,IV17 6EC,Service,Critical,Same Day,2026-06-09T08:00,2026-06-21T14:00,E-0090,BG-BOILE-025,Rescheduled,Complete,False,Carrier delay
-J-00340,CU-6224,South,SO11 7CJ,Service,High,Same Day,2026-06-12T08:00,2026-06-01T10:00,E-0069,BG-SENSO-068,In Progress,Failed Visit,True,Engineer absence
-J-00341,CU-4794,London,W10 1BK,Service,High,Next Day,2026-06-07T08:00,2026-06-18T11:00,E-0018,BG-SENSO-012,In Progress,Failed Visit,False,Weather
-J-00342,CU-5446,Scotland,DD12 8GC,Service,Critical,Same Day,2026-06-07T08:00,2026-06-14T10:00,E-0002,BG-BOILE-042,Rescheduled,Failed Visit,False,Traffic
-J-00343,CU-1674,South,PO37 9DH,Install,Medium,Next Day,2026-06-03T08:00,2026-06-16T11:00,E-0029,BG-EV-027,Completed,Failed Visit,True,Weather
-J-00344,CU-5563,Scotland,EH42 1AK,Service,Low,4h,2026-06-09T08:00,2026-06-14T09:00,E-0040,BG-BOILE-036,At Risk,Customer Cancelled,True,Engineer absence
-J-00345,CU-1181,Midlands,NG40 6AH,Smart Meter Exchange,Low,4h,2026-06-10T08:00,2026-06-08T14:00,E-0053,BG-SENSO-060,At Risk,Complete,True,Traffic
-J-00346,CU-4362,South,OX54 4EC,Smart Meter Exchange,Low,48h,2026-06-01T08:00,2026-06-11T14:00,E-0109,BG-VALVE-016,Scheduled,Failed Visit,True,Carrier delay
-J-00347,CU-4823,Wales,NP12 8AJ,Emergency,Medium,Next Day,2026-06-06T08:00,2026-06-13T13:00,E-0021,BG-PUMP-024,Scheduled,Open,True,Engineer absence
-J-00348,CU-9827,North,M54 8JA,Emergency,Low,Next Day,2026-06-08T08:00,2026-06-04T14:00,E-0114,BG-EV-023,Rescheduled,Complete,True,None
-J-00349,CU-8650,Scotland,AB12 2GJ,Repair,Low,4h,2026-06-13T08:00,2026-06-04T11:00,E-0103,BG-BOILE-067,At Risk,Customer Cancelled,True,Weather
-J-00350,CU-4521,Wales,NP77 1KB,Service,High,48h,2026-06-12T08:00,2026-06-08T09:00,E-0024,BG-METER-087,Rescheduled,Failed Visit,True,Carrier delay
-J-00351,CU-7244,London,SW60 9GE,Smart Meter Exchange,Critical,Same Day,2026-06-12T08:00,2026-06-19T13:00,E-0073,BG-BOILE-036,At Risk,Open,True,Parts unavailable
-J-00352,CU-2989,Midlands,CV33 9CA,Smart Meter Exchange,Medium,Same Day,2026-06-04T08:00,2026-06-11T12:00,E-0078,BG-SENSO-079,Rescheduled,Open,False,Carrier delay
-J-00353,CU-3218,North,NE2 6KC,Repair,High,Same Day,2026-06-11T08:00,2026-06-08T09:00,E-0073,BG-PIPEW-009,At Risk,Customer Cancelled,True,Weather
-J-00354,CU-1849,North,L63 8DC,Repair,Low,Next Day,2026-06-02T08:00,2026-06-08T15:00,E-0012,BG-PUMP-043,Rescheduled,Open,False,None
-J-00355,CU-6761,North,L25 5AK,Repair,Medium,4h,2026-06-12T08:00,2026-06-12T17:00,E-0095,BG-METER-054,Scheduled,Complete,False,Traffic
-J-00356,CU-1653,Wales,SA66 6JJ,Emergency,Medium,4h,2026-06-15T08:00,2026-06-18T17:00,E-0002,BG-VALVE-002,In Progress,Customer Cancelled,False,Traffic
-J-00357,CU-6618,Scotland,EH52 4CB,Repair,Low,4h,2026-06-10T08:00,2026-06-15T11:00,E-0019,BG-VALVE-065,Scheduled,Failed Visit,True,Parts unavailable
-J-00358,CU-7361,Midlands,NG52 1FA,Emergency,High,4h,2026-06-13T08:00,2026-06-13T12:00,E-0056,BG-METER-017,Scheduled,Failed Visit,False,None
-J-00359,CU-5612,London,SE43 4JB,Repair,Critical,4h,2026-06-18T08:00,2026-06-20T15:00,E-0045,BG-EV-073,Completed,Open,True,Traffic
-J-00360,CU-4774,London,E55 8BF,Emergency,Critical,Next Day,2026-06-17T08:00,2026-06-15T09:00,E-0048,BG-SENSO-070,In Progress,Open,False,Traffic
-J-00361,CU-9108,South,SO81 9HG,Smart Meter Exchange,Critical,Next Day,2026-06-15T08:00,2026-06-02T11:00,E-0032,BG-EV-047,At Risk,Customer Cancelled,True,Engineer absence
-J-00362,CU-1765,London,N31 3AK,Repair,Medium,4h,2026-06-03T08:00,2026-06-14T12:00,E-0030,BG-EV-006,In Progress,Failed Visit,True,Traffic
-J-00363,CU-8649,London,N27 2GJ,Repair,Low,48h,2026-06-10T08:00,2026-06-16T09:00,E-0119,BG-METER-017,At Risk,Complete,True,Parts unavailable
-J-00364,CU-1225,Scotland,G32 7DJ,Install,Low,Next Day,2026-06-14T08:00,2026-06-03T13:00,E-0074,BG-BOILE-005,At Risk,Failed Visit,True,Traffic
-J-00365,CU-3676,London,N25 9EH,Install,High,Same Day,2026-06-11T08:00,2026-06-13T16:00,E-0096,BG-BOILE-028,Rescheduled,Customer Cancelled,True,None
-J-00366,CU-1060,South,OX57 3DG,Repair,Critical,4h,2026-06-19T08:00,2026-06-05T15:00,E-0011,BG-BOILE-026,At Risk,Customer Cancelled,True,Parts unavailable
-J-00367,CU-7794,North,L46 5FB,Service,High,Next Day,2026-06-10T08:00,2026-06-09T10:00,E-0099,BG-SENSO-052,Rescheduled,Customer Cancelled,True,Traffic
-J-00368,CU-1198,Midlands,NG99 7BK,Emergency,Low,48h,2026-06-05T08:00,2026-06-09T14:00,E-0020,BG-BOILE-025,Rescheduled,Failed Visit,False,None
-J-00369,CU-6114,Wales,SA6 4BK,Emergency,Low,48h,2026-06-10T08:00,2026-06-18T15:00,E-0059,BG-PUMP-074,Completed,Failed Visit,True,None
-J-00370,CU-4437,South,BN57 4AG,Emergency,High,Same Day,2026-06-03T08:00,2026-06-12T10:00,E-0104,BG-BOILE-067,Rescheduled,Complete,True,Weather
-J-00371,CU-8293,Scotland,DD64 6FD,Smart Meter Exchange,Critical,4h,2026-06-15T08:00,2026-06-07T16:00,E-0066,BG-PIPEW-058,Scheduled,Failed Visit,False,Carrier delay
-J-00372,CU-7340,Scotland,G66 3AH,Repair,Low,48h,2026-06-02T08:00,2026-06-04T09:00,E-0059,BG-EV-020,Rescheduled,Open,True,Parts unavailable
-J-00373,CU-6394,South,SO81 1FH,Repair,Medium,Same Day,2026-06-03T08:00,2026-06-17T16:00,E-0080,BG-PIPEW-041,Rescheduled,Open,False,Carrier delay
-J-00374,CU-4799,North,L93 7EA,Repair,Low,Same Day,2026-06-05T08:00,2026-06-20T14:00,E-0062,BG-EV-010,In Progress,Customer Cancelled,True,Carrier delay
-J-00375,CU-8091,Scotland,DD4 8DE,Install,Low,48h,2026-06-09T08:00,2026-06-13T11:00,E-0094,BG-BOILE-066,Scheduled,Failed Visit,True,Engineer absence
-J-00376,CU-1469,Wales,SA55 6AK,Smart Meter Exchange,Low,Same Day,2026-06-04T08:00,2026-06-18T12:00,E-0054,BG-METER-039,At Risk,Customer Cancelled,True,Weather
-J-00377,CU-5981,Midlands,LE47 7EC,Emergency,Critical,4h,2026-06-18T08:00,2026-06-13T12:00,E-0063,BG-METER-055,In Progress,Customer Cancelled,False,Parts unavailable
-J-00378,CU-2371,London,SE88 8EK,Service,High,Next Day,2026-06-03T08:00,2026-06-04T13:00,E-0090,BG-PIPEW-009,Rescheduled,Customer Cancelled,True,Carrier delay
-J-00379,CU-6244,Midlands,LE39 3FH,Repair,Low,4h,2026-06-05T08:00,2026-06-14T12:00,E-0032,BG-BOILE-032,Scheduled,Failed Visit,True,Traffic
-J-00380,CU-3885,Scotland,G48 7CA,Repair,Critical,4h,2026-06-04T08:00,2026-06-07T13:00,E-0069,BG-PIPEW-041,Completed,Open,False,Parts unavailable
-J-00381,CU-8435,London,SW81 4EK,Smart Meter Exchange,Medium,Same Day,2026-06-16T08:00,2026-06-08T14:00,E-0052,BG-PUMP-043,Scheduled,Failed Visit,True,Engineer absence
-J-00382,CU-6555,North,LS20 5DG,Emergency,High,Next Day,2026-06-04T08:00,2026-06-11T16:00,E-0011,BG-PUMP-090,In Progress,Customer Cancelled,True,Engineer absence
-J-00383,CU-9144,South,PO61 3GA,Emergency,High,4h,2026-06-04T08:00,2026-06-09T17:00,E-0079,BG-PUMP-069,At Risk,Customer Cancelled,True,Carrier delay
-J-00384,CU-8539,London,E80 7HA,Emergency,High,Same Day,2026-06-11T08:00,2026-06-08T10:00,E-0005,BG-SENSO-052,Scheduled,Customer Cancelled,True,None
-J-00385,CU-2360,Midlands,B7 5CA,Service,Low,48h,2026-06-04T08:00,2026-06-13T17:00,E-0005,BG-VALVE-085,Scheduled,Complete,True,Parts unavailable
-J-00386,CU-5971,South,RG86 1CJ,Smart Meter Exchange,Critical,Next Day,2026-06-03T08:00,2026-06-04T11:00,E-0108,BG-VALVE-062,Rescheduled,Customer Cancelled,True,Engineer absence
-J-00387,CU-7733,North,YO85 7CG,Repair,Low,Next Day,2026-06-12T08:00,2026-06-11T11:00,E-0042,BG-BOILE-011,In Progress,Customer Cancelled,True,Engineer absence
-J-00388,CU-6964,South,OX38 3CH,Repair,Low,Same Day,2026-06-13T08:00,2026-06-13T11:00,E-0098,BG-SENSO-079,Completed,Customer Cancelled,False,Traffic
-J-00389,CU-3643,Wales,SA30 3JC,Service,High,Same Day,2026-06-10T08:00,2026-06-01T17:00,E-0036,BG-BOILE-034,At Risk,Failed Visit,True,Parts unavailable
-J-00390,CU-2192,South,BN39 2KE,Install,High,Next Day,2026-06-03T08:00,2026-06-20T14:00,E-0112,BG-BOILE-004,In Progress,Complete,False,Engineer absence
-J-00391,CU-1341,South,OX98 5CK,Repair,Low,48h,2026-06-19T08:00,2026-06-21T09:00,E-0089,BG-BOILE-004,Completed,Failed Visit,True,Parts unavailable
-J-00392,CU-3633,London,W51 5EE,Emergency,Low,Same Day,2026-06-11T08:00,2026-06-01T17:00,E-0037,BG-BOILE-057,In Progress,Open,True,Engineer absence
-J-00393,CU-5769,Scotland,AB24 4BF,Smart Meter Exchange,High,48h,2026-06-08T08:00,2026-06-02T13:00,E-0003,BG-BOILE-042,In Progress,Customer Cancelled,True,Weather
-J-00394,CU-4697,London,SW78 8BK,Repair,Critical,4h,2026-06-01T08:00,2026-06-06T14:00,E-0056,BG-BOILE-005,Scheduled,Customer Cancelled,True,Parts unavailable
-J-00395,CU-2710,London,E86 8HG,Emergency,Low,Next Day,2026-06-02T08:00,2026-06-12T11:00,E-0085,BG-BOILE-028,At Risk,Customer Cancelled,True,None
-J-00396,CU-2173,North,LS49 9EJ,Install,Low,Same Day,2026-06-16T08:00,2026-06-03T10:00,E-0037,BG-EV-008,In Progress,Failed Visit,True,Parts unavailable
-J-00397,CU-6584,South,PO68 3AB,Repair,Medium,4h,2026-06-13T08:00,2026-06-12T11:00,E-0090,BG-EV-010,At Risk,Customer Cancelled,True,Traffic
-J-00398,CU-9746,London,SE15 3AG,Service,Low,48h,2026-06-16T08:00,2026-06-06T12:00,E-0095,BG-SENSO-068,Completed,Complete,True,Carrier delay
-J-00399,CU-5419,South,SO9 7HG,Emergency,Critical,48h,2026-06-07T08:00,2026-06-14T12:00,E-0086,BG-EV-073,In Progress,Customer Cancelled,True,Parts unavailable
-J-00400,CU-3180,Midlands,B72 6GE,Smart Meter Exchange,Critical,4h,2026-06-07T08:00,2026-06-05T13:00,E-0080,BG-VALVE-033,Completed,Complete,True,Carrier delay
-J-00401,CU-1196,Scotland,G52 9FG,Install,Low,4h,2026-06-16T08:00,2026-06-15T17:00,E-0034,BG-EV-008,Scheduled,Complete,False,Carrier delay
-J-00402,CU-9786,North,LS48 4EF,Smart Meter Exchange,Critical,Next Day,2026-06-14T08:00,2026-06-11T16:00,E-0091,BG-VALVE-050,In Progress,Failed Visit,True,Parts unavailable
-J-00403,CU-4636,London,SE41 2FA,Service,Medium,Same Day,2026-06-17T08:00,2026-06-12T13:00,E-0055,BG-SENSO-072,Scheduled,Open,True,None
-J-00404,CU-5755,Midlands,LE28 1FH,Emergency,Low,4h,2026-06-14T08:00,2026-06-04T16:00,E-0014,BG-METER-015,At Risk,Failed Visit,True,Engineer absence
-J-00405,CU-2868,Wales,LL64 2BF,Repair,Critical,4h,2026-06-03T08:00,2026-06-13T11:00,E-0054,BG-BOILE-021,Scheduled,Complete,True,Carrier delay
-J-00406,CU-3552,North,M27 2HC,Emergency,Low,Next Day,2026-06-05T08:00,2026-06-17T11:00,E-0040,BG-VALVE-065,At Risk,Failed Visit,True,Traffic
-J-00407,CU-1058,South,SO69 1CJ,Service,Medium,Next Day,2026-06-03T08:00,2026-06-11T17:00,E-0113,BG-BOILE-026,Rescheduled,Open,False,Carrier delay
-J-00408,CU-3285,Midlands,B72 2EC,Emergency,High,48h,2026-06-14T08:00,2026-06-12T09:00,E-0097,BG-PUMP-090,Scheduled,Customer Cancelled,True,Weather
-J-00409,CU-4962,North,NE73 9BC,Install,Medium,48h,2026-06-16T08:00,2026-06-15T11:00,E-0056,BG-BOILE-021,Completed,Customer Cancelled,True,Weather
-J-00410,CU-1071,Midlands,NG24 5EK,Service,Low,48h,2026-06-12T08:00,2026-06-21T16:00,E-0007,BG-PUMP-043,In Progress,Complete,True,Parts unavailable
-J-00411,CU-7306,Midlands,LE18 5KH,Install,High,48h,2026-06-10T08:00,2026-06-01T14:00,E-0064,BG-BOILE-036,Scheduled,Failed Visit,True,Traffic
-J-00412,CU-8745,South,SO68 8AJ,Smart Meter Exchange,Medium,Same Day,2026-06-06T08:00,2026-06-21T15:00,E-0099,BG-EV-035,Rescheduled,Open,True,Engineer absence
-J-00413,CU-1078,London,N72 1BG,Service,Medium,Next Day,2026-06-04T08:00,2026-06-12T09:00,E-0087,BG-SENSO-052,In Progress,Complete,True,Traffic
-J-00414,CU-8112,London,SW24 6BA,Smart Meter Exchange,Medium,48h,2026-06-08T08:00,2026-06-17T12:00,E-0071,BG-PUMP-088,Completed,Failed Visit,False,Traffic
-J-00415,CU-3732,London,SW33 2CG,Repair,Medium,4h,2026-06-17T08:00,2026-06-21T16:00,E-0051,BG-PUMP-045,In Progress,Complete,True,Carrier delay
-J-00416,CU-3371,South,OX23 4BD,Install,High,48h,2026-06-12T08:00,2026-06-12T16:00,E-0049,BG-METER-054,At Risk,Open,True,Carrier delay
-J-00417,CU-6566,South,BN58 4CJ,Repair,Low,Same Day,2026-06-03T08:00,2026-06-02T17:00,E-0063,BG-METER-039,In Progress,Open,True,Parts unavailable
-J-00418,CU-7549,London,SW98 7AD,Repair,Medium,4h,2026-06-07T08:00,2026-06-09T15:00,E-0088,BG-BOILE-036,At Risk,Failed Visit,True,Traffic
-J-00419,CU-8846,Wales,SA95 7KA,Emergency,Medium,48h,2026-06-14T08:00,2026-06-16T11:00,E-0006,BG-PUMP-069,Scheduled,Complete,True,Traffic
-J-00420,CU-3322,North,YO51 6FG,Repair,High,48h,2026-06-14T08:00,2026-06-16T10:00,E-0031,BG-EV-047,At Risk,Customer Cancelled,True,Engineer absence
-J-00421,CU-9378,South,PO15 7JG,Service,Low,Next Day,2026-06-16T08:00,2026-06-01T13:00,E-0050,BG-PUMP-018,Completed,Customer Cancelled,False,Carrier delay
-J-00422,CU-4155,North,M12 9BH,Smart Meter Exchange,Low,4h,2026-06-16T08:00,2026-06-11T16:00,E-0068,BG-METER-015,Rescheduled,Failed Visit,False,Carrier delay
-J-00423,CU-2693,North,L77 5KG,Service,Low,4h,2026-06-03T08:00,2026-06-19T12:00,E-0068,BG-SENSO-080,Rescheduled,Complete,True,Weather
-J-00424,CU-3525,Scotland,EH42 6BH,Install,Critical,Same Day,2026-06-11T08:00,2026-06-18T10:00,E-0081,BG-BOILE-032,Completed,Customer Cancelled,True,Weather
-J-00425,CU-9820,London,SW18 5AJ,Smart Meter Exchange,High,4h,2026-06-15T08:00,2026-06-16T12:00,E-0043,BG-PUMP-046,Scheduled,Customer Cancelled,True,Weather
-J-00426,CU-8108,Scotland,AB40 1BJ,Repair,Medium,Next Day,2026-06-09T08:00,2026-06-06T13:00,E-0098,BG-VALVE-062,Rescheduled,Failed Visit,True,Parts unavailable
-J-00427,CU-7316,Midlands,B86 2AD,Install,Low,Next Day,2026-06-09T08:00,2026-06-06T11:00,E-0005,BG-BOILE-036,In Progress,Open,True,Weather
-J-00428,CU-9318,London,SW47 5CE,Service,High,48h,2026-06-05T08:00,2026-06-18T14:00,E-0044,BG-METER-001,Scheduled,Customer Cancelled,True,Traffic
-J-00429,CU-8104,Midlands,LE58 9KK,Install,Low,4h,2026-06-14T08:00,2026-06-04T16:00,E-0090,BG-PUMP-043,Scheduled,Customer Cancelled,True,Carrier delay
-J-00430,CU-4349,Scotland,AB89 4FK,Emergency,Medium,4h,2026-06-09T08:00,2026-06-11T09:00,E-0083,BG-METER-044,Completed,Customer Cancelled,True,Weather
-J-00431,CU-1310,North,M3 2CH,Smart Meter Exchange,Low,Next Day,2026-06-03T08:00,2026-06-20T12:00,E-0001,BG-BOILE-042,Completed,Failed Visit,True,Parts unavailable
-J-00432,CU-6854,Midlands,LE60 7CG,Service,Low,Same Day,2026-06-13T08:00,2026-06-15T17:00,E-0041,BG-BOILE-066,Scheduled,Customer Cancelled,True,Weather
-J-00433,CU-1762,North,YO36 1GF,Emergency,Medium,Same Day,2026-06-08T08:00,2026-06-10T13:00,E-0044,BG-SENSO-061,In Progress,Failed Visit,True,Engineer absence
-J-00434,CU-2253,Wales,LL94 5HH,Emergency,Critical,48h,2026-06-17T08:00,2026-06-16T09:00,E-0036,BG-BOILE-040,At Risk,Customer Cancelled,True,Weather
-J-00435,CU-2479,Midlands,DE59 9FC,Install,Low,Next Day,2026-06-10T08:00,2026-06-05T09:00,E-0025,BG-METER-055,Completed,Failed Visit,True,Traffic
-J-00436,CU-4441,South,OX68 9FC,Repair,Low,Next Day,2026-06-11T08:00,2026-06-20T09:00,E-0104,BG-SENSO-053,Rescheduled,Failed Visit,False,Engineer absence
-J-00437,CU-6151,North,LS61 4EB,Repair,Medium,48h,2026-06-03T08:00,2026-06-07T12:00,E-0011,BG-PUMP-074,Completed,Failed Visit,False,Traffic
-J-00438,CU-2610,Scotland,EH53 5FC,Repair,Low,Next Day,2026-06-03T08:00,2026-06-20T10:00,E-0003,BG-SENSO-086,At Risk,Complete,True,Engineer absence
-J-00439,CU-1499,North,M83 8EJ,Install,Low,Same Day,2026-06-09T08:00,2026-06-07T17:00,E-0060,BG-VALVE-049,Scheduled,Open,False,Carrier delay
-J-00440,CU-9235,North,YO65 6GG,Install,High,4h,2026-06-04T08:00,2026-06-13T14:00,E-0081,BG-SENSO-052,Completed,Customer Cancelled,True,Parts unavailable
-J-00441,CU-3760,North,YO38 5BK,Repair,Medium,48h,2026-06-19T08:00,2026-06-02T14:00,E-0030,BG-VALVE-049,Completed,Customer Cancelled,True,Parts unavailable
-J-00442,CU-9768,South,SO88 7HG,Emergency,Critical,48h,2026-06-09T08:00,2026-06-11T17:00,E-0029,BG-SENSO-053,At Risk,Failed Visit,True,Engineer absence
-J-00443,CU-8140,Scotland,AB15 7HJ,Smart Meter Exchange,Low,Same Day,2026-06-01T08:00,2026-06-02T12:00,E-0045,BG-EV-082,Rescheduled,Open,True,None
-J-00444,CU-7539,North,L96 8BF,Install,Medium,Next Day,2026-06-14T08:00,2026-06-01T14:00,E-0032,BG-PIPEW-007,Rescheduled,Open,True,Weather
-J-00445,CU-4564,South,OX48 7HJ,Install,Medium,48h,2026-06-01T08:00,2026-06-15T17:00,E-0079,BG-PUMP-088,Scheduled,Customer Cancelled,True,Traffic
-J-00446,CU-3862,London,N93 1KE,Smart Meter Exchange,Critical,48h,2026-06-13T08:00,2026-06-08T13:00,E-0111,BG-BOILE-057,Scheduled,Failed Visit,True,Parts unavailable
-J-00447,CU-6636,Midlands,LE96 5HF,Smart Meter Exchange,Critical,48h,2026-06-13T08:00,2026-06-02T11:00,E-0101,BG-VALVE-033,Rescheduled,Failed Visit,True,Engineer absence
-J-00448,CU-8560,South,BN25 7BA,Repair,Low,Next Day,2026-06-01T08:00,2026-06-02T10:00,E-0057,BG-PIPEW-013,Scheduled,Customer Cancelled,False,Weather
-J-00449,CU-6077,Midlands,CV64 5KD,Emergency,Low,Same Day,2026-06-11T08:00,2026-06-16T15:00,E-0057,BG-METER-031,Scheduled,Failed Visit,True,Carrier delay
-J-00450,CU-3606,Wales,NP11 2KH,Smart Meter Exchange,High,Next Day,2026-06-10T08:00,2026-06-13T14:00,E-0058,BG-METER-044,Completed,Failed Visit,True,Weather
-J-00451,CU-1187,North,LS1 9HG,Install,Low,48h,2026-06-02T08:00,2026-06-19T09:00,E-0054,BG-METER-039,At Risk,Customer Cancelled,True,None
-J-00452,CU-4779,London,W88 1GE,Smart Meter Exchange,Critical,48h,2026-06-01T08:00,2026-06-08T13:00,E-0017,BG-PIPEW-014,Completed,Complete,True,Engineer absence
-J-00453,CU-6345,Wales,CF62 5FE,Emergency,High,Next Day,2026-06-04T08:00,2026-06-01T11:00,E-0095,BG-METER-015,Scheduled,Failed Visit,True,None
-J-00454,CU-6255,Scotland,EH31 8GJ,Install,Critical,48h,2026-06-13T08:00,2026-06-15T16:00,E-0111,BG-PUMP-064,At Risk,Complete,True,None
-J-00455,CU-1843,North,L77 6KE,Emergency,Low,4h,2026-06-04T08:00,2026-06-04T09:00,E-0062,BG-METER-054,Rescheduled,Customer Cancelled,False,Weather
-J-00456,CU-8474,North,L77 6HA,Service,Low,Same Day,2026-06-13T08:00,2026-06-08T16:00,E-0060,BG-VALVE-002,Rescheduled,Open,True,Engineer absence
-J-00457,CU-5236,Scotland,EH88 1GK,Install,High,Same Day,2026-06-11T08:00,2026-06-15T17:00,E-0113,BG-SENSO-053,At Risk,Failed Visit,True,Parts unavailable
-J-00458,CU-3162,North,NE43 1HJ,Emergency,Low,48h,2026-06-01T08:00,2026-06-06T09:00,E-0030,BG-SENSO-072,Rescheduled,Open,True,Parts unavailable
-J-00459,CU-9299,North,M61 1AF,Repair,Critical,Same Day,2026-06-17T08:00,2026-06-16T13:00,E-0044,BG-VALVE-062,Scheduled,Open,True,None
-J-00460,CU-3322,Wales,SA89 9DG,Smart Meter Exchange,Critical,48h,2026-06-02T08:00,2026-06-03T13:00,E-0043,BG-SENSO-052,At Risk,Open,True,Parts unavailable
-J-00461,CU-7094,London,SE16 2GD,Smart Meter Exchange,Low,4h,2026-06-10T08:00,2026-06-20T11:00,E-0003,BG-EV-010,At Risk,Failed Visit,True,Weather
-J-00462,CU-1704,London,N79 1DE,Smart Meter Exchange,Critical,Next Day,2026-06-05T08:00,2026-06-10T16:00,E-0075,BG-BOILE-025,At Risk,Complete,True,Engineer absence
-J-00463,CU-2077,Scotland,IV35 3KD,Service,Medium,Next Day,2026-06-15T08:00,2026-06-10T11:00,E-0021,BG-VALVE-077,Rescheduled,Open,False,Engineer absence
-J-00464,CU-5072,Scotland,G52 8KC,Repair,Low,48h,2026-06-12T08:00,2026-06-09T12:00,E-0080,BG-PUMP-074,In Progress,Failed Visit,False,Parts unavailable
-J-00465,CU-5072,South,PO42 2AH,Repair,Medium,Next Day,2026-06-11T08:00,2026-06-18T16:00,E-0007,BG-METER-087,Rescheduled,Failed Visit,False,Engineer absence
-J-00466,CU-6145,Scotland,AB64 2GG,Service,High,Same Day,2026-06-09T08:00,2026-06-14T12:00,E-0003,BG-EV-063,At Risk,Complete,True,Engineer absence
-J-00467,CU-5661,London,SW94 2AD,Smart Meter Exchange,High,48h,2026-06-17T08:00,2026-06-17T17:00,E-0072,BG-EV-006,Scheduled,Open,False,None
-J-00468,CU-4658,North,M69 4AG,Smart Meter Exchange,Low,Next Day,2026-06-04T08:00,2026-06-21T13:00,E-0045,BG-BOILE-021,Completed,Open,True,Weather
-J-00469,CU-6670,North,L43 4DH,Emergency,Low,Same Day,2026-06-01T08:00,2026-06-07T10:00,E-0049,BG-METER-044,At Risk,Customer Cancelled,True,None
-J-00470,CU-5621,Scotland,EH68 4AA,Repair,Critical,Next Day,2026-06-08T08:00,2026-06-11T11:00,E-0079,BG-VALVE-065,Completed,Open,True,None
-J-00471,CU-9884,Wales,CF24 4KC,Emergency,Medium,Next Day,2026-06-16T08:00,2026-06-21T09:00,E-0075,BG-BOILE-032,Rescheduled,Customer Cancelled,True,Parts unavailable
-J-00472,CU-2995,Wales,LL16 4KG,Repair,Low,4h,2026-06-01T08:00,2026-06-09T16:00,E-0120,BG-BOILE-021,Scheduled,Complete,True,None
-J-00473,CU-5303,Scotland,AB98 7EF,Emergency,High,Same Day,2026-06-15T08:00,2026-06-11T16:00,E-0077,BG-PUMP-090,Completed,Complete,False,Weather
-J-00474,CU-6696,Wales,NP51 4BA,Repair,Critical,48h,2026-06-11T08:00,2026-06-10T15:00,E-0101,BG-VALVE-078,Scheduled,Open,True,Traffic
-J-00475,CU-1598,Wales,LL79 1CB,Install,Medium,Next Day,2026-06-03T08:00,2026-06-12T14:00,E-0109,BG-SENSO-052,Rescheduled,Customer Cancelled,True,Weather
-J-00476,CU-8445,Midlands,CV73 5GC,Install,Low,Same Day,2026-06-07T08:00,2026-06-18T14:00,E-0109,BG-PUMP-088,Rescheduled,Customer Cancelled,True,Traffic
-J-00477,CU-5849,South,SO47 8AD,Smart Meter Exchange,High,Next Day,2026-06-05T08:00,2026-06-16T10:00,E-0093,BG-PIPEW-013,Rescheduled,Customer Cancelled,False,Weather
-J-00478,CU-1839,Scotland,IV52 8CD,Service,Critical,4h,2026-06-09T08:00,2026-06-09T17:00,E-0016,BG-METER-054,At Risk,Customer Cancelled,True,Engineer absence
-J-00479,CU-6624,Wales,SA69 3GH,Repair,High,48h,2026-06-08T08:00,2026-06-15T13:00,E-0078,BG-SENSO-053,Rescheduled,Failed Visit,False,Parts unavailable
-J-00480,CU-9694,Scotland,DD79 1CF,Smart Meter Exchange,Critical,Same Day,2026-06-01T08:00,2026-06-09T15:00,E-0031,BG-BOILE-040,At Risk,Open,True,None
-J-00481,CU-4548,South,RG59 1DJ,Emergency,High,Next Day,2026-06-13T08:00,2026-06-21T16:00,E-0111,BG-SENSO-080,At Risk,Complete,False,None
-J-00482,CU-3446,London,N1 8CA,Repair,Low,4h,2026-06-18T08:00,2026-06-10T11:00,E-0070,BG-EV-082,At Risk,Failed Visit,True,Engineer absence
-J-00483,CU-3332,London,SE26 8FD,Smart Meter Exchange,Critical,48h,2026-06-19T08:00,2026-06-05T17:00,E-0004,BG-EV-089,Rescheduled,Complete,True,Weather
-J-00484,CU-3784,London,W1 3EB,Repair,Medium,4h,2026-06-11T08:00,2026-06-01T15:00,E-0079,BG-PIPEW-009,Rescheduled,Customer Cancelled,True,None
-J-00485,CU-6400,South,PO42 6JG,Service,Low,48h,2026-06-18T08:00,2026-06-18T17:00,E-0023,BG-PUMP-071,At Risk,Complete,False,Parts unavailable
-J-00486,CU-6004,South,SO60 7CH,Install,Medium,4h,2026-06-03T08:00,2026-06-13T09:00,E-0071,BG-PUMP-043,Rescheduled,Failed Visit,False,Carrier delay
-J-00487,CU-3074,North,L14 6GA,Service,High,48h,2026-06-18T08:00,2026-06-17T14:00,E-0113,BG-VALVE-049,In Progress,Failed Visit,True,Engineer absence
-J-00488,CU-9444,London,N79 9FK,Repair,Low,48h,2026-06-12T08:00,2026-06-17T14:00,E-0058,BG-BOILE-040,Rescheduled,Open,True,Engineer absence
-J-00489,CU-4098,Scotland,DD75 6CJ,Install,Critical,Same Day,2026-06-08T08:00,2026-06-03T11:00,E-0120,BG-PUMP-088,At Risk,Failed Visit,False,Parts unavailable
-J-00490,CU-8702,London,SW15 3BJ,Smart Meter Exchange,High,4h,2026-06-05T08:00,2026-06-16T09:00,E-0108,BG-BOILE-005,At Risk,Failed Visit,True,None
-J-00491,CU-1478,Wales,SY23 4GK,Emergency,High,48h,2026-06-19T08:00,2026-06-01T11:00,E-0088,BG-SENSO-053,In Progress,Open,True,None
-J-00492,CU-3581,North,YO49 3BA,Install,High,4h,2026-06-16T08:00,2026-06-03T11:00,E-0023,BG-EV-027,At Risk,Complete,False,None
-J-00493,CU-1215,North,YO54 1GE,Emergency,High,Next Day,2026-06-11T08:00,2026-06-06T14:00,E-0060,BG-BOILE-057,In Progress,Customer Cancelled,True,Carrier delay
-J-00494,CU-7576,North,L40 8KF,Repair,High,48h,2026-06-19T08:00,2026-06-17T12:00,E-0115,BG-SENSO-019,Scheduled,Open,True,Traffic
-J-00495,CU-2103,Wales,CF5 1AH,Repair,Critical,48h,2026-06-18T08:00,2026-06-12T09:00,E-0093,BG-EV-006,In Progress,Complete,True,Traffic
-J-00496,CU-7284,South,OX98 5CA,Install,Critical,48h,2026-06-10T08:00,2026-06-04T14:00,E-0100,BG-EV-023,In Progress,Customer Cancelled,True,Traffic
-J-00497,CU-4425,London,N34 6DF,Service,Low,4h,2026-06-04T08:00,2026-06-04T10:00,E-0089,BG-SENSO-079,Scheduled,Failed Visit,True,Engineer absence
-J-00498,CU-5618,Wales,NP88 5KJ,Install,Low,Next Day,2026-06-13T08:00,2026-06-01T13:00,E-0023,BG-VALVE-085,Rescheduled,Open,True,Weather
-J-00499,CU-1053,North,NE78 7CH,Install,Critical,Same Day,2026-06-09T08:00,2026-06-13T12:00,E-0067,BG-BOILE-067,Rescheduled,Complete,True,None
-J-00500,CU-9061,Wales,CF69 7CE,Install,Low,Next Day,2026-06-14T08:00,2026-06-07T10:00,E-0103,BG-EV-008,Scheduled,Open,True,Engineer absence
+J-00001,CU-6213,South,OX29 2HC,Install,Critical,Same Day,2026-06-12T08:00,2026-06-11T11:00,E-0082,UT-EV-063,Scheduled,Failed Visit,False,Weather
+J-00002,CU-8066,Scotland,EH78 7CA,Repair,Medium,Same Day,2026-06-07T08:00,2026-06-14T17:00,E-0093,UT-VALVE-062,Rescheduled,Failed Visit,True,Engineer absence
+J-00003,CU-2404,Scotland,AB70 7KD,Smart Meter Exchange,Critical,48h,2026-06-17T08:00,2026-06-14T17:00,E-0088,UT-SENSO-061,At Risk,Open,True,Weather
+J-00004,CU-7874,Scotland,G54 3CK,Smart Meter Exchange,Critical,4h,2026-06-19T08:00,2026-06-04T13:00,E-0112,UT-METER-055,Rescheduled,Failed Visit,True,Weather
+J-00005,CU-9442,London,N9 5JG,Service,Critical,Same Day,2026-06-07T08:00,2026-06-07T09:00,E-0032,UT-METER-039,Scheduled,Customer Cancelled,True,None
+J-00006,CU-8520,Wales,LL28 8EJ,Smart Meter Exchange,Low,4h,2026-06-01T08:00,2026-06-17T14:00,E-0072,UT-EV-035,Rescheduled,Failed Visit,True,Traffic
+J-00007,CU-3999,Midlands,DE84 2DF,Service,Medium,48h,2026-06-11T08:00,2026-06-12T13:00,E-0075,UT-SENSO-038,Completed,Customer Cancelled,True,None
+J-00008,CU-8105,Wales,NP52 7HG,Repair,Critical,Same Day,2026-06-12T08:00,2026-06-01T14:00,E-0097,UT-BOILE-026,Rescheduled,Open,False,None
+J-00009,CU-1152,Wales,LL54 2JE,Smart Meter Exchange,High,48h,2026-06-04T08:00,2026-06-17T10:00,E-0037,UT-EV-003,Scheduled,Complete,False,Weather
+J-00010,CU-8171,Scotland,IV35 2FF,Service,Critical,48h,2026-06-13T08:00,2026-06-15T13:00,E-0107,UT-PIPEW-013,At Risk,Customer Cancelled,True,Weather
+J-00011,CU-6542,Midlands,NG67 2GD,Emergency,Medium,48h,2026-06-05T08:00,2026-06-18T09:00,E-0002,UT-PUMP-024,In Progress,Customer Cancelled,True,Weather
+J-00012,CU-8474,Midlands,DE47 1DH,Install,Low,Next Day,2026-06-15T08:00,2026-06-04T10:00,E-0098,UT-BOILE-057,In Progress,Complete,True,Traffic
+J-00013,CU-6617,South,SO58 3CG,Smart Meter Exchange,Medium,Next Day,2026-06-18T08:00,2026-06-21T12:00,E-0026,UT-PIPEW-076,In Progress,Failed Visit,True,Engineer absence
+J-00014,CU-6122,South,OX7 1ED,Smart Meter Exchange,Low,Same Day,2026-06-12T08:00,2026-06-19T17:00,E-0095,UT-VALVE-033,Rescheduled,Open,True,Engineer absence
+J-00015,CU-4495,London,SE43 6ED,Smart Meter Exchange,Low,4h,2026-06-04T08:00,2026-06-12T16:00,E-0031,UT-SENSO-060,Rescheduled,Open,True,None
+J-00016,CU-7678,South,RG58 7GF,Repair,Low,4h,2026-06-18T08:00,2026-06-01T10:00,E-0097,UT-PUMP-081,Rescheduled,Complete,True,Engineer absence
+J-00017,CU-4014,London,N79 5DB,Service,Critical,48h,2026-06-18T08:00,2026-06-03T13:00,E-0086,UT-EV-082,Scheduled,Failed Visit,False,None
+J-00018,CU-7637,Midlands,NG28 1JE,Smart Meter Exchange,Low,Same Day,2026-06-12T08:00,2026-06-13T12:00,E-0115,UT-BOILE-036,Rescheduled,Failed Visit,True,Parts unavailable
+J-00019,CU-4651,Wales,SY52 6FH,Emergency,Critical,Same Day,2026-06-15T08:00,2026-06-06T12:00,E-0010,UT-EV-006,Rescheduled,Failed Visit,True,Parts unavailable
+J-00020,CU-4548,Wales,NP78 8HC,Service,Low,Same Day,2026-06-19T08:00,2026-06-06T17:00,E-0034,UT-PIPEW-083,In Progress,Failed Visit,True,Weather
+J-00021,CU-7971,North,LS33 8DB,Install,Low,Next Day,2026-06-07T08:00,2026-06-01T09:00,E-0074,UT-BOILE-005,Rescheduled,Complete,True,Carrier delay
+J-00022,CU-1086,North,M19 8KG,Repair,Critical,Next Day,2026-06-08T08:00,2026-06-12T10:00,E-0078,UT-VALVE-062,Scheduled,Customer Cancelled,False,Weather
+J-00023,CU-5222,Scotland,IV74 5HG,Smart Meter Exchange,Low,Same Day,2026-06-11T08:00,2026-06-15T16:00,E-0115,UT-PIPEW-009,Rescheduled,Complete,True,Weather
+J-00024,CU-2747,Scotland,G11 8KA,Smart Meter Exchange,Critical,48h,2026-06-12T08:00,2026-06-20T14:00,E-0064,UT-PUMP-071,Rescheduled,Failed Visit,False,Weather
+J-00025,CU-5422,North,LS72 7GD,Service,High,48h,2026-06-01T08:00,2026-06-06T15:00,E-0064,UT-PIPEW-013,In Progress,Failed Visit,True,Weather
+J-00026,CU-6527,London,SW81 7BB,Service,Medium,Same Day,2026-06-11T08:00,2026-06-11T13:00,E-0091,UT-PUMP-045,Completed,Customer Cancelled,True,Traffic
+J-00027,CU-9856,North,NE71 8CJ,Service,Low,48h,2026-06-17T08:00,2026-06-21T17:00,E-0040,UT-PIPEW-007,Completed,Customer Cancelled,True,Carrier delay
+J-00028,CU-2297,London,SW81 4JK,Install,Medium,Next Day,2026-06-14T08:00,2026-06-07T10:00,E-0024,UT-SENSO-061,In Progress,Failed Visit,True,None
+J-00029,CU-4263,Midlands,LE95 2JD,Emergency,Low,Next Day,2026-06-11T08:00,2026-06-06T09:00,E-0096,UT-BOILE-040,Rescheduled,Complete,True,Traffic
+J-00030,CU-5828,North,YO90 8DK,Service,Medium,Next Day,2026-06-15T08:00,2026-06-09T17:00,E-0021,UT-METER-044,Scheduled,Open,True,Weather
+J-00031,CU-5193,Midlands,B47 4KB,Repair,High,48h,2026-06-03T08:00,2026-06-15T09:00,E-0047,UT-PUMP-071,Rescheduled,Customer Cancelled,True,Traffic
+J-00032,CU-4943,North,YO70 4GJ,Install,Medium,48h,2026-06-15T08:00,2026-06-13T09:00,E-0093,UT-PUMP-046,Scheduled,Failed Visit,True,Carrier delay
+J-00033,CU-2974,North,LS96 1GA,Install,Critical,Next Day,2026-06-18T08:00,2026-06-19T11:00,E-0042,UT-SENSO-052,Rescheduled,Open,True,Parts unavailable
+J-00034,CU-8245,North,YO19 8AD,Service,Medium,Same Day,2026-06-03T08:00,2026-06-04T09:00,E-0032,UT-BOILE-026,Rescheduled,Open,True,Traffic
+J-00035,CU-8940,Scotland,IV69 2CD,Smart Meter Exchange,Low,4h,2026-06-02T08:00,2026-06-08T17:00,E-0040,UT-VALVE-049,Completed,Customer Cancelled,True,Weather
+J-00036,CU-9869,Scotland,EH18 5JC,Emergency,High,Same Day,2026-06-11T08:00,2026-06-03T17:00,E-0069,UT-SENSO-072,Scheduled,Open,True,Traffic
+J-00037,CU-8005,Midlands,LE6 7FG,Smart Meter Exchange,Critical,4h,2026-06-15T08:00,2026-06-15T09:00,E-0113,UT-BOILE-084,In Progress,Customer Cancelled,True,Engineer absence
+J-00038,CU-7292,Wales,SY79 3GJ,Emergency,Critical,Same Day,2026-06-11T08:00,2026-06-19T11:00,E-0021,UT-PIPEW-075,In Progress,Open,True,Engineer absence
+J-00039,CU-1803,South,BN54 3CE,Smart Meter Exchange,High,48h,2026-06-19T08:00,2026-06-12T09:00,E-0012,UT-SENSO-061,Completed,Failed Visit,True,Traffic
+J-00040,CU-9514,North,L64 3KD,Install,High,4h,2026-06-04T08:00,2026-06-01T16:00,E-0081,UT-EV-027,Scheduled,Open,True,Carrier delay
+J-00041,CU-6434,North,NE9 3EA,Install,Low,Same Day,2026-06-19T08:00,2026-06-20T15:00,E-0024,UT-BOILE-004,Rescheduled,Complete,False,Traffic
+J-00042,CU-4438,Scotland,AB26 4EE,Smart Meter Exchange,Medium,48h,2026-06-04T08:00,2026-06-09T11:00,E-0021,UT-BOILE-067,Completed,Complete,True,None
+J-00043,CU-8672,Wales,CF59 5HH,Service,High,Same Day,2026-06-09T08:00,2026-06-12T15:00,E-0024,UT-BOILE-004,Completed,Failed Visit,False,Weather
+J-00044,CU-6606,North,YO89 4CB,Smart Meter Exchange,Low,4h,2026-06-19T08:00,2026-06-20T16:00,E-0042,UT-PIPEW-014,Rescheduled,Complete,True,Weather
+J-00045,CU-6885,Midlands,B37 1DG,Smart Meter Exchange,Low,Next Day,2026-06-13T08:00,2026-06-13T15:00,E-0056,UT-SENSO-079,Rescheduled,Open,True,Engineer absence
+J-00046,CU-1620,South,OX62 6BK,Emergency,Critical,Same Day,2026-06-17T08:00,2026-06-09T16:00,E-0067,UT-METER-054,Scheduled,Complete,True,Parts unavailable
+J-00047,CU-4869,Wales,NP24 9AF,Repair,High,Same Day,2026-06-16T08:00,2026-06-14T15:00,E-0031,UT-PUMP-074,At Risk,Open,True,Parts unavailable
+J-00048,CU-5429,Wales,LL13 5KG,Emergency,High,Same Day,2026-06-17T08:00,2026-06-11T11:00,E-0041,UT-VALVE-049,Rescheduled,Complete,True,Engineer absence
+J-00049,CU-6298,Wales,LL21 2EA,Emergency,Low,Next Day,2026-06-02T08:00,2026-06-09T13:00,E-0023,UT-BOILE-005,At Risk,Complete,True,Weather
+J-00050,CU-7563,Scotland,G81 2FJ,Install,Critical,48h,2026-06-10T08:00,2026-06-21T12:00,E-0023,UT-BOILE-005,Rescheduled,Complete,True,Weather
+J-00051,CU-1750,North,LS90 3AC,Repair,Medium,4h,2026-06-15T08:00,2026-06-20T11:00,E-0107,UT-PIPEW-083,Rescheduled,Complete,True,None
+J-00052,CU-8798,South,PO27 3EJ,Emergency,Low,Same Day,2026-06-06T08:00,2026-06-20T09:00,E-0077,UT-PIPEW-048,In Progress,Customer Cancelled,True,Carrier delay
+J-00053,CU-4769,London,E42 4BD,Emergency,High,48h,2026-06-08T08:00,2026-06-03T16:00,E-0075,UT-EV-027,At Risk,Complete,True,Weather
+J-00054,CU-8581,Scotland,AB2 7DD,Install,Low,Same Day,2026-06-19T08:00,2026-06-05T09:00,E-0054,UT-BOILE-036,Scheduled,Complete,True,Weather
+J-00055,CU-2326,South,OX43 1JF,Repair,Critical,48h,2026-06-12T08:00,2026-06-15T09:00,E-0047,UT-BOILE-059,Completed,Open,True,Engineer absence
+J-00056,CU-1371,South,SO54 9CH,Install,Low,48h,2026-06-01T08:00,2026-06-10T12:00,E-0009,UT-PUMP-069,Scheduled,Open,True,Carrier delay
+J-00057,CU-9845,London,N69 5BA,Emergency,Low,Same Day,2026-06-15T08:00,2026-06-11T11:00,E-0001,UT-PUMP-037,Rescheduled,Failed Visit,True,Engineer absence
+J-00058,CU-8006,London,SE50 6AE,Install,Medium,Next Day,2026-06-15T08:00,2026-06-18T10:00,E-0028,UT-EV-008,At Risk,Customer Cancelled,True,Weather
+J-00059,CU-5303,Scotland,AB82 8BE,Emergency,High,48h,2026-06-08T08:00,2026-06-01T10:00,E-0098,UT-METER-001,Completed,Customer Cancelled,False,None
+J-00060,CU-7750,North,NE21 2DC,Smart Meter Exchange,High,Same Day,2026-06-18T08:00,2026-06-20T17:00,E-0109,UT-EV-082,Rescheduled,Complete,True,Weather
+J-00061,CU-8685,North,M33 1BE,Repair,Critical,4h,2026-06-07T08:00,2026-06-19T12:00,E-0024,UT-METER-044,Completed,Complete,True,None
+J-00062,CU-2895,Wales,NP37 8KE,Emergency,High,48h,2026-06-10T08:00,2026-06-14T12:00,E-0110,UT-BOILE-057,Scheduled,Customer Cancelled,True,Engineer absence
+J-00063,CU-5107,South,RG64 4CA,Repair,Critical,4h,2026-06-16T08:00,2026-06-01T11:00,E-0049,UT-BOILE-022,Rescheduled,Failed Visit,False,Parts unavailable
+J-00064,CU-7189,Scotland,IV87 6EF,Repair,Critical,4h,2026-06-05T08:00,2026-06-12T14:00,E-0104,UT-EV-023,Rescheduled,Complete,True,Engineer absence
+J-00065,CU-6563,London,N79 5FG,Service,Low,4h,2026-06-18T08:00,2026-06-07T13:00,E-0034,UT-BOILE-005,Scheduled,Failed Visit,True,Carrier delay
+J-00066,CU-1981,London,W26 6HC,Service,High,Next Day,2026-06-14T08:00,2026-06-14T14:00,E-0111,UT-SENSO-056,Scheduled,Open,True,Weather
+J-00067,CU-3302,Wales,SA15 9BJ,Smart Meter Exchange,Medium,48h,2026-06-03T08:00,2026-06-08T10:00,E-0099,UT-BOILE-021,Completed,Failed Visit,True,Carrier delay
+J-00068,CU-3625,South,RG81 6GA,Install,Critical,48h,2026-06-16T08:00,2026-06-14T14:00,E-0092,UT-VALVE-078,At Risk,Complete,True,Parts unavailable
+J-00069,CU-8576,South,PO34 3AG,Smart Meter Exchange,Low,Next Day,2026-06-05T08:00,2026-06-03T14:00,E-0022,UT-BOILE-084,Rescheduled,Complete,True,None
+J-00070,CU-4847,Wales,NP46 1AE,Smart Meter Exchange,Low,Next Day,2026-06-13T08:00,2026-06-12T11:00,E-0115,UT-SENSO-080,Rescheduled,Complete,True,Carrier delay
+J-00071,CU-6841,London,W63 8HB,Service,Critical,Next Day,2026-06-03T08:00,2026-06-07T13:00,E-0024,UT-BOILE-034,In Progress,Failed Visit,False,Carrier delay
+J-00072,CU-7535,South,BN3 4CG,Emergency,Medium,Same Day,2026-06-04T08:00,2026-06-10T16:00,E-0103,UT-VALVE-062,At Risk,Failed Visit,True,Engineer absence
+J-00073,CU-1781,Scotland,IV10 1JB,Smart Meter Exchange,Low,48h,2026-06-04T08:00,2026-06-15T13:00,E-0046,UT-EV-006,Completed,Complete,True,Carrier delay
+J-00074,CU-8974,Midlands,DE80 6GE,Repair,High,Same Day,2026-06-01T08:00,2026-06-07T10:00,E-0105,UT-SENSO-086,Scheduled,Open,True,None
+J-00075,CU-6174,London,W9 5GH,Repair,Low,Next Day,2026-06-15T08:00,2026-06-14T09:00,E-0021,UT-EV-073,Completed,Open,True,Weather
+J-00076,CU-2043,Scotland,AB56 2KD,Repair,High,48h,2026-06-09T08:00,2026-06-11T14:00,E-0099,UT-SENSO-086,Scheduled,Failed Visit,False,Parts unavailable
+J-00077,CU-1487,Wales,NP19 1JB,Repair,Medium,Next Day,2026-06-13T08:00,2026-06-06T15:00,E-0008,UT-BOILE-057,At Risk,Complete,True,Engineer absence
+J-00078,CU-4954,Midlands,DE93 7JB,Repair,Medium,Next Day,2026-06-17T08:00,2026-06-12T10:00,E-0007,UT-BOILE-026,Scheduled,Customer Cancelled,True,Traffic
+J-00079,CU-8499,Midlands,CV91 9JB,Service,Low,48h,2026-06-02T08:00,2026-06-06T17:00,E-0048,UT-BOILE-011,Scheduled,Customer Cancelled,False,None
+J-00080,CU-8357,Wales,SA94 6BK,Smart Meter Exchange,Low,48h,2026-06-08T08:00,2026-06-13T14:00,E-0070,UT-PUMP-024,Scheduled,Customer Cancelled,True,Engineer absence
+J-00081,CU-3772,Midlands,B79 6CA,Repair,Medium,48h,2026-06-04T08:00,2026-06-11T11:00,E-0053,UT-BOILE-011,Completed,Failed Visit,True,Weather
+J-00082,CU-3332,London,SE70 3DJ,Emergency,Low,4h,2026-06-01T08:00,2026-06-15T13:00,E-0084,UT-SENSO-060,In Progress,Complete,False,None
+J-00083,CU-1156,North,LS53 9HG,Smart Meter Exchange,Critical,4h,2026-06-18T08:00,2026-06-01T16:00,E-0087,UT-BOILE-036,Scheduled,Failed Visit,True,Weather
+J-00084,CU-2070,Wales,SY17 2CE,Smart Meter Exchange,High,Next Day,2026-06-07T08:00,2026-06-01T17:00,E-0079,UT-PUMP-064,Completed,Customer Cancelled,True,None
+J-00085,CU-8184,Midlands,B81 8KB,Repair,Critical,4h,2026-06-13T08:00,2026-06-11T10:00,E-0101,UT-EV-010,In Progress,Complete,True,Weather
+J-00086,CU-8887,Midlands,NG57 3DC,Repair,Critical,Same Day,2026-06-10T08:00,2026-06-19T15:00,E-0066,UT-SENSO-080,Completed,Failed Visit,True,Carrier delay
+J-00087,CU-8643,Wales,SY28 4HF,Emergency,High,48h,2026-06-06T08:00,2026-06-01T14:00,E-0002,UT-EV-082,Scheduled,Failed Visit,True,None
+J-00088,CU-2071,North,M19 3DD,Smart Meter Exchange,Low,Next Day,2026-06-11T08:00,2026-06-20T15:00,E-0082,UT-BOILE-032,In Progress,Complete,True,Carrier delay
+J-00089,CU-3200,Wales,CF38 8JF,Service,Critical,48h,2026-06-17T08:00,2026-06-20T14:00,E-0055,UT-BOILE-042,At Risk,Customer Cancelled,True,Weather
+J-00090,CU-9399,Scotland,EH51 4DD,Emergency,High,48h,2026-06-15T08:00,2026-06-11T10:00,E-0041,UT-VALVE-016,In Progress,Customer Cancelled,True,Engineer absence
+J-00091,CU-5991,Midlands,B22 2JC,Repair,Low,4h,2026-06-06T08:00,2026-06-07T10:00,E-0117,UT-PUMP-088,At Risk,Failed Visit,True,Parts unavailable
+J-00092,CU-1640,Wales,CF37 8FE,Emergency,High,48h,2026-06-08T08:00,2026-06-06T15:00,E-0059,UT-BOILE-040,At Risk,Open,True,Engineer absence
+J-00093,CU-3643,Midlands,CV3 2CE,Repair,Low,Same Day,2026-06-03T08:00,2026-06-01T13:00,E-0020,UT-BOILE-004,At Risk,Failed Visit,True,Parts unavailable
+J-00094,CU-7588,South,SO2 7DH,Service,Critical,Next Day,2026-06-12T08:00,2026-06-02T10:00,E-0114,UT-PIPEW-009,In Progress,Customer Cancelled,False,Traffic
+J-00095,CU-3484,South,RG27 1DK,Emergency,Medium,Same Day,2026-06-09T08:00,2026-06-11T09:00,E-0067,UT-PIPEW-041,At Risk,Failed Visit,True,None
+J-00096,CU-8897,Midlands,B98 7GB,Install,High,Same Day,2026-06-09T08:00,2026-06-13T16:00,E-0040,UT-SENSO-060,At Risk,Failed Visit,True,Weather
+J-00097,CU-7313,South,RG95 4DH,Repair,Medium,4h,2026-06-05T08:00,2026-06-09T16:00,E-0088,UT-PIPEW-048,In Progress,Failed Visit,True,Parts unavailable
+J-00098,CU-2144,Wales,NP68 7EG,Service,High,Next Day,2026-06-06T08:00,2026-06-05T12:00,E-0063,UT-METER-055,In Progress,Complete,False,Weather
+J-00099,CU-8036,Scotland,AB48 6FD,Install,Low,48h,2026-06-02T08:00,2026-06-12T14:00,E-0104,UT-BOILE-036,Scheduled,Complete,True,Weather
+J-00100,CU-2465,Scotland,G56 1CF,Emergency,Medium,Same Day,2026-06-09T08:00,2026-06-16T10:00,E-0086,UT-PUMP-045,In Progress,Customer Cancelled,False,None
+J-00101,CU-5863,Scotland,EH64 8CK,Install,High,4h,2026-06-11T08:00,2026-06-10T17:00,E-0089,UT-SENSO-012,Scheduled,Failed Visit,True,Engineer absence
+J-00102,CU-1149,South,SO93 2CG,Emergency,High,4h,2026-06-04T08:00,2026-06-12T16:00,E-0023,UT-PUMP-037,Scheduled,Complete,True,Carrier delay
+J-00103,CU-1323,Scotland,DD72 9JH,Repair,Critical,Same Day,2026-06-04T08:00,2026-06-06T11:00,E-0001,UT-BOILE-011,Rescheduled,Customer Cancelled,False,Traffic
+J-00104,CU-1732,London,N5 4CE,Service,High,Same Day,2026-06-19T08:00,2026-06-12T13:00,E-0017,UT-EV-047,Rescheduled,Customer Cancelled,True,None
+J-00105,CU-4698,Wales,LL2 2GD,Emergency,Critical,4h,2026-06-06T08:00,2026-06-17T13:00,E-0076,UT-PIPEW-048,At Risk,Complete,False,Carrier delay
+J-00106,CU-2476,Scotland,G10 4BC,Smart Meter Exchange,Critical,4h,2026-06-10T08:00,2026-06-18T16:00,E-0104,UT-EV-082,Scheduled,Customer Cancelled,True,Engineer absence
+J-00107,CU-5994,South,OX5 8KH,Repair,Medium,4h,2026-06-15T08:00,2026-06-11T13:00,E-0046,UT-SENSO-068,Scheduled,Complete,True,Traffic
+J-00108,CU-2946,North,L63 9HC,Install,Low,48h,2026-06-05T08:00,2026-06-04T10:00,E-0102,UT-EV-035,Scheduled,Open,True,Parts unavailable
+J-00109,CU-4791,Midlands,CV44 7HA,Smart Meter Exchange,Low,4h,2026-06-10T08:00,2026-06-04T13:00,E-0047,UT-BOILE-026,Completed,Failed Visit,True,Engineer absence
+J-00110,CU-2971,Midlands,B76 4DH,Repair,Critical,Next Day,2026-06-10T08:00,2026-06-16T12:00,E-0069,UT-PUMP-024,In Progress,Complete,False,Parts unavailable
+J-00111,CU-9602,Scotland,AB39 4EE,Smart Meter Exchange,Critical,Same Day,2026-06-08T08:00,2026-06-02T17:00,E-0031,UT-EV-089,Completed,Complete,True,Engineer absence
+J-00112,CU-7479,North,LS58 4GF,Service,Low,4h,2026-06-16T08:00,2026-06-06T16:00,E-0024,UT-SENSO-038,In Progress,Open,True,Carrier delay
+J-00113,CU-9906,Scotland,G3 1BJ,Install,Critical,48h,2026-06-05T08:00,2026-06-01T12:00,E-0004,UT-METER-017,In Progress,Customer Cancelled,True,Weather
+J-00114,CU-3401,North,NE19 7HH,Repair,Critical,48h,2026-06-09T08:00,2026-06-05T10:00,E-0042,UT-EV-020,In Progress,Open,True,Weather
+J-00115,CU-8543,Midlands,CV71 7DD,Service,Critical,Same Day,2026-06-04T08:00,2026-06-05T15:00,E-0094,UT-BOILE-011,Scheduled,Customer Cancelled,False,Traffic
+J-00116,CU-3050,Scotland,EH52 1DG,Service,Critical,48h,2026-06-16T08:00,2026-06-11T15:00,E-0106,UT-PUMP-037,At Risk,Open,True,None
+J-00117,CU-1612,Scotland,AB21 3HB,Repair,High,Same Day,2026-06-05T08:00,2026-06-06T17:00,E-0067,UT-PIPEW-041,Rescheduled,Failed Visit,True,Weather
+J-00118,CU-5696,London,SW53 3HF,Smart Meter Exchange,Medium,Next Day,2026-06-03T08:00,2026-06-14T17:00,E-0058,UT-PUMP-071,Completed,Complete,False,Carrier delay
+J-00119,CU-3885,London,E19 2EG,Repair,Medium,48h,2026-06-14T08:00,2026-06-17T12:00,E-0086,UT-METER-044,Completed,Open,True,None
+J-00120,CU-4074,North,L90 9CK,Emergency,High,Next Day,2026-06-07T08:00,2026-06-07T09:00,E-0048,UT-SENSO-079,Completed,Complete,False,Traffic
+J-00121,CU-7243,South,BN26 8BF,Emergency,Low,48h,2026-06-01T08:00,2026-06-12T12:00,E-0065,UT-SENSO-056,Completed,Failed Visit,True,Engineer absence
+J-00122,CU-5263,Wales,SY21 6DB,Repair,Critical,48h,2026-06-01T08:00,2026-06-21T11:00,E-0004,UT-SENSO-079,Rescheduled,Complete,True,Carrier delay
+J-00123,CU-8971,Wales,CF27 7GF,Emergency,High,Same Day,2026-06-10T08:00,2026-06-01T11:00,E-0085,UT-VALVE-049,Rescheduled,Complete,True,None
+J-00124,CU-5605,Wales,NP14 5CD,Emergency,Low,48h,2026-06-14T08:00,2026-06-20T13:00,E-0105,UT-BOILE-004,Completed,Complete,False,Carrier delay
+J-00125,CU-2225,Wales,SY83 7GF,Install,High,Same Day,2026-06-02T08:00,2026-06-16T16:00,E-0006,UT-VALVE-085,Completed,Customer Cancelled,True,None
+J-00126,CU-1783,Scotland,G18 2FG,Service,High,4h,2026-06-07T08:00,2026-06-12T17:00,E-0001,UT-SENSO-061,Scheduled,Failed Visit,False,None
+J-00127,CU-2231,Wales,NP8 4AD,Emergency,Low,Same Day,2026-06-16T08:00,2026-06-04T14:00,E-0027,UT-PIPEW-041,Rescheduled,Failed Visit,True,Traffic
+J-00128,CU-7923,Wales,SA38 4GC,Smart Meter Exchange,Medium,48h,2026-06-17T08:00,2026-06-14T10:00,E-0088,UT-EV-035,Scheduled,Open,True,None
+J-00129,CU-2137,South,PO24 6HC,Repair,Low,48h,2026-06-11T08:00,2026-06-01T11:00,E-0034,UT-SENSO-052,Scheduled,Open,False,Engineer absence
+J-00130,CU-3320,North,NE64 1DK,Emergency,Medium,Same Day,2026-06-03T08:00,2026-06-07T15:00,E-0082,UT-VALVE-033,Scheduled,Failed Visit,True,Engineer absence
+J-00131,CU-5641,Midlands,NG86 9CB,Install,High,Same Day,2026-06-14T08:00,2026-06-19T10:00,E-0038,UT-PUMP-088,In Progress,Complete,True,Weather
+J-00132,CU-8006,South,RG54 7HA,Smart Meter Exchange,Critical,48h,2026-06-03T08:00,2026-06-05T13:00,E-0101,UT-BOILE-026,In Progress,Failed Visit,True,Parts unavailable
+J-00133,CU-1105,South,RG80 4BB,Repair,High,4h,2026-06-17T08:00,2026-06-04T12:00,E-0027,UT-PIPEW-014,Scheduled,Customer Cancelled,True,None
+J-00134,CU-7380,South,BN75 5AK,Emergency,Critical,Next Day,2026-06-05T08:00,2026-06-15T16:00,E-0036,UT-METER-031,Scheduled,Open,True,Traffic
+J-00135,CU-4793,Midlands,CV14 3GG,Repair,Critical,Next Day,2026-06-04T08:00,2026-06-02T10:00,E-0057,UT-SENSO-061,Completed,Complete,True,Parts unavailable
+J-00136,CU-4399,Wales,SY61 9FF,Smart Meter Exchange,High,4h,2026-06-15T08:00,2026-06-14T15:00,E-0112,UT-BOILE-021,Scheduled,Complete,True,Parts unavailable
+J-00137,CU-6400,Scotland,G31 8BK,Smart Meter Exchange,Critical,Next Day,2026-06-03T08:00,2026-06-14T10:00,E-0114,UT-BOILE-021,Rescheduled,Customer Cancelled,True,Parts unavailable
+J-00138,CU-1931,North,M8 3HC,Install,Critical,Next Day,2026-06-12T08:00,2026-06-20T12:00,E-0038,UT-PUMP-018,In Progress,Customer Cancelled,True,Weather
+J-00139,CU-7268,London,SW57 1DD,Emergency,High,48h,2026-06-18T08:00,2026-06-02T13:00,E-0005,UT-PUMP-071,Rescheduled,Failed Visit,False,None
+J-00140,CU-1202,North,M40 6EC,Emergency,Low,4h,2026-06-15T08:00,2026-06-01T16:00,E-0005,UT-BOILE-067,Completed,Customer Cancelled,True,Engineer absence
+J-00141,CU-7084,Scotland,DD10 7EC,Repair,Medium,Next Day,2026-06-11T08:00,2026-06-14T14:00,E-0061,UT-PUMP-024,Completed,Complete,True,Parts unavailable
+J-00142,CU-6192,North,NE25 5DF,Service,Medium,Same Day,2026-06-15T08:00,2026-06-11T10:00,E-0089,UT-PIPEW-075,In Progress,Customer Cancelled,True,Engineer absence
+J-00143,CU-1392,North,LS10 3JJ,Emergency,Low,Next Day,2026-06-05T08:00,2026-06-13T17:00,E-0031,UT-SENSO-086,Completed,Complete,True,Traffic
+J-00144,CU-1687,Midlands,CV56 9EK,Smart Meter Exchange,Medium,4h,2026-06-12T08:00,2026-06-10T11:00,E-0016,UT-BOILE-042,Completed,Failed Visit,True,Weather
+J-00145,CU-4644,North,M42 3JF,Install,Low,4h,2026-06-11T08:00,2026-06-02T15:00,E-0013,UT-PUMP-069,Rescheduled,Failed Visit,True,Parts unavailable
+J-00146,CU-4586,South,BN97 5GH,Install,High,48h,2026-06-04T08:00,2026-06-06T16:00,E-0041,UT-EV-023,Scheduled,Failed Visit,True,Engineer absence
+J-00147,CU-6932,South,OX26 3JG,Service,Medium,Same Day,2026-06-12T08:00,2026-06-11T15:00,E-0028,UT-EV-006,Rescheduled,Open,True,None
+J-00148,CU-6114,Wales,LL55 9AE,Install,Low,Same Day,2026-06-04T08:00,2026-06-09T16:00,E-0049,UT-BOILE-005,Completed,Customer Cancelled,False,None
+J-00149,CU-7660,South,BN35 4JH,Smart Meter Exchange,Low,Next Day,2026-06-08T08:00,2026-06-11T16:00,E-0091,UT-BOILE-040,At Risk,Complete,False,None
+J-00150,CU-3936,London,N61 2AE,Service,High,4h,2026-06-18T08:00,2026-06-15T14:00,E-0013,UT-BOILE-067,Scheduled,Customer Cancelled,True,Carrier delay
+J-00151,CU-8756,South,PO22 1DD,Repair,High,Same Day,2026-06-06T08:00,2026-06-16T09:00,E-0042,UT-BOILE-040,Scheduled,Complete,True,Parts unavailable
+J-00152,CU-6914,South,OX25 1KE,Install,Critical,Next Day,2026-06-09T08:00,2026-06-17T09:00,E-0078,UT-SENSO-019,Completed,Complete,False,Engineer absence
+J-00153,CU-5368,Scotland,G23 8AE,Smart Meter Exchange,High,48h,2026-06-06T08:00,2026-06-21T09:00,E-0040,UT-PIPEW-041,Completed,Failed Visit,False,None
+J-00154,CU-6957,London,SE99 9HC,Repair,Low,Same Day,2026-06-18T08:00,2026-06-19T12:00,E-0090,UT-PUMP-088,At Risk,Failed Visit,True,Engineer absence
+J-00155,CU-1356,South,RG79 8KK,Emergency,Low,48h,2026-06-08T08:00,2026-06-09T14:00,E-0077,UT-PUMP-081,Completed,Customer Cancelled,False,Engineer absence
+J-00156,CU-7131,South,BN62 3FB,Emergency,Low,Same Day,2026-06-16T08:00,2026-06-13T16:00,E-0091,UT-PUMP-043,In Progress,Complete,True,Weather
+J-00157,CU-9476,North,M60 2FB,Emergency,Critical,Same Day,2026-06-11T08:00,2026-06-05T17:00,E-0050,UT-METER-001,At Risk,Complete,False,Weather
+J-00158,CU-1385,Wales,SY35 3EF,Emergency,Critical,48h,2026-06-11T08:00,2026-06-10T09:00,E-0077,UT-METER-001,Scheduled,Failed Visit,True,Engineer absence
+J-00159,CU-8158,Scotland,AB96 3EJ,Repair,Low,Same Day,2026-06-10T08:00,2026-06-09T09:00,E-0053,UT-METER-044,In Progress,Complete,False,Weather
+J-00160,CU-8971,North,YO45 2DJ,Install,Medium,Next Day,2026-06-11T08:00,2026-06-15T16:00,E-0004,UT-PUMP-043,In Progress,Open,True,Carrier delay
+J-00161,CU-3822,North,M50 7GG,Service,Critical,Same Day,2026-06-05T08:00,2026-06-20T17:00,E-0011,UT-BOILE-036,Rescheduled,Customer Cancelled,True,None
+J-00162,CU-7657,Scotland,IV61 7BG,Install,Critical,4h,2026-06-15T08:00,2026-06-16T09:00,E-0038,UT-BOILE-004,At Risk,Complete,True,Traffic
+J-00163,CU-3106,London,N78 5GE,Service,Critical,Same Day,2026-06-19T08:00,2026-06-10T11:00,E-0075,UT-EV-089,Scheduled,Failed Visit,False,Traffic
+J-00164,CU-2301,Wales,CF58 9DD,Install,High,Same Day,2026-06-08T08:00,2026-06-15T11:00,E-0006,UT-BOILE-036,Rescheduled,Failed Visit,True,Carrier delay
+J-00165,CU-8475,Midlands,B33 7KE,Emergency,High,Next Day,2026-06-17T08:00,2026-06-16T17:00,E-0037,UT-PIPEW-013,Completed,Failed Visit,True,Carrier delay
+J-00166,CU-4144,London,SW22 3KC,Install,Low,48h,2026-06-09T08:00,2026-06-08T13:00,E-0061,UT-PIPEW-013,Completed,Failed Visit,True,Parts unavailable
+J-00167,CU-1753,South,RG89 8DE,Smart Meter Exchange,Low,4h,2026-06-04T08:00,2026-06-02T14:00,E-0036,UT-BOILE-026,Rescheduled,Failed Visit,True,Weather
+J-00168,CU-5243,London,SE78 1CB,Emergency,Low,48h,2026-06-16T08:00,2026-06-02T17:00,E-0008,UT-PUMP-074,Rescheduled,Failed Visit,True,None
+J-00169,CU-8084,Scotland,G52 5AK,Emergency,Critical,4h,2026-06-08T08:00,2026-06-11T15:00,E-0020,UT-SENSO-072,Completed,Open,True,Carrier delay
+J-00170,CU-2521,London,N65 9BC,Service,Critical,48h,2026-06-12T08:00,2026-06-11T15:00,E-0025,UT-BOILE-021,In Progress,Complete,True,Carrier delay
+J-00171,CU-3975,London,SE15 3AH,Service,Medium,48h,2026-06-12T08:00,2026-06-09T14:00,E-0004,UT-PIPEW-083,Scheduled,Failed Visit,True,None
+J-00172,CU-4215,London,N29 9CC,Service,Critical,4h,2026-06-13T08:00,2026-06-10T10:00,E-0032,UT-PUMP-029,In Progress,Failed Visit,True,Parts unavailable
+J-00173,CU-4052,Scotland,AB44 8JH,Repair,Medium,Next Day,2026-06-03T08:00,2026-06-12T15:00,E-0083,UT-SENSO-019,Scheduled,Open,True,None
+J-00174,CU-7947,London,N36 1GE,Emergency,Low,48h,2026-06-15T08:00,2026-06-11T11:00,E-0093,UT-SENSO-068,Completed,Complete,False,None
+J-00175,CU-5458,South,BN49 5BH,Emergency,High,48h,2026-06-10T08:00,2026-06-08T17:00,E-0014,UT-EV-020,Scheduled,Failed Visit,True,Parts unavailable
+J-00176,CU-1653,North,NE83 8HK,Smart Meter Exchange,Critical,48h,2026-06-14T08:00,2026-06-01T12:00,E-0073,UT-VALVE-078,In Progress,Complete,True,Engineer absence
+J-00177,CU-6126,Midlands,NG64 3GD,Install,Low,Next Day,2026-06-11T08:00,2026-06-15T14:00,E-0097,UT-PIPEW-007,In Progress,Open,True,Traffic
+J-00178,CU-5485,Scotland,G64 4DD,Service,Low,Same Day,2026-06-05T08:00,2026-06-01T13:00,E-0032,UT-BOILE-026,Scheduled,Customer Cancelled,True,Weather
+J-00179,CU-8809,Midlands,CV9 6BE,Smart Meter Exchange,Medium,4h,2026-06-16T08:00,2026-06-14T11:00,E-0051,UT-PUMP-069,In Progress,Customer Cancelled,True,Traffic
+J-00180,CU-6624,Scotland,EH13 5FC,Emergency,Medium,48h,2026-06-03T08:00,2026-06-06T13:00,E-0052,UT-SENSO-068,In Progress,Open,False,Traffic
+J-00181,CU-6106,Scotland,AB14 6CK,Smart Meter Exchange,High,4h,2026-06-16T08:00,2026-06-07T11:00,E-0079,UT-EV-073,Completed,Customer Cancelled,True,Engineer absence
+J-00182,CU-6267,South,OX62 7EH,Install,Critical,4h,2026-06-07T08:00,2026-06-03T13:00,E-0115,UT-BOILE-084,Rescheduled,Open,True,Engineer absence
+J-00183,CU-6074,North,LS84 5GA,Emergency,Low,48h,2026-06-09T08:00,2026-06-07T16:00,E-0033,UT-VALVE-002,Rescheduled,Complete,True,Engineer absence
+J-00184,CU-1584,Wales,NP62 2BD,Repair,Low,Same Day,2026-06-03T08:00,2026-06-03T12:00,E-0056,UT-PUMP-069,Rescheduled,Failed Visit,True,Weather
+J-00185,CU-2700,Wales,SA1 7AK,Repair,Low,4h,2026-06-08T08:00,2026-06-21T09:00,E-0073,UT-PUMP-081,Rescheduled,Complete,False,None
+J-00186,CU-9682,London,N32 4DK,Service,Medium,48h,2026-06-18T08:00,2026-06-14T14:00,E-0083,UT-SENSO-019,Completed,Open,False,Weather
+J-00187,CU-6844,Wales,SA96 3DE,Repair,Medium,Next Day,2026-06-19T08:00,2026-06-15T16:00,E-0044,UT-EV-035,In Progress,Failed Visit,True,Traffic
+J-00188,CU-6254,Wales,LL92 2FK,Emergency,Critical,48h,2026-06-06T08:00,2026-06-12T13:00,E-0025,UT-EV-003,Rescheduled,Failed Visit,True,Carrier delay
+J-00189,CU-2389,South,SO66 2AC,Repair,High,4h,2026-06-06T08:00,2026-06-12T10:00,E-0020,UT-PUMP-074,Rescheduled,Open,True,None
+J-00190,CU-9115,Scotland,IV91 3HE,Smart Meter Exchange,Critical,48h,2026-06-06T08:00,2026-06-17T09:00,E-0011,UT-SENSO-079,In Progress,Open,True,Traffic
+J-00191,CU-9013,London,SE70 4DK,Service,Critical,Next Day,2026-06-14T08:00,2026-06-15T16:00,E-0042,UT-BOILE-021,At Risk,Customer Cancelled,True,Weather
+J-00192,CU-3618,South,RG86 1FB,Repair,Medium,48h,2026-06-10T08:00,2026-06-05T12:00,E-0067,UT-EV-023,At Risk,Open,True,Weather
+J-00193,CU-4750,London,W79 4DH,Smart Meter Exchange,Low,4h,2026-06-11T08:00,2026-06-17T10:00,E-0050,UT-METER-044,In Progress,Failed Visit,True,None
+J-00194,CU-7904,Midlands,B48 8CH,Emergency,High,48h,2026-06-11T08:00,2026-06-04T13:00,E-0059,UT-PIPEW-041,Completed,Open,False,Engineer absence
+J-00195,CU-6629,Wales,CF64 7JA,Smart Meter Exchange,Low,48h,2026-06-05T08:00,2026-06-18T10:00,E-0105,UT-BOILE-042,In Progress,Customer Cancelled,False,Parts unavailable
+J-00196,CU-9341,Midlands,CV51 4CJ,Repair,Medium,Next Day,2026-06-18T08:00,2026-06-12T17:00,E-0050,UT-EV-082,In Progress,Open,True,Carrier delay
+J-00197,CU-7402,Wales,SY97 3HH,Smart Meter Exchange,Medium,Same Day,2026-06-03T08:00,2026-06-20T10:00,E-0114,UT-BOILE-026,Scheduled,Complete,True,Carrier delay
+J-00198,CU-8807,Wales,SA2 2BD,Emergency,Medium,Next Day,2026-06-01T08:00,2026-06-19T16:00,E-0009,UT-PIPEW-083,In Progress,Open,True,None
+J-00199,CU-5791,Midlands,CV87 8JG,Install,Low,4h,2026-06-09T08:00,2026-06-05T14:00,E-0119,UT-SENSO-072,Completed,Customer Cancelled,True,Weather
+J-00200,CU-6752,Wales,NP89 2DH,Service,High,4h,2026-06-17T08:00,2026-06-04T16:00,E-0019,UT-EV-089,Scheduled,Failed Visit,False,Parts unavailable
+J-00201,CU-9033,Midlands,B49 1HB,Emergency,Medium,4h,2026-06-03T08:00,2026-06-08T10:00,E-0059,UT-VALVE-002,At Risk,Failed Visit,True,Parts unavailable
+J-00202,CU-6429,North,L15 3BD,Emergency,Low,Same Day,2026-06-01T08:00,2026-06-13T11:00,E-0099,UT-METER-087,At Risk,Complete,True,Traffic
+J-00203,CU-3654,Scotland,G74 3DH,Smart Meter Exchange,Medium,Next Day,2026-06-16T08:00,2026-06-03T11:00,E-0075,UT-BOILE-057,At Risk,Complete,False,Carrier delay
+J-00204,CU-5047,London,SW81 6DE,Emergency,Critical,48h,2026-06-02T08:00,2026-06-11T15:00,E-0004,UT-PUMP-018,In Progress,Failed Visit,True,Weather
+J-00205,CU-4732,London,SE42 4KD,Install,Medium,Same Day,2026-06-11T08:00,2026-06-17T15:00,E-0036,UT-SENSO-060,Completed,Customer Cancelled,True,Engineer absence
+J-00206,CU-4263,South,SO7 7HK,Repair,Low,48h,2026-06-13T08:00,2026-06-11T10:00,E-0018,UT-EV-035,In Progress,Complete,True,Traffic
+J-00207,CU-1285,North,LS12 5HB,Repair,High,48h,2026-06-08T08:00,2026-06-08T16:00,E-0079,UT-EV-008,In Progress,Open,True,Parts unavailable
+J-00208,CU-3367,Scotland,G77 7CG,Service,High,Next Day,2026-06-12T08:00,2026-06-13T13:00,E-0032,UT-SENSO-053,Completed,Open,False,Weather
+J-00209,CU-3601,Midlands,B79 9AE,Repair,Medium,48h,2026-06-05T08:00,2026-06-10T11:00,E-0110,UT-SENSO-056,At Risk,Failed Visit,True,Parts unavailable
+J-00210,CU-7452,South,PO22 1HC,Service,High,Next Day,2026-06-19T08:00,2026-06-09T16:00,E-0032,UT-EV-010,At Risk,Open,True,Engineer absence
+J-00211,CU-5947,Wales,NP32 3AD,Emergency,Medium,48h,2026-06-13T08:00,2026-06-15T16:00,E-0048,UT-BOILE-005,In Progress,Customer Cancelled,True,Parts unavailable
+J-00212,CU-7609,Midlands,DE79 8FK,Install,Medium,Next Day,2026-06-02T08:00,2026-06-17T10:00,E-0114,UT-EV-010,At Risk,Customer Cancelled,False,Weather
+J-00213,CU-6349,London,W20 9EK,Service,High,4h,2026-06-14T08:00,2026-06-16T13:00,E-0043,UT-EV-027,Rescheduled,Failed Visit,True,Weather
+J-00214,CU-2937,South,SO31 8HG,Smart Meter Exchange,High,48h,2026-06-14T08:00,2026-06-08T13:00,E-0032,UT-SENSO-070,Rescheduled,Open,True,Traffic
+J-00215,CU-5259,London,N83 9BH,Smart Meter Exchange,High,Next Day,2026-06-02T08:00,2026-06-13T14:00,E-0086,UT-SENSO-086,In Progress,Customer Cancelled,False,Weather
+J-00216,CU-9152,London,SW85 7FH,Service,Medium,48h,2026-06-11T08:00,2026-06-19T11:00,E-0001,UT-EV-089,In Progress,Failed Visit,True,Weather
+J-00217,CU-7836,Midlands,LE78 4FK,Service,Low,Next Day,2026-06-10T08:00,2026-06-21T09:00,E-0105,UT-VALVE-065,In Progress,Failed Visit,True,Weather
+J-00218,CU-8036,North,M43 4HA,Repair,High,Next Day,2026-06-06T08:00,2026-06-10T13:00,E-0054,UT-METER-054,In Progress,Customer Cancelled,False,Parts unavailable
+J-00219,CU-6573,North,L97 7BJ,Emergency,High,Same Day,2026-06-07T08:00,2026-06-20T16:00,E-0100,UT-VALVE-016,Rescheduled,Complete,True,Engineer absence
+J-00220,CU-7750,Midlands,B68 6BH,Install,Medium,48h,2026-06-01T08:00,2026-06-01T13:00,E-0042,UT-PUMP-071,In Progress,Complete,True,Parts unavailable
+J-00221,CU-7651,North,YO14 5CK,Smart Meter Exchange,High,4h,2026-06-11T08:00,2026-06-06T11:00,E-0084,UT-EV-089,Rescheduled,Complete,True,Engineer absence
+J-00222,CU-4020,Midlands,NG16 4CA,Service,High,4h,2026-06-03T08:00,2026-06-13T11:00,E-0028,UT-BOILE-025,Completed,Complete,True,Carrier delay
+J-00223,CU-6699,Wales,LL83 4HD,Install,Low,48h,2026-06-09T08:00,2026-06-06T16:00,E-0029,UT-EV-063,At Risk,Open,True,None
+J-00224,CU-5012,Scotland,AB6 6FH,Service,Medium,48h,2026-06-08T08:00,2026-06-14T17:00,E-0003,UT-EV-020,Scheduled,Complete,True,Carrier delay
+J-00225,CU-5539,South,OX22 1HD,Emergency,Medium,4h,2026-06-03T08:00,2026-06-17T12:00,E-0119,UT-BOILE-028,Rescheduled,Failed Visit,False,None
+J-00226,CU-2776,Scotland,DD30 3EJ,Smart Meter Exchange,Medium,48h,2026-06-06T08:00,2026-06-20T17:00,E-0085,UT-EV-027,Rescheduled,Open,False,Weather
+J-00227,CU-2369,Scotland,AB68 9BE,Install,Medium,Same Day,2026-06-06T08:00,2026-06-02T15:00,E-0063,UT-EV-089,In Progress,Open,True,Parts unavailable
+J-00228,CU-3423,South,OX86 9HE,Emergency,Critical,Same Day,2026-06-06T08:00,2026-06-10T17:00,E-0080,UT-PIPEW-075,Scheduled,Failed Visit,False,Weather
+J-00229,CU-1868,London,SW27 4GK,Smart Meter Exchange,Low,Next Day,2026-06-01T08:00,2026-06-20T17:00,E-0024,UT-SENSO-012,In Progress,Complete,True,None
+J-00230,CU-6038,London,SW39 3AD,Emergency,High,Next Day,2026-06-17T08:00,2026-06-14T12:00,E-0014,UT-PIPEW-083,Completed,Failed Visit,True,None
+J-00231,CU-9207,South,OX23 5FC,Emergency,Critical,Next Day,2026-06-02T08:00,2026-06-10T09:00,E-0110,UT-METER-087,Completed,Open,True,Parts unavailable
+J-00232,CU-9272,North,L98 6GB,Emergency,Low,4h,2026-06-01T08:00,2026-06-06T12:00,E-0106,UT-BOILE-059,Scheduled,Complete,True,Carrier delay
+J-00233,CU-7672,North,LS22 3DK,Smart Meter Exchange,High,4h,2026-06-08T08:00,2026-06-15T13:00,E-0043,UT-PUMP-088,Completed,Customer Cancelled,False,None
+J-00234,CU-4487,Midlands,B23 4EF,Install,Critical,48h,2026-06-17T08:00,2026-06-18T11:00,E-0056,UT-EV-006,Rescheduled,Complete,True,Weather
+J-00235,CU-3713,South,RG97 7KK,Emergency,Medium,48h,2026-06-03T08:00,2026-06-17T13:00,E-0019,UT-SENSO-068,Rescheduled,Failed Visit,True,Carrier delay
+J-00236,CU-5664,Midlands,B45 7BC,Smart Meter Exchange,Low,Next Day,2026-06-01T08:00,2026-06-18T11:00,E-0052,UT-EV-082,Rescheduled,Failed Visit,True,Carrier delay
+J-00237,CU-1903,London,E98 7JD,Repair,Critical,Same Day,2026-06-11T08:00,2026-06-01T09:00,E-0009,UT-BOILE-025,At Risk,Complete,False,Carrier delay
+J-00238,CU-7744,Wales,SA77 3FA,Smart Meter Exchange,Critical,48h,2026-06-16T08:00,2026-06-13T09:00,E-0021,UT-PIPEW-075,Rescheduled,Complete,True,Traffic
+J-00239,CU-3763,South,OX42 1CG,Install,Critical,4h,2026-06-14T08:00,2026-06-09T13:00,E-0007,UT-PIPEW-014,In Progress,Customer Cancelled,False,Parts unavailable
+J-00240,CU-8175,Wales,SA98 7DJ,Service,Critical,Same Day,2026-06-18T08:00,2026-06-11T15:00,E-0004,UT-EV-010,Completed,Open,True,Carrier delay
+J-00241,CU-1646,London,W76 9ED,Emergency,Medium,4h,2026-06-06T08:00,2026-06-05T09:00,E-0109,UT-METER-087,Completed,Complete,True,Carrier delay
+J-00242,CU-3521,Midlands,CV41 9KD,Emergency,Critical,Next Day,2026-06-17T08:00,2026-06-01T15:00,E-0083,UT-VALVE-050,In Progress,Open,True,Traffic
+J-00243,CU-6535,Wales,NP23 6GC,Smart Meter Exchange,High,48h,2026-06-19T08:00,2026-06-08T12:00,E-0044,UT-PUMP-046,Rescheduled,Failed Visit,True,None
+J-00244,CU-6370,South,PO14 4CF,Smart Meter Exchange,High,48h,2026-06-16T08:00,2026-06-17T10:00,E-0031,UT-BOILE-066,At Risk,Customer Cancelled,True,Traffic
+J-00245,CU-6315,North,YO65 7HJ,Emergency,Medium,Next Day,2026-06-06T08:00,2026-06-05T16:00,E-0091,UT-SENSO-068,Completed,Failed Visit,True,Engineer absence
+J-00246,CU-5651,South,SO37 9JK,Emergency,Low,48h,2026-06-05T08:00,2026-06-16T12:00,E-0055,UT-METER-030,At Risk,Customer Cancelled,True,Engineer absence
+J-00247,CU-5265,Scotland,AB72 5HC,Emergency,High,4h,2026-06-11T08:00,2026-06-05T10:00,E-0066,UT-EV-008,At Risk,Customer Cancelled,True,Engineer absence
+J-00248,CU-8586,Scotland,DD29 3GE,Service,Critical,Next Day,2026-06-09T08:00,2026-06-09T16:00,E-0079,UT-METER-055,Scheduled,Open,False,Weather
+J-00249,CU-9010,North,YO88 8JJ,Smart Meter Exchange,Low,Next Day,2026-06-07T08:00,2026-06-12T17:00,E-0046,UT-PUMP-064,In Progress,Open,True,Engineer absence
+J-00250,CU-1080,London,W54 8BD,Smart Meter Exchange,Low,4h,2026-06-04T08:00,2026-06-05T15:00,E-0007,UT-METER-015,In Progress,Open,True,None
+J-00251,CU-5939,Midlands,NG14 3EC,Repair,Critical,Next Day,2026-06-01T08:00,2026-06-18T15:00,E-0081,UT-PIPEW-014,Rescheduled,Open,True,Traffic
+J-00252,CU-3653,Wales,NP30 9HE,Repair,High,4h,2026-06-15T08:00,2026-06-03T15:00,E-0055,UT-BOILE-059,Rescheduled,Complete,False,Weather
+J-00253,CU-5116,London,SW14 3EH,Emergency,Critical,4h,2026-06-02T08:00,2026-06-18T09:00,E-0099,UT-BOILE-005,Scheduled,Complete,True,None
+J-00254,CU-2305,Scotland,G37 6JE,Emergency,Medium,Same Day,2026-06-13T08:00,2026-06-06T10:00,E-0091,UT-SENSO-070,In Progress,Complete,True,None
+J-00255,CU-7602,Scotland,DD55 2EF,Smart Meter Exchange,Critical,4h,2026-06-04T08:00,2026-06-02T16:00,E-0076,UT-PUMP-043,At Risk,Customer Cancelled,True,None
+J-00256,CU-7792,Wales,NP78 9EB,Emergency,Low,4h,2026-06-05T08:00,2026-06-07T16:00,E-0037,UT-SENSO-086,Scheduled,Customer Cancelled,False,Weather
+J-00257,CU-9404,South,OX65 8CB,Repair,Low,4h,2026-06-18T08:00,2026-06-17T13:00,E-0119,UT-BOILE-034,Rescheduled,Complete,True,None
+J-00258,CU-7938,North,YO65 3HG,Smart Meter Exchange,Low,4h,2026-06-09T08:00,2026-06-02T14:00,E-0030,UT-EV-006,Scheduled,Failed Visit,True,None
+J-00259,CU-6538,London,E50 3CF,Smart Meter Exchange,High,48h,2026-06-09T08:00,2026-06-18T17:00,E-0017,UT-PIPEW-014,Scheduled,Open,False,Traffic
+J-00260,CU-5561,South,SO64 3EB,Smart Meter Exchange,Critical,48h,2026-06-11T08:00,2026-06-21T09:00,E-0112,UT-BOILE-021,In Progress,Failed Visit,True,Traffic
+J-00261,CU-1807,Scotland,G16 3KC,Repair,Low,Next Day,2026-06-08T08:00,2026-06-13T09:00,E-0045,UT-PUMP-029,Scheduled,Complete,True,Weather
+J-00262,CU-6091,Scotland,AB55 6HH,Install,Critical,48h,2026-06-10T08:00,2026-06-11T12:00,E-0025,UT-BOILE-004,Rescheduled,Complete,False,Weather
+J-00263,CU-2698,London,E23 5BB,Install,Medium,48h,2026-06-02T08:00,2026-06-01T17:00,E-0002,UT-VALVE-078,Scheduled,Customer Cancelled,True,Carrier delay
+J-00264,CU-3021,Scotland,IV89 4JF,Install,Medium,Next Day,2026-06-02T08:00,2026-06-02T15:00,E-0033,UT-BOILE-022,Completed,Failed Visit,True,Traffic
+J-00265,CU-4184,Wales,CF50 4FJ,Smart Meter Exchange,High,Next Day,2026-06-08T08:00,2026-06-11T12:00,E-0113,UT-BOILE-032,Completed,Complete,True,None
+J-00266,CU-9645,North,YO20 1EF,Emergency,High,48h,2026-06-04T08:00,2026-06-09T16:00,E-0088,UT-SENSO-080,In Progress,Failed Visit,True,Weather
+J-00267,CU-1733,South,BN2 3DC,Repair,Critical,4h,2026-06-17T08:00,2026-06-13T16:00,E-0056,UT-PUMP-029,At Risk,Complete,False,None
+J-00268,CU-7212,Midlands,LE10 6AA,Emergency,Low,48h,2026-06-14T08:00,2026-06-09T10:00,E-0010,UT-PUMP-071,Scheduled,Customer Cancelled,True,Traffic
+J-00269,CU-8101,North,YO72 9KB,Emergency,Low,4h,2026-06-12T08:00,2026-06-01T14:00,E-0103,UT-EV-035,Rescheduled,Customer Cancelled,True,Parts unavailable
+J-00270,CU-3370,Scotland,AB12 7CG,Install,High,Same Day,2026-06-05T08:00,2026-06-20T16:00,E-0043,UT-PUMP-071,Rescheduled,Complete,False,Weather
+J-00271,CU-9465,South,PO21 5HD,Repair,High,48h,2026-06-03T08:00,2026-06-13T17:00,E-0119,UT-PIPEW-007,Completed,Complete,True,Weather
+J-00272,CU-2419,Midlands,NG74 5JF,Install,High,Same Day,2026-06-19T08:00,2026-06-17T16:00,E-0053,UT-PIPEW-014,Rescheduled,Open,True,Weather
+J-00273,CU-9940,Scotland,DD5 7HD,Smart Meter Exchange,High,Next Day,2026-06-10T08:00,2026-06-18T17:00,E-0025,UT-BOILE-034,Rescheduled,Failed Visit,True,Parts unavailable
+J-00274,CU-2666,South,PO13 2BH,Smart Meter Exchange,Low,4h,2026-06-01T08:00,2026-06-05T14:00,E-0104,UT-PIPEW-007,Completed,Customer Cancelled,True,Engineer absence
+J-00275,CU-5253,Scotland,DD82 6AH,Install,Critical,48h,2026-06-04T08:00,2026-06-15T12:00,E-0109,UT-PUMP-088,In Progress,Customer Cancelled,True,Carrier delay
+J-00276,CU-6578,Scotland,EH6 6GB,Repair,Critical,48h,2026-06-16T08:00,2026-06-19T09:00,E-0083,UT-BOILE-036,Scheduled,Customer Cancelled,True,Carrier delay
+J-00277,CU-3448,Midlands,CV29 5FB,Repair,Critical,4h,2026-06-19T08:00,2026-06-02T15:00,E-0108,UT-BOILE-021,Scheduled,Failed Visit,True,Parts unavailable
+J-00278,CU-1100,Scotland,EH25 7CB,Smart Meter Exchange,High,4h,2026-06-12T08:00,2026-06-17T10:00,E-0067,UT-METER-030,Rescheduled,Customer Cancelled,False,Engineer absence
+J-00279,CU-9792,Wales,SA81 4CC,Repair,Medium,4h,2026-06-09T08:00,2026-06-09T16:00,E-0036,UT-VALVE-062,In Progress,Open,True,Engineer absence
+J-00280,CU-3140,Scotland,IV12 7FA,Emergency,Medium,48h,2026-06-07T08:00,2026-06-01T09:00,E-0045,UT-METER-017,Rescheduled,Open,True,Weather
+J-00281,CU-7843,South,RG59 1GD,Emergency,High,4h,2026-06-19T08:00,2026-06-17T15:00,E-0047,UT-SENSO-068,Completed,Complete,True,Traffic
+J-00282,CU-1643,Midlands,NG95 8KK,Repair,Low,Same Day,2026-06-08T08:00,2026-06-10T10:00,E-0085,UT-BOILE-022,Rescheduled,Customer Cancelled,True,Traffic
+J-00283,CU-6496,Scotland,EH47 4GF,Smart Meter Exchange,Low,Next Day,2026-06-13T08:00,2026-06-13T17:00,E-0049,UT-EV-089,Scheduled,Customer Cancelled,True,Parts unavailable
+J-00284,CU-5338,Wales,SY75 4DC,Emergency,Critical,Next Day,2026-06-11T08:00,2026-06-10T12:00,E-0092,UT-SENSO-052,Scheduled,Customer Cancelled,False,Carrier delay
+J-00285,CU-1414,London,W53 6CD,Emergency,Low,48h,2026-06-05T08:00,2026-06-19T15:00,E-0052,UT-PUMP-071,Completed,Customer Cancelled,True,Parts unavailable
+J-00286,CU-1574,South,PO16 4GK,Install,Medium,Same Day,2026-06-17T08:00,2026-06-13T11:00,E-0117,UT-METER-017,Scheduled,Open,True,Carrier delay
+J-00287,CU-4070,Midlands,LE78 8BJ,Service,High,48h,2026-06-02T08:00,2026-06-04T09:00,E-0063,UT-METER-030,Scheduled,Open,False,Weather
+J-00288,CU-7177,Wales,SA80 6DF,Repair,Low,Same Day,2026-06-16T08:00,2026-06-08T10:00,E-0110,UT-SENSO-019,Scheduled,Complete,True,Traffic
+J-00289,CU-5450,North,M73 2KG,Smart Meter Exchange,High,Next Day,2026-06-15T08:00,2026-06-18T16:00,E-0046,UT-SENSO-061,In Progress,Complete,True,Weather
+J-00290,CU-8542,Wales,LL90 9JK,Emergency,Low,Next Day,2026-06-08T08:00,2026-06-21T12:00,E-0081,UT-PUMP-074,Rescheduled,Failed Visit,True,Parts unavailable
+J-00291,CU-1553,London,SE43 1AG,Service,Medium,Next Day,2026-06-08T08:00,2026-06-16T12:00,E-0005,UT-VALVE-062,Rescheduled,Customer Cancelled,True,Traffic
+J-00292,CU-5217,North,M40 2GK,Smart Meter Exchange,High,Same Day,2026-06-09T08:00,2026-06-09T16:00,E-0037,UT-BOILE-021,In Progress,Failed Visit,True,Weather
+J-00293,CU-6516,South,RG75 3CA,Service,Critical,4h,2026-06-10T08:00,2026-06-09T15:00,E-0109,UT-PUMP-069,Completed,Customer Cancelled,True,None
+J-00294,CU-5796,London,N34 7DB,Repair,Medium,Same Day,2026-06-15T08:00,2026-06-19T15:00,E-0065,UT-PUMP-071,At Risk,Complete,True,None
+J-00295,CU-3012,Wales,NP59 6AH,Emergency,High,48h,2026-06-12T08:00,2026-06-11T12:00,E-0116,UT-PIPEW-058,Scheduled,Open,True,Traffic
+J-00296,CU-7781,London,E80 3EA,Emergency,Medium,Same Day,2026-06-18T08:00,2026-06-15T11:00,E-0101,UT-BOILE-059,At Risk,Open,True,Traffic
+J-00297,CU-8941,South,SO89 1DK,Service,Medium,4h,2026-06-19T08:00,2026-06-20T13:00,E-0089,UT-BOILE-025,Completed,Open,True,Carrier delay
+J-00298,CU-7130,Wales,SY88 7JF,Repair,Medium,Same Day,2026-06-15T08:00,2026-06-16T13:00,E-0080,UT-BOILE-025,In Progress,Customer Cancelled,False,Weather
+J-00299,CU-7590,Midlands,CV56 4HC,Emergency,High,Next Day,2026-06-06T08:00,2026-06-02T15:00,E-0049,UT-BOILE-011,Scheduled,Failed Visit,True,Engineer absence
+J-00300,CU-1015,South,BN50 3KJ,Emergency,Low,48h,2026-06-08T08:00,2026-06-11T17:00,E-0042,UT-SENSO-038,At Risk,Customer Cancelled,True,Traffic
+J-00301,CU-1343,London,N91 1AA,Install,High,Same Day,2026-06-18T08:00,2026-06-11T12:00,E-0070,UT-EV-063,At Risk,Open,True,None
+J-00302,CU-2868,Scotland,IV97 7CG,Emergency,Critical,Same Day,2026-06-14T08:00,2026-06-18T13:00,E-0100,UT-EV-008,Scheduled,Complete,True,None
+J-00303,CU-7713,South,BN59 9BF,Smart Meter Exchange,Low,Same Day,2026-06-18T08:00,2026-06-10T14:00,E-0085,UT-PUMP-090,At Risk,Open,True,Engineer absence
+J-00304,CU-9159,London,SE72 6KK,Install,Low,Next Day,2026-06-03T08:00,2026-06-17T12:00,E-0103,UT-PUMP-018,Rescheduled,Failed Visit,True,None
+J-00305,CU-1674,Wales,LL62 5JJ,Service,Low,Next Day,2026-06-04T08:00,2026-06-18T14:00,E-0054,UT-VALVE-016,In Progress,Complete,False,Parts unavailable
+J-00306,CU-8007,London,SE89 2AD,Install,Medium,Next Day,2026-06-09T08:00,2026-06-05T09:00,E-0051,UT-PIPEW-013,At Risk,Failed Visit,True,Engineer absence
+J-00307,CU-6120,North,M63 2CE,Install,Medium,Same Day,2026-06-04T08:00,2026-06-06T09:00,E-0001,UT-VALVE-002,In Progress,Customer Cancelled,True,Parts unavailable
+J-00308,CU-2376,London,SW9 1FA,Smart Meter Exchange,Critical,Next Day,2026-06-10T08:00,2026-06-20T10:00,E-0034,UT-PUMP-069,At Risk,Customer Cancelled,True,Traffic
+J-00309,CU-2119,North,NE23 8JH,Service,Critical,Next Day,2026-06-18T08:00,2026-06-14T11:00,E-0041,UT-EV-027,Scheduled,Failed Visit,True,Parts unavailable
+J-00310,CU-1862,Midlands,NG76 1AB,Repair,Medium,48h,2026-06-08T08:00,2026-06-19T09:00,E-0069,UT-SENSO-012,In Progress,Failed Visit,True,Parts unavailable
+J-00311,CU-5303,North,NE13 5DG,Emergency,High,48h,2026-06-17T08:00,2026-06-04T10:00,E-0024,UT-METER-015,In Progress,Complete,True,Parts unavailable
+J-00312,CU-2996,London,W31 2AD,Smart Meter Exchange,High,48h,2026-06-10T08:00,2026-06-05T14:00,E-0045,UT-SENSO-019,Scheduled,Open,True,Engineer absence
+J-00313,CU-1988,Scotland,G81 6JF,Emergency,Critical,Next Day,2026-06-10T08:00,2026-06-15T12:00,E-0012,UT-PUMP-018,Completed,Customer Cancelled,True,Weather
+J-00314,CU-5351,Midlands,B48 2AD,Smart Meter Exchange,Critical,Same Day,2026-06-16T08:00,2026-06-07T09:00,E-0034,UT-METER-001,In Progress,Customer Cancelled,True,Weather
+J-00315,CU-5356,London,N3 7JJ,Repair,Critical,48h,2026-06-09T08:00,2026-06-02T12:00,E-0040,UT-EV-089,In Progress,Complete,False,Carrier delay
+J-00316,CU-4811,Scotland,G79 1FH,Emergency,High,4h,2026-06-09T08:00,2026-06-09T10:00,E-0003,UT-METER-030,Scheduled,Customer Cancelled,True,Engineer absence
+J-00317,CU-4505,South,PO54 2BJ,Smart Meter Exchange,Critical,4h,2026-06-07T08:00,2026-06-10T15:00,E-0068,UT-SENSO-079,At Risk,Complete,True,Engineer absence
+J-00318,CU-8559,Midlands,CV79 8BD,Repair,Low,Same Day,2026-06-06T08:00,2026-06-03T10:00,E-0027,UT-METER-054,Rescheduled,Customer Cancelled,False,Carrier delay
+J-00319,CU-7892,London,SE41 2DC,Emergency,Low,4h,2026-06-15T08:00,2026-06-20T13:00,E-0093,UT-METER-017,Rescheduled,Complete,True,Engineer absence
+J-00320,CU-2451,Midlands,NG15 1HE,Smart Meter Exchange,High,4h,2026-06-14T08:00,2026-06-10T09:00,E-0007,UT-PUMP-090,At Risk,Open,True,Weather
+J-00321,CU-5779,Midlands,LE59 4KB,Smart Meter Exchange,Critical,4h,2026-06-17T08:00,2026-06-17T10:00,E-0016,UT-PIPEW-041,Completed,Complete,True,Weather
+J-00322,CU-4590,North,LS56 2BD,Emergency,Critical,4h,2026-06-17T08:00,2026-06-03T14:00,E-0012,UT-METER-087,Rescheduled,Failed Visit,True,Engineer absence
+J-00323,CU-3257,Scotland,EH66 8KE,Repair,High,48h,2026-06-05T08:00,2026-06-02T17:00,E-0045,UT-PIPEW-058,Rescheduled,Complete,True,Weather
+J-00324,CU-2419,South,BN12 3DC,Smart Meter Exchange,Low,4h,2026-06-12T08:00,2026-06-03T11:00,E-0004,UT-BOILE-042,Completed,Failed Visit,False,None
+J-00325,CU-7347,South,SO90 7CC,Install,Critical,48h,2026-06-14T08:00,2026-06-18T16:00,E-0066,UT-EV-027,Completed,Failed Visit,True,Weather
+J-00326,CU-6837,London,N46 5KC,Repair,Low,Next Day,2026-06-10T08:00,2026-06-21T10:00,E-0099,UT-VALVE-065,Scheduled,Complete,True,Engineer absence
+J-00327,CU-5049,South,BN16 7AE,Smart Meter Exchange,Low,4h,2026-06-08T08:00,2026-06-16T11:00,E-0013,UT-PIPEW-009,Rescheduled,Customer Cancelled,True,None
+J-00328,CU-6384,Midlands,DE2 2BD,Emergency,Medium,Same Day,2026-06-11T08:00,2026-06-17T11:00,E-0091,UT-METER-015,Scheduled,Complete,True,Weather
+J-00329,CU-3780,North,NE86 5DC,Service,Low,Same Day,2026-06-06T08:00,2026-06-04T15:00,E-0075,UT-PIPEW-076,Scheduled,Customer Cancelled,False,Carrier delay
+J-00330,CU-1386,Wales,CF39 2GK,Repair,Critical,Next Day,2026-06-08T08:00,2026-06-02T11:00,E-0013,UT-VALVE-050,Completed,Complete,False,Weather
+J-00331,CU-1747,Scotland,IV60 3DG,Repair,High,Next Day,2026-06-10T08:00,2026-06-14T14:00,E-0099,UT-PIPEW-041,Completed,Customer Cancelled,False,Weather
+J-00332,CU-1816,South,PO73 3FE,Emergency,Low,Same Day,2026-06-15T08:00,2026-06-06T17:00,E-0067,UT-VALVE-062,Completed,Complete,False,Weather
+J-00333,CU-3372,Wales,NP26 7BF,Smart Meter Exchange,Low,48h,2026-06-09T08:00,2026-06-01T14:00,E-0025,UT-SENSO-068,Completed,Customer Cancelled,True,Weather
+J-00334,CU-7621,Wales,SY71 4AF,Service,Critical,48h,2026-06-19T08:00,2026-06-01T12:00,E-0075,UT-PIPEW-083,In Progress,Open,True,None
+J-00335,CU-6731,Wales,SY94 9FB,Smart Meter Exchange,High,Same Day,2026-06-05T08:00,2026-06-15T11:00,E-0098,UT-EV-027,At Risk,Open,False,Carrier delay
+J-00336,CU-1355,London,N6 9AB,Smart Meter Exchange,High,4h,2026-06-06T08:00,2026-06-06T10:00,E-0116,UT-BOILE-022,Completed,Failed Visit,True,Parts unavailable
+J-00337,CU-5035,South,RG21 7CA,Smart Meter Exchange,Critical,Next Day,2026-06-19T08:00,2026-06-18T12:00,E-0016,UT-PUMP-043,In Progress,Failed Visit,True,Traffic
+J-00338,CU-2636,Scotland,DD48 4GC,Emergency,Medium,48h,2026-06-11T08:00,2026-06-05T17:00,E-0081,UT-VALVE-062,At Risk,Failed Visit,True,Weather
+J-00339,CU-8637,Scotland,IV17 6EC,Service,Critical,Same Day,2026-06-09T08:00,2026-06-21T14:00,E-0090,UT-BOILE-025,Rescheduled,Complete,False,Carrier delay
+J-00340,CU-6224,South,SO11 7CJ,Service,High,Same Day,2026-06-12T08:00,2026-06-01T10:00,E-0069,UT-SENSO-068,In Progress,Failed Visit,True,Engineer absence
+J-00341,CU-4794,London,W10 1BK,Service,High,Next Day,2026-06-07T08:00,2026-06-18T11:00,E-0018,UT-SENSO-012,In Progress,Failed Visit,False,Weather
+J-00342,CU-5446,Scotland,DD12 8GC,Service,Critical,Same Day,2026-06-07T08:00,2026-06-14T10:00,E-0002,UT-BOILE-042,Rescheduled,Failed Visit,False,Traffic
+J-00343,CU-1674,South,PO37 9DH,Install,Medium,Next Day,2026-06-03T08:00,2026-06-16T11:00,E-0029,UT-EV-027,Completed,Failed Visit,True,Weather
+J-00344,CU-5563,Scotland,EH42 1AK,Service,Low,4h,2026-06-09T08:00,2026-06-14T09:00,E-0040,UT-BOILE-036,At Risk,Customer Cancelled,True,Engineer absence
+J-00345,CU-1181,Midlands,NG40 6AH,Smart Meter Exchange,Low,4h,2026-06-10T08:00,2026-06-08T14:00,E-0053,UT-SENSO-060,At Risk,Complete,True,Traffic
+J-00346,CU-4362,South,OX54 4EC,Smart Meter Exchange,Low,48h,2026-06-01T08:00,2026-06-11T14:00,E-0109,UT-VALVE-016,Scheduled,Failed Visit,True,Carrier delay
+J-00347,CU-4823,Wales,NP12 8AJ,Emergency,Medium,Next Day,2026-06-06T08:00,2026-06-13T13:00,E-0021,UT-PUMP-024,Scheduled,Open,True,Engineer absence
+J-00348,CU-9827,North,M54 8JA,Emergency,Low,Next Day,2026-06-08T08:00,2026-06-04T14:00,E-0114,UT-EV-023,Rescheduled,Complete,True,None
+J-00349,CU-8650,Scotland,AB12 2GJ,Repair,Low,4h,2026-06-13T08:00,2026-06-04T11:00,E-0103,UT-BOILE-067,At Risk,Customer Cancelled,True,Weather
+J-00350,CU-4521,Wales,NP77 1KB,Service,High,48h,2026-06-12T08:00,2026-06-08T09:00,E-0024,UT-METER-087,Rescheduled,Failed Visit,True,Carrier delay
+J-00351,CU-7244,London,SW60 9GE,Smart Meter Exchange,Critical,Same Day,2026-06-12T08:00,2026-06-19T13:00,E-0073,UT-BOILE-036,At Risk,Open,True,Parts unavailable
+J-00352,CU-2989,Midlands,CV33 9CA,Smart Meter Exchange,Medium,Same Day,2026-06-04T08:00,2026-06-11T12:00,E-0078,UT-SENSO-079,Rescheduled,Open,False,Carrier delay
+J-00353,CU-3218,North,NE2 6KC,Repair,High,Same Day,2026-06-11T08:00,2026-06-08T09:00,E-0073,UT-PIPEW-009,At Risk,Customer Cancelled,True,Weather
+J-00354,CU-1849,North,L63 8DC,Repair,Low,Next Day,2026-06-02T08:00,2026-06-08T15:00,E-0012,UT-PUMP-043,Rescheduled,Open,False,None
+J-00355,CU-6761,North,L25 5AK,Repair,Medium,4h,2026-06-12T08:00,2026-06-12T17:00,E-0095,UT-METER-054,Scheduled,Complete,False,Traffic
+J-00356,CU-1653,Wales,SA66 6JJ,Emergency,Medium,4h,2026-06-15T08:00,2026-06-18T17:00,E-0002,UT-VALVE-002,In Progress,Customer Cancelled,False,Traffic
+J-00357,CU-6618,Scotland,EH52 4CB,Repair,Low,4h,2026-06-10T08:00,2026-06-15T11:00,E-0019,UT-VALVE-065,Scheduled,Failed Visit,True,Parts unavailable
+J-00358,CU-7361,Midlands,NG52 1FA,Emergency,High,4h,2026-06-13T08:00,2026-06-13T12:00,E-0056,UT-METER-017,Scheduled,Failed Visit,False,None
+J-00359,CU-5612,London,SE43 4JB,Repair,Critical,4h,2026-06-18T08:00,2026-06-20T15:00,E-0045,UT-EV-073,Completed,Open,True,Traffic
+J-00360,CU-4774,London,E55 8BF,Emergency,Critical,Next Day,2026-06-17T08:00,2026-06-15T09:00,E-0048,UT-SENSO-070,In Progress,Open,False,Traffic
+J-00361,CU-9108,South,SO81 9HG,Smart Meter Exchange,Critical,Next Day,2026-06-15T08:00,2026-06-02T11:00,E-0032,UT-EV-047,At Risk,Customer Cancelled,True,Engineer absence
+J-00362,CU-1765,London,N31 3AK,Repair,Medium,4h,2026-06-03T08:00,2026-06-14T12:00,E-0030,UT-EV-006,In Progress,Failed Visit,True,Traffic
+J-00363,CU-8649,London,N27 2GJ,Repair,Low,48h,2026-06-10T08:00,2026-06-16T09:00,E-0119,UT-METER-017,At Risk,Complete,True,Parts unavailable
+J-00364,CU-1225,Scotland,G32 7DJ,Install,Low,Next Day,2026-06-14T08:00,2026-06-03T13:00,E-0074,UT-BOILE-005,At Risk,Failed Visit,True,Traffic
+J-00365,CU-3676,London,N25 9EH,Install,High,Same Day,2026-06-11T08:00,2026-06-13T16:00,E-0096,UT-BOILE-028,Rescheduled,Customer Cancelled,True,None
+J-00366,CU-1060,South,OX57 3DG,Repair,Critical,4h,2026-06-19T08:00,2026-06-05T15:00,E-0011,UT-BOILE-026,At Risk,Customer Cancelled,True,Parts unavailable
+J-00367,CU-7794,North,L46 5FB,Service,High,Next Day,2026-06-10T08:00,2026-06-09T10:00,E-0099,UT-SENSO-052,Rescheduled,Customer Cancelled,True,Traffic
+J-00368,CU-1198,Midlands,NG99 7BK,Emergency,Low,48h,2026-06-05T08:00,2026-06-09T14:00,E-0020,UT-BOILE-025,Rescheduled,Failed Visit,False,None
+J-00369,CU-6114,Wales,SA6 4BK,Emergency,Low,48h,2026-06-10T08:00,2026-06-18T15:00,E-0059,UT-PUMP-074,Completed,Failed Visit,True,None
+J-00370,CU-4437,South,BN57 4AG,Emergency,High,Same Day,2026-06-03T08:00,2026-06-12T10:00,E-0104,UT-BOILE-067,Rescheduled,Complete,True,Weather
+J-00371,CU-8293,Scotland,DD64 6FD,Smart Meter Exchange,Critical,4h,2026-06-15T08:00,2026-06-07T16:00,E-0066,UT-PIPEW-058,Scheduled,Failed Visit,False,Carrier delay
+J-00372,CU-7340,Scotland,G66 3AH,Repair,Low,48h,2026-06-02T08:00,2026-06-04T09:00,E-0059,UT-EV-020,Rescheduled,Open,True,Parts unavailable
+J-00373,CU-6394,South,SO81 1FH,Repair,Medium,Same Day,2026-06-03T08:00,2026-06-17T16:00,E-0080,UT-PIPEW-041,Rescheduled,Open,False,Carrier delay
+J-00374,CU-4799,North,L93 7EA,Repair,Low,Same Day,2026-06-05T08:00,2026-06-20T14:00,E-0062,UT-EV-010,In Progress,Customer Cancelled,True,Carrier delay
+J-00375,CU-8091,Scotland,DD4 8DE,Install,Low,48h,2026-06-09T08:00,2026-06-13T11:00,E-0094,UT-BOILE-066,Scheduled,Failed Visit,True,Engineer absence
+J-00376,CU-1469,Wales,SA55 6AK,Smart Meter Exchange,Low,Same Day,2026-06-04T08:00,2026-06-18T12:00,E-0054,UT-METER-039,At Risk,Customer Cancelled,True,Weather
+J-00377,CU-5981,Midlands,LE47 7EC,Emergency,Critical,4h,2026-06-18T08:00,2026-06-13T12:00,E-0063,UT-METER-055,In Progress,Customer Cancelled,False,Parts unavailable
+J-00378,CU-2371,London,SE88 8EK,Service,High,Next Day,2026-06-03T08:00,2026-06-04T13:00,E-0090,UT-PIPEW-009,Rescheduled,Customer Cancelled,True,Carrier delay
+J-00379,CU-6244,Midlands,LE39 3FH,Repair,Low,4h,2026-06-05T08:00,2026-06-14T12:00,E-0032,UT-BOILE-032,Scheduled,Failed Visit,True,Traffic
+J-00380,CU-3885,Scotland,G48 7CA,Repair,Critical,4h,2026-06-04T08:00,2026-06-07T13:00,E-0069,UT-PIPEW-041,Completed,Open,False,Parts unavailable
+J-00381,CU-8435,London,SW81 4EK,Smart Meter Exchange,Medium,Same Day,2026-06-16T08:00,2026-06-08T14:00,E-0052,UT-PUMP-043,Scheduled,Failed Visit,True,Engineer absence
+J-00382,CU-6555,North,LS20 5DG,Emergency,High,Next Day,2026-06-04T08:00,2026-06-11T16:00,E-0011,UT-PUMP-090,In Progress,Customer Cancelled,True,Engineer absence
+J-00383,CU-9144,South,PO61 3GA,Emergency,High,4h,2026-06-04T08:00,2026-06-09T17:00,E-0079,UT-PUMP-069,At Risk,Customer Cancelled,True,Carrier delay
+J-00384,CU-8539,London,E80 7HA,Emergency,High,Same Day,2026-06-11T08:00,2026-06-08T10:00,E-0005,UT-SENSO-052,Scheduled,Customer Cancelled,True,None
+J-00385,CU-2360,Midlands,B7 5CA,Service,Low,48h,2026-06-04T08:00,2026-06-13T17:00,E-0005,UT-VALVE-085,Scheduled,Complete,True,Parts unavailable
+J-00386,CU-5971,South,RG86 1CJ,Smart Meter Exchange,Critical,Next Day,2026-06-03T08:00,2026-06-04T11:00,E-0108,UT-VALVE-062,Rescheduled,Customer Cancelled,True,Engineer absence
+J-00387,CU-7733,North,YO85 7CG,Repair,Low,Next Day,2026-06-12T08:00,2026-06-11T11:00,E-0042,UT-BOILE-011,In Progress,Customer Cancelled,True,Engineer absence
+J-00388,CU-6964,South,OX38 3CH,Repair,Low,Same Day,2026-06-13T08:00,2026-06-13T11:00,E-0098,UT-SENSO-079,Completed,Customer Cancelled,False,Traffic
+J-00389,CU-3643,Wales,SA30 3JC,Service,High,Same Day,2026-06-10T08:00,2026-06-01T17:00,E-0036,UT-BOILE-034,At Risk,Failed Visit,True,Parts unavailable
+J-00390,CU-2192,South,BN39 2KE,Install,High,Next Day,2026-06-03T08:00,2026-06-20T14:00,E-0112,UT-BOILE-004,In Progress,Complete,False,Engineer absence
+J-00391,CU-1341,South,OX98 5CK,Repair,Low,48h,2026-06-19T08:00,2026-06-21T09:00,E-0089,UT-BOILE-004,Completed,Failed Visit,True,Parts unavailable
+J-00392,CU-3633,London,W51 5EE,Emergency,Low,Same Day,2026-06-11T08:00,2026-06-01T17:00,E-0037,UT-BOILE-057,In Progress,Open,True,Engineer absence
+J-00393,CU-5769,Scotland,AB24 4BF,Smart Meter Exchange,High,48h,2026-06-08T08:00,2026-06-02T13:00,E-0003,UT-BOILE-042,In Progress,Customer Cancelled,True,Weather
+J-00394,CU-4697,London,SW78 8BK,Repair,Critical,4h,2026-06-01T08:00,2026-06-06T14:00,E-0056,UT-BOILE-005,Scheduled,Customer Cancelled,True,Parts unavailable
+J-00395,CU-2710,London,E86 8HG,Emergency,Low,Next Day,2026-06-02T08:00,2026-06-12T11:00,E-0085,UT-BOILE-028,At Risk,Customer Cancelled,True,None
+J-00396,CU-2173,North,LS49 9EJ,Install,Low,Same Day,2026-06-16T08:00,2026-06-03T10:00,E-0037,UT-EV-008,In Progress,Failed Visit,True,Parts unavailable
+J-00397,CU-6584,South,PO68 3AB,Repair,Medium,4h,2026-06-13T08:00,2026-06-12T11:00,E-0090,UT-EV-010,At Risk,Customer Cancelled,True,Traffic
+J-00398,CU-9746,London,SE15 3AG,Service,Low,48h,2026-06-16T08:00,2026-06-06T12:00,E-0095,UT-SENSO-068,Completed,Complete,True,Carrier delay
+J-00399,CU-5419,South,SO9 7HG,Emergency,Critical,48h,2026-06-07T08:00,2026-06-14T12:00,E-0086,UT-EV-073,In Progress,Customer Cancelled,True,Parts unavailable
+J-00400,CU-3180,Midlands,B72 6GE,Smart Meter Exchange,Critical,4h,2026-06-07T08:00,2026-06-05T13:00,E-0080,UT-VALVE-033,Completed,Complete,True,Carrier delay
+J-00401,CU-1196,Scotland,G52 9FG,Install,Low,4h,2026-06-16T08:00,2026-06-15T17:00,E-0034,UT-EV-008,Scheduled,Complete,False,Carrier delay
+J-00402,CU-9786,North,LS48 4EF,Smart Meter Exchange,Critical,Next Day,2026-06-14T08:00,2026-06-11T16:00,E-0091,UT-VALVE-050,In Progress,Failed Visit,True,Parts unavailable
+J-00403,CU-4636,London,SE41 2FA,Service,Medium,Same Day,2026-06-17T08:00,2026-06-12T13:00,E-0055,UT-SENSO-072,Scheduled,Open,True,None
+J-00404,CU-5755,Midlands,LE28 1FH,Emergency,Low,4h,2026-06-14T08:00,2026-06-04T16:00,E-0014,UT-METER-015,At Risk,Failed Visit,True,Engineer absence
+J-00405,CU-2868,Wales,LL64 2BF,Repair,Critical,4h,2026-06-03T08:00,2026-06-13T11:00,E-0054,UT-BOILE-021,Scheduled,Complete,True,Carrier delay
+J-00406,CU-3552,North,M27 2HC,Emergency,Low,Next Day,2026-06-05T08:00,2026-06-17T11:00,E-0040,UT-VALVE-065,At Risk,Failed Visit,True,Traffic
+J-00407,CU-1058,South,SO69 1CJ,Service,Medium,Next Day,2026-06-03T08:00,2026-06-11T17:00,E-0113,UT-BOILE-026,Rescheduled,Open,False,Carrier delay
+J-00408,CU-3285,Midlands,B72 2EC,Emergency,High,48h,2026-06-14T08:00,2026-06-12T09:00,E-0097,UT-PUMP-090,Scheduled,Customer Cancelled,True,Weather
+J-00409,CU-4962,North,NE73 9BC,Install,Medium,48h,2026-06-16T08:00,2026-06-15T11:00,E-0056,UT-BOILE-021,Completed,Customer Cancelled,True,Weather
+J-00410,CU-1071,Midlands,NG24 5EK,Service,Low,48h,2026-06-12T08:00,2026-06-21T16:00,E-0007,UT-PUMP-043,In Progress,Complete,True,Parts unavailable
+J-00411,CU-7306,Midlands,LE18 5KH,Install,High,48h,2026-06-10T08:00,2026-06-01T14:00,E-0064,UT-BOILE-036,Scheduled,Failed Visit,True,Traffic
+J-00412,CU-8745,South,SO68 8AJ,Smart Meter Exchange,Medium,Same Day,2026-06-06T08:00,2026-06-21T15:00,E-0099,UT-EV-035,Rescheduled,Open,True,Engineer absence
+J-00413,CU-1078,London,N72 1BG,Service,Medium,Next Day,2026-06-04T08:00,2026-06-12T09:00,E-0087,UT-SENSO-052,In Progress,Complete,True,Traffic
+J-00414,CU-8112,London,SW24 6BA,Smart Meter Exchange,Medium,48h,2026-06-08T08:00,2026-06-17T12:00,E-0071,UT-PUMP-088,Completed,Failed Visit,False,Traffic
+J-00415,CU-3732,London,SW33 2CG,Repair,Medium,4h,2026-06-17T08:00,2026-06-21T16:00,E-0051,UT-PUMP-045,In Progress,Complete,True,Carrier delay
+J-00416,CU-3371,South,OX23 4BD,Install,High,48h,2026-06-12T08:00,2026-06-12T16:00,E-0049,UT-METER-054,At Risk,Open,True,Carrier delay
+J-00417,CU-6566,South,BN58 4CJ,Repair,Low,Same Day,2026-06-03T08:00,2026-06-02T17:00,E-0063,UT-METER-039,In Progress,Open,True,Parts unavailable
+J-00418,CU-7549,London,SW98 7AD,Repair,Medium,4h,2026-06-07T08:00,2026-06-09T15:00,E-0088,UT-BOILE-036,At Risk,Failed Visit,True,Traffic
+J-00419,CU-8846,Wales,SA95 7KA,Emergency,Medium,48h,2026-06-14T08:00,2026-06-16T11:00,E-0006,UT-PUMP-069,Scheduled,Complete,True,Traffic
+J-00420,CU-3322,North,YO51 6FG,Repair,High,48h,2026-06-14T08:00,2026-06-16T10:00,E-0031,UT-EV-047,At Risk,Customer Cancelled,True,Engineer absence
+J-00421,CU-9378,South,PO15 7JG,Service,Low,Next Day,2026-06-16T08:00,2026-06-01T13:00,E-0050,UT-PUMP-018,Completed,Customer Cancelled,False,Carrier delay
+J-00422,CU-4155,North,M12 9BH,Smart Meter Exchange,Low,4h,2026-06-16T08:00,2026-06-11T16:00,E-0068,UT-METER-015,Rescheduled,Failed Visit,False,Carrier delay
+J-00423,CU-2693,North,L77 5KG,Service,Low,4h,2026-06-03T08:00,2026-06-19T12:00,E-0068,UT-SENSO-080,Rescheduled,Complete,True,Weather
+J-00424,CU-3525,Scotland,EH42 6BH,Install,Critical,Same Day,2026-06-11T08:00,2026-06-18T10:00,E-0081,UT-BOILE-032,Completed,Customer Cancelled,True,Weather
+J-00425,CU-9820,London,SW18 5AJ,Smart Meter Exchange,High,4h,2026-06-15T08:00,2026-06-16T12:00,E-0043,UT-PUMP-046,Scheduled,Customer Cancelled,True,Weather
+J-00426,CU-8108,Scotland,AB40 1BJ,Repair,Medium,Next Day,2026-06-09T08:00,2026-06-06T13:00,E-0098,UT-VALVE-062,Rescheduled,Failed Visit,True,Parts unavailable
+J-00427,CU-7316,Midlands,B86 2AD,Install,Low,Next Day,2026-06-09T08:00,2026-06-06T11:00,E-0005,UT-BOILE-036,In Progress,Open,True,Weather
+J-00428,CU-9318,London,SW47 5CE,Service,High,48h,2026-06-05T08:00,2026-06-18T14:00,E-0044,UT-METER-001,Scheduled,Customer Cancelled,True,Traffic
+J-00429,CU-8104,Midlands,LE58 9KK,Install,Low,4h,2026-06-14T08:00,2026-06-04T16:00,E-0090,UT-PUMP-043,Scheduled,Customer Cancelled,True,Carrier delay
+J-00430,CU-4349,Scotland,AB89 4FK,Emergency,Medium,4h,2026-06-09T08:00,2026-06-11T09:00,E-0083,UT-METER-044,Completed,Customer Cancelled,True,Weather
+J-00431,CU-1310,North,M3 2CH,Smart Meter Exchange,Low,Next Day,2026-06-03T08:00,2026-06-20T12:00,E-0001,UT-BOILE-042,Completed,Failed Visit,True,Parts unavailable
+J-00432,CU-6854,Midlands,LE60 7CG,Service,Low,Same Day,2026-06-13T08:00,2026-06-15T17:00,E-0041,UT-BOILE-066,Scheduled,Customer Cancelled,True,Weather
+J-00433,CU-1762,North,YO36 1GF,Emergency,Medium,Same Day,2026-06-08T08:00,2026-06-10T13:00,E-0044,UT-SENSO-061,In Progress,Failed Visit,True,Engineer absence
+J-00434,CU-2253,Wales,LL94 5HH,Emergency,Critical,48h,2026-06-17T08:00,2026-06-16T09:00,E-0036,UT-BOILE-040,At Risk,Customer Cancelled,True,Weather
+J-00435,CU-2479,Midlands,DE59 9FC,Install,Low,Next Day,2026-06-10T08:00,2026-06-05T09:00,E-0025,UT-METER-055,Completed,Failed Visit,True,Traffic
+J-00436,CU-4441,South,OX68 9FC,Repair,Low,Next Day,2026-06-11T08:00,2026-06-20T09:00,E-0104,UT-SENSO-053,Rescheduled,Failed Visit,False,Engineer absence
+J-00437,CU-6151,North,LS61 4EB,Repair,Medium,48h,2026-06-03T08:00,2026-06-07T12:00,E-0011,UT-PUMP-074,Completed,Failed Visit,False,Traffic
+J-00438,CU-2610,Scotland,EH53 5FC,Repair,Low,Next Day,2026-06-03T08:00,2026-06-20T10:00,E-0003,UT-SENSO-086,At Risk,Complete,True,Engineer absence
+J-00439,CU-1499,North,M83 8EJ,Install,Low,Same Day,2026-06-09T08:00,2026-06-07T17:00,E-0060,UT-VALVE-049,Scheduled,Open,False,Carrier delay
+J-00440,CU-9235,North,YO65 6GG,Install,High,4h,2026-06-04T08:00,2026-06-13T14:00,E-0081,UT-SENSO-052,Completed,Customer Cancelled,True,Parts unavailable
+J-00441,CU-3760,North,YO38 5BK,Repair,Medium,48h,2026-06-19T08:00,2026-06-02T14:00,E-0030,UT-VALVE-049,Completed,Customer Cancelled,True,Parts unavailable
+J-00442,CU-9768,South,SO88 7HG,Emergency,Critical,48h,2026-06-09T08:00,2026-06-11T17:00,E-0029,UT-SENSO-053,At Risk,Failed Visit,True,Engineer absence
+J-00443,CU-8140,Scotland,AB15 7HJ,Smart Meter Exchange,Low,Same Day,2026-06-01T08:00,2026-06-02T12:00,E-0045,UT-EV-082,Rescheduled,Open,True,None
+J-00444,CU-7539,North,L96 8BF,Install,Medium,Next Day,2026-06-14T08:00,2026-06-01T14:00,E-0032,UT-PIPEW-007,Rescheduled,Open,True,Weather
+J-00445,CU-4564,South,OX48 7HJ,Install,Medium,48h,2026-06-01T08:00,2026-06-15T17:00,E-0079,UT-PUMP-088,Scheduled,Customer Cancelled,True,Traffic
+J-00446,CU-3862,London,N93 1KE,Smart Meter Exchange,Critical,48h,2026-06-13T08:00,2026-06-08T13:00,E-0111,UT-BOILE-057,Scheduled,Failed Visit,True,Parts unavailable
+J-00447,CU-6636,Midlands,LE96 5HF,Smart Meter Exchange,Critical,48h,2026-06-13T08:00,2026-06-02T11:00,E-0101,UT-VALVE-033,Rescheduled,Failed Visit,True,Engineer absence
+J-00448,CU-8560,South,BN25 7BA,Repair,Low,Next Day,2026-06-01T08:00,2026-06-02T10:00,E-0057,UT-PIPEW-013,Scheduled,Customer Cancelled,False,Weather
+J-00449,CU-6077,Midlands,CV64 5KD,Emergency,Low,Same Day,2026-06-11T08:00,2026-06-16T15:00,E-0057,UT-METER-031,Scheduled,Failed Visit,True,Carrier delay
+J-00450,CU-3606,Wales,NP11 2KH,Smart Meter Exchange,High,Next Day,2026-06-10T08:00,2026-06-13T14:00,E-0058,UT-METER-044,Completed,Failed Visit,True,Weather
+J-00451,CU-1187,North,LS1 9HG,Install,Low,48h,2026-06-02T08:00,2026-06-19T09:00,E-0054,UT-METER-039,At Risk,Customer Cancelled,True,None
+J-00452,CU-4779,London,W88 1GE,Smart Meter Exchange,Critical,48h,2026-06-01T08:00,2026-06-08T13:00,E-0017,UT-PIPEW-014,Completed,Complete,True,Engineer absence
+J-00453,CU-6345,Wales,CF62 5FE,Emergency,High,Next Day,2026-06-04T08:00,2026-06-01T11:00,E-0095,UT-METER-015,Scheduled,Failed Visit,True,None
+J-00454,CU-6255,Scotland,EH31 8GJ,Install,Critical,48h,2026-06-13T08:00,2026-06-15T16:00,E-0111,UT-PUMP-064,At Risk,Complete,True,None
+J-00455,CU-1843,North,L77 6KE,Emergency,Low,4h,2026-06-04T08:00,2026-06-04T09:00,E-0062,UT-METER-054,Rescheduled,Customer Cancelled,False,Weather
+J-00456,CU-8474,North,L77 6HA,Service,Low,Same Day,2026-06-13T08:00,2026-06-08T16:00,E-0060,UT-VALVE-002,Rescheduled,Open,True,Engineer absence
+J-00457,CU-5236,Scotland,EH88 1GK,Install,High,Same Day,2026-06-11T08:00,2026-06-15T17:00,E-0113,UT-SENSO-053,At Risk,Failed Visit,True,Parts unavailable
+J-00458,CU-3162,North,NE43 1HJ,Emergency,Low,48h,2026-06-01T08:00,2026-06-06T09:00,E-0030,UT-SENSO-072,Rescheduled,Open,True,Parts unavailable
+J-00459,CU-9299,North,M61 1AF,Repair,Critical,Same Day,2026-06-17T08:00,2026-06-16T13:00,E-0044,UT-VALVE-062,Scheduled,Open,True,None
+J-00460,CU-3322,Wales,SA89 9DG,Smart Meter Exchange,Critical,48h,2026-06-02T08:00,2026-06-03T13:00,E-0043,UT-SENSO-052,At Risk,Open,True,Parts unavailable
+J-00461,CU-7094,London,SE16 2GD,Smart Meter Exchange,Low,4h,2026-06-10T08:00,2026-06-20T11:00,E-0003,UT-EV-010,At Risk,Failed Visit,True,Weather
+J-00462,CU-1704,London,N79 1DE,Smart Meter Exchange,Critical,Next Day,2026-06-05T08:00,2026-06-10T16:00,E-0075,UT-BOILE-025,At Risk,Complete,True,Engineer absence
+J-00463,CU-2077,Scotland,IV35 3KD,Service,Medium,Next Day,2026-06-15T08:00,2026-06-10T11:00,E-0021,UT-VALVE-077,Rescheduled,Open,False,Engineer absence
+J-00464,CU-5072,Scotland,G52 8KC,Repair,Low,48h,2026-06-12T08:00,2026-06-09T12:00,E-0080,UT-PUMP-074,In Progress,Failed Visit,False,Parts unavailable
+J-00465,CU-5072,South,PO42 2AH,Repair,Medium,Next Day,2026-06-11T08:00,2026-06-18T16:00,E-0007,UT-METER-087,Rescheduled,Failed Visit,False,Engineer absence
+J-00466,CU-6145,Scotland,AB64 2GG,Service,High,Same Day,2026-06-09T08:00,2026-06-14T12:00,E-0003,UT-EV-063,At Risk,Complete,True,Engineer absence
+J-00467,CU-5661,London,SW94 2AD,Smart Meter Exchange,High,48h,2026-06-17T08:00,2026-06-17T17:00,E-0072,UT-EV-006,Scheduled,Open,False,None
+J-00468,CU-4658,North,M69 4AG,Smart Meter Exchange,Low,Next Day,2026-06-04T08:00,2026-06-21T13:00,E-0045,UT-BOILE-021,Completed,Open,True,Weather
+J-00469,CU-6670,North,L43 4DH,Emergency,Low,Same Day,2026-06-01T08:00,2026-06-07T10:00,E-0049,UT-METER-044,At Risk,Customer Cancelled,True,None
+J-00470,CU-5621,Scotland,EH68 4AA,Repair,Critical,Next Day,2026-06-08T08:00,2026-06-11T11:00,E-0079,UT-VALVE-065,Completed,Open,True,None
+J-00471,CU-9884,Wales,CF24 4KC,Emergency,Medium,Next Day,2026-06-16T08:00,2026-06-21T09:00,E-0075,UT-BOILE-032,Rescheduled,Customer Cancelled,True,Parts unavailable
+J-00472,CU-2995,Wales,LL16 4KG,Repair,Low,4h,2026-06-01T08:00,2026-06-09T16:00,E-0120,UT-BOILE-021,Scheduled,Complete,True,None
+J-00473,CU-5303,Scotland,AB98 7EF,Emergency,High,Same Day,2026-06-15T08:00,2026-06-11T16:00,E-0077,UT-PUMP-090,Completed,Complete,False,Weather
+J-00474,CU-6696,Wales,NP51 4BA,Repair,Critical,48h,2026-06-11T08:00,2026-06-10T15:00,E-0101,UT-VALVE-078,Scheduled,Open,True,Traffic
+J-00475,CU-1598,Wales,LL79 1CB,Install,Medium,Next Day,2026-06-03T08:00,2026-06-12T14:00,E-0109,UT-SENSO-052,Rescheduled,Customer Cancelled,True,Weather
+J-00476,CU-8445,Midlands,CV73 5GC,Install,Low,Same Day,2026-06-07T08:00,2026-06-18T14:00,E-0109,UT-PUMP-088,Rescheduled,Customer Cancelled,True,Traffic
+J-00477,CU-5849,South,SO47 8AD,Smart Meter Exchange,High,Next Day,2026-06-05T08:00,2026-06-16T10:00,E-0093,UT-PIPEW-013,Rescheduled,Customer Cancelled,False,Weather
+J-00478,CU-1839,Scotland,IV52 8CD,Service,Critical,4h,2026-06-09T08:00,2026-06-09T17:00,E-0016,UT-METER-054,At Risk,Customer Cancelled,True,Engineer absence
+J-00479,CU-6624,Wales,SA69 3GH,Repair,High,48h,2026-06-08T08:00,2026-06-15T13:00,E-0078,UT-SENSO-053,Rescheduled,Failed Visit,False,Parts unavailable
+J-00480,CU-9694,Scotland,DD79 1CF,Smart Meter Exchange,Critical,Same Day,2026-06-01T08:00,2026-06-09T15:00,E-0031,UT-BOILE-040,At Risk,Open,True,None
+J-00481,CU-4548,South,RG59 1DJ,Emergency,High,Next Day,2026-06-13T08:00,2026-06-21T16:00,E-0111,UT-SENSO-080,At Risk,Complete,False,None
+J-00482,CU-3446,London,N1 8CA,Repair,Low,4h,2026-06-18T08:00,2026-06-10T11:00,E-0070,UT-EV-082,At Risk,Failed Visit,True,Engineer absence
+J-00483,CU-3332,London,SE26 8FD,Smart Meter Exchange,Critical,48h,2026-06-19T08:00,2026-06-05T17:00,E-0004,UT-EV-089,Rescheduled,Complete,True,Weather
+J-00484,CU-3784,London,W1 3EB,Repair,Medium,4h,2026-06-11T08:00,2026-06-01T15:00,E-0079,UT-PIPEW-009,Rescheduled,Customer Cancelled,True,None
+J-00485,CU-6400,South,PO42 6JG,Service,Low,48h,2026-06-18T08:00,2026-06-18T17:00,E-0023,UT-PUMP-071,At Risk,Complete,False,Parts unavailable
+J-00486,CU-6004,South,SO60 7CH,Install,Medium,4h,2026-06-03T08:00,2026-06-13T09:00,E-0071,UT-PUMP-043,Rescheduled,Failed Visit,False,Carrier delay
+J-00487,CU-3074,North,L14 6GA,Service,High,48h,2026-06-18T08:00,2026-06-17T14:00,E-0113,UT-VALVE-049,In Progress,Failed Visit,True,Engineer absence
+J-00488,CU-9444,London,N79 9FK,Repair,Low,48h,2026-06-12T08:00,2026-06-17T14:00,E-0058,UT-BOILE-040,Rescheduled,Open,True,Engineer absence
+J-00489,CU-4098,Scotland,DD75 6CJ,Install,Critical,Same Day,2026-06-08T08:00,2026-06-03T11:00,E-0120,UT-PUMP-088,At Risk,Failed Visit,False,Parts unavailable
+J-00490,CU-8702,London,SW15 3BJ,Smart Meter Exchange,High,4h,2026-06-05T08:00,2026-06-16T09:00,E-0108,UT-BOILE-005,At Risk,Failed Visit,True,None
+J-00491,CU-1478,Wales,SY23 4GK,Emergency,High,48h,2026-06-19T08:00,2026-06-01T11:00,E-0088,UT-SENSO-053,In Progress,Open,True,None
+J-00492,CU-3581,North,YO49 3BA,Install,High,4h,2026-06-16T08:00,2026-06-03T11:00,E-0023,UT-EV-027,At Risk,Complete,False,None
+J-00493,CU-1215,North,YO54 1GE,Emergency,High,Next Day,2026-06-11T08:00,2026-06-06T14:00,E-0060,UT-BOILE-057,In Progress,Customer Cancelled,True,Carrier delay
+J-00494,CU-7576,North,L40 8KF,Repair,High,48h,2026-06-19T08:00,2026-06-17T12:00,E-0115,UT-SENSO-019,Scheduled,Open,True,Traffic
+J-00495,CU-2103,Wales,CF5 1AH,Repair,Critical,48h,2026-06-18T08:00,2026-06-12T09:00,E-0093,UT-EV-006,In Progress,Complete,True,Traffic
+J-00496,CU-7284,South,OX98 5CA,Install,Critical,48h,2026-06-10T08:00,2026-06-04T14:00,E-0100,UT-EV-023,In Progress,Customer Cancelled,True,Traffic
+J-00497,CU-4425,London,N34 6DF,Service,Low,4h,2026-06-04T08:00,2026-06-04T10:00,E-0089,UT-SENSO-079,Scheduled,Failed Visit,True,Engineer absence
+J-00498,CU-5618,Wales,NP88 5KJ,Install,Low,Next Day,2026-06-13T08:00,2026-06-01T13:00,E-0023,UT-VALVE-085,Rescheduled,Open,True,Weather
+J-00499,CU-1053,North,NE78 7CH,Install,Critical,Same Day,2026-06-09T08:00,2026-06-13T12:00,E-0067,UT-BOILE-067,Rescheduled,Complete,True,None
+J-00500,CU-9061,Wales,CF69 7CE,Install,Low,Next Day,2026-06-14T08:00,2026-06-07T10:00,E-0103,UT-EV-008,Scheduled,Open,True,Engineer absence

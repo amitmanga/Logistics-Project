@@ -2,7 +2,6 @@ import React, { useEffect, useMemo, useState } from "react";
 import { createRoot } from "react-dom/client";
 import {
   AlertTriangle,
-  BarChart3,
   Bell,
   Bot,
   Boxes,
@@ -11,7 +10,6 @@ import {
   ChevronRight,
   CircleDollarSign,
   ClipboardList,
-  Database,
   Factory,
   Filter,
   Gauge,
@@ -20,8 +18,6 @@ import {
   MapPinned,
   PackageCheck,
   RefreshCw,
-  Route,
-  Settings,
   ShieldAlert,
   SlidersHorizontal,
   Sparkles,
@@ -60,17 +56,13 @@ const pages = [
   ["Supply Planning", Factory, "/api/suppliers"],
   ["Inventory Planning", Boxes, "/api/inventory"],
   ["Warehouse / WMS Events", Warehouse, "/api/wms-events"],
-  ["Transportation Planning", Truck, "/api/transport-cost"],
-  ["Route Optimization", Route, "/api/routes"],
+  ["Transportation Cost Optimization", CircleDollarSign, "/api/transport-optimization"],
   ["Shipment Visibility", MapPinned, "/api/shipments"],
   ["Supplier & Carrier Performance", Building2, "/api/suppliers"],
   ["Engineer Parts Availability", UserRoundCheck, "/api/engineer-parts"],
   ["SLA Risk & Exceptions", ShieldAlert, "/api/sla-risk"],
   ["AI Agent Command Centre", Bot, "/api/ai-recommendations"],
   ["Scenario Simulation", SlidersHorizontal, null],
-  ["Analytics & Reports", BarChart3, "/api/overview"],
-  ["Data Management", Database, "/api/data-management"],
-  ["Settings", Settings, null],
 ];
 
 const filters = {
@@ -121,15 +113,6 @@ function Sidebar({ activePage, setActivePage }) {
           </button>
         ))}
       </nav>
-      <section className="quick-actions">
-        <strong>Quick actions</strong>
-        {["Create New Plan", "Run Simulation", "What-if Analysis", "Upload Data"].map((item) => (
-          <button key={item} type="button">
-            <span>{item}</span>
-            <span>+</span>
-          </button>
-        ))}
-      </section>
     </aside>
   );
 }
@@ -253,6 +236,449 @@ function NetworkMap({ network }) {
         </CircleMarker>
       ))}
     </MapContainer>
+  );
+}
+
+function RegionCostMap({ regions }) {
+  const safeRegions = regions || [];
+  return (
+    <MapContainer center={[53.2, -2.7]} zoom={5.2} scrollWheelZoom={false} className="leaflet-map executive-map" attributionControl={false}>
+      {safeRegions.map((region) => (
+        <CircleMarker
+          center={[region.lat, region.lng]}
+          fillColor={region.risk === "High" ? "#d92d20" : region.risk === "Medium" ? "#d98a00" : "#0b63ce"}
+          fillOpacity={0.72}
+          key={region.id}
+          radius={8 + region.excess / 2}
+          stroke
+          weight={2}
+        >
+          <Popup>
+            <strong>{region.name}</strong>
+            <br />
+            £{region.cost}M annual transport cost
+            <br />
+            {region.excess}% excess mileage
+          </Popup>
+        </CircleMarker>
+      ))}
+    </MapContainer>
+  );
+}
+
+function RouteComparisonMap({ routes, mode }) {
+  const paths = routes?.[mode] || [];
+  return (
+    <MapContainer center={[53.2, -2.7]} zoom={5.1} scrollWheelZoom={false} className="leaflet-map route-map" attributionControl={false}>
+      {paths.map((route, index) => (
+        <React.Fragment key={`${mode}-${route.engineer}`}>
+          <Polyline positions={route.path} color={mode === "after" ? "#16834a" : "#d92d20"} opacity={0.78} weight={3} />
+          {route.path.map(([lat, lng], pointIndex) => (
+            <CircleMarker center={[lat, lng]} fillColor={COLORS[index % COLORS.length]} fillOpacity={0.9} key={`${route.engineer}-${pointIndex}`} radius={pointIndex === 0 ? 7 : 5} stroke weight={2}>
+              <Popup>
+                <strong>{route.engineer}</strong>
+                <br />
+                {route.miles} miles
+              </Popup>
+            </CircleMarker>
+          ))}
+        </React.Fragment>
+      ))}
+    </MapContainer>
+  );
+}
+
+function MetricTiles({ items }) {
+  return (
+    <section className="kpi-grid">
+      {(items || []).map((kpi, index) => (
+        <KpiCard index={index} key={kpi.label} kpi={kpi} />
+      ))}
+    </section>
+  );
+}
+
+function TransportExecutive({ data }) {
+  return (
+    <>
+      <MetricTiles items={data.executive?.kpis} />
+      <section className="wide-grid transport-hero-grid">
+        <Panel title="Executive Insights Panel" subtitle="AI narrative generated from route, cost, parts and utilization signals">
+          <Recommendations items={data.executive?.insights} />
+        </Panel>
+        <Panel title="Current State vs AI Optimized State">
+          <div className="impact-strip">
+            {(data.executive?.benefits || []).map((item) => (
+              <article key={item.metric}>
+                <span>{item.metric}</span>
+                <strong>
+                  {item.before}
+                  {item.unit} to {item.after}
+                  {item.unit}
+                </strong>
+              </article>
+            ))}
+          </div>
+          <ResponsiveContainer height={260} width="100%">
+            <BarChart data={data.executive?.benefits || []}>
+              <CartesianGrid strokeDasharray="3 3" vertical={false} />
+              <XAxis dataKey="metric" />
+              <YAxis />
+              <Tooltip />
+              <Legend />
+              <Bar dataKey="before" fill="#d92d20" radius={[6, 6, 0, 0]} />
+              <Bar dataKey="after" fill="#16834a" radius={[6, 6, 0, 0]} />
+            </BarChart>
+          </ResponsiveContainer>
+        </Panel>
+      </section>
+    </>
+  );
+}
+
+function TransportAnalysis({ data }) {
+  const analysis = data.analysis || {};
+  return (
+    <>
+      <section className="profile-grid">
+        {(analysis.datasetProfile || []).map((item) => (
+          <article key={item.name}>
+            <span>{item.name}</span>
+            <strong>{item.value}</strong>
+          </article>
+        ))}
+      </section>
+      <section className="dashboard-grid">
+        <Panel title="Transportation Cost Breakdown" subtitle="Fuel, vehicle, labour and traffic cost by region">
+          <ResponsiveContainer height={300} width="100%">
+            <BarChart data={analysis.breakdown || []}>
+              <CartesianGrid strokeDasharray="3 3" vertical={false} />
+              <XAxis dataKey="region" />
+              <YAxis />
+              <Tooltip />
+              <Legend />
+              <Bar dataKey="fuel" stackId="cost" fill="#0b63ce" />
+              <Bar dataKey="vehicle" stackId="cost" fill="#0798a6" />
+              <Bar dataKey="labour" stackId="cost" fill="#6d5bd0" />
+              <Bar dataKey="traffic" stackId="cost" fill="#f2a91b" />
+            </BarChart>
+          </ResponsiveContainer>
+        </Panel>
+        <Panel title="Monthly Cost Trend" subtitle="24-month current vs optimized trajectory">
+          <ResponsiveContainer height={300} width="100%">
+            <LineChart data={analysis.monthlyTrend || []}>
+              <CartesianGrid strokeDasharray="3 3" vertical={false} />
+              <XAxis dataKey="month" />
+              <YAxis />
+              <Tooltip />
+              <Legend />
+              <Line dataKey="current" stroke="#d92d20" strokeWidth={3} />
+              <Line dataKey="optimized" stroke="#16834a" strokeWidth={3} />
+            </LineChart>
+          </ResponsiveContainer>
+        </Panel>
+        <Panel title="Region Wise Transportation Cost" subtitle="UK heatmap intensity by excess mileage">
+          <RegionCostMap regions={analysis.regionMap} />
+        </Panel>
+        <Panel title="Top Cost Drivers" subtitle="Pareto 80/20 analysis">
+          <ResponsiveContainer height={280} width="100%">
+            <ComposedChart data={analysis.costDrivers || []}>
+              <CartesianGrid strokeDasharray="3 3" vertical={false} />
+              <XAxis dataKey="name" />
+              <YAxis />
+              <Tooltip />
+              <Bar dataKey="value" fill="#0b63ce" radius={[6, 6, 0, 0]} />
+              <Line dataKey="cumulative" stroke="#d92d20" strokeWidth={3} />
+            </ComposedChart>
+          </ResponsiveContainer>
+        </Panel>
+        <Panel title="Synthetic Transportation Cost Dataset" subtitle="Fields include location, mileage, costs, traffic, outcome and parts status">
+          <DataTable rows={analysis.sampleRows} />
+        </Panel>
+      </section>
+    </>
+  );
+}
+
+function TransportWorkbench({ data }) {
+  const workbench = data.workbench || {};
+  return (
+    <>
+      <section className="compare-grid">
+        <article>
+          <span>Before Optimization</span>
+          <strong>75 miles/day</strong>
+          <p>5.2 jobs/day | £51.9M cost</p>
+        </article>
+        <article className="good-card">
+          <span>After Optimization</span>
+          <strong>58 miles/day</strong>
+          <p>6.7 jobs/day | £43.8M cost</p>
+        </article>
+        <article className="good-card">
+          <span>Annual Savings</span>
+          <strong>£8.1M</strong>
+          <p>15.6% optimized cost reduction</p>
+        </article>
+      </section>
+      <section className="dashboard-grid">
+        <Panel title="AI Optimization Engine">
+          <div className="engine-steps">
+            {(workbench.engine || []).map((step) => (
+              <article key={step.step}>
+                <strong>{step.step}</strong>
+                <p>{step.description}</p>
+                <span>{step.confidence}% confidence</span>
+              </article>
+            ))}
+          </div>
+        </Panel>
+        <Panel title="Before Route Map">
+          <RouteComparisonMap mode="before" routes={workbench.routes} />
+        </Panel>
+        <Panel title="After Route Map">
+          <RouteComparisonMap mode="after" routes={workbench.routes} />
+        </Panel>
+        <Panel title="Mileage Reduction Chart">
+          <ResponsiveContainer height={260} width="100%">
+            <BarChart data={workbench.mileageReduction || []}>
+              <CartesianGrid strokeDasharray="3 3" vertical={false} />
+              <XAxis dataKey="metric" />
+              <YAxis />
+              <Tooltip />
+              <Bar dataKey="miles" fill="#0b63ce" radius={[6, 6, 0, 0]} />
+            </BarChart>
+          </ResponsiveContainer>
+        </Panel>
+        <Panel title="Savings Waterfall Chart">
+          <ResponsiveContainer height={260} width="100%">
+            <BarChart data={workbench.waterfall || []}>
+              <CartesianGrid strokeDasharray="3 3" vertical={false} />
+              <XAxis dataKey="name" />
+              <YAxis />
+              <Tooltip />
+              <Bar dataKey="value" radius={[6, 6, 0, 0]}>
+                {(workbench.waterfall || []).map((item) => (
+                  <Cell fill={item.value < 0 ? "#16834a" : "#0b63ce"} key={item.name} />
+                ))}
+              </Bar>
+            </BarChart>
+          </ResponsiveContainer>
+        </Panel>
+        <Panel title="Engineer Utilization Comparison">
+          <ResponsiveContainer height={260} width="100%">
+            <BarChart data={workbench.utilization || []}>
+              <CartesianGrid strokeDasharray="3 3" vertical={false} />
+              <XAxis dataKey="region" />
+              <YAxis />
+              <Tooltip />
+              <Legend />
+              <Bar dataKey="before" fill="#a7b6c8" />
+              <Bar dataKey="after" fill="#16834a" />
+            </BarChart>
+          </ResponsiveContainer>
+        </Panel>
+      </section>
+    </>
+  );
+}
+
+function RootCauseView({ data }) {
+  const rootCause = data.rootCause || {};
+  return (
+    <section className="dashboard-grid">
+      <Panel title="Fishbone Diagram" subtitle="Cause and effect view of high transport cost">
+        <div className="fishbone">
+          <strong>{rootCause.fishbone?.head}</strong>
+          {(rootCause.fishbone?.bones || []).map((bone, index) => (
+            <span className={index % 2 ? "lower" : "upper"} key={bone}>
+              {bone}
+            </span>
+          ))}
+        </div>
+      </Panel>
+      <Panel title="Contribution Analysis">
+        <Donut centerLabel="Cost Drivers" data={rootCause.causes} />
+      </Panel>
+      <Panel title="Driver Importance">
+        <ResponsiveContainer height={280} width="100%">
+          <BarChart data={rootCause.causes || []} layout="vertical">
+            <CartesianGrid strokeDasharray="3 3" horizontal={false} />
+            <XAxis type="number" />
+            <YAxis dataKey="name" type="category" width={105} />
+            <Tooltip />
+            <Bar dataKey="value" fill="#0b63ce" radius={[0, 6, 6, 0]} />
+          </BarChart>
+        </ResponsiveContainer>
+      </Panel>
+      <Panel title="SHAP-Style Feature Importance">
+        <div className="feature-list">
+          {(rootCause.featureImportance || []).map((item) => (
+            <article key={item.feature}>
+              <span>{item.feature}</span>
+              <div>
+                <i style={{ width: `${item.importance * 100}%` }} />
+              </div>
+              <b>{Math.round(item.importance * 100)}%</b>
+            </article>
+          ))}
+        </div>
+      </Panel>
+    </section>
+  );
+}
+
+function RecommendationCenter({ data }) {
+  return (
+    <section className="agent-output-grid recommendation-centre">
+      {(data.agents || []).map((agent) => (
+        <article className={`priority-${agent.priority.toLowerCase()}`} key={agent.agent}>
+          <h3>{agent.agent}</h3>
+          <div className="agent-reco">
+            <span>Issue detected</span>
+            <strong>{agent.issue}</strong>
+            <span>Impact</span>
+            <strong>{agent.impact}</strong>
+            <span>Recommendation</span>
+            <strong>{agent.recommendation}</strong>
+            <span>Expected savings</span>
+            <strong>{agent.expectedSaving}</strong>
+            <span>Confidence</span>
+            <strong>{agent.confidence}%</strong>
+            <span>Priority</span>
+            <strong>{agent.priority}</strong>
+          </div>
+        </article>
+      ))}
+    </section>
+  );
+}
+
+function FinancialSimulator({ data }) {
+  const [scenario, setScenario] = useState({
+    fuelPrice: 1.45,
+    engineerCount: 7000,
+    jobsVolume: 500000,
+    averageDistance: 75,
+    trafficPercent: 18,
+    repeatVisitPercent: 12,
+    vehicleCost: 0.18,
+  });
+  const [result, setResult] = useState(data.defaultSimulation);
+
+  useEffect(() => {
+    postJson("/api/transport-optimization/simulate", scenario).then(setResult).catch(() => setResult(data.defaultSimulation));
+  }, [scenario, data.defaultSimulation]);
+
+  const controls = [
+    ["fuelPrice", "Fuel Price", 1.1, 2.2, 0.01],
+    ["engineerCount", "Engineer Count", 5600, 8200, 100],
+    ["jobsVolume", "Jobs Volume", 350000, 650000, 10000],
+    ["averageDistance", "Average Distance", 45, 95, 1],
+    ["trafficPercent", "Traffic %", 0, 35, 1],
+    ["repeatVisitPercent", "Repeat Visit %", 3, 22, 1],
+    ["vehicleCost", "Vehicle Cost / Mile", 0.12, 0.32, 0.01],
+  ];
+
+  return (
+    <section className="scenario-layout">
+      <Panel title="Financial Impact Simulator" subtitle="Modify cost drivers and see annual impact in realtime">
+        <div className="slider-grid">
+          {controls.map(([key, label, min, max, step]) => (
+            <label key={key}>
+              <span>
+                {label} <b>{scenario[key]}</b>
+              </span>
+              <input min={min} max={max} onChange={(event) => setScenario((current) => ({ ...current, [key]: Number(event.target.value) }))} step={step} type="range" value={scenario[key]} />
+            </label>
+          ))}
+        </div>
+      </Panel>
+      <Panel title="Financial Outputs">
+        <div className="sim-output-grid">
+          <article><span>Annual Cost</span><strong>£{result?.annualCost}M</strong></article>
+          <article><span>Optimized Cost</span><strong>£{result?.optimizedCost}M</strong></article>
+          <article><span>Cost Per Job</span><strong>£{result?.costPerJob}</strong></article>
+          <article><span>Savings</span><strong>£{result?.savings}M</strong></article>
+          <article><span>ROI</span><strong>{result?.roi}%</strong></article>
+          <article><span>Payback</span><strong>{result?.paybackPeriod} months</strong></article>
+          <article><span>Carbon Reduction</span><strong>{result?.carbonReduction} tons</strong></article>
+        </div>
+      </Panel>
+    </section>
+  );
+}
+
+function ControlTowerView({ data }) {
+  return (
+    <section className="wide-grid">
+      <Panel title="AI Control Tower" subtitle="Real-time transport risk monitoring and recommended action queue">
+        <div className="control-events">
+          {(data.controlTower || []).map((event) => (
+            <article key={`${event.event}-${event.region}`}>
+              <div>
+                <strong>{event.event}</strong>
+                <span>{event.region}</span>
+              </div>
+              <b>{event.riskScore}</b>
+              <p>{event.transportImpact}</p>
+              <p>{event.recommendedAction}</p>
+              <small>{event.savingsOpportunity} savings opportunity</small>
+            </article>
+          ))}
+        </div>
+      </Panel>
+      <Panel title="Control Tower Visuals">
+        <ResponsiveContainer height={380} width="100%">
+          <BarChart data={data.controlTower || []}>
+            <CartesianGrid strokeDasharray="3 3" vertical={false} />
+            <XAxis dataKey="event" />
+            <YAxis />
+            <Tooltip />
+            <Bar dataKey="riskScore" fill="#d92d20" radius={[6, 6, 0, 0]} />
+          </BarChart>
+        </ResponsiveContainer>
+      </Panel>
+    </section>
+  );
+}
+
+function TransportationOptimizationPage({ data }) {
+  const tabs = [
+    "Executive Summary",
+    "Transportation Cost Analysis",
+    "Route Optimization Workbench",
+    "Root Cause Analysis",
+    "AI Recommendation Center",
+    "Financial Impact Simulator",
+    "AI Control Tower",
+  ];
+  const [activeTab, setActiveTab] = useState(tabs[0]);
+
+  return (
+    <>
+      <section className="page-hero transport-hero">
+        <div>
+          <p>UK Utility Field Operations</p>
+          <h2>High Transportation Cost & AI Optimization</h2>
+        </div>
+        <Truck size={24} />
+      </section>
+      <nav className="module-tabs">
+        {tabs.map((tab) => (
+          <button className={tab === activeTab ? "active" : ""} key={tab} onClick={() => setActiveTab(tab)} type="button">
+            {tab}
+          </button>
+        ))}
+      </nav>
+      {activeTab === "Executive Summary" && <TransportExecutive data={data} />}
+      {activeTab === "Transportation Cost Analysis" && <TransportAnalysis data={data} />}
+      {activeTab === "Route Optimization Workbench" && <TransportWorkbench data={data} />}
+      {activeTab === "Root Cause Analysis" && <RootCauseView data={data} />}
+      {activeTab === "AI Recommendation Center" && <RecommendationCenter data={data} />}
+      {activeTab === "Financial Impact Simulator" && <FinancialSimulator data={data} />}
+      {activeTab === "AI Control Tower" && <ControlTowerView data={data} />}
+    </>
   );
 }
 
@@ -543,20 +969,6 @@ function ScenarioPage() {
   );
 }
 
-function SettingsPage() {
-  return (
-    <section className="settings-grid">
-      {["API Connections", "Planning Rules", "Agent Thresholds", "User Roles", "Audit Controls", "Deployment"].map((item) => (
-        <article className="settings-card" key={item}>
-          <Settings size={20} />
-          <strong>{item}</strong>
-          <span>Configured for demo mode</span>
-        </article>
-      ))}
-    </section>
-  );
-}
-
 function App() {
   const [activePage, setActivePage] = useState("Executive Overview");
   const [pageData, setPageData] = useState(null);
@@ -597,12 +1009,12 @@ function App() {
         {status === "loading" && <div className="loading-card">Loading planning intelligence...</div>}
         {status === "error" && <div className="error-card">Flask API is not reachable. Start the backend service and refresh.</div>}
         {status === "ready" && activePage === "Executive Overview" && pageData && <OverviewPage data={pageData} />}
+        {status === "ready" && activePage === "Transportation Cost Optimization" && pageData && <TransportationOptimizationPage data={pageData} />}
         {status === "ready" && activePage === "AI Agent Command Centre" && pageData && <AgentCentre data={pageData} />}
         {status === "ready" && activePage === "Scenario Simulation" && <ScenarioPage />}
-        {status === "ready" && activePage === "Settings" && <SettingsPage />}
         {status === "ready" &&
           pageData &&
-          !["Executive Overview", "AI Agent Command Centre", "Scenario Simulation", "Settings"].includes(activePage) && (
+          !["Executive Overview", "Transportation Cost Optimization", "AI Agent Command Centre", "Scenario Simulation"].includes(activePage) && (
             <PlanningPage activePage={activePage} data={pageData} />
           )}
       </main>

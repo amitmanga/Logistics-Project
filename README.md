@@ -5,6 +5,7 @@ React + Flask logistics planning control tower for UK utility field operations.
 ## What It Includes
 
 - React enterprise dashboard with left navigation, top filters, KPI cards, charts, map, alerts, AI recommendations, scenario simulation, and agent workflows.
+- Transportation Cost Optimization for UK utility field operations, including executive summary, cost analysis, route workbench, root causes, AI agents, financial simulator, and control tower.
 - Flask backend with Python calculation logic and REST APIs.
 - Simulated datasets in `data/inputs/` as both JSON and CSV.
 - Recharts for dashboard visuals.
@@ -26,6 +27,7 @@ engine/
   data_generator.py
   data_service.py
   planner.py
+  transport_optimization.py
 scripts/
 static/
   assets/
@@ -49,6 +51,8 @@ requirements.txt
 - `GET /api/wms-events`
 - `GET /api/routes`
 - `GET /api/transport-cost`
+- `GET /api/transport-optimization`
+- `POST /api/transport-optimization/simulate`
 - `GET /api/suppliers`
 - `GET /api/carriers`
 - `GET /api/sla-risk`
@@ -102,7 +106,6 @@ Open `http://127.0.0.1:5173`.
 Build React:
 
 ```bash
-npm run build
 npm run build
 ```
 

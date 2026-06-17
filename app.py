@@ -24,6 +24,7 @@ from engine.data_service import (
     wms_events,
 )
 from engine.planner import build_plan
+from engine.transport_optimization import simulate_financial, transport_optimization
 
 
 def create_app() -> Flask:
@@ -64,6 +65,14 @@ def create_app() -> Flask:
     @app.get("/api/transport-cost")
     def api_transport_cost():
         return jsonify(transport_cost())
+
+    @app.get("/api/transport-optimization")
+    def api_transport_optimization():
+        return jsonify(transport_optimization())
+
+    @app.post("/api/transport-optimization/simulate")
+    def api_transport_optimization_simulate():
+        return jsonify(simulate_financial(request.get_json(silent=True) or {}))
 
     @app.get("/api/suppliers")
     def api_suppliers():

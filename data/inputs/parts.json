@@ -1,6 +1,6 @@
 [
   {
-    "part_id": "BG-METER-001",
+    "part_id": "UT-METER-001",
     "part_name": "Meter component 001",
     "category": "Meter",
     "supplier_id": "S-006",
@@ -13,7 +13,7 @@
     "depot_id": "D-MID"
   },
   {
-    "part_id": "BG-VALVE-002",
+    "part_id": "UT-VALVE-002",
     "part_name": "Valve component 002",
     "category": "Valve",
     "supplier_id": "S-005",
@@ -26,7 +26,7 @@
     "depot_id": "D-WAL"
   },
   {
-    "part_id": "BG-EV-003",
+    "part_id": "UT-EV-003",
     "part_name": "EV component 003",
     "category": "EV",
     "supplier_id": "S-005",
@@ -39,7 +39,7 @@
     "depot_id": "D-SCO"
   },
   {
-    "part_id": "BG-BOILE-004",
+    "part_id": "UT-BOILE-004",
     "part_name": "Boiler component 004",
     "category": "Boiler",
     "supplier_id": "S-004",
@@ -52,7 +52,7 @@
     "depot_id": "D-WAL"
   },
   {
-    "part_id": "BG-BOILE-005",
+    "part_id": "UT-BOILE-005",
     "part_name": "Boiler component 005",
     "category": "Boiler",
     "supplier_id": "S-003",
@@ -65,7 +65,7 @@
     "depot_id": "D-STH"
   },
   {
-    "part_id": "BG-EV-006",
+    "part_id": "UT-EV-006",
     "part_name": "EV component 006",
     "category": "EV",
     "supplier_id": "S-014",
@@ -78,7 +78,7 @@
     "depot_id": "D-WAL"
   },
   {
-    "part_id": "BG-PIPEW-007",
+    "part_id": "UT-PIPEW-007",
     "part_name": "Pipework component 007",
     "category": "Pipework",
     "supplier_id": "S-002",
@@ -91,7 +91,7 @@
     "depot_id": "D-LON"
   },
   {
-    "part_id": "BG-EV-008",
+    "part_id": "UT-EV-008",
     "part_name": "EV component 008",
     "category": "EV",
     "supplier_id": "S-014",
@@ -104,7 +104,7 @@
     "depot_id": "D-MID"
   },
   {
-    "part_id": "BG-PIPEW-009",
+    "part_id": "UT-PIPEW-009",
     "part_name": "Pipework component 009",
     "category": "Pipework",
     "supplier_id": "S-004",
@@ -117,7 +117,7 @@
     "depot_id": "D-SCO"
   },
   {
-    "part_id": "BG-EV-010",
+    "part_id": "UT-EV-010",
     "part_name": "EV component 010",
     "category": "EV",
     "supplier_id": "S-003",
@@ -130,7 +130,7 @@
     "depot_id": "D-NTH"
   },
   {
-    "part_id": "BG-BOILE-011",
+    "part_id": "UT-BOILE-011",
     "part_name": "Boiler component 011",
     "category": "Boiler",
     "supplier_id": "S-005",
@@ -143,7 +143,7 @@
     "depot_id": "D-LON"
   },
   {
-    "part_id": "BG-SENSO-012",
+    "part_id": "UT-SENSO-012",
     "part_name": "Sensor component 012",
     "category": "Sensor",
     "supplier_id": "S-006",
@@ -156,7 +156,7 @@
     "depot_id": "D-WAL"
   },
   {
-    "part_id": "BG-PIPEW-013",
+    "part_id": "UT-PIPEW-013",
     "part_name": "Pipework component 013",
     "category": "Pipework",
     "supplier_id": "S-001",
@@ -169,7 +169,7 @@
     "depot_id": "D-STH"
   },
   {
-    "part_id": "BG-PIPEW-014",
+    "part_id": "UT-PIPEW-014",
     "part_name": "Pipework component 014",
     "category": "Pipework",
     "supplier_id": "S-014",
@@ -182,7 +182,7 @@
     "depot_id": "D-LON"
   },
   {
-    "part_id": "BG-METER-015",
+    "part_id": "UT-METER-015",
     "part_name": "Meter component 015",
     "category": "Meter",
     "supplier_id": "S-003",
@@ -195,7 +195,7 @@
     "depot_id": "D-MID"
   },
   {
-    "part_id": "BG-VALVE-016",
+    "part_id": "UT-VALVE-016",
     "part_name": "Valve component 016",
     "category": "Valve",
     "supplier_id": "S-002",
@@ -208,7 +208,7 @@
     "depot_id": "D-STH"
   },
   {
-    "part_id": "BG-METER-017",
+    "part_id": "UT-METER-017",
     "part_name": "Meter component 017",
     "category": "Meter",
     "supplier_id": "S-014",
@@ -221,7 +221,7 @@
     "depot_id": "D-STH"
   },
   {
-    "part_id": "BG-PUMP-018",
+    "part_id": "UT-PUMP-018",
     "part_name": "Pump component 018",
     "category": "Pump",
     "supplier_id": "S-001",
@@ -234,7 +234,7 @@
     "depot_id": "D-MID"
   },
   {
-    "part_id": "BG-SENSO-019",
+    "part_id": "UT-SENSO-019",
     "part_name": "Sensor component 019",
     "category": "Sensor",
     "supplier_id": "S-002",
@@ -247,7 +247,7 @@
     "depot_id": "D-SCO"
   },
   {
-    "part_id": "BG-EV-020",
+    "part_id": "UT-EV-020",
     "part_name": "EV component 020",
     "category": "EV",
     "supplier_id": "S-003",
@@ -260,7 +260,7 @@
     "depot_id": "D-NTH"
   },
   {
-    "part_id": "BG-BOILE-021",
+    "part_id": "UT-BOILE-021",
     "part_name": "Boiler component 021",
     "category": "Boiler",
     "supplier_id": "S-006",
@@ -273,7 +273,7 @@
     "depot_id": "D-NTH"
   },
   {
-    "part_id": "BG-BOILE-022",
+    "part_id": "UT-BOILE-022",
     "part_name": "Boiler component 022",
     "category": "Boiler",
     "supplier_id": "S-014",
@@ -286,7 +286,7 @@
     "depot_id": "D-MID"
   },
   {
-    "part_id": "BG-EV-023",
+    "part_id": "UT-EV-023",
     "part_name": "EV component 023",
     "category": "EV",
     "supplier_id": "S-004",
@@ -299,7 +299,7 @@
     "depot_id": "D-MID"
   },
   {
-    "part_id": "BG-PUMP-024",
+    "part_id": "UT-PUMP-024",
     "part_name": "Pump component 024",
     "category": "Pump",
     "supplier_id": "S-001",
@@ -312,7 +312,7 @@
     "depot_id": "D-MID"
   },
   {
-    "part_id": "BG-BOILE-025",
+    "part_id": "UT-BOILE-025",
     "part_name": "Boiler component 025",
     "category": "Boiler",
     "supplier_id": "S-003",
@@ -325,7 +325,7 @@
     "depot_id": "D-WAL"
   },
   {
-    "part_id": "BG-BOILE-026",
+    "part_id": "UT-BOILE-026",
     "part_name": "Boiler component 026",
     "category": "Boiler",
     "supplier_id": "S-001",
@@ -338,7 +338,7 @@
     "depot_id": "D-LON"
   },
   {
-    "part_id": "BG-EV-027",
+    "part_id": "UT-EV-027",
     "part_name": "EV component 027",
     "category": "EV",
     "supplier_id": "S-003",
@@ -351,7 +351,7 @@
     "depot_id": "D-LON"
   },
   {
-    "part_id": "BG-BOILE-028",
+    "part_id": "UT-BOILE-028",
     "part_name": "Boiler component 028",
     "category": "Boiler",
     "supplier_id": "S-014",
@@ -364,7 +364,7 @@
     "depot_id": "D-NTH"
   },
   {
-    "part_id": "BG-PUMP-029",
+    "part_id": "UT-PUMP-029",
     "part_name": "Pump component 029",
     "category": "Pump",
     "supplier_id": "S-001",
@@ -377,7 +377,7 @@
     "depot_id": "D-WAL"
   },
   {
-    "part_id": "BG-METER-030",
+    "part_id": "UT-METER-030",
     "part_name": "Meter component 030",
     "category": "Meter",
     "supplier_id": "S-001",
@@ -390,7 +390,7 @@
     "depot_id": "D-NTH"
   },
   {
-    "part_id": "BG-METER-031",
+    "part_id": "UT-METER-031",
     "part_name": "Meter component 031",
     "category": "Meter",
     "supplier_id": "S-006",
@@ -403,7 +403,7 @@
     "depot_id": "D-MID"
   },
   {
-    "part_id": "BG-BOILE-032",
+    "part_id": "UT-BOILE-032",
     "part_name": "Boiler component 032",
     "category": "Boiler",
     "supplier_id": "S-003",
@@ -416,7 +416,7 @@
     "depot_id": "D-STH"
   },
   {
-    "part_id": "BG-VALVE-033",
+    "part_id": "UT-VALVE-033",
     "part_name": "Valve component 033",
     "category": "Valve",
     "supplier_id": "S-014",
@@ -429,7 +429,7 @@
     "depot_id": "D-MID"
   },
   {
-    "part_id": "BG-BOILE-034",
+    "part_id": "UT-BOILE-034",
     "part_name": "Boiler component 034",
     "category": "Boiler",
     "supplier_id": "S-003",
@@ -442,7 +442,7 @@
     "depot_id": "D-LON"
   },
   {
-    "part_id": "BG-EV-035",
+    "part_id": "UT-EV-035",
     "part_name": "EV component 035",
     "category": "EV",
     "supplier_id": "S-006",
@@ -455,7 +455,7 @@
     "depot_id": "D-NTH"
   },
   {
-    "part_id": "BG-BOILE-036",
+    "part_id": "UT-BOILE-036",
     "part_name": "Boiler component 036",
     "category": "Boiler",
     "supplier_id": "S-014",
@@ -468,7 +468,7 @@
     "depot_id": "D-MID"
   },
   {
-    "part_id": "BG-PUMP-037",
+    "part_id": "UT-PUMP-037",
     "part_name": "Pump component 037",
     "category": "Pump",
     "supplier_id": "S-006",
@@ -481,7 +481,7 @@
     "depot_id": "D-SCO"
   },
   {
-    "part_id": "BG-SENSO-038",
+    "part_id": "UT-SENSO-038",
     "part_name": "Sensor component 038",
     "category": "Sensor",
     "supplier_id": "S-014",
@@ -494,7 +494,7 @@
     "depot_id": "D-STH"
   },
   {
-    "part_id": "BG-METER-039",
+    "part_id": "UT-METER-039",
     "part_name": "Meter component 039",
     "category": "Meter",
     "supplier_id": "S-003",
@@ -507,7 +507,7 @@
     "depot_id": "D-SCO"
   },
   {
-    "part_id": "BG-BOILE-040",
+    "part_id": "UT-BOILE-040",
     "part_name": "Boiler component 040",
     "category": "Boiler",
     "supplier_id": "S-006",
@@ -520,7 +520,7 @@
     "depot_id": "D-LON"
   },
   {
-    "part_id": "BG-PIPEW-041",
+    "part_id": "UT-PIPEW-041",
     "part_name": "Pipework component 041",
     "category": "Pipework",
     "supplier_id": "S-006",
@@ -533,7 +533,7 @@
     "depot_id": "D-MID"
   },
   {
-    "part_id": "BG-BOILE-042",
+    "part_id": "UT-BOILE-042",
     "part_name": "Boiler component 042",
     "category": "Boiler",
     "supplier_id": "S-002",
@@ -546,7 +546,7 @@
     "depot_id": "D-STH"
   },
   {
-    "part_id": "BG-PUMP-043",
+    "part_id": "UT-PUMP-043",
     "part_name": "Pump component 043",
     "category": "Pump",
     "supplier_id": "S-003",
@@ -559,7 +559,7 @@
     "depot_id": "D-SCO"
   },
   {
-    "part_id": "BG-METER-044",
+    "part_id": "UT-METER-044",
     "part_name": "Meter component 044",
     "category": "Meter",
     "supplier_id": "S-006",
@@ -572,7 +572,7 @@
     "depot_id": "D-WAL"
   },
   {
-    "part_id": "BG-PUMP-045",
+    "part_id": "UT-PUMP-045",
     "part_name": "Pump component 045",
     "category": "Pump",
     "supplier_id": "S-005",
@@ -585,7 +585,7 @@
     "depot_id": "D-STH"
   },
   {
-    "part_id": "BG-PUMP-046",
+    "part_id": "UT-PUMP-046",
     "part_name": "Pump component 046",
     "category": "Pump",
     "supplier_id": "S-002",
@@ -598,7 +598,7 @@
     "depot_id": "D-STH"
   },
   {
-    "part_id": "BG-EV-047",
+    "part_id": "UT-EV-047",
     "part_name": "EV component 047",
     "category": "EV",
     "supplier_id": "S-003",
@@ -611,7 +611,7 @@
     "depot_id": "D-MID"
   },
   {
-    "part_id": "BG-PIPEW-048",
+    "part_id": "UT-PIPEW-048",
     "part_name": "Pipework component 048",
     "category": "Pipework",
     "supplier_id": "S-006",
@@ -624,7 +624,7 @@
     "depot_id": "D-LON"
   },
   {
-    "part_id": "BG-VALVE-049",
+    "part_id": "UT-VALVE-049",
     "part_name": "Valve component 049",
     "category": "Valve",
     "supplier_id": "S-014",
@@ -637,7 +637,7 @@
     "depot_id": "D-WAL"
   },
   {
-    "part_id": "BG-VALVE-050",
+    "part_id": "UT-VALVE-050",
     "part_name": "Valve component 050",
     "category": "Valve",
     "supplier_id": "S-005",
@@ -650,7 +650,7 @@
     "depot_id": "D-SCO"
   },
   {
-    "part_id": "BG-EV-051",
+    "part_id": "UT-EV-051",
     "part_name": "EV component 051",
     "category": "EV",
     "supplier_id": "S-005",
@@ -663,7 +663,7 @@
     "depot_id": "D-STH"
   },
   {
-    "part_id": "BG-SENSO-052",
+    "part_id": "UT-SENSO-052",
     "part_name": "Sensor component 052",
     "category": "Sensor",
     "supplier_id": "S-003",
@@ -676,7 +676,7 @@
     "depot_id": "D-LON"
   },
   {
-    "part_id": "BG-SENSO-053",
+    "part_id": "UT-SENSO-053",
     "part_name": "Sensor component 053",
     "category": "Sensor",
     "supplier_id": "S-002",
@@ -689,7 +689,7 @@
     "depot_id": "D-WAL"
   },
   {
-    "part_id": "BG-METER-054",
+    "part_id": "UT-METER-054",
     "part_name": "Meter component 054",
     "category": "Meter",
     "supplier_id": "S-014",
@@ -702,7 +702,7 @@
     "depot_id": "D-STH"
   },
   {
-    "part_id": "BG-METER-055",
+    "part_id": "UT-METER-055",
     "part_name": "Meter component 055",
     "category": "Meter",
     "supplier_id": "S-005",
@@ -715,7 +715,7 @@
     "depot_id": "D-STH"
   },
   {
-    "part_id": "BG-SENSO-056",
+    "part_id": "UT-SENSO-056",
     "part_name": "Sensor component 056",
     "category": "Sensor",
     "supplier_id": "S-006",
@@ -728,7 +728,7 @@
     "depot_id": "D-LON"
   },
   {
-    "part_id": "BG-BOILE-057",
+    "part_id": "UT-BOILE-057",
     "part_name": "Boiler component 057",
     "category": "Boiler",
     "supplier_id": "S-006",
@@ -741,7 +741,7 @@
     "depot_id": "D-SCO"
   },
   {
-    "part_id": "BG-PIPEW-058",
+    "part_id": "UT-PIPEW-058",
     "part_name": "Pipework component 058",
     "category": "Pipework",
     "supplier_id": "S-005",
@@ -754,7 +754,7 @@
     "depot_id": "D-SCO"
   },
   {
-    "part_id": "BG-BOILE-059",
+    "part_id": "UT-BOILE-059",
     "part_name": "Boiler component 059",
     "category": "Boiler",
     "supplier_id": "S-006",
@@ -767,7 +767,7 @@
     "depot_id": "D-NTH"
   },
   {
-    "part_id": "BG-SENSO-060",
+    "part_id": "UT-SENSO-060",
     "part_name": "Sensor component 060",
     "category": "Sensor",
     "supplier_id": "S-002",
@@ -780,7 +780,7 @@
     "depot_id": "D-NTH"
   },
   {
-    "part_id": "BG-SENSO-061",
+    "part_id": "UT-SENSO-061",
     "part_name": "Sensor component 061",
     "category": "Sensor",
     "supplier_id": "S-005",
@@ -793,7 +793,7 @@
     "depot_id": "D-MID"
   },
   {
-    "part_id": "BG-VALVE-062",
+    "part_id": "UT-VALVE-062",
     "part_name": "Valve component 062",
     "category": "Valve",
     "supplier_id": "S-001",
@@ -806,7 +806,7 @@
     "depot_id": "D-MID"
   },
   {
-    "part_id": "BG-EV-063",
+    "part_id": "UT-EV-063",
     "part_name": "EV component 063",
     "category": "EV",
     "supplier_id": "S-003",
@@ -819,7 +819,7 @@
     "depot_id": "D-WAL"
   },
   {
-    "part_id": "BG-PUMP-064",
+    "part_id": "UT-PUMP-064",
     "part_name": "Pump component 064",
     "category": "Pump",
     "supplier_id": "S-004",
@@ -832,7 +832,7 @@
     "depot_id": "D-MID"
   },
   {
-    "part_id": "BG-VALVE-065",
+    "part_id": "UT-VALVE-065",
     "part_name": "Valve component 065",
     "category": "Valve",
     "supplier_id": "S-005",
@@ -845,7 +845,7 @@
     "depot_id": "D-WAL"
   },
   {
-    "part_id": "BG-BOILE-066",
+    "part_id": "UT-BOILE-066",
     "part_name": "Boiler component 066",
     "category": "Boiler",
     "supplier_id": "S-014",
@@ -858,7 +858,7 @@
     "depot_id": "D-NTH"
   },
   {
-    "part_id": "BG-BOILE-067",
+    "part_id": "UT-BOILE-067",
     "part_name": "Boiler component 067",
     "category": "Boiler",
     "supplier_id": "S-004",
@@ -871,7 +871,7 @@
     "depot_id": "D-SCO"
   },
   {
-    "part_id": "BG-SENSO-068",
+    "part_id": "UT-SENSO-068",
     "part_name": "Sensor component 068",
     "category": "Sensor",
     "supplier_id": "S-004",
@@ -884,7 +884,7 @@
     "depot_id": "D-LON"
   },
   {
-    "part_id": "BG-PUMP-069",
+    "part_id": "UT-PUMP-069",
     "part_name": "Pump component 069",
     "category": "Pump",
     "supplier_id": "S-003",
@@ -897,7 +897,7 @@
     "depot_id": "D-WAL"
   },
   {
-    "part_id": "BG-SENSO-070",
+    "part_id": "UT-SENSO-070",
     "part_name": "Sensor component 070",
     "category": "Sensor",
     "supplier_id": "S-004",
@@ -910,7 +910,7 @@
     "depot_id": "D-WAL"
   },
   {
-    "part_id": "BG-PUMP-071",
+    "part_id": "UT-PUMP-071",
     "part_name": "Pump component 071",
     "category": "Pump",
     "supplier_id": "S-002",
@@ -923,7 +923,7 @@
     "depot_id": "D-SCO"
   },
   {
-    "part_id": "BG-SENSO-072",
+    "part_id": "UT-SENSO-072",
     "part_name": "Sensor component 072",
     "category": "Sensor",
     "supplier_id": "S-006",
@@ -936,7 +936,7 @@
     "depot_id": "D-SCO"
   },
   {
-    "part_id": "BG-EV-073",
+    "part_id": "UT-EV-073",
     "part_name": "EV component 073",
     "category": "EV",
     "supplier_id": "S-001",
@@ -949,7 +949,7 @@
     "depot_id": "D-WAL"
   },
   {
-    "part_id": "BG-PUMP-074",
+    "part_id": "UT-PUMP-074",
     "part_name": "Pump component 074",
     "category": "Pump",
     "supplier_id": "S-003",
@@ -962,7 +962,7 @@
     "depot_id": "D-WAL"
   },
   {
-    "part_id": "BG-PIPEW-075",
+    "part_id": "UT-PIPEW-075",
     "part_name": "Pipework component 075",
     "category": "Pipework",
     "supplier_id": "S-006",
@@ -975,7 +975,7 @@
     "depot_id": "D-WAL"
   },
   {
-    "part_id": "BG-PIPEW-076",
+    "part_id": "UT-PIPEW-076",
     "part_name": "Pipework component 076",
     "category": "Pipework",
     "supplier_id": "S-001",
@@ -988,7 +988,7 @@
     "depot_id": "D-STH"
   },
   {
-    "part_id": "BG-VALVE-077",
+    "part_id": "UT-VALVE-077",
     "part_name": "Valve component 077",
     "category": "Valve",
     "supplier_id": "S-004",
@@ -1001,7 +1001,7 @@
     "depot_id": "D-WAL"
   },
   {
-    "part_id": "BG-VALVE-078",
+    "part_id": "UT-VALVE-078",
     "part_name": "Valve component 078",
     "category": "Valve",
     "supplier_id": "S-005",
@@ -1014,7 +1014,7 @@
     "depot_id": "D-SCO"
   },
   {
-    "part_id": "BG-SENSO-079",
+    "part_id": "UT-SENSO-079",
     "part_name": "Sensor component 079",
     "category": "Sensor",
     "supplier_id": "S-003",
@@ -1027,7 +1027,7 @@
     "depot_id": "D-NTH"
   },
   {
-    "part_id": "BG-SENSO-080",
+    "part_id": "UT-SENSO-080",
     "part_name": "Sensor component 080",
     "category": "Sensor",
     "supplier_id": "S-003",
@@ -1040,7 +1040,7 @@
     "depot_id": "D-NTH"
   },
   {
-    "part_id": "BG-PUMP-081",
+    "part_id": "UT-PUMP-081",
     "part_name": "Pump component 081",
     "category": "Pump",
     "supplier_id": "S-003",
@@ -1053,7 +1053,7 @@
     "depot_id": "D-NTH"
   },
   {
-    "part_id": "BG-EV-082",
+    "part_id": "UT-EV-082",
     "part_name": "EV component 082",
     "category": "EV",
     "supplier_id": "S-014",
@@ -1066,7 +1066,7 @@
     "depot_id": "D-SCO"
   },
   {
-    "part_id": "BG-PIPEW-083",
+    "part_id": "UT-PIPEW-083",
     "part_name": "Pipework component 083",
     "category": "Pipework",
     "supplier_id": "S-003",
@@ -1079,7 +1079,7 @@
     "depot_id": "D-MID"
   },
   {
-    "part_id": "BG-BOILE-084",
+    "part_id": "UT-BOILE-084",
     "part_name": "Boiler component 084",
     "category": "Boiler",
     "supplier_id": "S-005",
@@ -1092,7 +1092,7 @@
     "depot_id": "D-STH"
   },
   {
-    "part_id": "BG-VALVE-085",
+    "part_id": "UT-VALVE-085",
     "part_name": "Valve component 085",
     "category": "Valve",
     "supplier_id": "S-001",
@@ -1105,7 +1105,7 @@
     "depot_id": "D-LON"
   },
   {
-    "part_id": "BG-SENSO-086",
+    "part_id": "UT-SENSO-086",
     "part_name": "Sensor component 086",
     "category": "Sensor",
     "supplier_id": "S-002",
@@ -1118,7 +1118,7 @@
     "depot_id": "D-NTH"
   },
   {
-    "part_id": "BG-METER-087",
+    "part_id": "UT-METER-087",
     "part_name": "Meter component 087",
     "category": "Meter",
     "supplier_id": "S-006",
@@ -1131,7 +1131,7 @@
     "depot_id": "D-MID"
   },
   {
-    "part_id": "BG-PUMP-088",
+    "part_id": "UT-PUMP-088",
     "part_name": "Pump component 088",
     "category": "Pump",
     "supplier_id": "S-014",
@@ -1144,7 +1144,7 @@
     "depot_id": "D-STH"
   },
   {
-    "part_id": "BG-EV-089",
+    "part_id": "UT-EV-089",
     "part_name": "EV component 089",
     "category": "EV",
     "supplier_id": "S-003",
@@ -1157,7 +1157,7 @@
     "depot_id": "D-NTH"
   },
   {
-    "part_id": "BG-PUMP-090",
+    "part_id": "UT-PUMP-090",
     "part_name": "Pump component 090",
     "category": "Pump",
     "supplier_id": "S-006",

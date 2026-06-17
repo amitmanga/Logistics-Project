@@ -1,7 +1,7 @@
 [
   {
     "inventory_id": "INV-0001",
-    "part_id": "BG-METER-001",
+    "part_id": "UT-METER-001",
     "warehouse_id": "W-GLA",
     "depot_id": "D-MID",
     "available_qty": 491,
@@ -13,7 +13,7 @@
   },
   {
     "inventory_id": "INV-0002",
-    "part_id": "BG-VALVE-002",
+    "part_id": "UT-VALVE-002",
     "warehouse_id": "W-LON",
     "depot_id": "D-WAL",
     "available_qty": 370,
@@ -25,7 +25,7 @@
   },
   {
     "inventory_id": "INV-0003",
-    "part_id": "BG-EV-003",
+    "part_id": "UT-EV-003",
     "warehouse_id": "W-MAN",
     "depot_id": "D-SCO",
     "available_qty": 1777,
@@ -37,7 +37,7 @@
   },
   {
     "inventory_id": "INV-0004",
-    "part_id": "BG-BOILE-004",
+    "part_id": "UT-BOILE-004",
     "warehouse_id": "W-GLA",
     "depot_id": "D-WAL",
     "available_qty": 1638,
@@ -49,7 +49,7 @@
   },
   {
     "inventory_id": "INV-0005",
-    "part_id": "BG-BOILE-005",
+    "part_id": "UT-BOILE-005",
     "warehouse_id": "W-COV",
     "depot_id": "D-STH",
     "available_qty": 124,
@@ -61,7 +61,7 @@
   },
   {
     "inventory_id": "INV-0006",
-    "part_id": "BG-EV-006",
+    "part_id": "UT-EV-006",
     "warehouse_id": "W-LON",
     "depot_id": "D-WAL",
     "available_qty": 955,
@@ -73,7 +73,7 @@
   },
   {
     "inventory_id": "INV-0007",
-    "part_id": "BG-PIPEW-007",
+    "part_id": "UT-PIPEW-007",
     "warehouse_id": "W-LON",
     "depot_id": "D-LON",
     "available_qty": 1034,
@@ -85,7 +85,7 @@
   },
   {
     "inventory_id": "INV-0008",
-    "part_id": "BG-EV-008",
+    "part_id": "UT-EV-008",
     "warehouse_id": "W-COV",
     "depot_id": "D-MID",
     "available_qty": 1041,
@@ -97,7 +97,7 @@
   },
   {
     "inventory_id": "INV-0009",
-    "part_id": "BG-PIPEW-009",
+    "part_id": "UT-PIPEW-009",
     "warehouse_id": "W-LON",
     "depot_id": "D-SCO",
     "available_qty": 753,
@@ -109,7 +109,7 @@
   },
   {
     "inventory_id": "INV-0010",
-    "part_id": "BG-EV-010",
+    "part_id": "UT-EV-010",
     "warehouse_id": "W-COV",
     "depot_id": "D-NTH",
     "available_qty": 1624,
@@ -121,7 +121,7 @@
   },
   {
     "inventory_id": "INV-0011",
-    "part_id": "BG-BOILE-011",
+    "part_id": "UT-BOILE-011",
     "warehouse_id": "W-GLA",
     "depot_id": "D-LON",
     "available_qty": 524,
@@ -133,7 +133,7 @@
   },
   {
     "inventory_id": "INV-0012",
-    "part_id": "BG-SENSO-012",
+    "part_id": "UT-SENSO-012",
     "warehouse_id": "W-MAN",
     "depot_id": "D-WAL",
     "available_qty": 643,
@@ -145,7 +145,7 @@
   },
   {
     "inventory_id": "INV-0013",
-    "part_id": "BG-PIPEW-013",
+    "part_id": "UT-PIPEW-013",
     "warehouse_id": "W-MAN",
     "depot_id": "D-STH",
     "available_qty": 1325,
@@ -157,7 +157,7 @@
   },
   {
     "inventory_id": "INV-0014",
-    "part_id": "BG-PIPEW-014",
+    "part_id": "UT-PIPEW-014",
     "warehouse_id": "W-GLA",
     "depot_id": "D-LON",
     "available_qty": 1331,
@@ -169,7 +169,7 @@
   },
   {
     "inventory_id": "INV-0015",
-    "part_id": "BG-METER-015",
+    "part_id": "UT-METER-015",
     "warehouse_id": "W-MAN",
     "depot_id": "D-MID",
     "available_qty": 707,
@@ -181,7 +181,7 @@
   },
   {
     "inventory_id": "INV-0016",
-    "part_id": "BG-VALVE-016",
+    "part_id": "UT-VALVE-016",
     "warehouse_id": "W-COV",
     "depot_id": "D-STH",
     "available_qty": 1047,
@@ -193,7 +193,7 @@
   },
   {
     "inventory_id": "INV-0017",
-    "part_id": "BG-METER-017",
+    "part_id": "UT-METER-017",
     "warehouse_id": "W-MAN",
     "depot_id": "D-STH",
     "available_qty": 323,
@@ -205,7 +205,7 @@
   },
   {
     "inventory_id": "INV-0018",
-    "part_id": "BG-PUMP-018",
+    "part_id": "UT-PUMP-018",
     "warehouse_id": "W-LON",
     "depot_id": "D-MID",
     "available_qty": 917,
@@ -217,7 +217,7 @@
   },
   {
     "inventory_id": "INV-0019",
-    "part_id": "BG-SENSO-019",
+    "part_id": "UT-SENSO-019",
     "warehouse_id": "W-LON",
     "depot_id": "D-SCO",
     "available_qty": 1718,
@@ -229,7 +229,7 @@
   },
   {
     "inventory_id": "INV-0020",
-    "part_id": "BG-EV-020",
+    "part_id": "UT-EV-020",
     "warehouse_id": "W-MAN",
     "depot_id": "D-NTH",
     "available_qty": 339,
@@ -241,7 +241,7 @@
   },
   {
     "inventory_id": "INV-0021",
-    "part_id": "BG-BOILE-021",
+    "part_id": "UT-BOILE-021",
     "warehouse_id": "W-COV",
     "depot_id": "D-NTH",
     "available_qty": 1143,
@@ -253,7 +253,7 @@
   },
   {
     "inventory_id": "INV-0022",
-    "part_id": "BG-BOILE-022",
+    "part_id": "UT-BOILE-022",
     "warehouse_id": "W-COV",
     "depot_id": "D-MID",
     "available_qty": 1059,
@@ -265,7 +265,7 @@
   },
   {
     "inventory_id": "INV-0023",
-    "part_id": "BG-EV-023",
+    "part_id": "UT-EV-023",
     "warehouse_id": "W-GLA",
     "depot_id": "D-MID",
     "available_qty": 857,
@@ -277,7 +277,7 @@
   },
   {
     "inventory_id": "INV-0024",
-    "part_id": "BG-PUMP-024",
+    "part_id": "UT-PUMP-024",
     "warehouse_id": "W-MAN",
     "depot_id": "D-MID",
     "available_qty": 660,
@@ -289,7 +289,7 @@
   },
   {
     "inventory_id": "INV-0025",
-    "part_id": "BG-BOILE-025",
+    "part_id": "UT-BOILE-025",
     "warehouse_id": "W-LON",
     "depot_id": "D-WAL",
     "available_qty": 1433,
@@ -301,7 +301,7 @@
   },
   {
     "inventory_id": "INV-0026",
-    "part_id": "BG-BOILE-026",
+    "part_id": "UT-BOILE-026",
     "warehouse_id": "W-LON",
     "depot_id": "D-LON",
     "available_qty": 1718,
@@ -313,7 +313,7 @@
   },
   {
     "inventory_id": "INV-0027",
-    "part_id": "BG-EV-027",
+    "part_id": "UT-EV-027",
     "warehouse_id": "W-LON",
     "depot_id": "D-LON",
     "available_qty": 105,
@@ -325,7 +325,7 @@
   },
   {
     "inventory_id": "INV-0028",
-    "part_id": "BG-BOILE-028",
+    "part_id": "UT-BOILE-028",
     "warehouse_id": "W-MAN",
     "depot_id": "D-NTH",
     "available_qty": 1302,
@@ -337,7 +337,7 @@
   },
   {
     "inventory_id": "INV-0029",
-    "part_id": "BG-PUMP-029",
+    "part_id": "UT-PUMP-029",
     "warehouse_id": "W-COV",
     "depot_id": "D-WAL",
     "available_qty": 1176,
@@ -349,7 +349,7 @@
   },
   {
     "inventory_id": "INV-0030",
-    "part_id": "BG-METER-030",
+    "part_id": "UT-METER-030",
     "warehouse_id": "W-LON",
     "depot_id": "D-NTH",
     "available_qty": 807,
@@ -361,7 +361,7 @@
   },
   {
     "inventory_id": "INV-0031",
-    "part_id": "BG-METER-031",
+    "part_id": "UT-METER-031",
     "warehouse_id": "W-GLA",
     "depot_id": "D-MID",
     "available_qty": 714,
@@ -373,7 +373,7 @@
   },
   {
     "inventory_id": "INV-0032",
-    "part_id": "BG-BOILE-032",
+    "part_id": "UT-BOILE-032",
     "warehouse_id": "W-LON",
     "depot_id": "D-STH",
     "available_qty": 1708,
@@ -385,7 +385,7 @@
   },
   {
     "inventory_id": "INV-0033",
-    "part_id": "BG-VALVE-033",
+    "part_id": "UT-VALVE-033",
     "warehouse_id": "W-COV",
     "depot_id": "D-MID",
     "available_qty": 83,
@@ -397,7 +397,7 @@
   },
   {
     "inventory_id": "INV-0034",
-    "part_id": "BG-BOILE-034",
+    "part_id": "UT-BOILE-034",
     "warehouse_id": "W-GLA",
     "depot_id": "D-LON",
     "available_qty": 1677,
@@ -409,7 +409,7 @@
   },
   {
     "inventory_id": "INV-0035",
-    "part_id": "BG-EV-035",
+    "part_id": "UT-EV-035",
     "warehouse_id": "W-GLA",
     "depot_id": "D-NTH",
     "available_qty": 1773,
@@ -421,7 +421,7 @@
   },
   {
     "inventory_id": "INV-0036",
-    "part_id": "BG-BOILE-036",
+    "part_id": "UT-BOILE-036",
     "warehouse_id": "W-GLA",
     "depot_id": "D-MID",
     "available_qty": 1530,
@@ -433,7 +433,7 @@
   },
   {
     "inventory_id": "INV-0037",
-    "part_id": "BG-PUMP-037",
+    "part_id": "UT-PUMP-037",
     "warehouse_id": "W-COV",
     "depot_id": "D-SCO",
     "available_qty": 1648,
@@ -445,7 +445,7 @@
   },
   {
     "inventory_id": "INV-0038",
-    "part_id": "BG-SENSO-038",
+    "part_id": "UT-SENSO-038",
     "warehouse_id": "W-GLA",
     "depot_id": "D-STH",
     "available_qty": 665,
@@ -457,7 +457,7 @@
   },
   {
     "inventory_id": "INV-0039",
-    "part_id": "BG-METER-039",
+    "part_id": "UT-METER-039",
     "warehouse_id": "W-GLA",
     "depot_id": "D-SCO",
     "available_qty": 349,
@@ -469,7 +469,7 @@
   },
   {
     "inventory_id": "INV-0040",
-    "part_id": "BG-BOILE-040",
+    "part_id": "UT-BOILE-040",
     "warehouse_id": "W-COV",
     "depot_id": "D-LON",
     "available_qty": 1267,
@@ -481,7 +481,7 @@
   },
   {
     "inventory_id": "INV-0041",
-    "part_id": "BG-PIPEW-041",
+    "part_id": "UT-PIPEW-041",
     "warehouse_id": "W-COV",
     "depot_id": "D-MID",
     "available_qty": 71,
@@ -493,7 +493,7 @@
   },
   {
     "inventory_id": "INV-0042",
-    "part_id": "BG-BOILE-042",
+    "part_id": "UT-BOILE-042",
     "warehouse_id": "W-MAN",
     "depot_id": "D-STH",
     "available_qty": 749,
@@ -505,7 +505,7 @@
   },
   {
     "inventory_id": "INV-0043",
-    "part_id": "BG-PUMP-043",
+    "part_id": "UT-PUMP-043",
     "warehouse_id": "W-GLA",
     "depot_id": "D-SCO",
     "available_qty": 1183,
@@ -517,7 +517,7 @@
   },
   {
     "inventory_id": "INV-0044",
-    "part_id": "BG-METER-044",
+    "part_id": "UT-METER-044",
     "warehouse_id": "W-LON",
     "depot_id": "D-WAL",
     "available_qty": 61,
@@ -529,7 +529,7 @@
   },
   {
     "inventory_id": "INV-0045",
-    "part_id": "BG-PUMP-045",
+    "part_id": "UT-PUMP-045",
     "warehouse_id": "W-GLA",
     "depot_id": "D-STH",
     "available_qty": 1449,
@@ -541,7 +541,7 @@
   },
   {
     "inventory_id": "INV-0046",
-    "part_id": "BG-PUMP-046",
+    "part_id": "UT-PUMP-046",
     "warehouse_id": "W-COV",
     "depot_id": "D-STH",
     "available_qty": 933,
@@ -553,7 +553,7 @@
   },
   {
     "inventory_id": "INV-0047",
-    "part_id": "BG-EV-047",
+    "part_id": "UT-EV-047",
     "warehouse_id": "W-GLA",
     "depot_id": "D-MID",
     "available_qty": 1134,
@@ -565,7 +565,7 @@
   },
   {
     "inventory_id": "INV-0048",
-    "part_id": "BG-PIPEW-048",
+    "part_id": "UT-PIPEW-048",
     "warehouse_id": "W-MAN",
     "depot_id": "D-LON",
     "available_qty": 1633,
@@ -577,7 +577,7 @@
   },
   {
     "inventory_id": "INV-0049",
-    "part_id": "BG-VALVE-049",
+    "part_id": "UT-VALVE-049",
     "warehouse_id": "W-LON",
     "depot_id": "D-WAL",
     "available_qty": 61,
@@ -589,7 +589,7 @@
   },
   {
     "inventory_id": "INV-0050",
-    "part_id": "BG-VALVE-050",
+    "part_id": "UT-VALVE-050",
     "warehouse_id": "W-LON",
     "depot_id": "D-SCO",
     "available_qty": 641,
@@ -601,7 +601,7 @@
   },
   {
     "inventory_id": "INV-0051",
-    "part_id": "BG-EV-051",
+    "part_id": "UT-EV-051",
     "warehouse_id": "W-LON",
     "depot_id": "D-STH",
     "available_qty": 1323,
@@ -613,7 +613,7 @@
   },
   {
     "inventory_id": "INV-0052",
-    "part_id": "BG-SENSO-052",
+    "part_id": "UT-SENSO-052",
     "warehouse_id": "W-COV",
     "depot_id": "D-LON",
     "available_qty": 1580,
@@ -625,7 +625,7 @@
   },
   {
     "inventory_id": "INV-0053",
-    "part_id": "BG-SENSO-053",
+    "part_id": "UT-SENSO-053",
     "warehouse_id": "W-GLA",
     "depot_id": "D-WAL",
     "available_qty": 668,
@@ -637,7 +637,7 @@
   },
   {
     "inventory_id": "INV-0054",
-    "part_id": "BG-METER-054",
+    "part_id": "UT-METER-054",
     "warehouse_id": "W-MAN",
     "depot_id": "D-STH",
     "available_qty": 1308,
@@ -649,7 +649,7 @@
   },
   {
     "inventory_id": "INV-0055",
-    "part_id": "BG-METER-055",
+    "part_id": "UT-METER-055",
     "warehouse_id": "W-MAN",
     "depot_id": "D-STH",
     "available_qty": 1220,
@@ -661,7 +661,7 @@
   },
   {
     "inventory_id": "INV-0056",
-    "part_id": "BG-SENSO-056",
+    "part_id": "UT-SENSO-056",
     "warehouse_id": "W-COV",
     "depot_id": "D-LON",
     "available_qty": 1733,
@@ -673,7 +673,7 @@
   },
   {
     "inventory_id": "INV-0057",
-    "part_id": "BG-BOILE-057",
+    "part_id": "UT-BOILE-057",
     "warehouse_id": "W-COV",
     "depot_id": "D-SCO",
     "available_qty": 1341,
@@ -685,7 +685,7 @@
   },
   {
     "inventory_id": "INV-0058",
-    "part_id": "BG-PIPEW-058",
+    "part_id": "UT-PIPEW-058",
     "warehouse_id": "W-GLA",
     "depot_id": "D-SCO",
     "available_qty": 997,
@@ -697,7 +697,7 @@
   },
   {
     "inventory_id": "INV-0059",
-    "part_id": "BG-BOILE-059",
+    "part_id": "UT-BOILE-059",
     "warehouse_id": "W-MAN",
     "depot_id": "D-NTH",
     "available_qty": 859,
@@ -709,7 +709,7 @@
   },
   {
     "inventory_id": "INV-0060",
-    "part_id": "BG-SENSO-060",
+    "part_id": "UT-SENSO-060",
     "warehouse_id": "W-MAN",
     "depot_id": "D-NTH",
     "available_qty": 1511,
@@ -721,7 +721,7 @@
   },
   {
     "inventory_id": "INV-0061",
-    "part_id": "BG-SENSO-061",
+    "part_id": "UT-SENSO-061",
     "warehouse_id": "W-LON",
     "depot_id": "D-MID",
     "available_qty": 963,
@@ -733,7 +733,7 @@
   },
   {
     "inventory_id": "INV-0062",
-    "part_id": "BG-VALVE-062",
+    "part_id": "UT-VALVE-062",
     "warehouse_id": "W-MAN",
     "depot_id": "D-MID",
     "available_qty": 1777,
@@ -745,7 +745,7 @@
   },
   {
     "inventory_id": "INV-0063",
-    "part_id": "BG-EV-063",
+    "part_id": "UT-EV-063",
     "warehouse_id": "W-LON",
     "depot_id": "D-WAL",
     "available_qty": 396,
@@ -757,7 +757,7 @@
   },
   {
     "inventory_id": "INV-0064",
-    "part_id": "BG-PUMP-064",
+    "part_id": "UT-PUMP-064",
     "warehouse_id": "W-LON",
     "depot_id": "D-MID",
     "available_qty": 55,
@@ -769,7 +769,7 @@
   },
   {
     "inventory_id": "INV-0065",
-    "part_id": "BG-VALVE-065",
+    "part_id": "UT-VALVE-065",
     "warehouse_id": "W-GLA",
     "depot_id": "D-WAL",
     "available_qty": 584,
@@ -781,7 +781,7 @@
   },
   {
     "inventory_id": "INV-0066",
-    "part_id": "BG-BOILE-066",
+    "part_id": "UT-BOILE-066",
     "warehouse_id": "W-LON",
     "depot_id": "D-NTH",
     "available_qty": 549,
@@ -793,7 +793,7 @@
   },
   {
     "inventory_id": "INV-0067",
-    "part_id": "BG-BOILE-067",
+    "part_id": "UT-BOILE-067",
     "warehouse_id": "W-COV",
     "depot_id": "D-SCO",
     "available_qty": 750,
@@ -805,7 +805,7 @@
   },
   {
     "inventory_id": "INV-0068",
-    "part_id": "BG-SENSO-068",
+    "part_id": "UT-SENSO-068",
     "warehouse_id": "W-MAN",
     "depot_id": "D-LON",
     "available_qty": 1698,
@@ -817,7 +817,7 @@
   },
   {
     "inventory_id": "INV-0069",
-    "part_id": "BG-PUMP-069",
+    "part_id": "UT-PUMP-069",
     "warehouse_id": "W-MAN",
     "depot_id": "D-WAL",
     "available_qty": 1150,
@@ -829,7 +829,7 @@
   },
   {
     "inventory_id": "INV-0070",
-    "part_id": "BG-SENSO-070",
+    "part_id": "UT-SENSO-070",
     "warehouse_id": "W-LON",
     "depot_id": "D-WAL",
     "available_qty": 87,
@@ -841,7 +841,7 @@
   },
   {
     "inventory_id": "INV-0071",
-    "part_id": "BG-PUMP-071",
+    "part_id": "UT-PUMP-071",
     "warehouse_id": "W-MAN",
     "depot_id": "D-SCO",
     "available_qty": 679,
@@ -853,7 +853,7 @@
   },
   {
     "inventory_id": "INV-0072",
-    "part_id": "BG-SENSO-072",
+    "part_id": "UT-SENSO-072",
     "warehouse_id": "W-GLA",
     "depot_id": "D-SCO",
     "available_qty": 1046,
@@ -865,7 +865,7 @@
   },
   {
     "inventory_id": "INV-0073",
-    "part_id": "BG-EV-073",
+    "part_id": "UT-EV-073",
     "warehouse_id": "W-COV",
     "depot_id": "D-WAL",
     "available_qty": 861,
@@ -877,7 +877,7 @@
   },
   {
     "inventory_id": "INV-0074",
-    "part_id": "BG-PUMP-074",
+    "part_id": "UT-PUMP-074",
     "warehouse_id": "W-MAN",
     "depot_id": "D-WAL",
     "available_qty": 1485,
@@ -889,7 +889,7 @@
   },
   {
     "inventory_id": "INV-0075",
-    "part_id": "BG-PIPEW-075",
+    "part_id": "UT-PIPEW-075",
     "warehouse_id": "W-COV",
     "depot_id": "D-WAL",
     "available_qty": 310,
@@ -901,7 +901,7 @@
   },
   {
     "inventory_id": "INV-0076",
-    "part_id": "BG-PIPEW-076",
+    "part_id": "UT-PIPEW-076",
     "warehouse_id": "W-LON",
     "depot_id": "D-STH",
     "available_qty": 650,
@@ -913,7 +913,7 @@
   },
   {
     "inventory_id": "INV-0077",
-    "part_id": "BG-VALVE-077",
+    "part_id": "UT-VALVE-077",
     "warehouse_id": "W-MAN",
     "depot_id": "D-WAL",
     "available_qty": 1795,
@@ -925,7 +925,7 @@
   },
   {
     "inventory_id": "INV-0078",
-    "part_id": "BG-VALVE-078",
+    "part_id": "UT-VALVE-078",
     "warehouse_id": "W-MAN",
     "depot_id": "D-SCO",
     "available_qty": 1084,
@@ -937,7 +937,7 @@
   },
   {
     "inventory_id": "INV-0079",
-    "part_id": "BG-SENSO-079",
+    "part_id": "UT-SENSO-079",
     "warehouse_id": "W-MAN",
     "depot_id": "D-NTH",
     "available_qty": 1257,
@@ -949,7 +949,7 @@
   },
   {
     "inventory_id": "INV-0080",
-    "part_id": "BG-SENSO-080",
+    "part_id": "UT-SENSO-080",
     "warehouse_id": "W-LON",
     "depot_id": "D-NTH",
     "available_qty": 1587,
@@ -961,7 +961,7 @@
   },
   {
     "inventory_id": "INV-0081",
-    "part_id": "BG-PUMP-081",
+    "part_id": "UT-PUMP-081",
     "warehouse_id": "W-LON",
     "depot_id": "D-NTH",
     "available_qty": 597,
@@ -973,7 +973,7 @@
   },
   {
     "inventory_id": "INV-0082",
-    "part_id": "BG-EV-082",
+    "part_id": "UT-EV-082",
     "warehouse_id": "W-GLA",
     "depot_id": "D-SCO",
     "available_qty": 597,
@@ -985,7 +985,7 @@
   },
   {
     "inventory_id": "INV-0083",
-    "part_id": "BG-PIPEW-083",
+    "part_id": "UT-PIPEW-083",
     "warehouse_id": "W-GLA",
     "depot_id": "D-MID",
     "available_qty": 421,
@@ -997,7 +997,7 @@
   },
   {
     "inventory_id": "INV-0084",
-    "part_id": "BG-BOILE-084",
+    "part_id": "UT-BOILE-084",
     "warehouse_id": "W-MAN",
     "depot_id": "D-STH",
     "available_qty": 504,
@@ -1009,7 +1009,7 @@
   },
   {
     "inventory_id": "INV-0085",
-    "part_id": "BG-VALVE-085",
+    "part_id": "UT-VALVE-085",
     "warehouse_id": "W-MAN",
     "depot_id": "D-LON",
     "available_qty": 1477,
@@ -1021,7 +1021,7 @@
   },
   {
     "inventory_id": "INV-0086",
-    "part_id": "BG-SENSO-086",
+    "part_id": "UT-SENSO-086",
     "warehouse_id": "W-GLA",
     "depot_id": "D-NTH",
     "available_qty": 985,
@@ -1033,7 +1033,7 @@
   },
   {
     "inventory_id": "INV-0087",
-    "part_id": "BG-METER-087",
+    "part_id": "UT-METER-087",
     "warehouse_id": "W-COV",
     "depot_id": "D-MID",
     "available_qty": 1343,
@@ -1045,7 +1045,7 @@
   },
   {
     "inventory_id": "INV-0088",
-    "part_id": "BG-PUMP-088",
+    "part_id": "UT-PUMP-088",
     "warehouse_id": "W-MAN",
     "depot_id": "D-STH",
     "available_qty": 1720,
@@ -1057,7 +1057,7 @@
   },
   {
     "inventory_id": "INV-0089",
-    "part_id": "BG-EV-089",
+    "part_id": "UT-EV-089",
     "warehouse_id": "W-GLA",
     "depot_id": "D-NTH",
     "available_qty": 619,
@@ -1069,7 +1069,7 @@
   },
   {
     "inventory_id": "INV-0090",
-    "part_id": "BG-PUMP-090",
+    "part_id": "UT-PUMP-090",
     "warehouse_id": "W-GLA",
     "depot_id": "D-MID",
     "available_qty": 282,
